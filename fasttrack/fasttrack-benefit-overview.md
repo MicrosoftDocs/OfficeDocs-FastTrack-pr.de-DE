@@ -3,7 +3,7 @@ title: Übersicht über den FastTrack Center-Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Mit dem FastTrack Center-Vorteil für Office 365 arbeiten Sie remote mit FastTrack-Experten zusammen, um Ihre Office 365-Umgebung betriebsbereit zu machen sowie die Bereitstellung und Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung für dieses Angebot finden Sie unter „FastTrack Center-Vorteil für Office 365“.
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498842"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449089"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
 
@@ -28,7 +28,7 @@ Es werden folgende Themen behandelt:
   
 - [Der FastTrack-Prozess](fasttrack-process.md)
     
-- [Anforderungen an die Quellumgebung](environment-expectations.md)
+- [Anforderungen an die Quellumgebung](source-environment-expectations.md)
     
 - [Phasen im Onboarding- und Migrationsprozess](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ Wenn das Onboarding abgeschlossen ist, wird Ihr Office 365-Mandant erstellt. Liz
     
   - Eine einzelne Active Directory-Gesamtstrukturumgebung.
     
-  - Unterstützte Active Directory-Topologie mit mehreren Gesamtstrukturen. Unterstützte Topologien finden Sie unter [Anforderungen an die Quellumgebung](environment-expectations.md).
+  - Unterstützte Active Directory-Topologie mit mehreren Gesamtstrukturen. Unterstützte Topologien finden Sie unter [Anforderungen an die Quellumgebung](source-environment-expectations.md).
     
 - Verbundidentitäten mit Office 365-Konten, für die Folgendes zutrifft:
     
