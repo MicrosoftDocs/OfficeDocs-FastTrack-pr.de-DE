@@ -3,7 +3,7 @@ title: Ihre Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499102"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449088"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
-Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
+Zu Ihren Zuständigkeiten während des Onboardings zählen die nachfolgend aufgeführten.\*
   
 ## <a name="general"></a>Allgemein
 
@@ -91,7 +91,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
     
 - Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen
     
-- Vermitteln von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Yammer Enterprise) und Unternehmenszielen
+- Zusammenstellen von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Microsoft Teams und Office 365 ProPlus) und Unternehmenszielen
     
 ## <a name="assess-phase"></a>Analysephase
 
@@ -163,6 +163,6 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
     
 - Aktualisieren Ihres Apple Push Notification Service (APNS)-Zertifikats
     
-
+\*Informationen zu Ihren Zuständigkeiten für Office 365 US Government finden Sie unter [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 

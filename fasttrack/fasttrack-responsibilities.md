@@ -3,7 +3,7 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498942"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449094"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
-Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:
+Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die nachfolgend aufgeführten.\*
   
 ## <a name="general"></a>Allgemein
 
@@ -176,7 +176,7 @@ Bereitstellen von Anleitungen zu:
     
 - Konfigurieren von SharePoint Online-Features. 
     
-- Stellen Sie die Migration von Daten bereit, wenn der FastTrack Center-Datenmigrationsdienst verwendet wird und wenn Sie berechtigt sind.
+- Durchführen der Datenmigration, falls der FastTrack Center-Datenmigrationsdienst verwendet wird und die Berechtigungskriterien erfüllt sind
     
 - Auswerten der lokalen SharePoint-Farminfrastrukturkonfiguration, die für SharePoint Online-Hybridlösung erforderlich ist. 
     
@@ -348,5 +348,5 @@ Bereitstellen von Anleitungen zu:
     
 - Downloadpfade für Microsoft StaffHub.
     
-
+\*Informationen zu den FastTrack-Zuständigkeiten für Office 365 US Government finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 
