@@ -3,7 +3,7 @@ title: Anhang A Migration aus IBM Domino zu Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 7519ee6f-67e6-4064-b1b2-a26f35cdba0b
 description: 'Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte, einschließlich der Schritte in den folgenden Phasen:'
-ms.openlocfilehash: 1e2153627f7a52ed774c33c7d8aaa9a577f2b21d
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 7caed9b6626d6c157b9d19aa33424551901271bb
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22449093"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827983"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Anhang A: Migration aus IBM Domino zu Exchange Online
 
