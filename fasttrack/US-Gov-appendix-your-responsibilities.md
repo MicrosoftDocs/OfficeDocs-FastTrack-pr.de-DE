@@ -3,7 +3,7 @@ title: Aufgaben für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: c0ff252f3aeafcd866d8c506eb08f45c836b8025
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 6f9ec7c77829de607ec4b9bd019667dd2b7e7ef0
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329944"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827973"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US-Regierung
 
@@ -95,7 +95,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
     
 - Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen
     
-- Geben Sie Ihre Ziele für Office 365-Dienste (beispielsweise SharePoint Online, Exchange Online, Microsoft-Teams und Office 365 ProPlus) und Unternehmensziele.
+- Zusammenstellen von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Microsoft Teams und Office 365 ProPlus) und Unternehmenszielen
     
 ## <a name="assess-phase"></a>Analysephase
 
