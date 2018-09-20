@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: 038396af2b2eecc85bb48c61bb4ab8320324268a
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 98449dcc6576576996424d8a6160d6891a87d83c
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828073"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021687"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
@@ -30,13 +30,9 @@ Haupt-Onboarding-Add-Ons umfassen Unterstützung bei der Konfiguration für geor
 ## <a name="exchange-online"></a>Exchange Online
 
 Für Exchange Online bieten wir Unterstützung bei der Konfiguration für die folgenden Schritte:
-  
 - Einrichten von Unified Messaging (UM) mit Exchange Online.
-    
 - Konfigurieren der Koexistenz von Exchange Online und älteren lokalen öffentlichen Ordnern.
-    
 - E-Mail-fähige Anwendungsintegration. 
-    
 - Planen und Gruppieren der Postfachmigration.
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -46,13 +42,9 @@ Für Skype for Business Online bieten wir eine Anleitung für lokale Lync- und S
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Für Office 365 ProPlus bieten wir Unterstützung in den folgenden Bereichen: 
-  
-- Bewertung und Planung mit Fokus auf der Vorbereitung der Umgebung auf die Erstbereitstellung und die Aktualisierungsverwaltung gemäß den Best Practices von Microsoft
-    
-- Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office-Bereitstellungstools
-    
-- Bereitstellungspaketierung mithilfe von System Center Configuration Manager
-    
+- Bewertung und Planung mit Fokus auf der Vorbereitung der Umgebung auf die Erstbereitstellung und die Aktualisierungsverwaltung gemäß den Best Practices von Microsoft 
+- Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office-Bereitstellungstools 
+- Bereitstellungspaketierung mithilfe von System Center Configuration Manager  
 - Bereitstellung und Konfiguration der Office-Telemetrie als Anleitung zum Überprüfen der Verwendung geschäftskritischer Office-Dokumente und -Lösungen auf Anwendungskompatibilität
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
@@ -65,10 +57,8 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
     
 ## <a name="assess-phase"></a>Analysephase
 
-- Abhalten eines Anrufs zur Erfolgsplanung, um Ihnen eine Anleitung für die erfolgreiche Akzeptanz durch die Benutzer an die Hand zu geben.
-    
-- Analyse der Umgebung zur Unterstützung der Konfiguration von georedundanten AD FS
-    
+- Abhalten eines Anrufs zur Erfolgsplanung, um Ihnen eine Anleitung für die erfolgreiche Akzeptanz durch die Benutzer an die Hand zu geben. 
+- Analyse der Umgebung zur Unterstützung der Konfiguration von georedundanten AD FS  
 - Ausführen einer Analyse zum Ermitteln der Anforderungen für AD FS-Clientzugriff
     
 ## <a name="enable-phase"></a>Aktivierungsphase
@@ -76,19 +66,12 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 ### <a name="geo-redundant-ad-fs-guidance"></a>Unterstützung bei georedundantem AD FS
 
 - Bereitstellung eines standardmäßigen Referenzarchitekturentwurfs für eine georedundante AD FS-Topologie über zwei (2) Rechenzentren. Die Standardarchitektur bietet Folgendes:
-    
-  - Verbundauthentifizierung für Dienste, die im FastTrack Center-Vorteil enthalten sind
-    
-  - Ausfallsicherheit eines einzelnen Standorts
-    
-  - Hochverfügbarkeit und Failover
-    
-  - Größenanpassung
-    
-- Unterstützung bei der Verwendung der integrierten Windows-Datenbank und von SQL Server als Datenbankinstanz für die AD FS-Farm
-    
-- Überprüfen der Einrichtung von Verbundauthentifizierung für jede im Bereich enthaltene Gesamtstruktur
-    
+  - Verbundauthentifizierung für Dienste, die im FastTrack Center-Vorteil enthalten sind 
+  - Ausfallsicherheit eines einzelnen Standorts  
+  - Hochverfügbarkeit und Failover  
+  - Größenanpassung 
+- Unterstützung bei der Verwendung der integrierten Windows-Datenbank und von SQL Server als Datenbankinstanz für die AD FS-Farm   
+- Überprüfen der Einrichtung von Verbundauthentifizierung für jede im Bereich enthaltene Gesamtstruktur  
 - Überprüfen der Authentifizierungsfunktion für bis zu 10 Benutzer
     
 > [!NOTE]
@@ -96,75 +79,50 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
   
 ### <a name="ad-fs-client-access-policy-guidance"></a>Unterstützung bei der AD FS-Clientzugriffsrichtlinie
 
-- Überprüfen der Richtlinien und der Konfiguration, die für sichere Office 365-Ressourcen erforderlich sind
-    
-- Unterstützung bei der Konfiguration von AD FS-Clientzugriffsrichtlinien für ermittelte Clientzugriffszenarien innerhalb der unterstützten Szenarien Weitere Informationen finden Sie unter [Einschränken des Zugriffs auf Office 365-Dienste basierend auf dem Speicherort des Clients](https://go.microsoft.com/fwlink/?LinkID=525689).
-    
+- Überprüfen der Richtlinien und der Konfiguration, die für sichere Office 365-Ressourcen erforderlich sind  
+- Unterstützung bei der Konfiguration von AD FS-Clientzugriffsrichtlinien für ermittelte Clientzugriffszenarien innerhalb der unterstützten Szenarien Weitere Informationen finden Sie unter [Einschränken des Zugriffs auf Office 365-Dienste basierend auf dem Speicherort des Clients](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - Überprüfung der Verbundauthentifizierungsfunktion mit geänderten Clientzugriffsrichtlinien für ermittelte Zugriffsszenarien mit einer Konfiguration von bis zu 10 Benutzern
     
 ## <a name="exchange-online"></a>Exchange Online
 
 ### <a name="exchange-unified-messaging-guidance"></a>Unterstützung bei Exchange Unified Messaging
 
-- Unterstützung bei der erforderlichen Konfiguration von Exchange Online für die Verwendung von bis zu 10:
-    
-  - UM-Wählplänen
-    
-  - UM-Postfachrichtlinien
-    
-  - Automatischen Telefonzentralen
-    
-- Unterstützung bei der Konfiguration der lokalen Lync- oder der Skype for Business-Umgebung zum Aktivieren von UM, insbesondere für:
-    
-  - Von Exchange Online gehostete Richtlinien
-    
-  - Von Exchange Online gehostete Voicemailrichtlinien
-    
-  - Automatische UM-Telefonzentralenkontakte und Outlook-Voicemail, damit Benutzer zu Exchange Online umgeleitet werden.
-    
+- Unterstützung bei der erforderlichen Konfiguration von Exchange Online für die Verwendung von bis zu 10: 
+  - UM-Wählplänen   
+  - UM-Postfachrichtlinien 
+  - Automatischen Telefonzentralen  
+- Unterstützung bei der Konfiguration der lokalen Lync- oder der Skype for Business-Umgebung zum Aktivieren von UM, insbesondere für:  
+  - Von Exchange Online gehostete Richtlinien  
+  - Von Exchange Online gehostete Voicemailrichtlinien 
+  - Automatische UM-Telefonzentralenkontakte und Outlook-Voicemail, damit Benutzer zu Exchange Online umgeleitet werden. 
   - Unterstützung bei der Erstellung von für den Verbund benötigten SRV-Einträgen
-    
 > [!NOTE]
 > UM kann mit unterstützten UM-IP-Gateways und Sitzungsrahmencontrollern (Session Border Controllers, SBCs) konfiguriert werden. Weitere Informationen finden Sie unter [Telefonsystemintegration mit UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>Unterstützung bei Koexistenz öffentlicher Ordner
 
-- Unterstützung bei der Koexistenz einer einzelnen öffentlichen Ordnerstruktur, einschließlich:
-    
-  - Vorbereitung der öffentlichen Ordner in Exchange 2007, Exchange 2010 und Exchange 2013.
-    
-  - Windows PowerShell-Cmdlets, die für die Synchronisierung der Hierarchie öffentlicher Exchange 2007-, Exchange 2010- und Exchange 2013-Ordner mit Exchange Online erforderlich sind.
-    
-  - Konfiguration von Exchange Online, damit der Zugriff auf öffentliche Ordner zu lokalen öffentlichen Ordnern umgeleitet wird.
-    
-  - Konfiguration des Zugriffs auf öffentliche Ordner aus Exchange Online für eine einzelne Exchange 2007-, Exchange 2010- oder die lokale Exchange 2013-Umgebung.
-    
+- Unterstützung bei der Koexistenz einer einzelnen öffentlichen Ordnerstruktur, einschließlich:  
+  - Vorbereitung der öffentlichen Ordner in Exchange 2007, Exchange 2010 und Exchange 2013. 
+  - Windows PowerShell-Cmdlets, die für die Synchronisierung der Hierarchie öffentlicher Exchange 2007-, Exchange 2010- und Exchange 2013-Ordner mit Exchange Online erforderlich sind.  
+  - Konfiguration von Exchange Online, damit der Zugriff auf öffentliche Ordner zu lokalen öffentlichen Ordnern umgeleitet wird.  
+  - Konfiguration des Zugriffs auf öffentliche Ordner aus Exchange Online für eine einzelne Exchange 2007-, Exchange 2010- oder die lokale Exchange 2013-Umgebung.  
   - Unterstützung bei der Überprüfung des Zugriffs auf die öffentliche Ordnerumgebung für bis zu 10 Benutzer in Exchange Online
     
 ### <a name="mail-enabled-application-integration-guidance"></a>Leitfaden zur Integration E-Mail-fähiger Anwendungen
 
-- Bereitstellen von Vorlagen für: 
-    
-  - Anwendungen zum Versenden von Massen-E-Mails
-    
-  - Programme, die E-Mails über Exchange umleiten 
-    
-  - Anwendungen, die Exchange-Postfächer verwenden 
-    
+- Bereitstellen von Vorlagen für:  
+  - Anwendungen zum Versenden von Massen-E-Mails  
+  - Programme, die E-Mails über Exchange umleiten  
+  - Anwendungen, die Exchange-Postfächer verwenden  
   - Programme, für die Drittanbieter- oder benutzerdefinierte Komponenten auf Exchange-Servern installiert werden müssen
     
 ### <a name="mailbox-migration-planning-and-grouping"></a>Planen und Gruppieren der Postfachmigration
 
-- Unterstützung bei der Erstellung eines Migrationsplans, einschließlich:
-    
+- Unterstützung bei der Erstellung eines Migrationsplans, einschließlich:  
   - Gruppieren von Benutzern und Ressourcen in Batches
-    
-  - Koordinieren der Bereitstellung der erforderlichen Softwarepakete und der Migrationsbatches 
-    
-  - Unterstützung beim Erstellen eines Kommunikationsplans für Endbenutzer
-    
+  - Koordinieren der Bereitstellung der erforderlichen Softwarepakete und der Migrationsbatches   
+  - Unterstützung beim Erstellen eines Kommunikationsplans für Endbenutzer 
   - Koordinieren der Größe von Migrationsbatches, Fehlerquoten und erwarteten Helpdesk-Unterstützung 
-    
 - Unterstützung beim Gruppieren von Benutzer- und Ressourcenpostfächern in Batches nach Typ, Geschäftsfunktion und Stellvertretungszugriff basierend auf relevanten, vom Kunden angegebenen Informationen
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -173,18 +131,12 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
     
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
-- Bereitstellen von Hilfestellung und Unterstützung für:
-    
+- Bereitstellen von Hilfestellung und Unterstützung für:  
   - Bewertung und Planung der Erstbereitstellung und Aktualisierungsverwaltung gemäß den Best Practices von Microsoft
-    
-  -  Bereitstellen und Konfigurieren der Office-Telemetrie 
-    
-  - Aktivieren der Telemetrieprotokollierung Office 2013-Clients und höher mithilfe von Gruppenrichtlinien
-    
-  - Bereitstellen des Office-Telemetrie-Agents für frühere Office-Clients (Office 2003, Office 2007 und Office 2010).
-    
+  - Bereitstellen und Konfigurieren der Office-Telemetrie 
+  - Aktivieren der Telemetrieprotokollierung Office 2013-Clients und höher mithilfe von Gruppenrichtlinien 
+  - Bereitstellen des Office-Telemetrie-Agents für frühere Office-Clients (Office 2003, Office 2007 und Office 2010). 
   - Bereitstellen des Telemetrieprozessors 
-    
     > [!NOTE]
     > Hierfür ist ein Dateifreigabeort zum Speichern der Telemetriedaten und ein Server erforderlich, auf dem SQL Server 2005 und höher ausgeführt wird, an den verarbeitete Daten übermittelt werden. 
   
@@ -192,16 +144,11 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 
 Zu Ihren Zuständigkeiten während des Onboardings zählen die nachfolgend genannten. Diese gelten zusätzlich zu den Abschnitt [Ihre Zuständigkeiten](your-responsibilities.md) definierten Aufgaben. 
   
-- Zuweisen und Verwalten von Ressourcen gemäß dem Projektplan
-    
-- Rechtzeitige Einleitung entsprechender Maßnahmen zum Verringern von Sicherheitsrisiken und Beheben der Probleme von Kunden, Partnerprojektmanagern und dem FastTrack Manager
-    
-- Prüfen der Statusberichte und Einleiten entsprechender Maßnahmen
-    
-- Bestimmen eines Operational Sponsors oder Leiters mit Entscheidungsbefugnis für die Leitung des Projektausschusses
-    
-- Bestimmen eines Executive Sponsors für die Zusammenarbeit mit dem Executive Sponsor von Microsoft
-    
+- Zuweisen und Verwalten von Ressourcen gemäß dem Projektplan  
+- Rechtzeitige Einleitung entsprechender Maßnahmen zum Verringern von Sicherheitsrisiken und Beheben der Probleme von Kunden, Partnerprojektmanagern und dem FastTrack Manager   
+- Prüfen der Statusberichte und Einleiten entsprechender Maßnahmen   
+- Bestimmen eines Operational Sponsors oder Leiters mit Entscheidungsbefugnis für die Leitung des Projektausschusses  
+- Bestimmen eines Executive Sponsors für die Zusammenarbeit mit dem Executive Sponsor von Microsoft  
 - Abhalten einer monatlichen Projektbesprechung
     
 

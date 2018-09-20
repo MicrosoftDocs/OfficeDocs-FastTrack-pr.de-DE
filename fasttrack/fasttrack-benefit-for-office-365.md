@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Verwenden Sie FastTrack Center-Leistungsangebot für Office 365, wenn Siemindestens 50 Lizenzen für einen berechtigten Dienst oder Plan für Ihren Office 365-Mandanten erwerben. Arbeiten Sie anschließend mit FastTrack-Experten zusammen, um die Analyse, Problembehebung, Aktivierung und Nutzungssteigerung für diese Dienste durchzuführen. Diese Experten stellen auch Anleitungen zu Migration bereit.
-ms.openlocfilehash: fbaea58fa42c1a7c112f3fc51075df8d1ecf7573
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 443e15fe77b46b4933d88607aa67bec489602e13
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828053"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021667"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>FastTrack Center-Leistungsangebot für Office 365
 
@@ -35,8 +35,7 @@ Informationen zum FastTrack Center-Prozess und den jeweiligen Zuständigkeiten f
   
 Benötigen Sie weitere Informationen zum [FastTrack Center-Vorteil für Enterprise Mobility und Security](https://go.microsoft.com/fwlink/?linkid=2005312)? Darin ist Folgendes enthalten:
   
-- Microsoft Intune
-    
+- Microsoft Intune    
 - Azure Active Directory Premium 
     
 > [!NOTE]
