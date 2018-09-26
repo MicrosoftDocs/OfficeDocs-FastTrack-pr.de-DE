@@ -11,25 +11,20 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 7519ee6f-67e6-4064-b1b2-a26f35cdba0b
 description: 'Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte, einschließlich der Schritte in den folgenden Phasen:'
-ms.openlocfilehash: 7caed9b6626d6c157b9d19aa33424551901271bb
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 9a6c935928dd0d6c246b79c2341f5f4bb5ff5c9f
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23827983"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021627"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Anhang A: Migration aus IBM Domino zu Exchange Online
 
-Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte, einschließlich der Schritte in den folgenden Phasen:
-  
-- [Einleitungsphase](#initiate-phase)
-    
+Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte, einschließlich der Schritte in den folgenden Phasen: 
+- [Einleitungsphase](#initiate-phase)   
 - [Analysephase](#assess-phase)
-    
-- [Korrekturphase](#remediate-phase)
-    
-- [Aktivierungsphase](#enable-phase)
-    
+- [Korrekturphase](#remediate-phase)  
+- [Aktivierungsphase](#enable-phase)  
 - [Migrationsphase](#migrate-phase)
     
 ## <a name="identities"></a>Identitäten
@@ -51,45 +46,33 @@ Der FastTrack Center-Standardprozess für die Migration aus Domino zu Exchange O
 
  **Wichtige Aktionen**
   
-- Identifizieren von Domino als Quell-E-Mail-Plattform
-    
+- Identifizieren von Domino als Quell-E-Mail-Plattform   
 - Bestimmen, ob FastTrack Center die Migration durchführt.
     
  **Verantwortlichkeiten des Kunden**
   
-- Bereitstellen grundlegender Informationen über die Quellmessagingplattform und Bestätigen der Migrationsabsicht über das FastTrack Center
-    
-- Befolgen von exemplarischen Vorgehensweisen der FastTrack Center-Leistungsangebotsprozesse
-    
+- Bereitstellen grundlegender Informationen über die Quellmessagingplattform und Bestätigen der Migrationsabsicht über das FastTrack Center 
+- Befolgen von exemplarischen Vorgehensweisen der FastTrack Center-Leistungsangebotsprozesse  
 - Unterzeichnen des FastTrack-Leistungsvertrags
     
 ## <a name="assess-phase"></a>Analysephase
 
  **Wichtige Aktionen**
   
-- Das FastTrack Center führt einen Workshop zur Migration mit dem Kunden durch.
-    
-- Sie schließen die erforderlichen Migrationsschritte ab, z. B. Migrationsfragebogen und Bereitstellen von Admin-Arbeitsstationen.
-    
+- Das FastTrack Center führt einen Workshop zur Migration mit dem Kunden durch. 
+- Sie schließen die erforderlichen Migrationsschritte ab, z. B. Migrationsfragebogen und Bereitstellen von Admin-Arbeitsstationen.    
 - Die Migrationsanalyse für Domino erfolgt in Ihrer lokalen Umgebung.
     
  **Verantwortlichkeiten des Kunden**
   
 - Bereitstellen von Admin-Arbeitsstationen, die das FastTrack Center zum Verwalten der Onboarding- und Migrationsschritte wie Analysieren, Erstellen von Replikaten, Überwachen, Weiterleiten von Einstellungen während der Migration usw. verwendet.
-    
     > [!NOTE]
     > Die Analyse ist für die erfolgreiche Planung und schnelle Durchführung der Migration entscheidend. Sie wird von einem Migrationsarchitekten durchgeführt, der speziellen Zugriff auf die Domino-Umgebung benötigt. Erforderliche Admin-Arbeitsstationskomponenten umfassen einen für den Zugriff auf alle Domino-E-Mail-Quellserver und auf den Azure-Domino-Replikat-Staging-Server konfigurierten Notes-Client. 
-  
-- Bereitstellen des Remotezugriffs auf die Admin-Arbeitsstationen, Konten und Berechtigungen für die Durchführung von Analyse- und Migrationsaktivitäten für das Migrationsteam. Dies umfasst die Bereitstellung mehrerer lokaler Konten und Administatorberechtigungen in Exchange Online für die Migration.
-    
-- Öffnen von Firewallports Ausgehende Ports müssen zwischen den Domino-E-Mail-Quellservern und dem Azure-Staging-Server geöffnet werden. Andere Ports für die Kommunikation (z. B. Admin-Arbeitsstationen,Domino-Quellserver und lokale Exchange-Server (sofern vorhanden)) müssen auch geöffnet sein.
-    
-- Aktivieren der übergreifenden Zertifizierung zwischen der Domino-Quellumgebung und dem Azure Domino-Staging-Server zur Erleichterung der Replikation. Übergreifende Zertifizierungsaufgaben vom Domino-Administrator des Kunden und dem FastTrack Center koordiniert.
-    
-- Ausfüllen des Migrationsfragebogens, in dem die für die Konfiguration der Migrationsumgebung in Azure erforderlichen Informationen gesammelt werden (z. B. Tools, Skripts und Migrationsserver).
-    
-- Sicherstellen, dass auf Zielpostfächern in Office 365 das MAPI-Protokoll (Messaging Application Program Interface) aktiviert ist.
-    
+- Bereitstellen des Remotezugriffs auf die Admin-Arbeitsstationen, Konten und Berechtigungen für die Durchführung von Analyse- und Migrationsaktivitäten für das Migrationsteam. Dies umfasst die Bereitstellung mehrerer lokaler Konten und Administatorberechtigungen in Exchange Online für die Migration.    
+- Öffnen von Firewallports Ausgehende Ports müssen zwischen den Domino-E-Mail-Quellservern und dem Azure-Staging-Server geöffnet werden. Andere Ports für die Kommunikation (z. B. Admin-Arbeitsstationen,Domino-Quellserver und lokale Exchange-Server (sofern vorhanden)) müssen auch geöffnet sein. 
+- Aktivieren der übergreifenden Zertifizierung zwischen der Domino-Quellumgebung und dem Azure Domino-Staging-Server zur Erleichterung der Replikation. Übergreifende Zertifizierungsaufgaben vom Domino-Administrator des Kunden und dem FastTrack Center koordiniert.  
+- Ausfüllen des Migrationsfragebogens, in dem die für die Konfiguration der Migrationsumgebung in Azure erforderlichen Informationen gesammelt werden (z. B. Tools, Skripts und Migrationsserver).   
+- Sicherstellen, dass auf Zielpostfächern in Office 365 das MAPI-Protokoll (Messaging Application Program Interface) aktiviert ist.  
 > [!NOTE]
 > Einige Office 365-Pläne unterstützen das MAPI-Protokoll nicht. Zum Migrieren von Daten müssen Postfächer aus diesen Plänen in einen Plan konvertiert werden, die MAPI vor dem Migrationsereignis unterstützt. Nach der Migration können diese Pläne wieder zurückgeändert werden. 
   
@@ -97,23 +80,17 @@ Der FastTrack Center-Standardprozess für die Migration aus Domino zu Exchange O
 
  **Wichtige Aktionen**
   
-- FastTrack Center prüft den Migrationsanalysebericht und Ihre detaillierten Angaben im Fragebogen.
-    
+- FastTrack Center prüft den Migrationsanalysebericht und Ihre detaillierten Angaben im Fragebogen.   
 - Die vom FastTrack Center vorgeschlagenen Korrekturen müssen von Ihnen durchgeführt werden.
     
  **Verantwortlichkeiten des Kunden**
   
-- Korrigieren der Domino-Umgebung auf Grundlage der Vorgaben des FastTrack Centers (z. B. Festlegen der erforderlichen Berechtigungen, die in den E-Mail-Dateien fehlen).
-    
+- Korrigieren der Domino-Umgebung auf Grundlage der Vorgaben des FastTrack Centers (z. B. Festlegen der erforderlichen Berechtigungen, die in den E-Mail-Dateien fehlen).  
 - Sicherstellen, dass Größe der Domino-Postfächer unter der maximalen für die Migration zulässigen Größe liegt.
-    
     > [!NOTE]
     >  Obwohl FastTrack Postfächer mit bis zu 85 % der maximal zulässigen Zielgröße migriert, birgt die Migration von Postfächern, die größer als 2 GB sind, weitere Risiken, u. a.:    <br/> Verlängerte Migrationsdauer    <br/> Verwenden von Ressourcen, die andernfalls für die Migration anderer Postfächer verwendet werden.    <br/> Deutlich höhere Fehlerraten 
-  
-- Vorbereiten der E-Mail-Eingangsdatenbanken und ihrer Zugriffssteuerungslisten (Access Control Lists, ACLs) für die Migration. Sie müssen einige Korrekturaktivitäten abschließen, um E-Mail-Eingangsdatenbanken und die zugehörigen Berechtigungen zu einem freigegebenen Postfach in Exchange Online erfolgreich zu migrieren. Einige diese Schritte lauten wie folgt:
-    
+- Vorbereiten der E-Mail-Eingangsdatenbanken und ihrer Zugriffssteuerungslisten (Access Control Lists, ACLs) für die Migration. Sie müssen einige Korrekturaktivitäten abschließen, um E-Mail-Eingangsdatenbanken und die zugehörigen Berechtigungen zu einem freigegebenen Postfach in Exchange Online erfolgreich zu migrieren. Einige diese Schritte lauten wie folgt: 
   - Entfernen vorhandener E-Mail-Eingangsdatenbankeinträge aus dem Domino-Verzeichnis und Erstellen neuer Personendatensätze.
-    
   - Erstellen E-Mail-aktivierter universeller Sicherheitsgruppen in der lokalen Active Directory-Bereitstellung, die mit Office 365 Azure AD synchronisiert und zum Konfigurieren von Berechtigungen im freigegebenen Postfach in Exchange Online verwendet werden. So werden die in der E-Mail-Eingangsdatenbank festgelegten Berechtigungen an das freigegebene Postfach in Exchange Online übergeben.
     
 > [!NOTE]
@@ -123,50 +100,40 @@ Der FastTrack Center-Standardprozess für die Migration aus Domino zu Exchange O
 
  **Wichtige Aktionen**
   
-- FastTrack Center richtet die Migrationsumgebung in Azure ein.
-    
-- FastTrack Center konfiguriert die Migrationstools in den lokalen Admin-Arbeitsstationen.
-    
-- FastTrack Center konfiguriert das Tool für den automatischen Import und veranschaulicht die Verwendung von diesem.
-    
-- FastTrack Center führt die Überprüfung aller Migrationskomponenten und Migrationstests durch.
+- FastTrack Center: 
+    - Richtet die Migrationsumgebung in Azure ein.  
+    - Konfiguriert die Migrationstools in den lokalen Admin-Arbeitsstationen. 
+    - Konfiguriert das Tool für den automatischen Import und veranschaulicht die Verwendung von diesem.  
+    - Führt die Überprüfung aller Migrationskomponenten und Migrationstests durch.
     
  **Verantwortlichkeiten des Kunden**
   
-- Ihre für die Planung der Postfachmigration zuständigen Mitarbeiter müssen verstehen, wie das Tool für den automatischen Import zu verwenden ist. Sie verwenden dieses Tool für den Import des Migrationszeitplans in die Planungsdatenbank, die das FastTrack Center zum Durchführen von Aktivitäten vor der eigentlichen Migration verwendet.
-    
+- Ihre für die Planung der Postfachmigration zuständigen Mitarbeiter müssen verstehen, wie das Tool für den automatischen Import zu verwenden ist. Sie verwenden dieses Tool für den Import des Migrationszeitplans in die Planungsdatenbank, die das FastTrack Center zum Durchführen von Aktivitäten vor der eigentlichen Migration verwendet. 
 - Durchführen von Aktivitäten vor der eigentlichen Migration, z. B. Importieren von Benutzerzeitplänen, Analysieren von Überwachungsberichten, Beheben von Problemen und erneutes Importieren von Benutzerkonten mit Problemen.
     
-    Aktivitäten vor der eigentlichen Migration werden von Ihnen und dem FastTrack Center koordiniert. Die Replikation auf Azure beginnt nach dem Import des Migrationszeitplans für den Benutzer.  
+Aktivitäten vor der eigentlichen Migration werden von Ihnen und dem FastTrack Center koordiniert. Die Replikation auf Azure beginnt nach dem Import des Migrationszeitplans für den Benutzer.  
     
-    > [!NOTE]
-    > Die für die Replikation erforderliche Zeit ist von der Datenmenge abhängig. Das FastTrack Center führt dann eine Überwachung durch, um die Migrationsbereitschaft zu bestimmen. Die Ergebnisse werden Ihnen zur Verfügung gestellt. Gewisse Korrekturen sind in der Regel erforderlich. Alle diese Schritte werden „T-Minus"-Aktivitäten genannt, da Sie vor Beginn der geplanten Benutzermigration ausgeführt werden müssen. 
+> [!NOTE]
+> Die für die Replikation erforderliche Zeit ist von der Datenmenge abhängig. Das FastTrack Center führt dann eine Überwachung durch, um die Migrationsbereitschaft zu bestimmen. Die Ergebnisse werden Ihnen zur Verfügung gestellt. Gewisse Korrekturen sind in der Regel erforderlich. Alle diese Schritte werden „T-Minus"-Aktivitäten genannt, da Sie vor Beginn der geplanten Benutzermigration ausgeführt werden müssen. 
   
 ## <a name="migrate-phase"></a>Migrationsphase
 
  **Wichtige Aktionen**
   
-- Das FastTrack Center führt Pilot- und schnelle Migrationen aus. 
-    
-- Das FastTrack Center führt Migrationsereignisse und T-Minus-Aktivitäten durch.
-    
-- Das FastTrack Center bietet Unterstützung nach der Migration.
+- FastTrack Center:
+    - Führt Pilot- und schnelle Migrationen aus.   
+    - Führt Migrationsereignisse und T-Minus-Aktivitäten durch.
+    - Bietet Unterstützung nach der Migration.
     
  **Verantwortlichkeiten des Kunden**
   
 - Identifizieren und Importieren der Migrationszeitpläne 21 Tage vor der Migration.
-    
     > [!NOTE]
     > Diese Aufgabe ist wichtig, da die Aktivitäten, die vor der eigentlichen Migration durchgeführt werden müssen, Korrekturen und ggf. die wiederholte Replikaterstellung in verschiedenen Phasen vor Beginn der eigentlichen Migration (T-0) umfassen. Während der Migration einiger Postfächer werden an anderen Postfächern T-Minus-Aktivitäten durchgeführt. Eine sorgfältige Planung und Koordination ist daher unabdingbar. 
-  
 - Beheben von Problemen, die während der T-Minus-Aktivitäten festgestellt wurden.
-    
-- Ermitteln und Beheben von Domino-Serverproblemen, die sich auf die Migrationsaktivitäten auswirken können.
-    
+- Ermitteln und Beheben von Domino-Serverproblemen, die sich auf die Migrationsaktivitäten auswirken können. 
 - Kommunizieren des anstehenden Migrationsdatums für die Endbenutzer.
-    
-- Endbenutzervorbereitung und Schulungen für das neue Messagingsystem und den Client.
-    
+- Endbenutzervorbereitung und Schulungen für das neue Messagingsystem und den Client.   
 - Identifizieren und Melden von Problemen nach der Migration. Das FastTrack Center bietet bis zu 5 Tage nach der Migration Unterstützung. Danach liegt dies in Ihrer Verantwortung. Sie können nach der Migration Tickets zu Problemen senden, z. B. fehlende E-Mails, Kalenderelemente und Kontakte oder Duplikate im Postfach.
     
 Das FastTrack Center deckt weder Bereitstellung, noch Lizenzgebühren noch Support ab, der mit der Verzeichnisvorbereitung (einschließlich Synchronisierung von Domino mit dem Active Directory-Verzeichnis), Software für Koexistenz für Notes-Anwendungsinteroperabilität, Self-Service-Migration oder der Migration von Archiven zusammenhängt.

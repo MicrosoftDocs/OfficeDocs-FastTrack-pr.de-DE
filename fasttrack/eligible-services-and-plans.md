@@ -11,26 +11,22 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Wenn Sie einen der Office 365-Dienste erwerben (wie im Abschnitt Berechtigte Dienste aufgeführt), bieten FastTrack-Experten eine Anleitung beim Onboarding in Office 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: 96a5f720fbe20a648df862a364255da2c3b19049
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 54a7f6f7f2e06d28ac1d2d90deaa8e2c6efd4c20
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828113"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021697"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
 Wenn Sie einen der Office 365-Dienste erwerben (wie im Abschnitt **Berechtigte Dienste** aufgeführt), bieten FastTrack-Experten eine Anleitung beim Onboarding in Office 365 und bei den ersten Schritten mit diesen Diensten. 
   
-- Hilfestellung können Sie über das Office 365 Admin Center oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Für Support über das Office 365 Admin Center muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. Auch auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) müssen Sie sich zunächst anmelden. Klicken Sie dann auf **Services**, und füllen Sie das Formular **Request Assistance for Office 365** aus. 
-    
+- Hilfestellung können Sie über das Office 365 Admin Center oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Für Support über das Office 365 Admin Center muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. Auch auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) müssen Sie sich zunächst anmelden. Klicken Sie dann auf **Services**, und füllen Sie das Formular **Request Assistance for Office 365** aus.   
     > [!NOTE]
     >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
-  
 - Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Melden Sie sich dazu auf der Website an, wählen Sie den entsprechenden Kundendatensatz aus, und klicken Sie auf **Services**. Füllen Sie dann das Formular **Request Assistance for Office 365** aus. 
-    
 - Sie können auch FastTrack Center-Hilfe über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Die entsprechende Option finden Sie in der Liste der für Ihren Mandanten verfügbaren Services. 
-    
 > [!NOTE]
 > Ihre lokale Umgebung muss die Überprüfungen durch das FastTrack Center erfolgreich bestehen, bevor FastTrack-Experten Anleitungen bereitstellen können. 
   
@@ -39,23 +35,14 @@ Wenn Sie einen der Office 365-Dienste erwerben (wie im Abschnitt **Berechtigte D
 FastTrack Center bietet Unterstützung für die folgenden [Office 365-Dienste](https://go.microsoft.com/fwlink/?linkid=2005429):
   
 - Exchange Online
-    
 - SharePoint Online
-    
 - OneDrive for Business
-    
 - Skype for Business Online
-    
 - Microsoft Teams
-    
 - Power BI
-    
 - Project Online
-    
 - Yammer Enterprise 
-    
 - Office 365 ProPlus
-    
 - Microsoft StaffHub
     
 ## <a name="eligible-commercial-plans"></a>Berechtigte kommerzielle Pläne
@@ -64,85 +51,58 @@ Sie müssen mindestens 50 Lizenzen aus der folgenden Liste der berechtigten Plä
   
  **Office 365**
   
-- Office 365 Business
-    
-- Office 365 Business Essentials
-    
+- Office 365 Business  
+- Office 365 Business Essentials  
 - Office 365 Business Premium
-    
 - Office 365 Enterprise E1
-    
 - Office 365 Enterprise E3
-    
-- Office 365 Enterprise E4
-    
+- Office 365 Enterprise E4  
 - Office 365 Enterprise E5
-    
 - Office 365 Enterprise F1
-    
 - Office 365 US Government G1\*
-    
 - Office 365 US Government G3\*
-    
 - Office 365 US Government G4\*
-    
-- Office 365 US Government G5\*
-    
+- Office 365 US Government G5\* 
 - Office 365 US Government F1\*
-    
 - Office 365 ProPlus
     
  **Microsoft 365 Enterprise**
   
 - Microsoft 365 E3\*\*\*
-    
 - Microsoft 365 E5\*\*\*
-    
 - Microsoft 365 Business\*\*\*
     
  **Exchange Online**
   
 - Exchange Online Plan 1
-    
-- Exchange Online Plan 2
-    
+- Exchange Online Plan 2 
 - Exchange Online-Kiosk
-    
 - Exchange Online Advanced Threat Protection
     
  **Project Online**
   
-- Project Online Essentials
-    
+- Project Online Essentials  
 - Project Online Professional
-    
 - Project Online Premium
     
  **SharePoint Online**
   
 - SharePoint Online Plan 1
-    
 - SharePoint Online Plan 2
     
  **OneDrive for Business**
   
-- OneDrive for Business mit Office Online
-    
+- OneDrive for Business mit Office Online 
 - OneDrive for Business-Plan 1
-    
 - OneDrive for Business-Plan 2
     
  **Skype for Business Online**
   
 -  Telefonsystem 
-    
 -  Anrufplan 
-    
 -  Audiokonferenzen 
-    
--  Skype for Business Online Plan 1 
-    
-- Skype for Business Online Plan 2
+-  Skype for Business Online Plan 1  
+-  Skype for Business Online Plan 2
     
  **Yammer**
   
@@ -155,13 +115,11 @@ FastTrack-Dienste sind für Office 365 für Bildungseinrichtungen und Microsoft 
  **Office 365 Education**
   
 - Office 365 A3
-    
 - Office 365 A5
     
  **Microsoft 365 Education**
   
 - Microsoft 365 A3\*\*\*
-    
 - Microsoft 365 A5\*\*\*
     
 > [!NOTE]
@@ -175,18 +133,15 @@ FastTrack-Dienste sind für Office 365 für Bildungseinrichtungen und Microsoft 
 Pläne, die nicht für FastTrack-Dienste in Frage kommen, umfassen (sind jedoch nicht beschränkt auf):
   
 - Exchange Online-Archivierung\*\*\*\*
-    
 - Exchange Online Protection\*\*\*\*
-    
 - Microsoft Office 365 dediziert und ITAR/Federal Plans
-    
 - Office 365 betrieben von 21Vianet\*\*
     
 \*Weitere Informationen zu den FastTrack-Vorteilen für US-Regierungsbehörden finden Sie unter [Office 365 Government](https://aka.ms/aboutgovcloud).
   
 \*\*Weitere Informationen zum FastTrack-Leistungsangebot für Office 365, betrieben von 21Vianet, finden Sie unter [21Vianet-Support](https://go.microsoft.com/fwlink/?linkid=852156).
   
-\*\*\* Nur für FastTrack-berechtigte Clouddienste und Features verfügbar, die in diesem Leistungsangebot beschrieben werden.
+\*\*\*Nur für FastTrack-berechtigte Clouddienste und Features verfügbar, die in diesem Leistungsangebot beschrieben werden.
   
 \*\*\*\*Ein FastTrack-Leitfaden für diesen Plan ist verfügbar, wenn er über einen berechtigten Plan wie Enterprise E3 und E5 abgerufen wird.
   
