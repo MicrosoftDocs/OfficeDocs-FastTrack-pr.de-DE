@@ -9,5 +9,5 @@
 ### [Ihre Zuständigkeiten](your-responsibilities.md)
 ### [Anhang A: Migration aus IBM Domino zu Exchange Online](from-ibm-domino-to-exchange-online.md)
 ### [Anhang B: FastTrack Center – zusätzlicher Vorteil](fasttrack-additional-benefits.md)
-### [Anhang C: FastTrack Center HIPPA-Vertrag für Geschäftspartner](hipaa-business-associate-agreement.md)
+### [Anhang C: FastTrack Center-HIPAA-Vertrag für Geschäftspartner](hipaa-business-associate-agreement.md)
 ### [Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government](US-Gov-appendix-overview.md)
