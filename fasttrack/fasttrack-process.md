@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz bereit. '
-ms.openlocfilehash: 4ffacfaf0d329a7ae09c7e34590ce9a6883adf06
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 80eb14690af215fc87ee1e4c920190daf2734dd5
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828063"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021677"
 ---
 # <a name="the-fasttrack-process"></a>Der FastTrack-Prozess
 
@@ -25,7 +25,6 @@ Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz berei
 Das Onboarding besteht aus:
   
 - *Haupt-Onboarding* – Umfasst die Aufgaben, die bei Bedarf für die Mandantenkonfiguration und die Integration mit Azure Active Directory (Azure AD) ausgeführt werden müssen. Das Haupt-Onboarding stellt auch die Grundlage für das Onboarding anderer berechtigter Dienste dar. 
-    
 - *Dienst-Onboarding und -Migration* – Dienst-Onboardingaktivitäten ermöglichen Szenarios in Ihrem Mandanten. Die Migration von Daten (einschließlich E-Mails und Dateien) wird unter [Datenmigration](data-migration.md) behandelt.  
     
 Die Dienste für die Benutzerakzeptanz bestehen aus Aufgaben, die Ihnen eine Anleitung bereitstellen, wie Sie sicherstellen, dass die Benutzer die jeweiligen Dienste kennen und sie zum Erzielen geschäftlicher Vorteile nutzen können. Diese Unterstützung erfolgt parallel zu den Onboarding-Aktivitäten.
@@ -39,31 +38,25 @@ In der folgenden Abbildung wird der Onboarding-Prozess dargestellt.
   
 ![Zeitrahmen für die Nutzung des Onboarding-Angebots](media/O365-Onboarding-Timeline.png)
   
-- Hilfestellung können Sie über das Office 365 Admin Center oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Für Support über das Office 365 Admin Center muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. Auch auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) müssen Sie sich zunächst anmelden. Klicken Sie dann auf **Services**, und füllen Sie das Formular **Request Assistance for Office 365** aus. 
+Hilfestellung können Sie über das Office 365 Admin Center oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Für Support über das Office 365 Admin Center muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. Auch auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) müssen Sie sich zunächst anmelden. Klicken Sie dann auf **Services**, und füllen Sie das Formular **Request Assistance for Office 365** aus. 
     
-    > [!NOTE]
-    >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
+> [!NOTE]
+>  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
   
-    Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
+ Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     
-    Sobald die Onboarding-Unterstützung begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
+ Sobald die Onboarding-Unterstützung begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
     
-- Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Melden Sie sich dazu auf der Website an, wählen Sie den entsprechenden Kundendatensatz aus, und klicken Sie auf **Services**. Füllen Sie dann das Formular **Request Assistance for Office 365** aus. 
+Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Melden Sie sich dazu auf der Website an, wählen Sie den entsprechenden Kundendatensatz aus, und klicken Sie auf **Services**. Füllen Sie dann das Formular **Request Assistance for Office 365** aus. 
+
+In der folgenden Tabelle sind Rollen und Verantwortlichkeiten für den Prozess aufgeführt.
     
-- Das FastTrack-Team bietet Anleitung für das Onboarding und die Planung der erfolgreichen Einführung der Dienste.
-    
-- FastTrack-Experten stellen alle Dienste für Onboarding, Migration und die Benutzerakzeptanz remote bereit.
-    
-- FastTrack-Experten unterstützen Sie remote mithilfe einer Kombination aus Tools und veröffentlichter Dokumentation.
-    
-- Das FastTrack Center bietet Unterstützung und steht in der jeweiligen Region zu den üblichen Geschäftszeiten zur Verfügung.
-    
-- Die Unterstützung ist in den folgenden Sprachen verfügbar: Deutsch, Englisch, Französisch, Italienisch, Japanisch, Koreanisch, Portugiesisch (Brasilien), Spanisch, Thai, Vietnamesisch, traditionelles Chinesisch und Chinesisch (vereinfacht) (Ressourcen sprechen nur Mandarin).
-    
--  FastTrack-Experten können direkt mit Ihnen oder Ihrem Bevollmächtigten zusammenarbeiten. 
-    
-- FastTrack-Experten stellen Anleitung für E-Mail- und Datenmigration bereit.
-    
+|||
+|:-----|:-----|
+|**Rolle** <br/> |**Zuständigkeit** <br/> |
+|**FastTrack-Spezialist** <br/> |Stellt alle Dienste für Onboarding, Migration und die Benutzerakzeptanz remote bereit.  <br/> Unterstützt Sie remote mithilfe einer Kombination aus Tools und veröffentlichter Dokumentation. <br/> Arbeitet direkt mit Ihnen oder Ihrem Bevollmächtigten zusammen. <br/> Unterstützt Sie bei der E-Mail- und Datenmigration.|
+|**FastTrack Center**  <br/> |Bietet Anleitung für das Onboarding und die Planung der erfolgreichen Einführung der Dienste.  <br/> Bietet Unterstützung und steht in der jeweiligen Region zu den üblichen Geschäftszeiten zur Verfügung. <br/> Bietet Unterstützung in den folgenden Sprachen: Deutsch, Englisch, Französisch, Italienisch, Japanisch, Koreanisch, Portugiesisch (Brasilien), Spanisch, Thai, Vietnamesisch, traditionelles Chinesisch und Chinesisch (vereinfacht) (Ressourcen sprechen nur Mandarin).|
+
 
   
 
