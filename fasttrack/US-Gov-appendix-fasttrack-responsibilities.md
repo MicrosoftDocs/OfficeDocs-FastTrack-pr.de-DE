@@ -3,7 +3,7 @@ title: Schnelle Zuständigkeiten für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021637"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895546"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Schnelle Zuständigkeiten für Office 365 US-Regierung
 
@@ -103,7 +103,7 @@ Bereitstellen von Anleitungen zu:
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
 - Festlegen von Unified Messaging (UM) mit Exchange Online (UM ist nicht in GCC DoD-Plänen verfügbar). 
     
-Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](data-migration.md).
+Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -200,7 +200,7 @@ Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzel
 
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung   
-- Zuweisen von Endbenutzerlizenzen mitOffice 365 Admin Center und Windows PowerShell  
+- Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell  
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
