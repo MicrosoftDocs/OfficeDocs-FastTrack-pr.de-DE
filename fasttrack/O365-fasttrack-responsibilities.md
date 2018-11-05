@@ -3,7 +3,7 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353732"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895642"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -103,6 +103,7 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren des E-Mail-Routings zwischen dem Quellmessagingsystem und Office 365-Umgebungen 
 - Konfigurieren von Exchange Online Protection-Funktionen (einschließlich Exchange Online Advanced Threat ProtectionFunktionen, falls in Ihrem Abonnement verfügbar) und Sicherstellen, dass die MX-Einträge auf Office 365 für alle E-Mail-aktivierten Domänen verweisen.
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
+- Konfigurieren von Postfach-Clients (Outlook für Windows, Outlook im Web und Outlook für iOS und Android).
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
@@ -191,7 +192,7 @@ Bereitstellen von Anleitungen zu:
 
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung
-- Zuweisen von Endbenutzerlizenzen mitOffice 365 Admin Center und Windows PowerShell
+- Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell
 - Herunterladen und Installieren von Project Online-Desktopclient aus dem Portal   
 - Konfigurieren von Update-Einstellungen mit dem Office-Bereitstellungstool oder den Gruppenrichtlinienvorlagen
 - Einrichten eines einzelnen lokalen Verteilungsservers für Project Online-Desktopclient, einschließlich einer Anleitung zum Erstellen einer configuration.xml-Datei für das Office 2016-Bereitstellungstool. 
@@ -205,9 +206,9 @@ Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzel
 
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung
-- Zuweisen von Endbenutzerlizenzen mitOffice 365 Admin Center und Windows PowerShell
+- Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los
-- Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten. 
+- Installieren von Office Mobile-Apps (wie Outlook für iOS und Android, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten. 
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen
 - Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office-Bereitstellungstool
 - Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
@@ -220,5 +221,11 @@ Bereitstellen von Anleitungen zu:
 - Wichtige Produktfunktionen.
 - Downloadpfade für Microsoft StaffHub.
     
+## <a name="outlook-for-ios-and-android"></a>Outlook für iOS und Android
+
+Bereitstellen von Anleitungen zu:
+- Herunterladen von Outlook auf IOS- und Android-Geräte
+- Konfigurieren von E-Mail-Konten in Outlook
+
 \*Informationen zu den FastTrack-Zuständigkeiten für Office 365 US Government finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 

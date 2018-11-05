@@ -3,30 +3,46 @@ title: Berechtigte Dienste und Pläne
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: Wenn Sie einen der Office 365-Dienste erwerben (wie im Abschnitt Berechtigte Dienste aufgeführt), bieten FastTrack-Experten eine Anleitung beim Onboarding in Office 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Wenn Sie einen der Office 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Office 365 und bei den ersten Schritten mit diesen Diensten.
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565559"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895582"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
 Wenn Sie einen der Office 365-Dienste erwerben (wie im Abschnitt **Berechtigte Dienste** aufgeführt), bieten FastTrack-Experten eine Anleitung beim Onboarding in Office 365 und bei den ersten Schritten mit diesen Diensten. 
   
-- Hilfestellung können Sie über das Office 365 Admin Center oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Für Support über das Office 365 Admin Center muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. Auch auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) müssen Sie sich zunächst anmelden. Klicken Sie dann auf **Services**, und füllen Sie das Formular **Request Assistance for Office 365** aus.   
+Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) Unterstützung. 
+
+Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. 
+
+So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.  Wählen Sie **FastTrack** aus.
+3.  Wählen Sie **Dienste** aus.
+4.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
     > [!NOTE]
     >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
-- Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Melden Sie sich dazu auf der Website an, wählen Sie den entsprechenden Kundendatensatz aus, und klicken Sie auf **Services**. Füllen Sie dann das Formular **Request Assistance for Office 365** aus. 
-- Sie können auch FastTrack Center-Hilfe über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Die entsprechende Option finden Sie in der Liste der für Ihren Mandanten verfügbaren Services. 
+
+Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
+1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.  Wählen Sie **FastTrack** aus.
+3.  Wählen Sie **Meine Kunden** aus.
+4.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+5.  Wählen Sie **Dienste** aus.
+6.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+
+Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
 > [!NOTE]
 > Ihre lokale Umgebung muss die Überprüfungen durch das FastTrack Center erfolgreich bestehen, bevor FastTrack-Experten Anleitungen bereitstellen können. 
   
@@ -47,7 +63,7 @@ FastTrack Center bietet Unterstützung für die folgenden [Office 365-Dienste](h
     
 ## <a name="eligible-plans"></a>Berechtigte Pläne
 
-Sie müssen mindestens 150 Lizenzen aus der folgenden Liste der berechtigten Pläne erwerben, um die FastTrack-Dienste zu erhalten:
+Sie müssen *mindestens* 150 Lizenzen aus der folgenden Liste der berechtigten Pläne erwerben, um die FastTrack-Dienste zu erhalten:
   
  **Office 365**
   

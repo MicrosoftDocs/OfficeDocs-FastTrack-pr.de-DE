@@ -3,7 +3,7 @@ title: Übersicht über das FastTrack Center-Leistungsangebot
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353672"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895618"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>Angebotene Unterstützung und berechtigte Pläne   
 
-Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben (wie im Abschnitt **Berechtigte Pläne** beschrieben), zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
+Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben (wie im Abschnitt **Berechtigte Pläne** beschrieben), zeigen Ihnen FastTrack-Spezialisten, wie Sie bei Problemen mit der App-Kompatibilität auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
 
 Um Hilfe zu erhalten, füllen Sie die [Serviceanfrage für Desktop App Azure](https://go.microsoft.com/fwlink/?linkid=2022721) aus.
 
