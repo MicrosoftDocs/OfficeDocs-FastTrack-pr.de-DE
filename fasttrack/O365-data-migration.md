@@ -3,7 +3,7 @@ title: Datenmigration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895774"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133157"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -218,7 +218,10 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
 - Durchführen der Qualitätssicherung für die Migration und der Benutzerakzeptanztests   
 - Durchführen von Korrekturen nach der Migration (sofern zutreffend)
 - Planen und Implementieren der Änderungsverwaltung und Endbenutzerkommunikation (sofern zutreffend)   
-- Verwalten und Konfigurieren aller für eine erfolgreiche Durchführung der Bewertungs- und Migrationsaktivitäten erforderlichen Änderungen am Quellsystem bzw. an den Quellgeräten
+- Verwalten und Konfigurieren aller für eine erfolgreiche Durchführung der Analyse- und Migrationsaktivitäten erforderlichen Änderungen am Quellsystem bzw. an den Quellgeräten
+
+> [!NOTE]
+> Microsoft übernimmt keine Garantie für die Geschwindigkeit der Dateimigration.
     
 ## <a name="migration-to-onedrive-for-business"></a>Migration zu OneDrive for Business
 
@@ -294,5 +297,6 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
 - Planen und Implementieren der Änderungsverwaltung und Endbenutzerkommunikation (sofern zutreffend)  
 - Verwalten und Konfigurieren aller für eine erfolgreiche Durchführung der Analyse- und Migrationsaktivitäten erforderlichen Änderungen am Quellsystem bzw. an den Quellgeräten
     
-  
+> [!NOTE]
+> Microsoft übernimmt keine Garantie für die Geschwindigkeit der Dateimigration.  
 
