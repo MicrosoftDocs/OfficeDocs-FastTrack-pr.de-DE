@@ -1,32 +1,33 @@
-# [FastTrack Center-Leistungsangebot für Office 365](O365-fasttrack-benefit-for-office-365.md)
-## [Berechtigte Dienste und Pläne](O365-eligible-services-and-plans.md)
-## [Übersicht über den FastTrack Center-Vorteil](O365-fasttrack-benefit-overview.md)
-### [Der FastTrack-Prozess](O365-fasttrack-process.md)
-### [Anforderungen an die Quellumgebung](O365-source-environment-expectations.md)
-### [Phasen im Onboarding- und Migrationsprozess](O365-onboarding-and-migration.md)
-### [Datenmigration](O365-data-migration.md)
-### [FastTrack-Zuständigkeiten](O365-fasttrack-responsibilities.md)
-### [Ihre Zuständigkeiten](O365-your-responsibilities.md)
-### [Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-### [Anhang B: FastTrack Center - zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
-### [Anhang C: FastTrack Center-HIPAA-Vertrag für Geschäftspartner](O365-hipaa-business-associate-agreement.md)
-### [Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government](US-Gov-appendix-overview.md)
-# 
+# [FastTrack Center-Leistungsangebot für Microsoft 365](M365-fasttrack-benefit-overview.md)
+## [FastTrack Center-Leistungsangebot für Office 365](O365-fasttrack-benefit-for-office-365.md)
+### [Berechtigte Dienste und Pläne](O365-eligible-services-and-plans.md)
+### [Übersicht über den FastTrack Center-Vorteil](O365-fasttrack-benefit-overview.md)
+#### [Der FastTrack-Prozess](O365-fasttrack-process.md)
+#### [Anforderungen an die Quellumgebung](O365-source-environment-expectations.md)
+#### [Phasen im Onboarding- und Migrationsprozess](O365-onboarding-and-migration.md)
+#### [Datenmigration](O365-data-migration.md)
+#### [FastTrack-Zuständigkeiten](O365-fasttrack-responsibilities.md)
+#### [Ihre Zuständigkeiten](O365-your-responsibilities.md)
+#### [Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
+#### [Anhang B: FastTrack Center - zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
+#### [Anhang C: FastTrack Center-HIPAA-Vertrag für Geschäftspartner](O365-hipaa-business-associate-agreement.md)
+#### [Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government](US-Gov-appendix-overview.md)
+## 
   [FastTrack Center-Leistungsangebot für Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## 
+### 
   [FastTrack Center-Leistungsangebot: Berechtigte Dienste und Pläne](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## 
+### 
   [FastTrack Center-Leistungsangebotprozess für Enterprise Mobility + Security (EMS)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [Übersicht über das FastTrack Center-Leistungsangebot](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [Anforderungen an die Quellumgebung](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [Onboarding-Phasen](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [FastTrack-Zuständigkeiten](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### 
+#### 
   [Ihre Zuständigkeiten](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-# [FastTrack Center-Leistungsangebot für Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
-## [Desktop App Assure](Win-10-desktop-app-assure.md)
-### [Angebotene Unterstützung und berechtigte Pläne](Win-10-daa-assistance-offered-and-plans.md)
+## [FastTrack Center-Leistungsangebot für Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+### [Desktop App Assure](Win-10-desktop-app-assure.md)
+#### [Angebotene Unterstützung und berechtigte Pläne](Win-10-daa-assistance-offered-and-plans.md)
