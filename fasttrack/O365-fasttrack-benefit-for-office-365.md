@@ -3,7 +3,7 @@ title: FastTrack Center-Leistungsangebot für Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,14 +11,13 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Verwenden Sie den FastTrack Center-Vorteil für Office 365, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan für Ihren Office 365-Mandanten erwerben. Arbeiten Sie anschließend mit FastTrack-Experten zusammen, um die Analyse, Problembehebung, Aktivierung und Nutzungssteigerung für diese Dienste durchzuführen. Diese Experten stellen auch Anweisungen zur Migration bereit.
-ms.openlocfilehash: d8252e28903f88250056dbc20b49dac3fef0fb7f
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 73363c63590545b7ede05b068a7bbd38fbc9cb0d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27132941"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696638"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>FastTrack Center-Leistungsangebot für Office 365
 
@@ -29,7 +28,7 @@ Verwenden Sie den FastTrack Center-Vorteil für Office 365, wenn Sie *mindestens
   
 Um für FastTrack Center-Migrationsdienste in Frage zu kommen, muss Ihr Office 365-Mandant über mindestens 500 Lizenzen verfügen.[ Weitere Informationen finden Sie unter ](O365-data-migration.md)Datenmigration.
   
-Weitere Informationen über Pläne und Dienste finden Sie unter [Berechtigte Dienste und Pläne](O365-eligible-services-and-plans.md).
+Weitere Informationen über Pläne und Dienste finden Sie unter [Berechtigte Dienste und Pläne](M365-eligible-services-and-plans.md).
   
 Informationen zum FastTrack Center-Prozess und den jeweiligen Zuständigkeiten finden Sie unter [Übersicht über den FastTrack Center-Vorteil](O365-fasttrack-benefit-overview.md).
   

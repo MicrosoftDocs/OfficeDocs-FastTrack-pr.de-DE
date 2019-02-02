@@ -3,20 +3,19 @@ title: Onboarding und Migration Phasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Office 365 Onboarding für Office-365 US-Regierung hat vier Hauptphasen – einleiten, bewerten, Remediate, und aktivieren. Führen Sie diesen Phasen mit einem optionalen Daten Migrationsphase wie in der folgenden Abbildung dargestellt.
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133073"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696770"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding und Migration Phasen für Office 365 US-Regierung
 
@@ -118,7 +117,7 @@ Für SharePoint Online und OneDrive for Business stellen wir Anweisungen zu folg
 - Einrichten von DNS   
 - Konfigurieren von Firewallports.   
 - Bereitstellen von Benutzern und Lizenzen.   
-- Konfigurieren von SharePoint-Hybridlösung-Features, z. B. Hybridsuche, Hybridwebsites, Hybridtaxonomie, Inhaltstypen, Self-Service Site Creation für hybride Sites (nur SharePoint Server 2013), erweitertes App-Startfeld, Hybrid-OneDrive for Business und Extranet-Websites.
+- Konfigurieren von SharePoint-Hybrid-Features wie hybridsuche, Hybrid-Websites, Hybrid Taxonomie, Inhaltstypen, erweiterte Hybrid Self-service Site Creation (SharePoint Server 2013 nur) app-Start Hybrid OneDrive für Unternehmen und extranet-Websites.
     
 FastTrack-Experten bieten Anleitung für die Datenmigration zu Office 365. Sie helfen Ihnen mit einer Kombination aus Tools und Dokumentation und führen gegebenenfalls Konfigurationsaufgaben aus.
   
@@ -187,8 +186,8 @@ Für Office 365 ProPlus stellen wir Anweisungen zu folgenden Themen bereit:
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell    
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los    
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
-- Konfigurieren von Updateeinstellungen mit dem Office-Bereitstellungstool    
-- Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office-Bereitstellungstool    
+- Konfigurieren von Einstellungen für Updates mithilfe des Office 365-Bereitstellungstools.    
+- Einrichten eines einzelnen vor-Ort-Verteilung für Office 365 ProPlus, einschließlich Unterstützung bei der Erstellung einer Datei "Configuration.xml" für die Verwendung mit der Office 365-Bereitstellungstools.    
 - Bereitstellen mit Microsoft System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
     
 ![Schritte beim Onboarding von Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)

@@ -3,20 +3,19 @@ title: Schnelle Zuständigkeiten für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133121"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696782"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Schnelle Zuständigkeiten für Office 365 US-Regierung
 
@@ -46,10 +45,10 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 - Festlegen des Zeitrahmens für Korrekturaktivitäten.
 - Bereitstellen einer Checkliste für die Korrekturen.   
 - Bewerten der vorhandenen SharePoint Server 2013- oder SharePoint Server 2016-Infrastruktur, einschließlich:  
-  - Voraussetzungen für SharePoint Online-Hybridlösung.  
-  - Lokale Infrastrukturbereitschaft für SharePoint Online-Hybridlösung-Features.  
+  - Erforderliche Komponenten für SharePoint Online Hybrid.  
+  - Lokale Infrastruktur für SharePoint Online Hybrid-Features bereit.  
   - Der Zugriff auf erforderliche SharePoint Online-Endpunkte. 
-  - Zielgruppen für OneDrive for Business-Hybridbereitstellung.    
+  - Zielgruppen für OneDrive für Unternehmen Hybrid.    
 - Bewerten der vorhandenen Lync- oder Skype for Business Online-Infrastruktur, einschließlich:  
   - Bereitstellungsstrategie für unterstützte Skype for Business-Clients  
   - Zugriff auf die Endpunkte  
@@ -115,11 +114,11 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren persönlichen Websites und von Features für das soziale Netzwerk.   
 - Konfigurieren von SharePoint Online-Features.    
 - Durchführen der Datenmigration, falls der FastTrack Center-Datenmigrationsdienst verwendet wird und die Berechtigungskriterien erfüllt sind  
-- Auswerten der lokalen SharePoint-Farminfrastrukturkonfiguration, die für SharePoint Online-Hybridlösung erforderlich ist.    
+- Bewerten die lokale SharePoint-Infrastruktur Farmkonfiguration für SharePoint Online Hybrid erforderlich ist.    
 - Mithilfe von Tools und Automatisierung für: 
   - Das Konfigurieren lokaler Cloud-Suchdienstanwendungen.    
   - Das Konfigurieren einer Vertrauensstellung zwischen einer lokalen SharePoint- und einer Cloudumgebung.   
-- Das Konfigurieren von lokalen SharePoint-Websites zur Verwendung von SharePoint Online-Hybridlösung-Features.
+- Konfigurieren von lokalen SharePoint-Websites auf SharePoint Online Hybrid-Features verwenden.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -135,7 +134,7 @@ Bereitstellen von Anleitungen zu:
 - Zuweisen von Endbenutzerlizenzen.   
 - Einrichten von SharePoint Online-Gruppen zum Festlegen, wer OneDrive for Business erhält.    
 - Bereitstellen des OneDrive for Business-Synchronisierungsclients auf Desktops.   
-- So konfigurieren Sie die SharePoint Online-Hybridlösung OneDrive for Business-Umleitung (nur SharePoint 2013 und SharePoint 2016).  
+- Informationen zum Konfigurieren von SharePoint Online Hybrid OneDrive for Business-Umleitung (SharePoint 2013 und SharePoint 2016 nur).  
 - Migration von Daten, wenn der FastTrack Center-Datenmigrationsdienst verwendet wird und wenn Sie berechtigt sind.
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -204,7 +203,7 @@ Bereitstellen von Anleitungen zu:
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
-- Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office-Bereitstellungstool   
+- Einrichten eines einzelnen vor-Ort-Verteilung für Office 365 ProPlus, einschließlich Unterstützung bei der Erstellung einer Datei "Configuration.xml" für die Verwendung mit der Office 365-Bereitstellungstools.   
 - Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
 
     
