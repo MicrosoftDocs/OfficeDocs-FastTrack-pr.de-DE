@@ -3,20 +3,19 @@ title: Datenmigration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 6c14e9177d4630a0a7ba5c33c9405b660d08cd26
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133157"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696878"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -49,20 +48,30 @@ In der folgenden Tabelle werden die Anforderungen an Ihre vorhandene Quellumgebu
    
 ## <a name="migration-to-exchange-online"></a>Migration zu Exchange Online
 
- **Aktivieren der Migration**
+### <a name="enable-to-migrate"></a>Aktivieren der Migration
   
 Wenn Sie Microsoft zum Migrieren Ihrer E-Mails verwenden, wird eine Anleitung bereitgestellt, um sowohl Exchange Online als auch die Quellumgebung für die Migration zu aktivieren. Abhängig von der Quellumgebung werden möglicherweise verschiedene Schritte für die Aktivierung ausgeführt. Wir bieten Anleitung durch eine Kombination von Tools und Dokumentationen und führen gegebenenfalls Konfigurationsaufgaben aus. Bei zutreffenden Parametern migrieren wir die Postfächer, überwachen Aufträge und stellen Statusberichte bereit.
   
 Möglicherweise müssen Sie Microsoft entsprechenden Zugriff und entsprechende Berechtigungen für Ihr E-Mail-System erteilen, sodass Migrationsaktivitäten ausgeführt werden können.
   
- **Migrationsrichtlinie und die entsprechenden Schritte**
+### <a name="migration-policy-and-steps"></a>Migrationsrichtlinie und -schritte
   
-- Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Ein „Migrationszeitraum" ist ein Migrationsbatch.    
-- Es gibt drei Migrationsbatches pro Migrationstag. Es gibt fünf Migrationstage in der Woche von Montag 02:00 Uhr (UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
-- Bei allen Migrationen werden cloudbasierte Migrationstools verwendet.
-- Möglicherweise müssen Sie Microsoft entsprechenden Zugriff und entsprechende Berechtigungen für Ihr E-Mail-System erteilen, sodass Migrationsaktivitäten ausgeführt werden können.
+> [!NOTE]
+> Ein Migrationszeitraum ist ein Migrationsbatch.
+
+#### <a name="commercial-and-uk-government"></a>Commercial und UK Government
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 24x7-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.
+
+#### <a name="us-governmentdod"></a>US Government/DOD
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.Es gibt fünf Migrationstage in der Woche von Montag 2:00 Uhr (Koordinierte Weltzeit, UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Deutschland Microsoft Cloud Deutschland (MCD)
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 9x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt einen Migrationsbatch pro Migrationstag. Es gibt fünf Migrationstage innerhalb einer Woche von Montag 12:00 Uhr (UTC) bis Freitag 21:00 Uhr (UTC).
     
- **Endzustand**
+ ### <a name="end-state"></a>Endzustand
   
 Im Folgenden finden Sie den erwarteten Endzustand nach einem Migrationsbatch:
 - Daten aus entsprechend festgelegten und berechtigten Quellpostfächern in der Quellumgebung werden zu Office 365 migriert. 
@@ -108,9 +117,8 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
 - Abwickeln der gesamten Kommunikation mit den Endbenutzern.  
 - Installieren der erforderlichen Clientsoftware gemäß Office 365-Richtlinien. Weitere Informationen finden Sie unter [Office 365 for Business](https://go.microsoft.com/fwlink/?linkid=2005429). 
 - Überprüfen der SMTP-E-Mail-Weiterleitungskoexistenz zwischen der Quellmessagingumgebung und Office 365 Exchange Online, sofern zutreffend.
-- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Postfächer bei jedem Migrationsereignis (mindestens 14 Tage im Voraus). Bei Notes-Migrationen sollte der Plan 21 Tage im Voraus bereitgestellt werden.
-- Hinzufügen von neuen oder neu geplanten Postfächern zum Plan, was bis zu 10 % der bereits geplanten Postfächer bis zu 3 Tage vor dem Migrationsbatch ausmacht. Dies sollte der Plan für den letzten Migrationsbatch sein.  
-- Löschen von Postfächern aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Postfächer bei jedem Migrationsereignis (mindestens 3 Tage im Voraus). Bei Notes-Migrationen sollte der Plan 21 Tage im Voraus bereitgestellt werden.
+- Löschen von Postfächern aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 - Planen einer durchschnittlichen maximalen Anzahl von Postfächern in einem Zeitraum von 24 Stunden, wie in der folgenden Tabelle aufgeführt.
     
 |||
@@ -145,30 +153,33 @@ Sie müssen den standardmäßigen Migrationsprozess befolgen und sich mit Micros
   
 ## <a name="migration-to-sharepoint-online"></a>Migration zu SharePoint Online
 
- **Aktivieren der Migration**
+### <a name="enable-to-migrate"></a>Aktivieren der Migration
   
 Wenn Sie Microsoft zum Migrieren Ihrer Daten verwenden, wird eine Anleitung bereitgestellt, um sowohl SharePoint Online als auch die Quellumgebung für die Migration zu aktivieren. Abhängig von der Quelle werden möglicherweise verschiedene Schritte für die Aktivierung ausgeführt. Wir bieten Anleitung durch eine Kombination von Tools und Dokumentationen und führen gegebenenfalls Konfigurationsaufgaben aus.
   
 Sie müssen Microsoft den entsprechenden Zugriff und die entsprechenden Berechtigungen zum Ausführen einiger Aktivitäten bereitstellen.
   
- **Migrationsrichtlinie und die entsprechenden Schritte**
+### <a name="migration-policy-and-steps"></a>Migrationsrichtlinie und -schritte
   
-- Migrationen zielen darauf ab\*, basierend auf standardisierten Zeitplänen auf der Migrationsquelle, wie in der folgenden Tabelle dargestellt, ausgeführt zu werden. 
-    
-|||
-|:-----|:-----|
-|**Quelle** <br/> |**Zeitplanrichtlinie** <br/> |
-|**Dateifreigabe, Feld**  <br/> | 24x5 basierend auf vordefinierten Migrationsbatches.  <br/>  Drei Migrationsbatches pro Migrationstag.  <br/>  Es gibt fünf Migrationstage innerhalb einer Woche von Montag 2:00 Uhr (UTC) bis  Freitag Mitternacht (UTC).  <br/>  Das letzte geplante Migrationsfenster ist Freitag 20:00 Uhr (UTC).  <br/> |
-   
-*Die Zeitplanung basiert auf der angenommenen Datasetgröße und den Umgebungsfaktoren. Einige geplante Inhalte können in einem einzigen Migrationsfenster möglicherweise nicht migriert werden.
-    
-- Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationsbatches durchgeführt.
-- Es gibt drei Migrationsbatches pro Migrationstag. Es gibt fünf Migrationstage in der Woche von Montag 02:00 Uhr (UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.  
-- Für alle Migrationen sind der entsprechende Zugriff und die jeweiligen Berechtigungen für die Quellumgebung erforderlich.  
+> [!NOTE]
+> Ein Migrationszeitraum ist ein Migrationsbatch.
+
+#### <a name="commercial-and-uk-government"></a>Commercial und UK Government
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 24x7-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.
+
+#### <a name="us-governmentdod"></a>US Government/DOD
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.Es gibt fünf Migrationstage in der Woche von Montag 2:00 Uhr (Koordinierte Weltzeit, UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Deutschland Microsoft Cloud Deutschland (MCD)
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 9x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt einen Migrationsbatch pro Migrationstag. Es gibt fünf Migrationstage innerhalb einer Woche von Montag 12:00 Uhr (UTC) bis Freitag 21:00 Uhr (UTC).
+
 - Alle Migrationen unterliegen den SharePoint Online-Kontingenten, die unter [SharePoint Online und OneDrive for Business: Softwarebeschränkungen und-Grenzen](https://go.microsoft.com/fwlink/?LinkID=616612) erläutert werden.   
 - Der Gesamtbetrag der migrierten Daten ist auf 75 % des SharePoint Online-Gesamtspeicherkontingents, für das Sie berechtigt sind, beschränkt (einschließlich den zusätzlichen Speicher, den Sie möglicherweise separat gekauft haben).
     
- **Endzustand**
+ ### <a name="end-state"></a>Endzustand
   
 Im Folgenden finden Sie den erwarteten Endzustand nach einem Migrationsbatch: 
 - Daten aus entsprechend festgelegten und berechtigten Quellen in der Quellumgebung werden zu SharePoint Online migriert.   
@@ -189,12 +200,14 @@ FastTrack-Spezialisten führen die folgenden erforderlichen Aufgaben für Migrat
 - Bereitstellen der erforderlichen Komponenten für Analyse- und Migrationstools, sofern für das Szenario zutreffend.   
 - Bereitstellen der erforderlichen Komponenten für den Zugriff auf die Quell- und Zielumgebung für das Durchführen der Analyse und der Migration für das Migrationsteam   
 - Bereitstellen von Analysetools zum Durchführen der Analyse der Quell- und Zielumgebung oder Bereitstellen von Anleitungen zur Verwendung systemeigener Quellplattformfunktionen zum Erstellen von Analyseberichten   
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens 7 Tage im Voraus).
+- Löschen von Benutzerdaten aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 - Unterstützung beim Bereitstellen und Ausführen von Analyse- und Migrationstools (sofern zutreffend)   
 - Konfigurieren der Migrationsinfrastruktur als Vorbereitung auf die Inhaltsmigration (sofern zutreffend)    
 - Durchführen einer Testmigration zur Überprüfung der Migrationsinfrastruktur und der erforderlichen Komponenten   
 - Bereitstellen vordefinierter SharePoint Online-Zielwebsites im Rahmen der Migration    
 - Durchführen einer Pilotmigration vor Beginn der Migration   
-- Bereitstellen einer Anleitung für die Migrationsplanung für das ausgewählte Szenario   
+- Bereitstellen einer Anleitung für die Migrationsplanung für das ausgewählte Szenario 
 - Durchführen der einzelnen Inhaltsmigrationsstufen gemäß dem Migrationszeitplan, der vom Kunden bereitgestellt und von FastTrack-Ressourcen überprüft wurde   
 - Bereitstellen der Migrationsergebnisse nach jedem Migrationsfenster   
 - Unterstützung bei Selektierung von Migrationsfehlern und möglichen Lösungen   
@@ -213,7 +226,7 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
 - Bereitstellen von erforderlichen Komponenten und Durchführen von Aktivitäten, die zur Unterstützung der Analyse und Migration erforderlich sind.   
 - Installieren der FastTrack-Analysetools und Ausführen der Analysedatensammlungs-Aktivitäten (sofern zutreffend)   
 - Lokale Installation der bereitgestellten FastTrack-Migrationssoftware (sofern zutreffend)   
-- Ausführen von Korrekturaktivitäten, die im von FastTrack bereitgestellten Wartungsbericht beschrieben sind (sofern zutreffend).    
+- Ausführen von Korrekturaktivitäten, die im von FastTrack bereitgestellten Wartungsbericht beschrieben sind (sofern zutreffend).  
 - Bereitstellen eines Migrationszeitplans mithilfe von FastTrack-Vorlagen und -Anleitungen   
 - Durchführen der Qualitätssicherung für die Migration und der Benutzerakzeptanztests   
 - Durchführen von Korrekturen nach der Migration (sofern zutreffend)
@@ -225,27 +238,33 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
     
 ## <a name="migration-to-onedrive-for-business"></a>Migration zu OneDrive for Business
 
- **Aktivieren der Migration**
+ ### <a name="enable-to-migrate"></a>Aktivieren der Migration
   
 Wenn Sie Microsoft zum Migrieren Ihrer Daten verwenden, wird eine Anleitung bereitgestellt, sodass Sie sowohl OneDrive for Business als auch die Quellumgebung für die Migration aktivieren können. Abhängig von der Quelle werden möglicherweise verschiedene Schritte für die Aktivierung ausgeführt. Wir helfen Ihnen bei einigen Aktivitäten mit einer Kombination von Tools, Dokumentationen und Anleitungen und führen gegebenenfalls Konfigurationsaufgaben aus.
   
 Sie können Microsoft ggf. den entsprechenden Zugriff und die jeweiligen Berechtigungen zur Verfügung stellen, sodass bestimmte Aktivitäten durchgeführt werden können. Wenn Sie keinen Zugriff und/oder keine Berechtigungen gewähren, müssen Sie bestimmte definierte Aufgaben selbst unter der Anleitung von Microsoft durchführen. 
   
- **Migrationsrichtlinie und -schritte**
+### <a name="migration-policy-and-steps"></a>Migrationsrichtlinie und -schritte
   
-- Migrationen zielen darauf ab\*, basierend auf standardisierten Zeitplänen auf der Migrationsquelle, wie in der folgenden Tabelle dargestellt, ausgeführt zu werden. 
-    
-|||
-|:-----|:-----|
-|**Quelle** <br/> |**Zeitplanrichtlinie** <br/> |
-|**Dateifreigabe, Box, Google Drive**  <br/> | 24x5 basierend auf vordefinierten Migrationsbatches.  <br/>  Drei Migrationsbatches pro Migrationstag.  <br/>  Es gibt fünf Migrationstage innerhalb einer Woche von Montag 2:00 Uhr (UTC) bis  Freitag Mitternacht (UTC).  <br/>  Das letzte geplante Migrationsfenster ist Freitag 20:00 Uhr (UTC).  <br/> |
-   
-*Die Zeitplanung basiert auf der angenommenen Datasetgröße und den Umgebungsfaktoren. Einige geplante Inhalte können in einem einzigen Migrationsfenster möglicherweise nicht migriert werden.
+> [!NOTE]
+> Ein Migrationszeitraum ist ein Migrationsbatch.
+
+#### <a name="commercial-and-uk-government"></a>Commercial und UK Government
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 24x7-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.
+
+#### <a name="us-governmentdod"></a>US Government/DOD
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.Es gibt fünf Migrationstage in der Woche von Montag 2:00 Uhr (Koordinierte Weltzeit, UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
+
+#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Deutschland Microsoft Cloud Deutschland (MCD)
+
+Migrationen werden anhand einer standardisierten und vorher festgelegten 9x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt einen Migrationsbatch pro Migrationstag. Es gibt fünf Migrationstage innerhalb einer Woche von Montag 12:00 Uhr (UTC) bis Freitag 21:00 Uhr (UTC).
     
 - Für alle Migrationen sind der entsprechende Zugriff und die jeweiligen Berechtigungen für die Quellumgebung erforderlich.   
 - Alle Migrationen unterliegen den OneDrive for Business-Kontingenten, die in [SharePoint Online und OneDrive for Business: Softwarebeschränkungen und-Grenzen](https://go.microsoft.com/fwlink/?LinkId=698855) erläutert werden.
     
- **Endzustand**
+ ### <a name="end-state"></a>Endzustand
   
 Im Folgenden finden Sie den erwarteten Endzustand nach einem Migrationsbatch:  
 - Daten aus entsprechend festgelegten und berechtigten Quellen in der Quellumgebung werden zu OneDrive for Business migriert.  
@@ -267,6 +286,8 @@ FastTrack-Spezialisten führen die folgenden erforderlichen Aufgaben für Migrat
 - Bereitstellen der erforderlichen Komponenten für Analyse- und Migrationstools, sofern für das Szenario zutreffend.  
 - Bereitstellen der erforderlichen Komponenten für den Zugriff auf die Quell- und Zielumgebung für das Durchführen der Analyse und der Migration für das Migrationsteam   
 - Bereitstellen von Analysetools zum Durchführen der Analyse der Quell- und Zielumgebung oder Bereitstellen von Anleitungen zur Verwendung systemeigener Quellplattformfunktionen zum Erstellen von Analyseberichten    
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens 7 Tage im Voraus).
+- Löschen von Benutzerdaten aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 - Unterstützung beim Bereitstellen und Ausführen von Analyse- und Migrationstools (sofern zutreffend)   
 - Konfigurieren der Migrationsinfrastruktur als Vorbereitung auf die Inhaltsmigration (sofern zutreffend)    
 - Durchführen einer Testmigration zur Überprüfung der Migrationsinfrastruktur und der erforderlichen Komponenten    

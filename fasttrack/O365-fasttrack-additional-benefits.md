@@ -3,23 +3,22 @@ title: Anhang B FastTrack Center - zusätzlicher Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-ms.assetid: 880b4cf1-e778-4725-af25-7fb6fe10c504
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: 73307846da4c45bcee64c5e9a9c21d1a3e806fe6
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: abdb722bdb69945a1a90d8cae3fe71a5259e9dc9
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133085"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696722"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
-Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter [Berechtigte Dienste und Pläne](O365-eligible-services-and-plans.md). 
+Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter [Berechtigte Dienste und Pläne](M365-eligible-services-and-plans.md). 
   
 ## <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -43,7 +42,7 @@ Für Skype for Business Online bieten wir eine Anleitung für lokale Lync- und S
 
 Für Office 365 ProPlus bieten wir Unterstützung in den folgenden Bereichen: 
 - Bewertung und Planung mit Fokus auf der Vorbereitung der Umgebung auf die Erstbereitstellung und die Aktualisierungsverwaltung gemäß den Best Practices von Microsoft 
-- Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office-Bereitstellungstools 
+- Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office 365-Bereitstellungstools 
 - Bereitstellungspaketierung mithilfe von System Center Configuration Manager  
 - Bereitstellung und Konfiguration der Office-Telemetrie als Anleitung zum Überprüfen der Verwendung geschäftskritischer Office-Dokumente und -Lösungen auf Anwendungskompatibilität
     

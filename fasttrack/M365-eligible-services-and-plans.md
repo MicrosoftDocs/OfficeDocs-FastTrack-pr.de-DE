@@ -3,19 +3,19 @@ title: Berechtigte Dienste und Pläne
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472803"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696806"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
@@ -30,19 +30,17 @@ Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsof
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **FastTrack** aus.
-3.  Wählen Sie **Dienste** aus.
-4.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+2.  Wählen Sie **Dienste** aus.
+3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
     > [!NOTE]
     >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
 
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **FastTrack** aus.
-3.  Wählen Sie **Meine Kunden** aus.
-4.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-5.  Wählen Sie **Dienste** aus.
-6.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+2.  Wählen Sie **Meine Kunden** aus.
+3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+4.  Wählen Sie **Dienste** aus.
+5.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
 
 Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
 
@@ -56,8 +54,8 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
 - Exchange Online
 - SharePoint Online
 - OneDrive for Business
+- Microsoft Teams
 - Skype for Business Online
-- Microsoft Teams
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
   
  **Microsoft 365 Enterprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Business
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Business\*
     
  **Microsoft 365 Education**
 
@@ -134,9 +132,9 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
     
  **Skype for Business Online**
   
--  Telefonsystem 
--  Anrufplan 
--  Audiokonferenzen 
+-  Telefonsystem\*\*\* 
+-  Anrufplan\*\*\* 
+-  Audiokonferenzen\*\*\*
 -  Skype for Business Online Plan 1  
 -  Skype for Business Online Plan 2
     
@@ -146,7 +144,9 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
 
 \*Nur für FastTrack-berechtigte Clouddienste und Features verfügbar, die in diesem Leistungsangebot beschrieben werden.
 
-\*\*Weitere Informationen zu den FastTrack-Vorteilen für US-Regierungsbehörden finden Sie unter [Office 365 Government](https://aka.ms/aboutgovcloud).
+\*\*Weitere Informationen zu den FastTrack-Vorteilen für US-Regierungsbehörden finden Sie unter [Office 365 US Government](https://aka.ms/aboutgovcloud).
+
+\*\*\*Kann sowohl für Skype for Business Online als auch für lizenzierte Benutzer von Microsoft Teams verwendet werden.
 
 > [!NOTE]
 > Die Berechtigung für das FastTrack Center-Angebot basiert auf erworbenen kostenpflichtigen Lizenzen für die zuvor genannten berechtigten Pläne. 

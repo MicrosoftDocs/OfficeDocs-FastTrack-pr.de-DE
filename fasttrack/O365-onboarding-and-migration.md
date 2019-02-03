@@ -3,20 +3,19 @@ title: Phasen im Onboarding- und Migrationsprozess
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: 4f5f089a05def67e3b7bee9d4ace5cbce636c4c3
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: b77b4f02256c4b443c41f4740036e4a88519202d
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133181"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696842"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -39,19 +38,17 @@ Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsof
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **FastTrack** aus.
-3.  Wählen Sie **Dienste** aus.
-4.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
+2.  Wählen Sie **Dienste** aus.
+3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
 > [!NOTE]
 >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **FastTrack** aus.
-3.  Wählen Sie **Meine Kunden** aus.
-4.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-5.  Wählen Sie **Dienste** aus.
-6.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+2.  Wählen Sie **Meine Kunden** aus.
+3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+4.  Wählen Sie **Dienste** aus.
+5.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
 
 Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     
@@ -103,7 +100,9 @@ Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail 
     > [!NOTE]
     > Ihre MX-Einträge (Mail Exchange) müssen auf Office 365 verweisen. 
 - Einrichten der Exchange Online Advanced Threat Protection (ATP)-Funktion, wenn diese Bestandteil Ihres Abonnementdiensts ist, sobald Ihre MX-Einträge auf Office 365 verweisen. Diese Funktion wird im Rahmen der Antischadsoftware-Einstellungen von Exchange Online Protection konfiguriert.
-- Konfigurieren von Firewallports.
+- Einrichten der Verhinderung von Datenverlust (Data Loss Prevention, DLP) für alle E-Mail-aktivierten Domänen, die in Office 365 als Teil Ihres Abonnementdiensts validiert wurden. Dies geschieht, sobald Ihre MX-Einträge auf Office 365 verweisen.
+- Einrichten der Office 365-Nachrichtenverschlüsselung (OME) für alle E-Mail-aktivierten Domänen, die in Office 365 als Teil Ihres Abonnementdiensts validiert wurden. Dies geschieht, sobald Ihre MX-Einträge auf Office 365 verweisen.
+- Konfigurieren von Firewallports
 - Einrichten von DNS, einschließlich der erforderlichen AutoErmittlungs-, SPF (Sender Policy Framework)- und MX-Einträge (falls erforderlich). 
 - Einrichten des E-Mail-Nachrichtenflusses zwischen Ihrer Quellmessagingumgebung und Exchange Online (bei Bedarf)
 - Durchführen der E-Mail-Migration von Ihrer Quellmessagingumgebung zu Office 365.
@@ -119,7 +118,7 @@ Für SharePoint Online und OneDrive for Business stellen wir Anweisungen zu folg
 - Einrichten von DNS
 - Konfigurieren von Firewallports.
 - Bereitstellen von Benutzern und Lizenzen.   
-- Konfigurieren von SharePoint-Hybridlösung-Features, z. B. Hybridsuche, Hybridwebsites, Hybridtaxonomie, Inhaltstypen, Self-Service Site Creation für hybride Sites (nur SharePoint Server 2013), erweitertes App-Startfeld, Hybrid-OneDrive for Business und Extranet-Websites.
+- Konfigurieren von SharePoint-Hybridfeatures, z. B. Hybridsuche, Hybridwebsites, Hybridtaxonomie, Inhaltstypen, Self-Service Site Creation für hybride Sites (nur SharePoint Server 2013), erweitertes App-Startfeld, Hybrid-OneDrive for Business und Extranet-Websites.
     
 FastTrack-Experten bieten Anleitung für die Datenmigration zu Office 365. Sie helfen Ihnen mit einer Kombination aus Tools und Dokumentation und führen gegebenenfalls Konfigurationsaufgaben aus.
   
@@ -131,6 +130,19 @@ Für OneDrive for Business hängen die Schritte davon ab, ob Sie aktuell SharePo
   
 ![Schritte beim Onboarding von OneDrive während der Aktivierungsphase](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit:
+- Sicherstellen der Mindestanforderungen  
+- Konfigurieren von Firewallports.   
+- Einrichten von DNS 
+- Sicherstellen, dass Microsoft Teams auf Ihrem Office 365-Mandanten aktiviert ist  
+- Aktivieren oder Deaktivieren von Benutzerlizenzen
+    
+![FastTrack Microsoft Teams-Diagramm (Aktivierungsphase)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+
+![Von Microsoft Teams freigegebene Skype-Funktionen](media/Teams-Skype-features.png)
+
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen bereit:
@@ -143,17 +155,6 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 ![Schritte beim Onboarding von Lync während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Lync.png)
   
 ![Schritte beim Onboarding von Skype for Business während der Aktivierungsphase_2](media/SfBOifappborderupdate.png)
-  
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit:
-- Sicherstellen der Mindestanforderungen  
-- Konfigurieren von Firewallports.   
-- Einrichten von DNS 
-- Sicherstellen, dass Microsoft Teams auf Ihrem Office 365-Mandanten aktiviert ist  
-- Aktivieren oder Deaktivieren von Benutzerlizenzen
-    
-![FastTrack Microsoft Teams-Diagramm (Aktivierungsphase)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
@@ -178,8 +179,8 @@ Für Project Online Professional und Project Online Premium stellen wir Anweisun
 - Beheben von Problemen bei der Bereitstellung
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell  
 - Installieren von Project Online-Desktopclient aus dem Office 365-Portal mithilfe von Klick-und-Los
-- Konfigurieren von Updateeinstellungen mit dem Office-Bereitstellungstool  
-- Einrichten eines einzelnen lokalen Verteilungsservers für Project Online-Desktopclient, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office-Bereitstellungstool  
+- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool  
+- Einrichten eines einzelnen lokalen Verteilungsservers für Project Online-Desktopclient, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool  
 - Herstellen einer Verbindung zwischen Project Online-Desktopclient und Project Online Professional oder Project Online Premium.
     
 ![Schritte, die während der Aktivierungsphase für Project für Office 365 auftreten.](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -195,8 +196,8 @@ Für Office 365 ProPlus stellen wir Anweisungen zu folgenden Themen bereit:
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell 
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
-- Konfigurieren von Updateeinstellungen mit dem Office-Bereitstellungstool   
-- Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office-Bereitstellungstool  
+- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool   
+- Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool  
 - Bereitstellen mit Microsoft System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
     
 ![Schritte beim Onboarding von Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
