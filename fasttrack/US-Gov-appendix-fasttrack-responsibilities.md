@@ -1,23 +1,23 @@
 ---
-title: Schnelle Zuständigkeiten für Office 365 US-Regierung
+title: Aufgaben für Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696782"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355283"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Schnelle Zuständigkeiten für Office 365 US-Regierung
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US Government
 
 Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:
   
@@ -45,10 +45,10 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 - Festlegen des Zeitrahmens für Korrekturaktivitäten.
 - Bereitstellen einer Checkliste für die Korrekturen.   
 - Bewerten der vorhandenen SharePoint Server 2013- oder SharePoint Server 2016-Infrastruktur, einschließlich:  
-  - Erforderliche Komponenten für SharePoint Online Hybrid.  
-  - Lokale Infrastruktur für SharePoint Online Hybrid-Features bereit.  
+  - Voraussetzungen für die SharePoint Online-Hybridlösung.  
+  - Lokale Infrastrukturbereitschaft für SharePoint Online-Hybridfeatures.  
   - Der Zugriff auf erforderliche SharePoint Online-Endpunkte. 
-  - Zielgruppen für OneDrive für Unternehmen Hybrid.    
+  - Zielgruppen für die OneDrive for Business-Hybridlösung.    
 - Bewerten der vorhandenen Lync- oder Skype for Business Online-Infrastruktur, einschließlich:  
   - Bereitstellungsstrategie für unterstützte Skype for Business-Clients  
   - Zugriff auf die Endpunkte  
@@ -79,11 +79,11 @@ Bereitstellen von Anleitungen zu:
   - Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Office 365-Domänendiensten (AD DS) und Active Directory, falls erforderlich.   
   - Konfigurieren der Kennwortsynchronisierung (Kennworthash) für Office 365 (Azure Active Directory) mit dem Tool „Azure Active Directory Connect“, falls erforderlich.  
   - Für Umgebungen mit einer einzigen und mehreren Gesamtstrukturen:
-      - Konfigurieren von Azure Active Directory Pass-Through-Authentifizierung, falls erforderlich (GCC hohe oder DoD Pläne nicht verfügbar).
-      - Konfigurieren von Azure Active Directory nahtlos einmaliges Anmelden (SSO), falls erforderlich (GCC hohe oder DoD Pläne nicht verfügbar).
+      - Konfigurieren der Azure Active Directory-Passthrough-Authentifizierung (falls erforderlich) (nicht verfügbar in GCC-hoch-oder DoD-Plänen)
+      - Konfigurieren von Azure Active Directory Seamless-einmaliges Anmelden (SSO), falls erforderlich (nicht verfügbar in GCC-hoch-oder DoD-Plänen).
     > [!NOTE]
     > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten. Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860094) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
-    > Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: aktuelle Einschränkungen](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
+    > Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Aktuelle Einschränkungen](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
     > Weitere Informationen zu Problemen beim nahtlosen einmaligen Anmelden finden Sie unter [Problembehandlung beim nahtlosen einmaligen Anmelden mit Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926). 
 - Für eine einzelne Gesamtstruktur mit Verbundidentitäten ist das Ziel: 
   - Installieren und Konfigurieren von AD FS für die lokale Domänenauthentifizierung mit Office 365 in einer fehlertoleranten Konfiguration für einen Einzelstandort, falls erforderlich.  
@@ -100,7 +100,7 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren des E-Mail-Routings zwischen dem Quellmessagingsystem und Office 365-Umgebungen    
 - Konfigurieren von Exchange Online Protection-Funktionen (einschließlich Exchange Online Advanced Threat ProtectionFunktionen, falls in Ihrem Abonnement verfügbar) und Sicherstellen, dass die MX-Einträge auf Office 365 für alle E-Mail-aktivierten Domänen verweisen.   
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
-- Festlegen von Unified Messaging (UM) mit Exchange Online (UM ist nicht in GCC DoD-Plänen verfügbar). 
+- Einrichten von Unified Messaging (UM) mit Exchange Online (UM ist in den GCC-DoD-Plänen nicht verfügbar). 
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
@@ -114,11 +114,11 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren persönlichen Websites und von Features für das soziale Netzwerk.   
 - Konfigurieren von SharePoint Online-Features.    
 - Durchführen der Datenmigration, falls der FastTrack Center-Datenmigrationsdienst verwendet wird und die Berechtigungskriterien erfüllt sind  
-- Bewerten die lokale SharePoint-Infrastruktur Farmkonfiguration für SharePoint Online Hybrid erforderlich ist.    
+- Auswerten der lokalen SharePoint-Farminfrastrukturkonfiguration, die für die SharePoint Online-Hybridlösung erforderlich ist.    
 - Mithilfe von Tools und Automatisierung für: 
   - Das Konfigurieren lokaler Cloud-Suchdienstanwendungen.    
   - Das Konfigurieren einer Vertrauensstellung zwischen einer lokalen SharePoint- und einer Cloudumgebung.   
-- Konfigurieren von lokalen SharePoint-Websites auf SharePoint Online Hybrid-Features verwenden.
+- Das Konfigurieren von lokalen SharePoint-Websites zur Verwendung von SharePoint Online-Hybridfeatures.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -134,7 +134,7 @@ Bereitstellen von Anleitungen zu:
 - Zuweisen von Endbenutzerlizenzen.   
 - Einrichten von SharePoint Online-Gruppen zum Festlegen, wer OneDrive for Business erhält.    
 - Bereitstellen des OneDrive for Business-Synchronisierungsclients auf Desktops.   
-- Informationen zum Konfigurieren von SharePoint Online Hybrid OneDrive for Business-Umleitung (SharePoint 2013 und SharePoint 2016 nur).  
+- So konfigurieren Sie die SharePoint Online-Hybridlösung OneDrive for Business-Umleitung (nur SharePoint 2013 und SharePoint 2016).  
 - Migration von Daten, wenn der FastTrack Center-Datenmigrationsdienst verwendet wird und wenn Sie berechtigt sind.
     
 ## <a name="skype-for-business-online"></a>Skype for Business Online
@@ -147,19 +147,19 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren von Audiokonferenzen:   
   - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke   
   - Zuweisen einer Konferenzbrücke zu lizenzierten Benutzern 
-- Aktivieren der Telefonsystem (GCC hohe oder DoD Pläne nicht verfügbar):  
+- Aktivieren des Telefonsystems (nicht verfügbar in GCC High-oder DoD-Plänen):  
   - Aktivieren des Telefonsystems und Plänen für Anrufonboarding (auf verfügbaren Märkten) 
   - Zuweisung von Nummern zu lizenzierten Benutzern  
   - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999  
   - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus  
-- Aktivieren von Skype für Business Besprechung übertragen (GCC hohe oder DoD Pläne nicht verfügbar):  
+- Aktivieren von Skype for Business-Besprechungs Übertragung (nicht verfügbar in GCC High-oder DoD-Plänen):  
   - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen  
   - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Die folgenden nicht GCC hohe oder DoD Pläne zur Verfügung.
+> Im GCC-hoch-oder DoD-Plan ist das folgende nicht verfügbar.
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen   
@@ -193,7 +193,7 @@ Bereitstellen von Anleitungen zu:
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
 
 > [!NOTE]
-> Yammer Enterprise ist eine Komponente des Office-365 US-Regierung nicht aber kostenlos erworben werden kann, wie ein eigenständiges Angebot für jeden Benutzer für Office 365 in GCC lizenziert. Dieses Angebot ist derzeit für Kunden, die Office 365 GCC unter Enterprise Agreement und Enterprise-Abonnement Agreement erwerben beschränkt. Yammer ist nicht hoch GCC oder DoD Pläne verfügbar.
+> Jammern Enterprise ist kein Bestandteil von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in GCC lizenziert ist, kostenlos erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in GCC-hoch-oder DoD-Plänen nicht verfügbar.
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
@@ -203,7 +203,7 @@ Bereitstellen von Anleitungen zu:
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
-- Einrichten eines einzelnen vor-Ort-Verteilung für Office 365 ProPlus, einschließlich Unterstützung bei der Erstellung einer Datei "Configuration.xml" für die Verwendung mit der Office 365-Bereitstellungstools.   
+- Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool   
 - Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
 
     
