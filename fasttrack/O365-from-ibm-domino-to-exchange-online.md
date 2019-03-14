@@ -3,19 +3,19 @@ title: Anhang A Migration aus IBM Domino zu Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte, einschließlich der Schritte in den folgenden Phasen:'
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696818"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355235"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Anhang A: Migration aus IBM Domino zu Exchange Online
 
@@ -28,7 +28,7 @@ Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte
     
 ## <a name="identities"></a>Identitäten
 
-Sie sind für das Erstellen und Verwalten von Identitäten zuständig (nur Cloud, synchronisiert oder mit ihrer lokalen Active Directory-Umgebung verbunden). Sie müssen die Zuordnung der Identitäten (wenn noch nicht vorhanden) zwischen Domino und der lokalen Active Directory-Umgebung oder Azure AD in den frühen Phasen des Onboardings abschließen.
+Sie sind für das Erstellen und Verwalten von Identitäten zuständig (nur Cloud synchronisiert oder mit ihrer lokalen Active Directory-Umgebung verbunden). Sie müssen die Zuordnung der Identitäten (wenn noch nicht vorhanden) zwischen Domino und der lokalen Active Directory-Umgebung oder Azure Active Directory in den frühen Phasen des Onboardings abschließen.
   
 ## <a name="coexistence"></a>Koexistenz
 
@@ -90,7 +90,7 @@ Der FastTrack Center-Standardprozess für die Migration aus Domino zu Exchange O
     >  Obwohl FastTrack Postfächer mit bis zu 85 % der maximal zulässigen Zielgröße migriert, birgt die Migration von Postfächern, die größer als 2 GB sind, weitere Risiken, u. a.:    <br/> Verlängerte Migrationsdauer    <br/> Verwenden von Ressourcen, die andernfalls für die Migration anderer Postfächer verwendet werden.    <br/> Deutlich höhere Fehlerraten 
 - Vorbereiten der E-Mail-Eingangsdatenbanken und ihrer Zugriffssteuerungslisten (Access Control Lists, ACLs) für die Migration. Sie müssen einige Korrekturaktivitäten abschließen, um E-Mail-Eingangsdatenbanken und die zugehörigen Berechtigungen zu einem freigegebenen Postfach in Exchange Online erfolgreich zu migrieren. Einige diese Schritte lauten wie folgt: 
   - Entfernen vorhandener E-Mail-Eingangsdatenbankeinträge aus dem Domino-Verzeichnis und Erstellen neuer Personendatensätze.
-  - Erstellen E-Mail-aktivierter universeller Sicherheitsgruppen in der lokalen Active Directory-Bereitstellung, die mit Office 365 Azure AD synchronisiert und zum Konfigurieren von Berechtigungen im freigegebenen Postfach in Exchange Online verwendet werden. So werden die in der E-Mail-Eingangsdatenbank festgelegten Berechtigungen an das freigegebene Postfach in Exchange Online übergeben.
+  - Erstellen E-Mail-aktivierter universeller Sicherheitsgruppen in der lokalen Active Directory-Bereitstellung, die mit Office 365 Azure Active Directory synchronisiert und zum Konfigurieren von Berechtigungen im freigegebenen Postfach in Exchange Online verwendet werden. So werden die in der E-Mail-Eingangsdatenbank festgelegten Berechtigungen an das freigegebene Postfach in Exchange Online übergeben.
     
 > [!NOTE]
 > Es kann nun mit der Endbenutzervorbereitung und Schulungen für das neue Messagingsystem und den Client begonnen werden. 

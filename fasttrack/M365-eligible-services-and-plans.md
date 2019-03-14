@@ -3,19 +3,19 @@ title: Berechtigte Dienste und Pläne
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696806"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355295"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
@@ -71,6 +71,7 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Microsoft 365 E5 Security\*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -163,11 +164,11 @@ Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für O
 |**Microsoft Intune**    |   Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.      |
 |**Cloud Attach**     |    Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.     |
 |**Microsoft Intune for Education**     |  Berechtigt, wenn als eigenständiger Plan oder als Teil von A3 oder A5 erworben.       |
-|**Microsoft Advanced Threat Protection**     |    Eingeschränkt. Nur berechtigt, wenn als eigenständiger Plan erworben. Wechseln Sie hierfür zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Microsoft Advanced Threat Analytics**   |        Eingeschränkt. Nur berechtigt, wenn als eigenständiger Plan erworben. Wechseln Sie hierfür zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
+|**Microsoft Advanced Threat Protection**     |    Eingeschränkt. Nur bei Erwerb als eigenständiger Plan zulässig. Wechseln Sie zu diesem Zweck zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
+|**Microsoft Advanced Threat Analytics**   |        Eingeschränkt. Nur bei Erwerb als eigenständiger Plan zulässig. Wechseln Sie zu diesem Zweck zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Microsoft Cloud App Security**    |       Eingeschränkt. Nur berechtigt, wenn als eigenständiger Plan erworben. Wechseln Sie hierfür zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
-Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312).
+Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
 ## <a name="eligible-windows-10-plans"></a>Berechtigte Windows 10-Pläne
 
