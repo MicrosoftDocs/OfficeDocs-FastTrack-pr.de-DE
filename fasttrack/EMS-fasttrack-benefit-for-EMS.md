@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ea104f7bf9b4883624eda3ee40cdba516860097f
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 5d5213d7e7d5162841ddb121e03556e471f6701e
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359947"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016791"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>FastTrack Center-Leistungsangebot für Enterprise Mobility + Security (EMS)
 
-Sie verwenden die Vorteile von Enterprise Mobility + Security (EMS)-Vorteil, wenn Sie mindestens 150 Lizenzen für EMS oder einen der einzelnen Cloud-Dienste in einem berechtigten Plan erwerben. Anschließend arbeiten Sie mit den Spezialisten für die Zusammenarbeit, um diese Dienste zu bewerten, zu korrigieren, zu aktivieren und zu steuern. Diese Spezialisten bieten auch Migrationsrichtlinien.
+Sie verwenden die Vorteile von Enterprise Mobility + Security (EMS)-Vorteil, wenn Sie mindestens 150 Lizenzen für EMS oder einen der einzelnen Cloud-Dienste in einem berechtigten Plan erwerben. Arbeiten Sie anschließend mit FastTrack-Experten zusammen, um die Analyse, Problembehebung, Aktivierung und Nutzungssteigerung für diese Dienste durchzuführen. Diese Experten stellen auch Anleitungen zu Migration bereit.
 
 > [!IMPORTANT]
 > Für die Zwecke dieses Dokuments kann es sich bei FastTrack-Experten sowohl um Microsoft-Mitarbeiter, um von Microsoft genehmigte Anbieter und von Microsoft genehmigte Partner handeln.

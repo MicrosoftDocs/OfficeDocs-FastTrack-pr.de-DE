@@ -3,19 +3,19 @@ title: Onboarding-und Migrationsphasen für Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US Government hat vier Hauptphasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 60f931d6c558709e34dd638304a77c739efb43c4
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355259"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016983"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US Government
 
@@ -102,7 +102,7 @@ Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail 
     > [!NOTE]
     > Ihre MX-Einträge (Mail Exchange) müssen auf Office 365 verweisen.   
 - Einrichten der Exchange Online Advanced Threat Protection (ATP)-Funktion, wenn diese Bestandteil Ihres Abonnementdiensts ist, sobald Ihre MX-Einträge auf Office 365 verweisen. Diese Funktion wird im Rahmen der Antischadsoftware-Einstellungen von Exchange Online Protection konfiguriert.   
-- Konfigurieren von Firewallports.   
+- Konfigurieren von Firewallports   
 - Einrichten von DNS, einschließlich der erforderlichen AutoErmittlungs-, SPF (Sender Policy Framework)- und MX-Einträge (falls erforderlich).     
 - Einrichten des E-Mail-Nachrichtenflusses zwischen Ihrer Quellmessagingumgebung und Exchange Online (bei Bedarf)   
 - Durchführen der E-Mail-Migration von Ihrer Quellmessagingumgebung zu Office 365.   

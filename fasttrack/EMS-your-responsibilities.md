@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359803"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016930"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
@@ -49,7 +49,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
 -   Verwalten eines Genehmigungsprozesses für das technische Änderungsmanagement und Erstellen von unterstützenden Dokumentationen.
 
--   Ändern des Betriebsmodells und der Betriebsleitlinien.
+-   Ändern des Betriebsmodells und der Betriebshandbücher.
 
 -   Richten Sie die lokale mehrstufige Authentifizierung ein.
 
@@ -79,11 +79,11 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
 -   Arbeiten Sie mit dem Team des Teams, um die teilnahmeberechtigter Dienste zu beginnen.
 
--   Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen.
+-   Beteiligen Sie sich an der Aktion Kick-off-Besprechung, verwalten und leiten Sie Teilnehmer aus Ihrer Organisation, und bestätigen Sie Korrektur Zeitpläne.
 
 ## <a name="assess-phase"></a>Analysephase
 
--   Bestimmen entsprechender Teilnehmer (einschließlich eines Projektleiters) zum Ausführen der erforderlichen Analyseaktivitäten.
+-   Identifizieren Sie geeignete beteiligte (einschließlich eines Projektmanagers), um die erforderlichen Bewertungsaktivitäten durchzuführen.
 
 -   Teilen Sie Ihren Bildschirm mit dem Team für die Zusammenarbeit mit, wenn Sie bei der Durchführung von Evaluierungstools für Ihre Umgebung, EMS oder ihre einzelnen Cloud-Service-Abonnements Hilfe benötigen (falls gewünscht).
 
@@ -99,7 +99,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
 -   Ausführen der erforderlichen Schritte zum Abschließen der in der Analysephase ermittelten Korrekturaktivitäten.
 
--   Teilnehmen an Besprechungen des Projektstands.
+-   Teilnehmen an Checkpoints-Besprechungen.
 
 ## <a name="enable-phase"></a>Aktivierungsphase
 

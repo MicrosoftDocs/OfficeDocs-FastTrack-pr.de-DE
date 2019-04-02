@@ -3,7 +3,7 @@ title: Desktop App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Das FastTrack Center-Leistungsangebot für Windows 10 bietet Zugriff auf Desktop App Assure – einen Dienst, der für die Lösung von Problemen mit der Windows 10- und Office 365 ProPlus-App-Kompatibilität bestimmt ist.
-ms.openlocfilehash: 5f0501efb04214a09d7f220b424e29c80e8dbf6d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: f00fc39b457923de720b70a8b63ae14996d681d3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355127"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016887"
 ---
 # <a name="desktop-app-assure"></a>Desktop App Assure
 

@@ -3,19 +3,19 @@ title: Aufgaben für Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355283"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016971"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US Government
 
@@ -169,7 +169,7 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren oder Deaktivieren von Benutzerlizenzen  
 - Microsoft Teams-Client-Verteilung.    
 - Features für IT-Experten und Administratoren. 
-- Wichtige Produktfunktionen.  
+- Wichtige Produktfunktionen  
 - Kundenerfolgsvorlagen
     
 ## <a name="power-bi"></a>Power BI

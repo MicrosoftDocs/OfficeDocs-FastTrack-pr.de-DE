@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360007"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017019"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -42,12 +42,12 @@ Nachdem Sie die entsprechende Anzahl von Lizenzen erworben haben, befolgen Sie d
 3. Wählen Sie **Dienste** aus.
 4. Führen Sie die **Anforderung für Hilfe mit Microsoft 365 Form aus**.
 
-Sobald der Onboarding-Support begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
+Sobald der Onboarding-Support gestartet wurde, richten wir einen Zeitplan für Onlinebesprechungen ein.
 
 > [!NOTE]
 > Wenn Sie einen Microsoft-Partner in Ihrem Office 365-Mandanten aufgeführt haben, wird diese Option nicht angezeigt. Wenden Sie sich an Ihren Microsoft-Partner.
 
-Microsoft-Partner können auch Hilfe über die [Website](https://go.microsoft.com/fwlink/?linkid=780698) "schnell" im Auftrag eines Kunden erhalten. Hierzu:
+Microsoft-Partner können auch Hilfe über die [Website](https://go.microsoft.com/fwlink/?linkid=780698) "schnell" im Auftrag eines Kunden erhalten. To do so:
 
 1. Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an.
 2. Wählen Sie **FastTrack** aus.
@@ -82,7 +82,7 @@ Wenn alle Korrekturaktivitäten abgeschlossen sind, wird das Projekt auf die Kon
 
 **Aktivieren der Phasen Kernfunktionen**
 
-Das Haupt-Onboarding umfasst die Dienst-und Mandanten-und Identitätsintegration. Sie enthält auch Schritte zum Bereitstelleneiner Grundlage für Onboarding-Onlinedienste wie Azure AD Premium und InTune.
+Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integration von Mandanten und Identitäten. Sie enthält auch Schritte zum Bereitstelleneiner Grundlage für Onboarding-Onlinedienste wie Azure AD Premium und InTune.
 
 ![Onboarding-Aktivierung von Phasen Kernfunktionen](./media/ft-enable-phase-core-01.png)
 

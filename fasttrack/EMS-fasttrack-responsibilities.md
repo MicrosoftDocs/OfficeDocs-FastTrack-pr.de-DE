@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359959"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016911"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -31,7 +31,7 @@ Während des onboardings hat die folgende Verantwortung.
 
 ## <a name="initiate-phase"></a>Einleitungsphase
 
--   Vorbereiten des Onboardings in Zusammenarbeit mit Ihnen.
+-   Arbeiten Sie mit dem Onboarding zusammen.
 
 -   Festlegen, für welche berechtigten Dienste das Onboarding erfolgen soll.
 
@@ -41,13 +41,13 @@ Während des onboardings hat die folgende Verantwortung.
 
 -   Bereitstellen von Anleitungen zu:
 
-    -   DNS-, Netzwerk- und Infrastrukturanforderungen.
+    -   DNS-, Netzwerk-und Infrastrukturanforderungen.
 
-    -   Clientanforderungen (benötigte Internetbrowser, Clientbetriebssysteme und Dienste).
+    -   Clientanforderungen (Internet Browser, Clientbetriebssystem und Dienste)
 
     -   Bereitstellen von Benutzeridentitäten und -konten.
 
-    -   Aktivieren berechtigter Dienste, die erworben und als Teil des Onboardings festgelegt wurden.
+    -   Aktivieren berechtigter Dienste, die erworben und als Teil des onboardings definiert wurden.
 
 -   Festlegen des Zeitrahmens für Korrekturaktivitäten.
 
@@ -68,7 +68,7 @@ Bereitstellen von Anleitungen zu:
 
 -   Überprüfen der Konnektivität mit Microsoft Online Services.
 
--   Für eine einzelne Gesamtstruktur-Umgebung:
+-   Für eine Umgebung mit einer einzelnen Gesamtstruktur:
 
     -   Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Active Directory-Domänendiensten (AD DS) und den berechtigten Microsoft Online Services (nur bei Bedarf).
 
@@ -96,7 +96,7 @@ Bereitstellen von Anleitungen zu:
 
 - Überprüfen der Konnektivität mit Azure AD Premium-Diensten.
 
-- Für eine einzelne Gesamtstruktur-Umgebung:
+- Für eine Umgebung mit einer einzelnen Gesamtstruktur:
 
   -   Installieren einer Verzeichnissynchronisierung zwischen Ihren Active Directory-Domänendiensten (AD DS) und Azure AD Connect, falls erforderlich.
 
@@ -109,7 +109,7 @@ Bereitstellen von Anleitungen zu:
   - Konfigurieren der Azure Active Directory Pass-Through-Authentifizierung, falls erforderlich.
   - Konfigurieren der Azure Active Directory Einmaligen Anmeldens (Single Sign-On, SSO), falls erforderlich.
     > [!NOTE]
-    > Die Azure Active Directory-Passthrough-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es zwischen Ihren Active Directory-Gesamtstrukturen eine Gesamtstrukturvertrauensstellungen gibt und das Routing von Namensuffixen ordnungsgemäß konfiguriert ist. Auf mehreren lokalen Servern können zusätzliche Agents installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen bereitzustellen.
+    > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten.
 
   - Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
   - Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Aktuelle Einschränkungen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).

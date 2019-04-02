@@ -5,25 +5,25 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1d11b2898176df059633cfb3fc2c6bb3f851c0b5
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359911"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016899"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
 
 Mit dem Vorteil von "schnell Center" für Microsoft Azure Active Directory Premium und Microsoft InTune arbeiten Sie Remote mit Spezialisten in der Umgebung zusammen, um die Bereitstellung und die Verwendung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung finden Sie unter Übersicht über den [Leistungsprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
-Das Onboarding besteht aus zwei wesentlichen Komponenten:
+Onboarding hat zwei Hauptkomponenten:
 
 -   **Haupt** -Onboarding-Aufgaben für die Mandanten Konfiguration und-Integration in Azure Active Directory, falls erforderlich. Das Haupt-Onboarding stellt auch die Basis für das Onboarding anderer Microsoft Online-berechtigter Dienste dar.
 
