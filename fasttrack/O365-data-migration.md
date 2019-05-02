@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: f000cd86aa49b335202dbd6d94a28c4888a6a8cf
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017079"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513750"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -23,7 +23,7 @@ FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration zu 
   
 Die in der folgenden Tabelle beschriebenen Datenmigrationsdienste sind für Office 365-Mandanten mit mindestens 500 Lizenzen verfügbar.\* Sie verfügen ggf. über Daten in Ihrer Quellumgebung, die Sie zu Office 365 migrieren möchten. Das FastTrack Center-Angebot umfasst Anleitung bei der Integration der Quellumgebung, um die Migration von Inhalten zu vereinfachen.
   
-\* Wenn Sie einen kommerziellen Plan vor dem 01.09.2017 erworben oder verlängert haben, sind 150 Lizenzen die Mindestanforderung für die gesamte Laufzeit Ihres aktuellen Abonnements, um die Vorteile der Migration zu erhalten. Bei Plänen für Bildungseinrichtungen sind nur Lehrpersonal und Mitarbeiter für Migrationsdienste berechtigt. 
+\*Wenn Sie einen kommerziellen Plan vor dem 01.09.2017 erworben oder verlängert haben, sind 150 Lizenzen die Mindestanforderung für die gesamte Laufzeit Ihres aktuellen Abonnements, um die Vorteile der Migration zu erhalten. Bei Plänen für Bildungseinrichtungen sind nur bezahlte Lizenzen  für Lehrpersonal und Mitarbeiter für Migrationsdienste berechtigt. 
   
 > [!NOTE]
 > Daten, die mit den FastTrack-Diensten migriert wurden,werden möglicherweise in Länder übermittelt, in denen Microsoft Einrichtungen unterhält, und dort gespeichert und verarbeitet (sofern nicht anders für das FastTrack-Angebot festgelegt). Die FastTrack-Dienste sind nicht für Daten vorgesehen, die besonderen rechtlichen oder behördlichen Vorschriften unterliegen. 
