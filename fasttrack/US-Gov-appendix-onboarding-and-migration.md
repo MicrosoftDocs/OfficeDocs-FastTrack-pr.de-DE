@@ -3,19 +3,19 @@ title: Onboarding-und Migrationsphasen für Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US Government hat vier Hauptphasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 24134f7c13ff251351ffdcd50e532fa6153207f9
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016983"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513635"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US Government
 
@@ -23,7 +23,7 @@ Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korr
   
 ![Phasen im Onboarding-Angebot](media/O365-Onboarding-Phases.png)
   
-Ausführliche Aufgaben für die einzelnen Phasen finden Sie unter "Aufgaben für die [Geschäftsführung von office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) und [ihre Zuständigkeiten für Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Ausführliche Aufgaben für die einzelnen Phasen finden Sie unter "Aufgaben für die [Geschäftsführung von Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) und [ihre Zuständigkeiten für Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Einleitungsphase
 
@@ -137,7 +137,7 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 - Erstellen von Konten für jedes Raumsystemgerät    
 - Bereitstellen eines unterstützten Skype for Business Online-Clients   
 - Einrichten einer geteilten Domänenserver Konfiguration zwischen Ihrer lokalen lync 2010-, lync 2013-oder Skype for Business 2015-Server Umgebung und Skype for Business Online-Mandanten (falls zutreffend).
-- Aktivieren von Anrufplänen, Skype-Besprechungs Übertragung, Telefon System und anrufPlänen (in verfügbaren Märkten – nicht verfügbar in GCC-hoch-oder DoD-Plänen) 
+- Aktivieren von Anrufplänen, Skype-Besprechungs Übertragung, Telefon System und Anrufplänen (in verfügbaren Märkten – nicht verfügbar in gcc-hoch-oder DoD-Plänen) 
     
 ![Schritte beim Onboarding von Lync während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -146,7 +146,7 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Im GCC-hoch-oder DoD-Plan ist das folgende nicht verfügbar.
+> Im gcc-hoch-oder DoD-Plan ist das folgende nicht verfügbar.
 
 Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit: 
 - Sicherstellen der Mindestanforderungen   
@@ -177,7 +177,7 @@ Für Project Online stellen wir Anweisungen zu folgenden Themen bereit:
 Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts bereit.
 
 > [!NOTE]
-> Jammern Enterprise ist kein Bestandteil von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in GCC lizenziert ist, kostenlos erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in GCC-hoch-oder DoD-Plänen nicht verfügbar. 
+> Jammern Enterprise ist kein Bestandteil von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in gcc lizenziert ist, kostenlos erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc-hoch-oder DoD-Plänen nicht verfügbar. 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 

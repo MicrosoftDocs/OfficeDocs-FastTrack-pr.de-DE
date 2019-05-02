@@ -1,23 +1,23 @@
 ---
-title: Ihre zuStändigkeiten für Office 365 US Government
+title: Ihre Zuständigkeiten für Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: a7053abfaf0a47023e031b1d400f0e9c1ff6187c
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9f20f365868e506ffa2beda8306919e32ce3f3f8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016859"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513042"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Ihre zuStändigkeiten für Office 365 US Government
+# <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Zuständigkeiten für Office 365 US Government
 
 Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
   
@@ -58,7 +58,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
     
 ## <a name="initiate-phase"></a>Einleitungsphase
 
-- Einrichten von kollaborativem Microsoft Teams-Space für Onboarding-Partnerschaften und einladen der Teammitglieder des Center-Teams (nicht verfügbar in GCC-hoch-oder DoD-Plänen).   
+- Einrichten von kollaborativem Microsoft Teams-Space für Onboarding-Partnerschaften und einladen der Teammitglieder des Center-Teams (nicht verfügbar in gcc-hoch-oder DoD-Plänen).   
 - Beginnen des Onboardings berechtigter Dienste in Zusammenarbeit mit FastTrack-Spezialisten.    
 - Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen    
 - Zusammenstellen von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Microsoft Teams und Office 365 ProPlus) und Unternehmenszielen

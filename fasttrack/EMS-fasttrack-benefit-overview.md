@@ -5,29 +5,29 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016899"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513167"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
 
-Mit dem Vorteil von "schnell Center" für Microsoft Azure Active Directory Premium und Microsoft InTune arbeiten Sie Remote mit Spezialisten in der Umgebung zusammen, um die Bereitstellung und die Verwendung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung finden Sie unter Übersicht über den [Leistungsprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+Mit dem schnell Center-Vorteil für Microsoft Azure Active Directory Premium, Microsoft InTune und Azure Information Protection arbeiten Sie Remote mit Spezialisten in der Umgebung, um Ihre Umgebungen zu nutzen und die Einführung und Verwendung in Ihrem Organisation. Weitere Informationen zur Berechtigung finden Sie unter Übersicht über den [Leistungsprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
 Onboarding hat zwei Hauptkomponenten:
 
 -   **Haupt** -Onboarding-Aufgaben für die Mandanten Konfiguration und-Integration in Azure Active Directory, falls erforderlich. Das Haupt-Onboarding stellt auch die Basis für das Onboarding anderer Microsoft Online-berechtigter Dienste dar.
 
--   **Dienst** Onboarding-Aufgaben, die zum Konfigurieren einer der eigenständigen Versionen der EMS-Arbeitsauslastung (Azure AD Premium und InTune) erforderlich sind.
+-   **Dienst** Onboarding – Aufgaben, die zum Konfigurieren einer der eigenständigen Versionen der EMS-Arbeitsauslastung erforderlich sind (Azure AD Premium, InTune und Azure Information Protection).
 
 Im folgenden Diagramm werden die allgemeinen Onboarding-Phasen für die Vorteile des "schnell Center" beschrieben.
 

@@ -3,18 +3,18 @@ title: 'Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Of
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit Spezialisten in der Umgebung, um Ihre Office 365-Umgebungen für die Nutzung vorzubereiten und die Einführung und Verwendung in Ihrer Organisation zu planen.
-ms.openlocfilehash: d56bbc0e78aa532cde6aaf80da6fa3c3f8625996
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 50ae955966373ac8c5d570c5587de256c68087a1
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016853"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513078"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government
 
@@ -31,7 +31,7 @@ Es werden folgende Themen behandelt:
 - [Onboarding-und Migrationsphasen für Office 365 US Government](US-Gov-appendix-onboarding-and-migration.md)
 - [Datenmigration](O365-data-migration.md)    
 - [Aufgaben für Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [Ihre zuStändigkeiten für Office 365 US Government](US-Gov-appendix-your-responsibilities.md) 
+- [Ihre Zuständigkeiten für Office 365 US Government](US-Gov-appendix-your-responsibilities.md) 
 - [Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Anhang B: FastTrack Center - zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
 

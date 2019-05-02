@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016911"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513834"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -164,7 +164,7 @@ Anleitungen zum Einrichten von:
 
   - Azure Active Directory-privilegierte Identitätsverwaltung.
 
-  - Azure Active Directory-ZugriffsüberPrüfungen.
+  - Azure Active Directory-Zugriffsüberprüfungen.
 
 ### <a name="enable-phase---intune"></a>Phase-InTune aktivieren
 
@@ -193,7 +193,7 @@ Unter **Stützung** für:
 
         -   App-Bereitstellung für jede unterstützte Plattform über Weblinks, MSI und/oder Deep Links.
 
-        -   Bereitstellen von Office proPlus auf Windows 10-Geräten
+        -   Bereitstellen von Office ProPlus auf Windows 10-Geräten
 
         -   Volumen Kaufprogramme für die APP-Bereitstellung, einschließlich des VSS-Speichers von Apple, Windows Store for Business und Googles Play for Work Store.
 
@@ -230,7 +230,7 @@ Unter **Stützung** für:
 
     - Konfigurieren und Einrichten von Microsoft InTune für Windows Autopilot.
 
-    - Konfigurieren von dynamischen Azure AD-Gruppen
+    - Konfigurieren von dynamischen Azure Ad-Gruppen
 
     - Fügen Sie Ihr Unternehmensbranding in Azure AD hinzu.
 
@@ -280,6 +280,22 @@ Bereitstellen von Anleitungen zu:
 - Wechseln Sie die Arbeitsauslastungen auf InTune.
 
 - Überwachen Sie die Co-Management-Aktivität in Ihrer Umgebung.
+
+### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
+
+Unterstützung für: 
+
+- Kunden zum automatischen klassifizieren und Beschriften von Informationen in Office-Apps (wie Word, PowerPoint, Excel und Outlook), die unter Windows und mit dem Azure Information Protection-Client verwendet werden. 
+- Dateien im Rest mithilfe des Azure Information Protection-Scanners.
+- E-Mails bei der Übertragung mithilfe von Exchange Online-Nachrichtenfluss Regeln. 
+
+Unterstützung finden Sie auch für Kunden, die Schutz mit Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OM) und Data Loss Prevention (DLP) anwenden möchten. 
+
+Kunden erhalten Anleitungen zu folgenden Themen: 
+
+- Aktivieren und konfigurieren Sie Ihren Mandanten.
+- Erstellen und Einrichten von Bezeichnungen und Richtlinien
+- Anwenden des Informationsschutzes auf Dokumente. 
 
 > [!NOTE]
 > **Möchten Sie mehr erfahren?** siehe [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).

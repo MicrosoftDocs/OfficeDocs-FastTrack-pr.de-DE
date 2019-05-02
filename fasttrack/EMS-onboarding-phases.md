@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767294"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513488"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
-Wenn Sie die [berechtigtEn Dienste und Pläne](M365-eligible-services-and-plans.md) für die Verwendung von Microsoft Azure Active Directory Premium und Microsoft InTune verwenden, sind mehrere Phasen am Prozess beteiligt. In den folgenden Abschnitten werden die einzelnen Phasen des Onboarding-Prozesses beschrieben.
+Wenn Sie die [berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) zum Abrufen von Microsoft Azure Active Directory Premium, Microsoft InTune und Azure Information Protection verwenden, sind mehrere Phasen am Prozess beteiligt. In den folgenden Abschnitten werden die einzelnen Phasen des Onboarding-Prozesses beschrieben.
 
 Onboarding hat vier Hauptphasen:
 
@@ -82,7 +82,7 @@ Wenn alle Korrekturaktivitäten abgeschlossen sind, wird das Projekt auf die Kon
 
 **Aktivieren der Phasen Kernfunktionen**
 
-Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integration von Mandanten und Identitäten. Sie enthält auch Schritte zum Bereitstelleneiner Grundlage für Onboarding-Onlinedienste wie Azure AD Premium und InTune.
+Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integration von Mandanten und Identitäten. Sie enthält auch Schritte zum Bereitstelleneiner Grundlage für Onboarding-Onlinedienste wie Azure AD Premium, InTune und Azure Information Protection.
 
 ![Onboarding-Aktivierung von Phasen Kernfunktionen](./media/ft-enable-phase-core-01.png)
 
@@ -101,7 +101,7 @@ Für Azure AD Premium-Szenarien, die die Synchronisierung von lokalen Identität
 
 Das Azure AD Premium-Setup umfasst die Aktivierung der folgenden Features:
 
--   Azure Active Directory-Self-Service-KennwortzurückSetzung (SSPR).
+-   Azure Active Directory-Self-Service-Kennwortzurücksetzung (SSPR).
 
 -   Azure Multi-Factor Authentication (Azure MFA).
 
@@ -125,7 +125,7 @@ Das Azure AD Premium-Setup umfasst die Aktivierung der folgenden Features:
 
 -   Azure Active Directory-privilegierte Identitätsverwaltung.
 
--   Azure Active Directory-ZugriffsüberPrüfungen.
+-   Azure Active Directory-Zugriffsüberprüfungen.
 
 ![Onboarding enable-Phase-Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
@@ -208,7 +208,7 @@ Die Schritte zum Einrichten von Windows Autopilot sind von der Quellumgebung abh
 
 - Konfigurieren und Einrichten von Microsoft InTune für Windows Autopilot.
 
-- Konfigurieren von dynamischen Azure AD-Gruppen
+- Konfigurieren von dynamischen Azure Ad-Gruppen
 
 - Fügen Sie Ihr Unternehmensbranding in Azure AD hinzu.
 
@@ -218,21 +218,21 @@ Die Schritte zum Einrichten von Windows Autopilot sind von der Quellumgebung abh
 
 - Konfigurieren der automatischen MDM-Registrierung in Azure AD und InTune.
 
-#### <a name="deploy-outlook-for-ios-and-android-securely"></a>Sicheres Bereitstellen von Outlook für iOS und Android
+#### <a name="deploy-outlook-for-ios-and-android-securely"></a>Sicheres Bereitstellen von Outlook für IOS und Android
 
-Mit der Hilfe können Sie Outlook für iOS und Android sicher in Ihrer Organisation bereitstellen, um sicherzustellen, dass Ihre Benutzer alle erforderlichen apps installiert haben.
+Mit der Hilfe können Sie Outlook für IOS und Android sicher in Ihrer Organisation bereitstellen, um sicherzustellen, dass Ihre Benutzer alle erforderlichen apps installiert haben.
 
-Die Schritte zur sicheren Bereitstellung von Outlook Mobile für iOS und Android mit InTune hängen von der Quellumgebung ab und können Folgendes aufweisen:
+Die Schritte zur sicheren Bereitstellung von Outlook Mobile für IOS und Android mit InTune hängen von der Quellumgebung ab und können Folgendes aufweisen:
 
-- Laden Sie Outlook für iOS und Android, Microsoft Authenticator und die Intune-Unternehmensportal-App über den Apple App Store oder den Google Play Store herunter.
+- Laden Sie Outlook für IOS und Android, Microsoft Authenticator und die Intune-Unternehmensportal-App über den Apple App Store oder den Google Play Store herunter.
 - Geben Sie auch Anweisungen zum Einrichten von:
-    - Outlook für iOS und Android, Microsoft Authenticator und die Intune-Unternehmensportal-App-Bereitstellung mit InTune.
+    - Outlook für IOS und Android, Microsoft Authenticator und die Intune-Unternehmensportal-App-Bereitstellung mit InTune.
     - App-Schutzrichtlinien
     - Richtlinien für bedingten Zugriff
     - App-Konfigurationsrichtlinien
 
     > [!IMPORTANT]
-    > Das Team unterstützt das Sichern von Outlook für iOS und Android nicht mit Postfachrichtlinien für mobile Geräte von Exchange.
+    > Das Team unterstützt das Sichern von Outlook für IOS und Android nicht mit Postfachrichtlinien für mobile Geräte von Exchange.
 
 #### <a name="co-management"></a>Gemeinsame Verwaltung
 
@@ -269,6 +269,23 @@ In diesem Artikel finden Sie auch Anleitungen zur erfolgreichen Einführung der 
 ![Onboarding enable-Phase – InTune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![Onboarding-Phase-Co-Management aktivieren](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
+
+Azure Information Protection bietet Unterstützung für: 
+
+- Kunden zum automatischen klassifizieren und Beschriften von Informationen in Office-Apps (wie Word, PowerPoint, Excel und Outlook), die unter Windows und mit dem Azure Information Protection-Client verwendet werden. 
+- Dateien im Rest mithilfe des Azure Information Protection-Scanners.
+- E-Mails bei der Übertragung mithilfe von Exchange Online-Nachrichtenfluss Regeln. 
+
+Unterstützung finden Sie auch für Kunden, die Schutz mit Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OM) und Data Loss Prevention (DLP) anwenden möchten. 
+
+Kunden erhalten Anleitungen zu folgenden Themen: 
+
+- Aktivieren und konfigurieren Sie Ihren Mandanten.
+- Erstellen und Einrichten von Bezeichnungen und Richtlinien
+- Anwenden des Informationsschutzes auf Dokumente. 
+
 
 > [!NOTE]
 > **Möchten Sie mehr erfahren?** siehe [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).

@@ -3,19 +3,19 @@ title: Aufgaben für Office 365 US Government
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4b527f43bd3030f810f3334f7405d7fc357d2d1f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016971"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513127"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US Government
 
@@ -79,8 +79,8 @@ Bereitstellen von Anleitungen zu:
   - Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Office 365-Domänendiensten (AD DS) und Active Directory, falls erforderlich.   
   - Konfigurieren der Kennwortsynchronisierung (Kennworthash) für Office 365 (Azure Active Directory) mit dem Tool „Azure Active Directory Connect“, falls erforderlich.  
   - Für Umgebungen mit einer einzigen und mehreren Gesamtstrukturen:
-      - Konfigurieren der Azure Active Directory-Passthrough-Authentifizierung (falls erforderlich) (nicht verfügbar in GCC-hoch-oder DoD-Plänen)
-      - Konfigurieren von Azure Active Directory Seamless-einmaliges Anmelden (SSO), falls erforderlich (nicht verfügbar in GCC-hoch-oder DoD-Plänen).
+      - Konfigurieren der Azure Active Directory-Passthrough-Authentifizierung (falls erforderlich) (nicht verfügbar in gcc-hoch-oder DoD-Plänen)
+      - Konfigurieren von Azure Active Directory Seamless-einmaliges Anmelden (SSO), falls erforderlich (nicht verfügbar in gcc-hoch-oder DoD-Plänen).
     > [!NOTE]
     > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten. Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860094) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Aktuelle Einschränkungen](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -100,7 +100,7 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren des E-Mail-Routings zwischen dem Quellmessagingsystem und Office 365-Umgebungen    
 - Konfigurieren von Exchange Online Protection-Funktionen (einschließlich Exchange Online Advanced Threat ProtectionFunktionen, falls in Ihrem Abonnement verfügbar) und Sicherstellen, dass die MX-Einträge auf Office 365 für alle E-Mail-aktivierten Domänen verweisen.   
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
-- Einrichten von Unified Messaging (UM) mit Exchange Online (UM ist in den GCC-DoD-Plänen nicht verfügbar). 
+- Einrichten von Unified Messaging (um) mit Exchange Online (um ist in den gcc-DoD-Plänen nicht verfügbar). 
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
@@ -147,19 +147,19 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren von Audiokonferenzen:   
   - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke   
   - Zuweisen einer Konferenzbrücke zu lizenzierten Benutzern 
-- Aktivieren des Telefonsystems (nicht verfügbar in GCC High-oder DoD-Plänen):  
+- Aktivieren des Telefonsystems (nicht verfügbar in gcc High-oder DoD-Plänen):  
   - Aktivieren des Telefonsystems und Plänen für Anrufonboarding (auf verfügbaren Märkten) 
   - Zuweisung von Nummern zu lizenzierten Benutzern  
   - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999  
   - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus  
-- Aktivieren von Skype for Business-Besprechungs Übertragung (nicht verfügbar in GCC High-oder DoD-Plänen):  
+- Aktivieren von Skype for Business-Besprechungs Übertragung (nicht verfügbar in gcc High-oder DoD-Plänen):  
   - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen  
   - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Im GCC-hoch-oder DoD-Plan ist das folgende nicht verfügbar.
+> Im gcc-hoch-oder DoD-Plan ist das folgende nicht verfügbar.
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen   
@@ -193,7 +193,7 @@ Bereitstellen von Anleitungen zu:
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
 
 > [!NOTE]
-> Jammern Enterprise ist kein Bestandteil von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in GCC lizenziert ist, kostenlos erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in GCC-hoch-oder DoD-Plänen nicht verfügbar.
+> Jammern Enterprise ist kein Bestandteil von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in gcc lizenziert ist, kostenlos erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc-hoch-oder DoD-Plänen nicht verfügbar.
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
