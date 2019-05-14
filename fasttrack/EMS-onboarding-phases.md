@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513488"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967984"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -47,7 +47,7 @@ Sobald der Onboarding-Support gestartet wurde, richten wir einen Zeitplan für O
 > [!NOTE]
 > Wenn Sie einen Microsoft-Partner in Ihrem Office 365-Mandanten aufgeführt haben, wird diese Option nicht angezeigt. Wenden Sie sich an Ihren Microsoft-Partner.
 
-Microsoft-Partner können auch Hilfe über die [Website](https://go.microsoft.com/fwlink/?linkid=780698) "schnell" im Auftrag eines Kunden erhalten. To do so:
+Microsoft-Partner können auch Hilfe über die [Website](https://go.microsoft.com/fwlink/?linkid=780698) "schnell" im Auftrag eines Kunden erhalten. Gehen Sie hierzu folgendermaßen vor:
 
 1. Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an.
 2. Wählen Sie **FastTrack** aus.
@@ -272,7 +272,7 @@ In diesem Artikel finden Sie auch Anleitungen zur erfolgreichen Einführung der 
 
 #### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
 
-Azure Information Protection bietet Unterstützung für: 
+Azure Information Protection bietet Anweisungen zu folgenden Themen: 
 
 - Kunden zum automatischen klassifizieren und Beschriften von Informationen in Office-Apps (wie Word, PowerPoint, Excel und Outlook), die unter Windows und mit dem Azure Information Protection-Client verwendet werden. 
 - Dateien im Rest mithilfe des Azure Information Protection-Scanners.

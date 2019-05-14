@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ecd03448901c62acf4b131ce83748216fdf5f7
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513378"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967972"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
@@ -47,7 +47,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
 -   Verwalten von Netzwerkkonfiguration, Analyse, Bandbreiten Überprüfung, Tests und Überwachung.
 
--   Verwalten eines Genehmigungsprozesses für das technische Änderungsmanagement und Erstellen von unterstützenden Dokumentationen.
+-   Verwalten eines Genehmigungsprozesses für das technische Änderungsmanagement und Erstellen einer Anleitungs basierten Dokumentation.
 
 -   Ändern des Betriebsmodells und der Betriebshandbücher.
 
