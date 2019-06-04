@@ -3,35 +3,35 @@ title: 'Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Of
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
-description: Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit Spezialisten in der Umgebung, um Ihre Office 365-Umgebungen für die Nutzung vorzubereiten und die Einführung und Verwendung in Ihrer Organisation zu planen.
-ms.openlocfilehash: 50ae955966373ac8c5d570c5587de256c68087a1
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+description: Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit den Spezialisten für Zeitarbeits Experten zusammen, um Ihre Office 365 Umgebung für die Verwendung bereitzustellen und die Einführung und Nutzung in Ihrer Organisation zu planen.
+ms.openlocfilehash: 3e7dfbb34fe7d6438c5fb0857a10e318cabe5496
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513078"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673810"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government
 
-Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit Spezialisten in der Umgebung, um Ihre Office 365-Umgebungen für die Nutzung vorzubereiten und die Einführung und Verwendung in Ihrer Organisation zu planen. 
+Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit den Spezialisten für Zeitarbeits Experten zusammen, um Ihre Office 365 Umgebung für die Verwendung bereitzustellen und die Einführung und Nutzung in Ihrer Organisation zu planen. 
   
-Obwohl die meisten Produkte und Features die gleichen zwischen Office 365 Suite und Office 365 U.S. Government sind, sind derzeit nicht alle Features in allen Plänen verfügbar. Lesen Sie die [Office 365 US Government](https://aka.ms/aboutgovcloud) Service Description für die aktuelle Liste der Features.
+Obwohl die meisten Produkte und Features zwischen Office 365 Suite und Office 365 US-Regierung gleich sind, sind nicht alle Features derzeit in allen Plänen verfügbar. Überprüfen Sie die [Office 365 US Government](https://aka.ms/aboutgovcloud) -Dienstbeschreibung für die aktuellste Liste der Funktionen.
 
 > [!NOTE]
-> Um die Dienste für die Dienstleistung zu erhalten, wechseln Sie zur [Website "Site](https://go.microsoft.com/fwlink/?linkid=780698) " und fordern Sie Hilfe an.  
+> Um die Dienste für die Kurzarbeiter zu erhalten, wechseln Sie zur Website für die [Website](https://go.microsoft.com/fwlink/?linkid=780698) und fordern Sie Hilfe an.  
 
 Es werden folgende Themen behandelt:
 - [Der FastTrack-Prozess](O365-fasttrack-process.md) 
 - [Erwartungen der Quellumgebung für Office 365 US-Regierung](US-Gov-appendix-source-environment-expectations.md)   
-- [Onboarding-und Migrationsphasen für Office 365 US Government](US-Gov-appendix-onboarding-and-migration.md)
+- [Onboarding-und Migrationsphasen für Office 365 US-Regierung](US-Gov-appendix-onboarding-and-migration.md)
 - [Datenmigration](O365-data-migration.md)    
-- [Aufgaben für Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md)   
-- [Ihre Zuständigkeiten für Office 365 US Government](US-Gov-appendix-your-responsibilities.md) 
+- [Aufgaben für Office 365 US-Regierung](US-Gov-appendix-fasttrack-responsibilities.md)   
+- [Ihre Verantwortlichkeiten für Office 365 US-Regierung](US-Gov-appendix-your-responsibilities.md) 
 - [Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Anhang B: FastTrack Center - zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
 

@@ -1,29 +1,29 @@
 ---
-title: Onboarding-und Migrationsphasen für Office 365 US Government
+title: Onboarding-und Migrationsphasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'Office 365 Onboarding für Office 365 US Government hat vier Hauptphasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 8be691ee3a83e7dacea2d287460642c37c461ab3
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
+ms.openlocfilehash: df213cb579aeff338345b24530ab78a8a84a9d95
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513635"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673846"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US Government
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
 Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.
   
 ![Phasen im Onboarding-Angebot](media/O365-Onboarding-Phases.png)
   
-Ausführliche Aufgaben für die einzelnen Phasen finden Sie unter "Aufgaben für die [Geschäftsführung von Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) und [ihre Zuständigkeiten für Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Ausführliche Aufgaben für jede Phase finden Sie unter Aufgaben für [Office 365 US-Regierung](US-Gov-appendix-fasttrack-responsibilities.md) und [ihre Zuständigkeiten für Office 365 US-Regierung](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Einleitungsphase
 
@@ -61,7 +61,7 @@ Dabei arbeiten wir Ihnen zusammen, um mehr über die beabsichtigte Nutzung des D
 
 Ihr FastTrack Manager führt mit Ihnen und dem Einführungsteam ein interaktives Planungsgespräch. Dabei werden Ihnen die Funktionen der erworbenen Dienste, die wichtigsten Grundlagen für Ihren Erfolg, die Methodik zur Steigerung der Nutzung des Service und verschiedene Szenarios vorgestellt, wie Sie einen Nutzen aus den Diensten ziehen können. Wir unterstützen Sie bei der Erfolgsplanung und liefern, soweit erforderlich, Feedback zu wichtigen Bereichen.
   
-FastTrack-Spezialisten arbeiten bei der Analyse Ihrer Quellumgebung und der Anforderungen mit Ihnen zusammen. Wir stellen Tools bereit, mit denen Sie Daten zu Ihrer Umgebung erfassen und Sie bei der Schätzung der Bandbreitenanforderungen und bei der Bewertung ihrer Internet Browser, Clientbetriebssysteme, des DNS (Domain Name System), des Netzwerks, der Infrastruktur und des identitätssystems unterstützen können, um bestimmen Sie, ob für das Onboarding Änderungen erforderlich sind. 
+FastTrack-Spezialisten arbeiten bei der Analyse Ihrer Quellumgebung und der Anforderungen mit Ihnen zusammen. Wir stellen Ihnen Tools zur Verfügung, um Daten über Ihre Umgebung zu sammeln und Sie durch die Schätzung der Bandbreitenanforderungen und die Bewertung ihrer Internet Browser, Clientbetriebssysteme, des DNS (Domain Name System), des Netzwerks, der Infrastruktur und des identitätssystems zu unterstützen, um Ermitteln Sie, ob für das Onboarding Änderungen erforderlich sind. 
   
 Basierend auf Ihrer aktuellen Einrichtung erstellen wir einen Korrekturplan. Nach Befolgen dieses Plans wird Ihre Quellumgebung an die Mindestanforderungen für ein erfolgreiches Onboarding für Office 365 und bei Bedarf eine erfolgreiche Postfach- und/oder Datenmigration angepasst. Wir stellen verschiedene mögliche Maßnahmen zur Verfügung, mit denen sich der Nutzen für Endbenutzer und die Akzeptanz durch diese steigern lassen. Für die Korrekturphase setzen wir auch entsprechende Telefonkonferenzen an.
   
@@ -136,8 +136,8 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 - Einrichten von DNS    
 - Erstellen von Konten für jedes Raumsystemgerät    
 - Bereitstellen eines unterstützten Skype for Business Online-Clients   
-- Einrichten einer geteilten Domänenserver Konfiguration zwischen Ihrer lokalen lync 2010-, lync 2013-oder Skype for Business 2015-Server Umgebung und Skype for Business Online-Mandanten (falls zutreffend).
-- Aktivieren von Anrufplänen, Skype-Besprechungs Übertragung, Telefon System und Anrufplänen (in verfügbaren Märkten – nicht verfügbar in gcc-hoch-oder DoD-Plänen) 
+- Einrichten einer geteilten Domänenserver Konfiguration zwischen Ihrem lokalen lync 2010, lync 2013 oder Skype for Business 2015 Server Umgebung und Skype for Business Online Mandanten (falls zutreffend).
+- Aktivieren von Anrufplänen, Skype-Besprechungs Broadcasts sowie Telefon System-und Anrufplänen (in verfügbaren Märkten – nicht verfügbar in gcc High-oder DoD-Plänen) 
     
 ![Schritte beim Onboarding von Lync während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -146,7 +146,7 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Im gcc-hoch-oder DoD-Plan ist das folgende nicht verfügbar.
+> Die folgenden Optionen stehen in gcc High-oder DoD-Plänen nicht zur Verfügung.
 
 Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit: 
 - Sicherstellen der Mindestanforderungen   
@@ -177,7 +177,7 @@ Für Project Online stellen wir Anweisungen zu folgenden Themen bereit:
 Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts bereit.
 
 > [!NOTE]
-> Jammern Enterprise ist kein Bestandteil von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in gcc lizenziert ist, kostenlos erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc-hoch-oder DoD-Plänen nicht verfügbar. 
+> Jammern Enterprise ist keine Komponente von Office 365 US-Regierung, kann aber ohne Kosten als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in gcc lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc High-oder DoD-Plänen nicht verfügbar. 
   
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
