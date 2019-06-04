@@ -1,37 +1,39 @@
 ---
 title: FastTrack-Zuständigkeiten
-description: Die Zuständigkeiten von "bei", wenn Kunden den Vorteil für EMS nutzen
+description: Die Zuständigkeiten von FastTrack, wenn Kunden den FastTrack-Leistungsangebot für EMS nutzen
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: b4444aae990b064cf6b22921d897e0bd948f6ed1
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967960"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673455"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
-Während des onboardings hat die folgende Verantwortung.
+Zu den Zuständigkeiten von FastTrack während des Onboardings zählen die folgenden.
 
 ## <a name="general"></a>Allgemein
 
--   Stellen Sie Remote Support für die erforderlichen Konfigurationsaktivitäten bereit, die in den detaillierten Phasen Beschreibungen aufgeführt sind.
+-   Remoteunterstützung bei den erforderlichen Konfigurationsaktivitäten, wie in den Phasenbeschreibungen ausführlicher erläutert.
 
--   Stellen Sie verfügbare Dokumentation, Software Tools und Verwaltungskonsolen bereit, um Konfigurationsaufgaben zu reduzieren oder zu vermeiden.
+-   Bereitstellen verfügbarer Dokumentation, Softwaretools und Verwaltungskonsolen damit Sie Konfigurationsaufgaben verringern oder ganz weglassen können.
 
 ## <a name="initiate-phase"></a>Einleitungsphase
 
--   Arbeiten Sie mit dem Onboarding zusammen.
+-   Vorbereiten des Onboardings in Zusammenarbeit mit Ihnen.
 
 -   Festlegen, für welche berechtigten Dienste das Onboarding erfolgen soll.
 
@@ -41,50 +43,50 @@ Während des onboardings hat die folgende Verantwortung.
 
 -   Bereitstellen von Anleitungen zu:
 
-    -   DNS-, Netzwerk-und Infrastrukturanforderungen.
+    -   DNS-, Netzwerk- und Infrastrukturanforderungen.
 
-    -   Clientanforderungen (Internet Browser, Clientbetriebssystem und Dienste)
+    -   Clientanforderungen (benötigte Internetbrowser, Clientbetriebssysteme und Dienste).
 
     -   Bereitstellen von Benutzeridentitäten und -konten.
 
-    -   Aktivieren berechtigter Dienste, die erworben und als Teil des onboardings definiert wurden.
+    -   Aktivieren berechtigter Dienste, die erworben und als Teil des Onboardings festgelegt wurden.
 
 -   Festlegen des Zeitrahmens für Korrekturaktivitäten.
 
--   Stellen Sie eine Prüfliste für die Behebung sowohl für InTune als auch für Azure AD Premium bereit.
+-   Bereitstellen einer Korrektur-Checkliste für Intune und Azure AD Premium.
 
 ## <a name="remediate-phase"></a>Korrekturphase
 
--   Halten Sie Konferenzanrufe mit Ihnen gemäß dem vereinbarten Zeitplan an, um den Fortschritt der Korrekturaktivitäten zu überarbeiten, beispielsweise führen Sie durch die Installation Voraussetzungen vor Onboarding a Microsoft Cloud Service.
+-   Halten von Konferenzgesprächen mit Ihnen gemäß dem vereinbarten Zeitplan, um den Fortschritt der Korrekturaktivitäten zu überprüfen, z.B. Sie werden durch die Installationsvoraussetzungen begleitet vor dem Onboarding eines Microsoft Cloud Services.
 
 ## <a name="enable-phase"></a>Aktivierungsphase
 Bereitstellen von Anleitungen zu:
 
--   Aktivieren des Microsoft Online Service-Mandanten oder-Abonnements.
+-   Aktivierung des Microsoft Online-Dienstmandanten oder -Abonnements.
 
 -   Konfigurieren von TCP/IP-Protokollen und Firewallports.
 
 -   Konfigurieren von DNS für berechtigte Dienste
 
--   Überprüfen der Konnektivität mit Microsoft Online Services.
+-   Überprüfen der Konnektivität mit Microsoft-Onlinediensten.
 
--   Für eine Umgebung mit einer einzelnen Gesamtstruktur:
+-   Für eine einzelne Gesamtstruktur-Umgebung:
 
-    -   Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Active Directory-Domänendiensten (AD DS) und den berechtigten Microsoft Online Services (nur bei Bedarf).
+    -   Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Active Directory Domain Services (AD DS) und die in Frage kommenden Microsoft Online Services (nur Anleitung, falls erforderlich).
 
-    -   Konfigurieren der verwalteten Authentifizierung (Kenn Wort Hash Synchronisierung oder Pass-Through-Authentifizierung) mit dem Azure Active Directory Connect-Tool. (nur bei Bedarf).
+    -   Konfigurieren der verwalteten Authentifizierung (Kennworthashsynchronisierung oder Passthrough-Authentifizierung) mit dem Azure Active Directory Connect-Tool. (nur Anleitung, falls erforderlich).
 
         > [!NOTE]
-        > Entwicklung und Implementierung für benutzerdefinierte Regelerweiterungen liegen außerhalb des Bereichs.
+        > Entwicklung und Implementierung für benutzerdefinierte Regelerweiterungen werden nicht berücksichtigt.
 
--   Für eine einzelne Gesamtstruktur, wenn das Ziel Verbundidentitäten ist: Installieren und Konfigurieren von Active Directory-Verbunddienste (AD FS) für die lokale Domänenauthentifizierung mit InTune in einer fehlertoleranten Konfiguration mit einem einzigen Standort, falls erforderlich.
+-   Für eine einzelne Gesamtstruktur mit Verbundidentitäten ist das Ziel: Installieren und Konfigurieren von Active Directory-Verbunddienste (AD FS) für die lokale Domänenauthentifizierung mit Intune in einer fehlertoleranten Konfiguration für einen Einzelstandort, falls erforderlich.
 
     > [!NOTE]
     > Für alle Konfigurationen mit mehreren Gesamtstrukturen liegen AD FS-Bereitstellungen außerhalb des Bereichs.
 
--   Testen der einmaligen Anmeldung (SSO)-Funktionalität, sofern bereitgestellt.
+-   Testen der Funktionalität für einmaliges Anmelden, sofern bereitgestellt.
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>Phase aktivieren – Microsoft Azure Active Directory Premium
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a>Aktivierungsphase -- Microsoft Azure Active Directory Premium
 
 Bereitstellen von Anleitungen zu:
 
@@ -92,19 +94,19 @@ Bereitstellen von Anleitungen zu:
 
 - Konfigurieren von Firewallports.
 
-- Konfigurieren von DNS für berechtigte Dienste
+- Konfigurieren von DNS für berechtigte Dienste.
 
-- Überprüfen der Konnektivität mit Azure AD Premium-Diensten.
+- Überprüfung der Konnektivität zu Azure AD Premium-Diensten.
 
-- Für eine Umgebung mit einer einzelnen Gesamtstruktur:
+- Für eine einzelne Gesamtstruktur-Umgebung:
 
-  -   Installieren einer Verzeichnissynchronisierung zwischen Ihren Active Directory-Domänendiensten (AD DS) und Azure AD Connect, falls erforderlich.
+  -   Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Active Directory Domain Services (AD DS) und Azure AD Connect, falls erforderlich.
 
-  -   Konfigurieren einer Authentifizierungsmethode (Kenn Wort Hash Synchronisierung oder Pass-Through-Authentifizierung) mit dem Azure AD Connect-Tool.
+  -   Konfigurieren der verwalteten Authentifizierung Methode (Kennworthashsynchronisierung oder Passthrough-Authentifizierung) mit dem Azure Active Directory Connect-Tool.
 
 - Für eine Umgebung mit mehreren Gesamtstrukturen:
 
-  -   Installieren der Azure AD Connect-Synchronisierung, eingerichtet für Szenarien mit mehreren Gesamtstrukturen
+  -   Installieren von Azure AD Connect-Synchronisierung, eingerichtet für eine Umgebung mit mehreren Gesamtstrukturen.
 - Für Umgebungen mit einer einzigen und mehreren Gesamtstrukturen:
   - Konfigurieren der Azure Active Directory Pass-Through-Authentifizierung, falls erforderlich.
   - Konfigurieren der Azure Active Directory Einmaligen Anmeldens (Single Sign-On, SSO), falls erforderlich.
@@ -112,194 +114,196 @@ Bereitstellen von Anleitungen zu:
     > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten.
 
   - Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
-  - Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Aktuelle Einschränkungen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
+  - Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: aktuelle Einschränkungen](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
   - Weitere Informationen zu Problemen beim nahtlosen einmaligen Anmelden finden Sie unter [Problembehandlung beim nahtlosen einmaligen Anmelden mit Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).
 
       > [!NOTE]
-      > Die Kennworthash Synchronisierung und das Kenn Wort Rückschreiben unterstützen mehrere Gesamtstrukturen. Andere Rück schreibe Szenarien werden jedoch nicht unterstützt.
+      > Kennworthashsynchronisierung und Kennwortrückschreiben unterstützen mehrere Gesamtstrukturen. Andere Rückschreibungsszenarien werden jedoch nicht unterstützt.
 
   - Konfigurieren der Synchronisierung zwischen lokalen Active Directory-Gesamtstrukturen und Microsoft Azure Active Directory Premium-Verzeichnis (Azure Active Directory).
 
     > [!NOTE]
-    > Entwicklung und Implementierung für benutzerdefinierte Regelerweiterungen liegen außerhalb des Bereichs.
+    > Entwicklung und Implementierung für benutzerdefinierte Regelerweiterungen werden nicht berücksichtigt.
 
-- Für eine einzelne Gesamtstruktur, wenn das Ziel Verbundidentitäten ist:
+- Für eine einzelne Gesamtstruktur das Ziel Verbundidentitäten sind:
 
-  -   Installieren und Konfigurieren von AD FS für die lokale Domänenauthentifizierung mit Azure AD Premium in einer fehlertoleranten Konfiguration mit einem einzigen Standort (falls erforderlich).
+  -   Installieren und Konfigurieren von AD FS für die lokale Domänenauthentifizierung mit Azure AD Premium in einer fehlertoleranten Konfiguration für einen Einzelstandort, falls erforderlich.
 
   > [!NOTE]
   > Für alle Konfigurationen mit mehreren Gesamtstrukturen liegen AD FS-Bereitstellungen außerhalb des Bereichs.
 
-- Testen der SSO-Funktionalität (falls bereitgestellt).
+- Testen der Funktionalität für einmaliges Anmelden (sofern bereitgestellt).
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a>Aktivieren von Phase-Azure AD Premium – mit Azure AD Connect und AD FS
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a>Aktivierungsphase – Azure AD Premium aktivieren – mit Azure AD Connect und AD FS
 
-Anleitungen zum Einrichten von:
+Bereitstellen von Anleitungen für die Einrichtung:
 
-- Benutzer proversionierung, einschließlich Lizenzierung.
+- Benutzerbereitstellung, einschließlich Lizenzierung.
 
-- Azure AD Connect-Verzeichnissynchronisierung (mit Kenn Wort Rück schreibe-und Kennworthash Synchronisierung).
+- Azure AD Connect Verzeichnis-Synchronisation (mit Kennwortrücksetzung und Kennworthashsynchronisierung).
 
-  - Azure Active Directory Self Service Password Reset (SSPR).
+  - Azure Active Directory Self-Service-Kennwortzurücksetzung
 
-  - Azure mehrstufige Authentifizierung.
+  - Azure Multi-Factor Authentication.
 
-  - Bis zu drei (3) oder mehr Software as a Service (SaaS)-Anwendungsintegrationen mit einmaligem Anmelden (Single Sign-on, SSO) vom [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
+  - Bis zu drei (3) oder mehr SaaS-Anwendungsintegrationen (Software as a Service) mit einmaligem Anmelden (Single Sign-On, SSO) aus dem[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
-  - Automatische Benutzer proversionierung für vorintegrierte SaaS-Anwendungen, die in der [Liste](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)mit den Lernprogrammen für die APP-Integration aufgeführt sind, beschränkt auf die nur ausgehende Einrichtung.
+  - Automatische Benutzerbereitstellung für vorintegrierte SaaS-Anwendungen, wie sie in der [Liste der App-Integrationstutorials](https://docs.microsoft.com/de-DE/azure/active-directory/saas-apps/tutorial-list) aufgeführt sind, beschränkt auf die ausgehende Bereitstellung.
 
   - Benutzerdefinierter Anmeldebildschirm, einschließlich Logo, Text und Bildern.
 
-  - Self-Service-und Dynamic-Gruppen (Gruppen).
+  - Self-Service-und dynamische Gruppen (Gruppen).
 
-  - Azure Active Directory-Anwendungs Proxy.
+  - Azure Active Directory-Anwendungsproxy.
 
-  - Azure Active Directory Connect-Integrität.
+  - Azure Active Directory Connect Health.
 
-  - Azure Active Directory-bedingter Zugriff.
+  - Bedingter Zugriff in Azure Active Directory Domain Services.
 
-  - Azure Active Directory-Nutzungsbedingungen.
+  - Azure Active Directory Nutzungsbedingungen.
 
-  - Azure Active Directory-Identitätsschutz.
+  - Azure Active Directory Identity Protection.
 
-  - Azure Active Directory-privilegierte Identitätsverwaltung.
+  - Azure Active Directory Privileged Identity Management.
 
-  - Azure Active Directory-Zugriffsüberprüfungen.
+  - Azure Active Directory Domain Services ugriffsüberprüfungen.
 
-### <a name="enable-phase---intune"></a>Phase-InTune aktivieren
+### <a name="enable-phase---intune"></a>Aktivierungsphase – Intune
 
 > [!IMPORTANT]
-> Bei der Windows 10-klassischen PC-Verwaltung mit InTune wird nicht unterstützt. Nur unterstützt Windows 10-Verwaltung über InTune Mobile Device Management (MDM).
+> FastTrack unterstützt nicht die klassische PC-Verwaltung von Windows 10 mit Intune. FastTrack unterstützt nur die Windows 10-Verwaltung durch Intune Mobile Device Management (MDM).
 
-Unter **Stützung** für:
+Unterstützung bei den folgenden Schritten:
 
--   Konfigurieren der von InTune zu verwendenden Identitäten durch Nutzung der lokalen Active Directory-oder Cloud-Identitäten (Azure Active Directory).
+-   Konfigurieren von Identitäten, die von Intune verwendet werden sollen, entweder durch Nutzung Ihres lokalen Active Directory oder von Cloud Identitäten (Azure Active Directory).
 
--   Lizenzierung der Endbenutzer.
+-   Lizenzierung Ihrer Endbenutzer.
 
--   Hinzufügen von Benutzern zu Ihrem InTune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer-und Gerätegruppen.
+-   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen.
 
--   Konfigurieren der MDM-Zertifizierungsstelle für mobile Geräte – basierend auf Ihren Verwaltungsanforderungen, einschließlich:
+-   Konfigurieren der Berechtigung für Ihre Mobile Device Management MDM), basierend auf Ihren Verwaltungsanforderungen, einschließlich:
 
-    -   Festlegen von InTune als MDM-Autorität.
+    -   Festlegen von Intune als Ihre MDM-Autorität.
 
-    -   Konfigurieren von Testgruppen, die zum Validieren von MDM-Verwaltungsrichtlinien verwendet werden sollen.
+    -   Konfiguration von Testgruppen, die zur Validierung von MDM-Verwaltungsrichtlinien verwendet werden sollen.
 
-    -   Navigieren im InTune-Verwaltungsportal, um Informationen zu Benutzern und Geräten zu finden.
+    -   Navigieren durch das Intune-Administrationsportal, um Informationen über Benutzer und Geräte zu finden.
 
-    -   Einrichten von InTune-Rollen (Helpdesk-Operator, Administratoren usw.)
+    -   Einrichten von Intune-Rollen (Helpdesk-Operator, Administratoren, usw).
 
-    -   Konfigurieren der MDM-Verwaltungsrichtlinien und-Dienste wie folgt:
+    -   Konfigurieren von MDM-Verwaltungsrichtlinien und -Diensten wie:
 
-        -   App-Bereitstellung für jede unterstützte Plattform über Weblinks, MSI und/oder Deep Links.
+        -   App-Bereitstellung für jede unterstützte Plattform über Weblinks, MSI und/oder Deep Links..
 
-        -   Bereitstellen von Office ProPlus auf Windows 10-Geräten
+        -   Bereitstellung von Office ProPlus auf Windows 10-Geräten.
 
-        -   Volumen Kaufprogramme für die APP-Bereitstellung, einschließlich des VSS-Speichers von Apple, Windows Store for Business und Googles Play for Work Store.
+        -   Programme zum Kauf von Volumen für die App-Bereitstellung, einschließlich Apple's VPP, Windows Store for Business und Google Play for Work Store.
 
-        -   Bereitstellung von e-Mail-, drahtlos-und VPN-Profilen, wenn Sie über eine vorhandene Zertifizierungsstelle, eine WLAN-oder VPN-Infrastruktur in Ihrer Organisation verfügen.
+        -   Bereitstellung von E-Mail-, Wireless-Netzwerken und VPN-Profilen, wenn Sie eine bestehende Zertifizierungsstelle, Wi-Fi- oder VPN-Infrastruktur in Ihrer Organisation haben.
 
-        -   Einrichten des Microsoft InTune Exchange Connectors (falls zutreffend).
+        -   Einrichten des Microsoft Intune Exchange Connector (falls vorhanden).
 
-        -   Geräte Konfigurationsprofile für unterstützte Geräteplattformen.
+        -   Gerätekonfigurationsprofile für unterstützte Geräteplattformen.
 
-    -   Einrichten von Richtlinien für bedingten Zugriff.
+    -   Einstellung von Richtlinien für den bedingten Zugriff.
 
-    -   Konfigurieren und Bereitstellen von InTune-App-Schutzrichtlinien für jede unterstützte Plattform.
+    -   Konfiguration und Bereitstellung von Intune App Schutzrichtlinien für jede unterstützte Plattform.
 
-    -   Vorbereiten von Branchen-Apps für InTune-App-Schutzrichtlinien mit Empfehlungen zu den verfügbaren Optionen.
+    -   Vorbereitung von branchenspezifischen (LOB) Apps für Intune App Schutzrichtlinien, mit Anleitung zu den verfügbaren Optionen.
 
-    -   Registrieren von Geräten jeder unterstützten Plattform zu Ihrem InTune-oder Konfigurations-Manager mit dem Microsoft InTune-Dienst.
+    -   Registrieren von Geräten jeder unterstützten Plattform für Ihren Intune oder Configuration Manager mit Microsoft Intune Service.
 
-    -   Herstellen einer Verbindung mit InTune Data Warehouse.
+    -   Verbindung zum Intune Data Warehouse.
 
-    -   Integrieren von InTune in:
-        -   TeamViewer für Remoteunterstützung (TeamViewer-Abonnement erforderlich).
+    -   Integration von Intune mit:
+        -   Team Viewer für Remote-Unterstützung (Team Viewer-Abonnement erforderlich).
 
-        -   Mobile Threat Defense-Partnerlösungen (Mobile Threat Defense Partner Solution-Abonnement ist erforderlich).
+        -   Mobile Threat Defense Partnerlösungen (Mobile Threat Defense Partner Solution-Abonnement erforderlich).
 
-        -   Telecom Expense Management Solutions (Telecom Expense Management Solution-Abonnement ist erforderlich).
+        -   Telecom Expense Management Lösungen (Telecom Expense Management Solution-Abonnement ist erforderlich).
 
-        -   Windows Defender Advanced Threat Protection (Windows E5-oder Microsoft 365 E5-Lizenzen sind erforderlich).
+        -   Windows Defender Advanced Threat Protection (Windows E5 oder Microsoft 365 E5 Lizenzen sind erforderlich).
 
-    -   Konfigurieren von Software Updates für entsprechende unterstützte Plattformen
+    -   Konfigurieren von Software-Updates für die jeweils unterstützten Plattformen.
 
-    -   Ressourcen für die Planung der Benutzerakzeptanz.
+    -   Ressourcen für das Planen der Benutzerakzeptanz.
 
-- Einrichten von Windows Autopilot:
+- Einrichten des Windows-Autopiloten:
 
-    - Konfigurieren und Einrichten von Microsoft InTune für Windows Autopilot.
+    - Konfigurieren und Einrichten von Microsoft Intune für Windows Autopilot.
 
-    - Konfigurieren von dynamischen Azure Ad-Gruppen
+    - Konfigurieren von dynamischen Gruppen in Azure AD
 
-    - Fügen Sie Ihr Unternehmensbranding in Azure AD hinzu.
+    - Einfügen Ihres Firmenlogo in Azure AD.
 
-    - Erstellen und Zuweisen von Geräten zu Windows Autopilot-Profilen (beispielsweise ein Windows Autopilot-Profil, das die Erstellung lokaler Administrator Konten einschränkt).
+    - Erstellen und Zuweisen von Geräten zu Windows-Autopilot-Profilen (z.B. ein Windows-Autopilot-Profil, das die Erstellung eines lokalen Administratorkontos einschränkt).
 
-    - Passen Sie die Out-of-Box-Experience (OOBE) an die Anforderungen der Organisation an.
+    - Passen Sie die Out-of-Box-Erfahrung (OOBE) an, um den Anforderungen der Organisation zu entsprechen.
 
-    - Konfigurieren der automatischen MDM-Registrierung in Azure AD und InTune.
+    - Konfigurieren der automatischen MDM-Registrierung in Azure AD und Intune.
 
     > [!NOTE]
-    > Das Einrichten von Windows Autopilot außerhalb von InTune hat keinen Umfang für die Vorteile von "Leistung".
+    > Die Einrichtung von Windows Autopilot außerhalb von Intune ist für den FastTrack-Vorteil nicht möglich.
 
-### <a name="enable-phase---co-management"></a>Phase-Co-Management aktivieren
+### <a name="enable-phase---co-management"></a>Aktivierungsphase – Co-Verwaltung
 
-Bereitstellen von Anleitungen zu:
+Unterstützung bei den folgenden Schritten:
 
--   Lizenzierung der Endbenutzer.
+-   Lizenzierung Ihrer Endbenutzer.
 
--   Hinzufügen von Benutzern zu Ihrem InTune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer-und Gerätegruppen (wenn InTune nicht installiert ist).
+-   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen (falls Intune nicht installiert ist).
 
--   Einrichten von Azure Active Directory für die automatische MDM-Registrierung.
+-   Einrichten von Azure Active Directory Domain Services für die automatische MDM-Registrierung.
 
--   Richten Sie die hybride Azure Active Directory-Verknüpfung ein.
+-   Einrichten einer hybriden Azure Active Directory-Verknüpfung.
 
 -   Einrichten des Cloud Management-Gateways.
 
--   Hinzufügen von Benutzern zu Ihrem InTune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer-und Gerätegruppen.
+-   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen.
 
--   Vorbereiten von InTune (wenn InTune nicht installiert ist):
+-   Vorbereiten von Intune (falls Intune nicht installiert ist):
 
-    -   Konfigurieren der MDM-Zertifizierungsstelle für mobile Geräte – basierend auf Ihren Verwaltungsanforderungen, einschließlich:
+    -   Konfigurieren der Berechtigung für Ihre Mobile Device Management MDM), basierend auf Ihren Verwaltungsanforderungen, einschließlich:
 
-    -   Festlegen von InTune als MDM-Autorität.
+    -   Festlegen von Intune als Ihre MDM-Autorität.
 
-    -   Konfigurieren von Testgruppen, die zum Validieren von MDM-Verwaltungsrichtlinien verwendet werden sollen.
+    -   Konfiguration von Testgruppen, die zur Validierung von MDM-Verwaltungsrichtlinien verwendet werden sollen.
 
-    -   Navigieren im InTune-Verwaltungsportal, um Informationen zu Benutzern und Geräten zu finden.
+    -   Navigieren durch das Intune-Administrationsportal, um Informationen über Benutzer und Geräte zu finden.
 
-    -   Einrichten von InTune-Rollen (Helpdesk-Operator, Administratoren usw.)
+    -   Einrichten von Intune-Rollen (Helpdesk-Operator, Administratoren, usw).
 
-    -   Konfigurieren und Bereitstellen von InTune-App-Schutzrichtlinien für jede unterstützte Plattform.
+    -   Konfiguration und Bereitstellung von Intune App Schutzrichtlinien für jede unterstützte Plattform.
 
-    -   Registrieren von Windows 10-Geräten an InTune.
+    -   Registrieren von Windows 10-Geräten zu Ihrem Intune.
 
-- Aktivieren Sie die Co-Verwaltung in der Configuration Manager-Konsole.
+- Aktivierung der Co-Verwaltung in der Configuration Manager-Konsole.
 
-- Wechseln Sie die Arbeitsauslastungen auf InTune.
+- Wechseln der Arbeitsauslastung auf Intune.
 
-- Überwachen Sie die Co-Management-Aktivität in Ihrer Umgebung.
+- Überwachen der Co-Verwaltung Aktivitäten in Ihrer Umgebung.
 
 ### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
 
-Unterstützung für: 
+Unterstützung bei den folgenden Schritten: 
 
-- Kunden zum automatischen klassifizieren und Beschriften von Informationen in Office-Apps (wie Word, PowerPoint, Excel und Outlook), die unter Windows und mit dem Azure Information Protection-Client verwendet werden. 
-- Dateien im Rest mithilfe des Azure Information Protection-Scanners.
-- E-Mails bei der Übertragung mithilfe von Exchange Online-Nachrichtenfluss Regeln. 
+- Aktivierung und Konfiguration des Kundenmandanten.
 
-Unterstützung finden Sie auch für Kunden, die Schutz mit Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OM) und Data Loss Prevention (DLP) anwenden möchten. 
+- Erstellen und Einrichten von Bezeichnung und Richtlinien.
 
-Kunden erhalten Anleitungen zu folgenden Themen: 
+- Anwendung von Informationsschutz auf Dokumente. 
 
-- Aktivieren und konfigurieren Sie Ihren Mandanten.
-- Erstellen und Einrichten von Bezeichnungen und Richtlinien
-- Anwenden des Informationsschutzes auf Dokumente. 
+- Automatische Klassifizierung und Bezeichnung von Informationen in Office-Anwendungen (wie Word, PowerPoint, Excel und Outlook), die unter Windows ausgeführt werden und den Azure Information Protection Client verwenden.
+
+- Verwendung von ruhenden Dateien mit dem Azure Information Protection Scanner.
+
+- Überwachung von E-Mails während des Versands unter Verwendung von Exchange Online Nachrichtenflussregeln.
+
+Anleitungen werden auch für Kunden bereitgestellt, die Schutz mit Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) und Data Loss Prevention (DLP) anwenden möchten.
 
 > [!NOTE]
-> **Möchten Sie mehr erfahren?** siehe [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
+> **Mehr Informationen** finden Sie unter[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Vorteile für EMS – ihre Aufgaben](EMS-your-responsibilities.md)
+[FastTrack-Vorteil für EMS – Ihre Verantwortung](EMS-your-responsibilities.md)
