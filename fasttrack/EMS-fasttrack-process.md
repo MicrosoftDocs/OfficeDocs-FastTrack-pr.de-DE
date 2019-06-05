@@ -1,58 +1,60 @@
 ---
-title: Der Verlauf
-description: Übersicht über die Vorteile von Onboarding
+title: Der FastTrack-Prozess
+description: Überblick über den FastTrack Center-Leistungsangebot Onboarding Prozess
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e3f34284cb4b6300a50116ad2bb1df3cb6ab0fe
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
-ms.translationtype: MT
+ms.openlocfilehash: 0b24a3d1b339836fb07137a7ad2138f85ed7709b
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513774"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673246"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>FastTrack Center-Leistungsangebotprozess für Enterprise Mobility + Security (EMS)
-Wenn Ihre Organisation für die Vorteile des Centers für EMS in Anspruch nehmen kann, können Sie Remote mit schnell Spezialisten arbeiten, um Microsoft Azure Active Directory Premium, Microsoft InTune und Azure Information Protection zur Verfügung zu stellen. Sie können auch Hilfe anfordern, indem Sie auf der [Website](https://www.microsoft.com/fasttrack/microsoft-365/ems) für Azure Information Protection, Microsoft Cloud App Security und Microsoft Advanced Threat Analytics helfen. Informationen dazu, ob Ihre Organisation berechtigt ist, finden Sie unter [berechtigte Dienste und Pläne](M365-eligible-services-and-plans.md).
+Wenn Ihre Organisation Anspruch auf den Center-Leistungsangebot für EMS hat, können Sie mit FastTrack Experten remote zusammenarbeiten, um Microsoft Azure Active Directory Premium, Microsoft Intune und Azure Information Protection betriebsbereit zu machen. Sie können auch Hilfe über die Website [FastTrack Website](https://www.microsoft.com/fasttrack/microsoft-365/ems)für Azure Information Protection, Microsoft Cloud App Security und Microsoft Advanced Threat Analytics anfordern. Unter [Berechtigte Dienstleistungen und Pläne](M365-eligible-services-and-plans.md) erfahren Sie, ob Ihre Organisation berechtigt ist.
 
 
-Hier finden Sie Informationen zum Onboarding-Prozess:
+Hier erfahren Sie, was mit dem Onboarding-Prozess verbunden ist:
 
--   [Übersicht über den Onboarding-Prozess](EMS-fasttrack-benefit-overview.md)
+-   [Übersicht zum Onboarding-Prozess](EMS-fasttrack-benefit-overview.md)
 
--   [Erwartungen für Ihre Quellumgebung](EMS-source-environment-expectations.md)
+-   [Anforderungen an die Quellumgebung](EMS-source-environment-expectations.md)
 
--   [Phasen des Onboarding-Prozesses](EMS-onboarding-phases.md)
+-   [Phasen im Onboarding-Prozess](EMS-onboarding-phases.md)
 
--   [Aufgaben](EMS-fasttrack-responsibilities.md) für jede Phase
+-   [FastTrack-Zuständigkeiten](EMS-fasttrack-responsibilities.md) für jede Phase
 
--   [Kunden Verantwortlichkeiten](EMS-your-responsibilities.md) für jede Phase
+-   [Kundenverantwortlichkeiten](EMS-your-responsibilities.md) für jede Phase
 
-Hier sehen Sie, was Sie beim Abschließen des onboardings erwarten können:
+Nachstehend wird erklärt, was Sie nach Abschluss des Onboardings erwarten können:
 
--   Ihre EMS-Mandanten für die ausgewählten Dienste werden erstellt.
+-   Ihre EMS-Mandanten für die von Ihnen ausgewählten Dienstleistungen werden erstellt.
 
--   Lizenzierte Benutzer können auf die EMS-Dienste zugreifen, indem Sie eine der folgenden Identitäts Optionen verwenden:
+-   Lizenzierte Benutzer können auf EMS-Dienste über eine der folgenden Identitätsoptionen zugreifen:
 
-    -   Cloud-Identitäten (eindeutige EMS-Konten).
+    -   Cloud-Identitäten (eindeutige EMS-Konten)
 
-    -   Synchronisierte Identitäten: EMS-Konten, die von Ihrem lokalen Active Directory mithilfe des Azure Active Directory Connect-Tools synchronisiert wurden (Kenn Wort Hash Synchronisierung oder Pass-Through-Authentifizierung). Diese Option gilt für Kunden mit einer einzelnen Gesamtstruktur oder mehreren Active Directory-Gesamtstrukturen.
+    -   Synchronisierte Identitäten: EMS-Konten, die von Ihrem lokalen Active Directory aus mithilfe vom Azure Active Directory Connect-Tool (Kennworthash-Synchronisierung oder Pass-Through-Authentifizierung) synchronisiert werden. Diese Option ist für Kunden mit einer einzelne Gesamtstruktur oder mehreren Active Directory Domain Services-Gesamtstrukturen.
 
-    -   Verbundidentitäten – mit Microsoft EMS-Konten, die:
+    -   Verbundidentitäten -- mit Microsoft EMS-Konten, für die Folgendes zutrifft:
 
-        -   Von Active Directory mit dem Azure AD Connect-Tool synchronisiert. Diese Option gilt für Kunden mit einer einzelnen Active Directory-Gesamtstrukturkonfiguration.
+        -   Synchronisiert aus Active Directory Domain Services mit dem Azure AD Connect-Tool. Diese Option ist für Kunden mit einer einzelnen Active Directory Domain Services-Gesamtstruktur Konfiguration.
 
-        -   Verbund mit Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2,0 oder höher aus Ihrem lokalen Active Directory.
+        -   Verbunden mit Windows Server 2012 R2 Active Directory-Verbunddienste (AD FS) 2.0 oder höher von Ihrem lokalen Active Directory.
 
-        -   Die Möglichkeit zum automatischen klassifizieren und schützen von Informationen sowohl auf Rest-als auch auf der Übertragung mit Azure Information Protection. 
+        -   Die Möglichkeit, Informationen sowohl im Ruhezustand als auch während des Transports mit Azure Information Protection automatisch zu klassifizieren und zu schützen. 
 
-        -   Die Möglichkeit, Informationen in lokalen Dateifreigaben und SharePoint-Servern mit dem Azure Information Protection-Scanner zu ermitteln. 
+        -   Die Möglichkeit, Informationen innerhalb von lokalen Dateifreigaben und SharePoint-Servern mit dem Azure Information Protection Scanner zu erkennen. 
 
-        -   Die Möglichkeit, ihre Azure Information Protection-Mandanten Schlüssel innerhalb des Azure Key Vault zu verwalten. 
+        -   Die Möglichkeit, Ihre Azure Information Protection Mandantenschlüssel innerhalb des Azure Key Vault zu verwalten. 
