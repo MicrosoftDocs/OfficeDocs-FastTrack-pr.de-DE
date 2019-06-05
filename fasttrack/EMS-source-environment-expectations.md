@@ -1,48 +1,50 @@
 ---
 title: Anforderungen an die Quellumgebung
-description: Anforderungen an die Quellumgebung für die Verwendung der Vorteile des Centers für EMS
+description: Voraussetzungen für die Quellumgebung für die Nutzung des FastTrack-Center Leistungsangebot für EMS
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a512e97f48df7fc3040478f4e35fe0c357ef7ce3
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
-ms.translationtype: MT
+ms.openlocfilehash: c3cbc52811bfdbb6780fefce58e8a58f7ad78c14
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513150"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673564"
 ---
 # <a name="source-environment-expectations"></a>Anforderungen an die Quellumgebung
 
-Wenn Sie die [Vorteile von "schnell Center" für Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) nutzen, um Microsoft Azure Active Directory Premium, Microsoft InTune und Azure Information Protection bereitzustellen, muss Ihre Umgebung die Erwartungen erfüllen. in den folgenden Abschnitten beschrieben.
+Wenn Sie den [FastTrack-Center Leistungsangebot für Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md)verwenden, um Microsoft Azure Active Directory Premium, Microsoft Intune und Azure Information Protection betriebsbereit zu machen, muss Ihre Umgebung den in den folgenden Abschnitten beschriebenen Anforderungen entsprechen.
 
-Möglicherweise verfügen Sie bereits über ein lokales Active Directory in Ihrer Organisation, das Sie in Enterprise Mobility + Security (EMS) oder in einzelne Dienste integrieren möchten, die das Rich-Identity-Management über eine einzige Konsole verwenden. Der Vorteil des Centers für Enterprise Mobility + Security (EMS) bietet Ihnen Unterstützung bei der Integration von Azure Active Directory in Ihre vorhandene lokale Active Directory-Umgebung.
+Möglicherweise verfügen Sie bereits über ein lokales Active Directory in Ihrer Organisation, das Sie in Enterprise Mobility + Security (EMS) oder einen seiner einzelnen Dienste integrieren möchten, der ein umfassendes Identitätsmanagement über eine einzige Konsole nutzt. Das FastTrack-Center Leistungsangebot für Enterprise Mobility + Security (EMS) bietet Ihnen Unterstützung bei der Integration von Azure Active Directory in Ihre bestehende lokale Active Directory-Umgebung.
 
-In der folgenden Tabelle sind die Erwartungen für die vorhandene Quellumgebung für das Onboarding dargestellt.
+In der folgenden Tabelle werden die Anforderungen an die vorhandene Quellumgebung für das Onboarding beschrieben.
 
 |Aktivität|Anforderung an die Quellumgebung|
 |------------|----------------------------------|
-|Kern-on-Boarding|Active Directory-Gesamtstrukturen mit der auf Windows Server 2008 oder höher festgelegten Funktions Gesamtstrukturebene mit der folgenden Gesamtstrukturkonfiguration:<br /><br />-Einzelne Active Directory-Gesamtstruktur<br />-Mehrere Active Directory-Gesamtstrukturen </br></br>**Hinweis**: für alle Konfigurationen mit mehreren Gesamtstrukturen liegt die Active Directory-Verbunddienste (AD FS)-Bereitstellung außerhalb des Umfangs der Vorteile des Centers.|
-|Azure AD Premium-on-Boarding|Das lokale Active Directory und seine Umgebung wurden für Azure AD Premium bereitgestellt, das die Behebung identifizierter Probleme umfasst, die die Integration in Azure AD und Azure AD Premium-Features verhindern.|
-|InTune-on-Boarding| IT-Administratoren müssen bei der Planung der Bereitstellung von WiFi-und VPN-Profilen mit InTune bereits vorhandene Zertifizierungsstellen, WiFi-und VPN-Infrastrukturen in ihren Produktionsumgebungen verwenden.<br /><br /> **Hinweis**: der Dienst Vorteil umfasst keine Unterstützung für das Einrichten oder Konfigurieren von Zertifizierungsstellen, WiFi, VPN-Infrastrukturen oder Apple MDM-Push-Zertifikaten für  |
-|Mitverwaltung|Mit der Zusammenarbeit sind IT-Administratoren für die Vorbereitung der lokalen Umgebung zuständig, die möglicherweise die Behebung von Problemen umfasst, die das gleichzeitige Verwalten von Windows 10-Geräten mit Configuration Manager und InTune verhindern.<br /><br />**Hinweis**: der Dienst Vorteil von "Leistung" bietet keine Unterstützung für das Einrichten oder Aktualisieren des Configuration Manager-Standortservers und/oder des Configuration Manager-Clients auf die Mindestanforderungen für die Unterstützung der Zusammenarbeit mit Windows 10-Geräten. |
-|InTune integriert in Windows Defender Advanced Threat Protection (Windows Defender ATP)|Ihr Windows Defender ATP-Abonnement wurde basierend auf den Sicherheitsanforderungen Ihres Unternehmens aktiviert und konfiguriert.<br /><br />**Hinweis**: der Dienst Vorteil von "Serviceleistungen" bietet Unterstützung bei der Integration von InTune in Windows Defender ATP und der Erstellung von Geräte Konformitätsrichtlinien basierend auf der Bewertung der Windows 10-Risikostufe. Der Dienst Vorteil von Service bietet keine Unterstützung beim Erwerb, der Lizenzierung, der Aktivierung oder der Verwendung von Windows Defender ATP und der Security Center-Konsole. |
-|Windows Autopilot|IT-Administratoren sind für die Registrierung Ihrer Geräte in Ihrer Organisation verantwortlich, indem Sie entweder den Hardwareanbieter in Ihrem Namen hochladen oder ihn selbst in den Windows Autopilot-Dienst hochladen. |
-|Sicheres Bereitstellen von Outlook für IOS und Android mit InTune|<br /><br />-Benutzeridentitäten, die in Azure AD für Office 365 aktiviert sind.<br />-Exchange Online oder Hybrid Exchange, die mit zugewiesenen Benutzerlizenzen konfiguriert wurden.<br />|
-|Azure Information Protection (P2 oder EMS E5)|<br /><br />Kunden sollten bereits: <br /> -Verwenden von Azure AD.<br />-Verwenden Sie entweder Windows oder IOS (andere Betriebssysteme befinden sich außerhalb des Bereichs).<br /> -Verwenden Sie Office-Clients neuer als Office 2010 SP2, die nicht auf Office Online als hauptclient Vertrauen. <br /> -Haben ihre wichtigsten Dateifreigabe-Speicherorte.  <br /> -Upgrade von Active Directory Rights Management Services (AD RMS) durchgeführt. <br /> -Sie haben eine genehmigte Klassifizierungs Taxonomie. <br /> – Verstehen Sie alle behördlichen Einschränkungen für ihre geschützte Schlüsselverwaltung. <br />|
-|Azure Information Protection-Scanner|<br /><br /> Kunden sollten bereits: <br /> -Verwenden Sie Windows Server 2012 R2 oder Windows Server 2016.<br /> -Über eine Internetverbindung verfügen. <br /> -Weisen Sie Microsoft SQL Server 2012 in einer lokalen oder Remoteinstanz an.  <br /> -Ein Dienstkonto für das lokale Active Directory erstellt und mit Azure AD synchronisiert.  <br /> -Haben Sie AzInfoProtection. exe heruntergeladen. <br /> -Haben Sie Bezeichnungen für die automatische Klassifizierung/Schutz konfiguriert.<br />|
+|Haupt-Onboarding|Active Directory-Gesamtstrukturen mit Windows Server 2008 oder höher als Funktionsgesamtstrukturebene mit der folgenden Gesamtstrukturkonfiguration:<br /><br />– Einzelne Active Directory-Gesamtstruktur<br />– Mehrere Active Directory-Gesamtstruktur </br></br>**Hinweis**: Für alle Konfigurationen mit mehreren Gesamtstrukturen liegt die Active Directory-Verbunddienste-Bereitstellung (AD FS) außerhalb des FastTrack-Center Leistungsangebot.|
+|Azure AD Premium Onboarding|Das lokale Active Directory Domain Services und seine Umgebung wurden für Azure AD Premium vorbereitet, was die Behebung identifizierter Probleme beinhaltet, die die Integration mit den Funktionen von Azure AD und Azure AD Premium verhindern.|
+|Intune Onboarding| IT-Administratoren müssen über bestehende Zertifizierungsstellen-, WiFi- und VPN-Infrastrukturen verfügen, die bereits in ihren Produktionsumgebungen eingesetzt werden, wenn sie die Bereitstellung von WiFi- und VPN-Profilen mit Intune planen.<br /><br /> **Hinweis**: Der Servicevorteil beinhaltet keine Unterstützung bei der Einrichtung oder Konfiguration von Zertifizierungsstellen, WiFi-, VPN-Infrastrukturen oder Apple MDM Push-Zertifikaten für   |
+|Comanagement|Mit Comanagement sind IT-Administratoren für die Vorbereitung der lokalen Umgebung verantwortlich, was die Behebung von Problemen beinhalten kann, die verhindern, dass Sie Windows 10-Geräte gleichzeitig mit Configuration Manager und Intune verwalten.<br /><br />**Hinweis**: Der FastTrack-Leistungsangebot beinhaltet keine Unterstützung bei der Einrichtung oder Aktualisierung des Configuration Manager-Standortservers und/oder des Configuration Manager-Clients auf die Mindestanforderungen, die für das Comanagement mit Windows 10-Geräten erforderlich sind. |
+|Intune integriert mit Windows Defender Advanced Threat Protection (Windows Defender ATP)|Ihr Windows Defender ATP-Abonnement wurde aktiviert und entsprechend den Sicherheitsanforderungen Ihrer Organisation konfiguriert.<br /><br />**Hinweis**: Das FastTrack-Leistungsangebot bietet Unterstützung bei der Integration von Intune mit Windows Defender ATP und der Erstellung von Richtlinien zur Gerätekompatibilität auf der Grundlage der Risikobewertung von Windows 10. Das FastTrack-Leistungsangebot bietet keine Unterstützung beim Kauf, der Lizenzierung, der Aktivierung oder der Verwendung von Windows Defender ATP und der Security Center-Konsole. |
+|Windows Autopilot|IT-Administratoren sind für die Registrierung ihrer Geräte in ihrer Organisation verantwortlich, indem sie entweder den Hardware-Anbieter ihre Hardware-IDs in ihrem Namen hochladen lassen oder sie selbst in den Windows-Autopilot-Dienst hochladen. |
+|Sicheres Bereitstellen von Outlook für iOS und Android mit Intune|<br /><br />– Benutzeridentitäten, die in Azure AD für Office 365 aktiviert sind.<br />– Exchange Online oder Hybrid Exchange konfiguriert mit zugewiesenen Benutzerlizenzen.<br />|
+|Azure Information Protection (P2 oder EMS E5)|<br /><br />Kunden sollten bereits: <br /> – Azure AD verwenden.<br />– Windows oder iOS verwenden (andere Betriebssysteme sind außerhalb des Projektumfangs).<br /> – Office-Clients verwenden, die aktueller sind als Office 2010 SP2, die nicht auf Office Online als Hauptclient angewiesen sind. <br /> – Hauptspeicherorte für die Dateifreigabe haben.  <br /> – Von Active Directory Rights Management Services (AD RMS) aktualisiert haben. <br /> – Eine genehmigte Klassifikationstaxonomie haben. <br /> – Alle regulatorischen Einschränkungen für die Verwaltung ihrer geschützten Schlüssel verstehen. <br />|
+|Azure Information Protection-Scanner|<br /><br /> Kunden sollten bereits: <br /> – Windows Server 2012 R2 oder Windows Server 2016 verwenden.<br /> – Eine Internetverbindung haben. <br /> – Microsoft SQL Server 2012 oder höher in einer lokalen oder Remote-Instanz einsetzen.  <br /> – Ein Dienstkonto für das lokale Active Directory erstellt und mit Azure AD synchronisiert haben.  <br /> – AzInfoProtection.exe heruntergeladen haben. <br /> – Bezeichnungen für die automatische Klassifizierung/Schutz konfiguriert haben.<br />|
 
 > [!NOTE]
-> **Möchten Sie mehr erfahren?** 
->  [Enterprise Mobility + Sicherheit](https://www.microsoft.com/cloud-platform/enterprise-mobility)
+> **Mehr Informationen finden Sie unter**
+> [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility)
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Vorteile des Centers für EMS-Onboarding-Phasen](EMS-onboarding-phases.md)
+[FastTrack-Center Leistungsangebot für EMS Onboarding Phasen](EMS-onboarding-phases.md)

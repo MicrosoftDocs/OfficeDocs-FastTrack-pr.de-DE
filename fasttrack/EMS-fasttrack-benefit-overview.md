@@ -5,53 +5,55 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967936"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673318"
 ---
-# <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
+# <a name="fasttrack-center-benefit-overview"></a>Übersicht über das FastTrack Center-Leistungsangebot
 
-Mit dem schnell Center-Vorteil für Microsoft Azure Active Directory Premium, Microsoft InTune und Azure Information Protection arbeiten Sie Remote mit Spezialisten in der Umgebung, um Ihre Umgebungen zu nutzen und die Einführung und Verwendung in Ihrem Organisation. Weitere Informationen zur Berechtigung finden Sie unter Übersicht über den [Leistungsprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+Mit FastTrack Center-Leistungsangebot für Microsoft Azure Active Directory Premium, Microsoft Intune und Azure Information Protection arbeiten Sie remote mit FastTrack Spezialisten zusammen, um Ihre Umgebung betriebsbereit zu machen und den Rollout und die Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung finden Sie unter [FastTrack Center-Leistungsangebotprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
-Onboarding hat zwei Hauptkomponenten:
+Das Onboarding besteht aus zwei wesentlichen Komponenten:
 
--   **Haupt** -Onboarding-Aufgaben für die Mandanten Konfiguration und-Integration in Azure Active Directory, falls erforderlich. Das Haupt-Onboarding stellt auch die Basis für das Onboarding anderer Microsoft Online-berechtigter Dienste dar.
+-   **Haupt-Onboarding**: Umfasst die Aufgaben, die bei Bedarf für die Mandantenkonfiguration und die Integration mit Azure Active Directory Domain Services ausgeführt werden müssen. Das Haupt-Onboarding stellt auch die Grundlage für das Onboarding anderer berechtigter Microsoft Online Dienste bereit.
 
--   **Dienst** Onboarding – Aufgaben, die zum Konfigurieren einer der eigenständigen Versionen der EMS-Arbeitsauslastung erforderlich sind (Azure AD Premium, InTune und Azure Information Protection).
+-   **Dienstonboarding**: Aufgaben, die zur Konfiguration einer der eigenständigen Varianten des EMS-Workloads (Azure AD Premium, Intune und Azure Information Protection) erforderlich sind.
 
-Im folgenden Diagramm werden die allgemeinen Onboarding-Phasen für die Vorteile des "schnell Center" beschrieben.
+Das folgende Diagramm beschreibt die High-Level-Onboarding-Phasen für das FastTrack Center-Leistungsangebot.
 
-![Die übergeordneten Onboarding-Phasen der Nutzung des Vorteile des "schnell Center"](./media/ft-onboarding-process.png)
+![Die hochrangigen Onboarding-Phasen der Nutzung des FastTrack Center-Leistungsangebot.](./media/ft-onboarding-process.png)
 
-So funktioniert der Prozess:
+So funktioniert der Vorgang:
 
-- Das Center für die Wiederinbetriebnahme versucht, Sie zu kontaktieren, um Onboarding-Hilfe anzubieten, nachdem Sie Lizenzen für einen berechtigten Dienst erworben haben. Sie können auch Unterstützung vom [Center](https://go.microsoft.com/fwlink/?linkid=780698) in der Nähe anfordern, wenn Sie bereit sind, diese Dienste für Ihre Organisation bereitzustellen. Um Hilfe anzufordern, melden Sie sich mit Ihrem Geschäfts-oder Schulkonto beim [Center](https://go.microsoft.com/fwlink/?linkid=780698) für die Arbeit oder in der Schule an, wechseln Sie zum Dashboard, erweitern Sie den Link **need help?** in der unteren rechten Ecke der Seite, und folgen Sie dann den Anweisungen, um Ihre Anfrage abzuschließen. Sobald Onboarding gestartet wird, richten wir einen Zeitplan für Onlinebesprechungen ein.
+- Das FastTrack Center versucht, Sie zu kontaktieren, um Ihnen nach dem Kauf von Lizenzen für einen berechtigten Dienst Unterstützung beim Onboarding anzubieten. Sie können auch Unterstützung vom [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) anfordern, wenn Sie bereit sind, diese Dienste für Ihre Organisation bereitzustellen. Um Hilfe anzufordern, melden Sie sich mit Ihrem Arbeits- oder Schulkonto im [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) an, gehen Sie zum Dashboard, erweitern Sie den Link **Benötigen Sie Hilfe?** in der rechten unteren Ecke der Seite und folgen Sie dann den Anweisungen, um Ihre Anfrage abzuschließen. Sobald das Onboarding beginnt, werden wir einen Zeitplan für Online-Meetings festlegen.
 
--   Das Team für die Zusammenarbeit hilft Ihnen zunächst bei den wichtigsten Funktionen (gilt für alle Microsoft Online Services) und dann beim Onboarding der einzelnen berechtigten Dienste.
+-   Das FastTrack-Team hilft Ihnen zunächst bei den Hauptfunktionen (gemeinsam für alle Microsoft Online Services) und dann beim Onboarding der einzelnen berechtigten Dienste.
 
-Alle Onboarding-Anweisungen werden Remote durch zugewiesene Mitarbeiter von "unterwegs" bereitgestellt:
+Alle Onboarding-Anweisungen werden von einem zugewiesenen FastTrack-Personal remote durchgeführt:
 
--   Mit einer Kombination aus Tools, Dokumentation und Anleitung unterstützt Sie das Team für den Einstieg mit verschiedenen Onboarding-Aktivitäten.
+-   Das FastTrack-Team unterstützt Sie remote bei verschiedenen Onboarding-Aktivitäten, indem es eine Kombination aus Tools, Dokumentation und Leitfäden einsetzt.
 
--   Onboarding-Anweisungen werden vom Center in der Nähe bereitgestellt und stehen während der normalen Geschäftszeiten für eine bestimmte Region zur Verfügung.
+-   Onboarding-Support wird vom FastTrack Center geboten und steht in der jeweiligen Region zu den üblichen Geschäftszeiten zur Verfügung.
 
--   Onboarding-Unterstützung ist in Chinesisch (traditionell), vereinfachtem Chinesisch (nur Ressourcen sprechen), Englisch, Französisch, Deutsch, Italienisch, Japanisch, Koreanisch, Portugiesisch (Brasilien), Spanisch, Thailändisch und Vietnamesisch verfügbar.
+-   Onboarding-Unterstützung ist in den folgenden Sprachen verfügbar: Traditionelles Chinesisch, Chinesisch (vereinfacht) (Ressourcen sprechen nur Mandarin), Englisch, Französisch, Deutsch, Italienisch, Japanisch, Koreanisch, Portugiesisch (Brasilien), Spanisch, Thai und Vietnamesisch.
 
--   Das Team kann direkt mit Ihnen oder Ihrem Vertreter arbeiten.
+-   Das FastTrack-Team kann direkt mit Ihnen oder Ihrem Vertreter zusammenarbeiten.
 
 > [!NOTE]
-> **Möchten Sie mehr erfahren?** siehe [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
+> **Mehr Informationen** finden Sie unter[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Nächste Schritte
 
-[Vorteile für den Notfall Center für EMS-Source-Umgebungs Erwartungen](EMS-source-environment-expectations.md)
+[FastTrack Center-Leistungsangebot für EMS – Erwartungen an die Quellumgebung](EMS-source-environment-expectations.md)
