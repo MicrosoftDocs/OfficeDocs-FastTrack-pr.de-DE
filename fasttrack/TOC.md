@@ -19,6 +19,6 @@
 #### [Onboarding-Phasen](EMS-onboarding-phases.md)
 #### [FastTrack-Zuständigkeiten](EMS-fasttrack-responsibilities.md)
 #### [Ihre Zuständigkeiten](EMS-your-responsibilities.md)
-## [FastTrack Center-Leistungsangebot für Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+## [FastTrack Center-Leistungsangebot für Windows 10](Win-10-fasttrack-benefit-for-windows-10.md)
 ### [Desktop App Assure](Win-10-desktop-app-assure.md)
 #### [Angebotene Unterstützung](Win-10-daa-assistance-offered.md)

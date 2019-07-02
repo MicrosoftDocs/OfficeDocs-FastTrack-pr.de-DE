@@ -3,19 +3,19 @@ title: Der FastTrack-Prozess
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz bereit. '
-ms.openlocfilehash: 4598f4144aa4ba3743f5be773d140106775c5110
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: dd941e9ea6985998868ffe5b1952d377bd24399c
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673371"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35411042"
 ---
 # <a name="the-fasttrack-process"></a>Der FastTrack-Prozess
 
