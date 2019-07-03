@@ -1,11 +1,11 @@
 ---
 title: Ihre Zuständigkeiten
-description: Kunden Verantwortlichkeiten bei Verwendung des Zentrums Vorteile
+description: Zuständigkeiten des Kunden bei Nutzung des FastTrack-Leistungsangebots
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,22 +14,22 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 67634a552ac731b2b2fa8b6d594bd870d79d68ef
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
-ms.translationtype: MT
+ms.openlocfilehash: e9dad847ebb41be6d00791bd1415622228811a6d
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673642"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410742"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
 Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
-## <a name="general-responsibilities"></a>Allgemeine Aufgaben
+## <a name="general-responsibilities"></a>Allgemeine Zuständigkeiten
 
--   Stellen Sie alle Verbesserungen und Integrationen für Ihren Enterprise Mobility + Security (EMS)-Mandanten über die hier aufgelisteten konfigurierbaren Optionen bereit.
+-   Bereitstellen etwaiger Optimierungen und Integrationen für Ihren Enterprise Mobility + Security-Mandaten, die über die hier angegebenen konfigurierbaren Optionen hinausgehen.
 
--   Bereitstellen des allgemeinen Programm-und Projektmanagements ihrer Ressourcen.
+-   Bereitstellen eines allgemeinen Programm- und Projektmanagements Ihrer Ressourcen.
 
 -   Bereitstellen von Kommunikation mit den Endbenutzern, Dokumentation, Schulungen und Änderungsmanagement.
 
@@ -43,89 +43,89 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
 -   Beschaffen, Installieren und Konfigurieren der Software.
 
--   Verwalten, konfigurieren und Anwenden von Sicherheitsrichtlinien über die hinaus, die für Ihre EMS-Dienste-Basiskonfiguration und-Funktionalität erstellt wurden.
+-   Verwalten, Konfigurieren und Anwenden von Sicherheitsrichtlinien jenseits der für die Basiskonfiguration und -funktionalität Ihrer EMS-Dienste erstellten.
 
--   Registrieren Sie Benutzerkonten, die über die zum Testen der Microsoft Azure Active Directory EMS Services-Basiskonfiguration und-Funktionalität hinausgehenden verwendet werden.
+-   Registrieren von Benutzerkonten über die zum Testen der Basiskonfiguration und -funktionalität von Microsoft Azure Active Directory EMS-Diensten verwendeten hinaus.
 
--   Verwalten der Netzwerkkonfiguration, Analyse, Bandbreiten Überprüfung, Tests und Überwachung
+-   Verwalten von Konfiguration, Analyse, Überprüfung der Bandbreite, Tests und Überwachung des Netzwerks.
 
--   Verwalten eines Genehmigungsprozesses für die technische Änderungsverwaltung und Erstellen einer Anleitungs basierten Dokumentation.
+-   Verwalten eines Genehmigungsprozesses für das Management technischer Änderungen und Erstellen anweisungsbasierter Dokumentation.
 
--   Ändern des Betriebsmodells und der Betriebsanleitungen
+-   Ändern des Betriebsmodells und der Betriebsleitlinien.
 
--   Einrichten der mehrstufigen Authentifizierung vor Ort
+-   Einrichten lokaler mehrstufiger Authentifizierung.
 
--   Außerbetriebnahme und entfernen zuvor verwendeter Quell Umgebungen und Dienste.
+-   Deaktivieren und Entfernen zuvor verwendeter Quellumgebungen und -dienste.
 
 -   Erstellen und Verwalten Ihrer Testumgebung.
 
--   Installieren Sie Service Packs/kumulative Updates (CUS) und andere erforderliche Updates auf Infrastrukturservern.
+-   Installieren von Service Packs bzw. kumulativen Updates sowie von anderen erforderlichen Updates auf Infrastrukturservern.
 
 -   Bereitstellen und Konfigurieren öffentlicher SSL-Zertifikate.
 
--   Einrichten oder Aktualisieren von Configuration Manager auf die Mindestanforderungen für die Microsoft InTune-Integration in Configuration Manager
+-   Einrichten oder Aktualisieren von Configuration Manager auf die Mindestanforderungen für die Microsoft Intune-Integration in Configuration Manager.
 
--   Wenn Sie für die Bereitstellung von WLAN-und VPN-Profilen mit InTune erforderlich sind, müssen Sie bei Bedarf die Zertifizierungsstelle, WLAN-und VPN-Infrastruktur bereitstellen und konfigurieren.
+-   Falls sie für die Bereitstellung von WLAN und VPN-Profilen mit Intune erforderlich sind, Erstellen und Konfigurieren von Zertifizierungsstellen, WLAN- und VPN-Infrastrukturen nach Bedarf.
 
--   Schreiben Sie die Nutzungsbedingungen-Anweisung (Terms of use) der Organisation, die konfiguriert und auf dem Microsoft InTune-Unternehmensportal angezeigt werden soll, auf das Endbenutzer zugreifen können.
+-   Verfassen der Nutzungsbedingungen der Organisation, die auf dem Microsoft Intune-Unternehmensportal konfiguriert und angezeigt werden sollen, auf das die Endbenutzer zugreifen können.
 
--   Aktualisieren Sie Configuration Manager-Standortserver und Configuration Manager-Clients auf die neuesten Build-Versionen (falls erforderlich).
+-   Aktualisieren des Configuration Manager-Standortservers und von Configuration Manager-Clients auf die neuesten Buildversionen (sofern erforderlich).
 
--   Registrieren Sie sich für Drittanbieter-Abonnements wie Mobile Threat Defense, Telecom expenses, etc., wenn die Integration mit Microsoft InTune erforderlich ist.
+-   Abschließen von Drittanbieter-Abonnements wie Mobile Threat Defense, Telekommunikationsausgaben usw., wenn die Integration in Microsoft Intune erforderlich ist.
 
--   Registrieren Sie sich für Team Viewer, Abonnements für Mobile Threat Defense und Telecom Expense Management Solution.
+-   Abschließen von Abonnements für "Team Viewer", "Mobile Threat Defense" und Kostenmanagement-Lösungen für Telekommunikationsausgaben.
 
--   Registrieren Sie sich für Advanced Threat Protection-Lizenzen für Windows Defender. (Windows E5-oder Microsoft E5-Lizenzen).
+-   Registrieren für Windows Defender Advanced Threat Protection-Lizenzen. (Windows E5- oder Microsoft E5-Lizenzen).
 
 ## <a name="initiate-phase"></a>Einleitungsphase
 
--   Arbeiten Sie mit dem Team des Teams zusammen, um das Onboarding berechtigter Dienste zu beginnen.
+-   Beginnen des Onboardings berechtigter Dienste in Zusammenarbeit mit dem FastTrack-Team.
 
--   Beteiligen Sie sich an der Teilnahme-Kick-off-Besprechung, verwalten und leiten Sie Teilnehmer aus Ihrer Organisation, und bestätigen Sie die Korrektur Zeitpläne.
+-   Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen.
 
 ## <a name="assess-phase"></a>Analysephase
 
--   Identifizieren Sie geeignete beteiligte (einschließlich eines Projektmanagers), um die erforderlichen Bewertungsaktivitäten abzuschließen.
+-   Bestimmen entsprechender Teilnehmer (einschließlich eines Projektleiters) zum Ausführen der erforderlichen Analyseaktivitäten.
 
--   Geben Sie Ihren Bildschirm für das Team des Teams ein, wenn Sie Evaluierungstools für Ihre Umgebung, für EMS oder für einzelne Cloud-Dienstabonnements ausführen möchten (wenn Sie sich für eine entscheiden).
+-   Teilen Sie Ihren Bildschirm mit dem FastTrack-Team, wenn Sie beim Ausführen von Evaluierungstools für Ihre Umgebung, für EMS oder einzelne Clouddienstabonnements Anleitungen benötigen (bei Bedarf).
 
--   Beteiligen Sie sich an den Besprechungen, um die Korrektur Prüfliste zu erstellen und einen Beitrag zum Gesamtplan zu leisten, einschließlich Infrastruktur, Netzwerk, Verwaltung, Verzeichnis Synchronisierungs Vorbereitung, Netzwerksicherheit und Themen der Verbundidentität.
+-   Teilnehmen an den Besprechungen zum Erstellen einer Checkliste für Korrekturen und Mitwirken am Gesamtplan einschließlich Infrastruktur, Netzwerk, Administration, Vorbereitung der Verzeichnissynchronisierung, Netzwerksicherheit und Themen zu Verbundidentitäten.
 
 -   Teilnehmen an den Besprechungen zum Ansatz bei der Bereitstellung von Benutzerkonten.
 
 -   Teilnehmen an Besprechungen zum Planen der Konfiguration von Onlinediensten.
 
--   Erstellen eines Support Plans für die Migrationsbereitschaft.
+-   Erstellen eines Supportplans für die Migrationsbereitschaft.
 
 ## <a name="remediate-phase"></a>Korrekturphase
 
 -   Ausführen der erforderlichen Schritte zum Abschließen der in der Analysephase ermittelten Korrekturaktivitäten.
 
--   An Prüfpunkt-Besprechungen teilnehmen.
+-   Teilnehmen an Besprechungen zum Projektstand.
 
 ## <a name="enable-phase"></a>Aktivierungsphase
 
--   Geben Sie Ihren Bildschirm für das Team des Teams ein, wenn Sie Evaluierungstools für Ihre Umgebung, für EMS oder für einzelne Cloud-Dienstabonnements ausführen möchten (wenn Sie sich für eine entscheiden). Ressourcen bei Bedarf verwalten.
+-   Teilen Sie Ihren Bildschirm mit dem FastTrack-Team, wenn Sie beim Ausführen von Evaluierungstools für Ihre Umgebung, für EMS oder einzelne Clouddienstabonnements Anleitungen benötigen (bei Bedarf). Verwalten von Ressourcen nach Bedarf.
 
--   Konfigurieren Sie die netzwerkbezogenen Elemente pro Anleitung aus dem Team des Teams.
+-   Konfigurieren netzwerkbezogener Elemente gemäß Anleitung des FastTrack-Teams.
 
--   Führen Sie die Verzeichnis Bereitschaft aus, und konfigurieren Sie die Verzeichnissynchronisierung pro Anleitung des schnell Teams.
+-   Durchführen einer Verzeichnisuntersuchung und Konfigurieren der Verzeichnissynchronisierung gemäß Anleitung des FastTrack-Teams.
 
--   Konfigurieren Sie eine Authentifizierungsmethode, wie etwa Managed oder Federated. 
+-   Konfigurieren einer Authentifizierungsmethode wie "Verwaltet" oder "Verbund". 
 
--   Konfigurieren Sie die sicherheitsbezogene Infrastruktur (wie Firewall-Ports) pro Anleitung des Team Teams.
+-   Konfigurieren sicherheitsrelevanter Infrastruktur (z. B. Firewallports) gemäß Anleitung des FastTrack-Teams.
 
--   Implementieren Sie die entsprechende Client Infrastruktur.
+-   Implementieren der entsprechenden Clientinfrastruktur.
 
--   Implementieren Sie einen Benutzer-Prothesen-Ansatz pro Anleitung aus dem Team des Teams.
+-   Implementieren eines Ansatzes zur Bereitstellung von Benutzerkonten gemäß Anleitung des FastTrack-Teams.
 
--   Aktivieren Sie verschiedene Dienste pro Anleitung aus dem Team des Teams.
+-   Aktivieren verschiedener Dienste gemäß Anleitung des FastTrack-Teams.
 
 > [!NOTE]
-> **Möchten Sie mehr erfahren?** Siehe [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **Möchten Sie mehr erfahren?** Weitere Informationen finden Sie unter [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
 
 ## <a name="see-also"></a>Siehe auch
 
-- [Kurzleistungs Vorteil für EMS](EMS-fasttrack-benefit-for-EMS.md)
-- [Vorteile für Office 365](O365-fasttrack-benefit-for-office-365.md)
+- [FastTrack-Leistungsangebot für EMS](EMS-fasttrack-benefit-for-EMS.md)
+- [FastTrack-Leistungsangebot für Office 365](O365-fasttrack-benefit-for-office-365.md)
 
