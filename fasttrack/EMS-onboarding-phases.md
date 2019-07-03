@@ -1,11 +1,11 @@
 ---
 title: Phasen im Onboarding- und Migrationsprozess
-description: Phasen des Zentrums Vorteile
+description: Phasen des FastTrack Center-Leistungsangebots
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 06/04/2019
+ms.date: 07/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,280 +14,280 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3725a730a5191bfbe38958403b88ace00ed5bd02
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
-ms.translationtype: MT
+ms.openlocfilehash: 9b3108d9441cf06733a15cd5302e1b3aac4c80dc
+ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673559"
+ms.lasthandoff: 07/01/2019
+ms.locfileid: "35410934"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
-Wenn Sie die [berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) verwenden, um Microsoft Azure Active Directory Premium, Microsoft InTune und Azure Information Protection bereit zur Verwendung zu erhalten, sind mehrere Phasen am Prozess beteiligt. In den folgenden Abschnitten werden die einzelnen Phasen des Onboarding-Prozesses beschrieben.
+Wenn Sie die [Berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) verwenden, um Microsoft Azure Active Directory Premium, Microsoft Intune und Azure Information Protection für den Einsatz vorzubereiten, besteht der Prozess aus mehreren Phasen. In den folgenden Abschnitten wird jede Phase des Onboarding-Prozesses beschrieben.
 
-Das Onboarding umfasst vier primäre Phasen:
+Das Onboarding hat vier Hauptphasen:
 
-![Die vier Phasen des Onboarding-Prozesses](./media/O365-Onboarding-Phases.png)
+![Die vier Phasen des FastTrack Onboarding-Prozesses](./media/O365-Onboarding-Phases.png)
 
 
 ## <a name="initiate-phase"></a>Einleitungsphase
 
-Nachdem Sie die entsprechende Anzahl von Lizenzen erworben haben, führen Sie die Anweisungen in der Bestätigungs-e-Mail aus, um die Lizenzen Ihrem vorhandenen Mandanten oder neuen Mandanten zuzuordnen. Microsoft überprüft dann ihre Eignung für den Vorteil des Zentrums für den Bonus Center und versucht, Sie zu kontaktieren, um Onboarding-Unterstützung anzubieten.
+Nachdem Sie die gewünschte Anzahl von Lizenzen erworben haben, befolgen Sie die Anleitung in der E-Mail zur Kaufbestätigung, um die Lizenzen Ihrem vorhandenen oder neuen Mandanten zuzuordnen. Microsoft prüft dann Ihre Berechtigung für den FastTrack Center-Vorteil und versucht, Kontakt mit Ihnen aufzunehmen, um Unterstützung beim Onboarding anzubieten.
 
 > [!NOTE]
-> Sie können auch Unterstützung vom [kurzcenter](https://go.microsoft.com/fwlink/?linkid=780698) anfordern, wenn Sie bereit sind, diese Dienste für Ihre Organisation bereitzustellen.
+> Sie können auch Unterstützung vom [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) anfordern, wenn Sie bereit sind, diese Dienste für Ihre Organisation bereitzustellen.
 
-### <a name="to-request-assistance"></a>So fordern Sie Hilfe an
+### <a name="to-request-assistance"></a>So fordern Sie Unterstützung an
 
 1. Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an.
 2. Wählen Sie **FastTrack** aus.
 3. Wählen Sie **Dienste** aus.
-4. Schließen Sie die **Anforderung für Unterstützung mit dem Microsoft 365-Formular**ab.
+4. Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
 
-Sobald der Onboarding-Support gestartet wurde, richten wir einen Zeitplan für Onlinebesprechungen ein.
+Sobald der Onboarding-Support begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
 
 > [!NOTE]
-> Wenn Sie einen Microsoft-Partner in Ihrem Office 365 Mandanten aufgeführt haben, wird diese Option nicht angezeigt. Wenden Sie sich an Ihren Microsoft-Partner, um Hilfe zu erhalten.
+> Wenn in Ihrem Office 365-Mandanten ein Microsoft Partner aufgelistet ist, wird diese Option nicht angezeigt. Wenden Sie sich für Unterstützung an Ihren Microsoft Partner.
 
-Microsoft-Partner können auch Hilfe über die [Website](https://go.microsoft.com/fwlink/?linkid=780698) für die Schnelligkeit im Auftrag eines Kunden erhalten. Gehen Sie hierzu folgendermaßen vor:
+Als Microsoft Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie hierzu folgendermaßen vor:
 
 1. Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an.
 2. Wählen Sie **FastTrack** aus.
 3. Wählen Sie **Meine Kunden** aus.
 4. Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
 5. Wählen Sie **Dienste** aus.
-6. Schließen Sie die **Anforderung für Unterstützung mit dem Microsoft 365-Formular**ab.
+6. Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
 
-Sobald der Onboarding-Support gestartet wurde, richtet er einen Zeitplan für Onlinebesprechungen mit Ihnen ein, um den Onboarding-Prozess zu besprechen, Daten zu überprüfen und eine Kick-off-Besprechung einzurichten.
+Sobald der Onboarding-Support beginnt, richtet FastTrack einen Zeitplan für Onlinebesprechungen ein, um den Onboarding-Prozess zu besprechen, Daten zu überprüfen und eine Auftaktbesprechung zu vereinbaren.
 
-![Initialisierungsphase des onboardings](./media/ft-initiate-phase.png)
+![Einleitungsphase des Onboardings](./media/ft-initiate-phase.png)
 
 ## <a name="assess-phase"></a>Analysephase
 
-Nachdem der Onboarding-Prozess gestartet wurde, arbeitet das "kurzcenter" mit Ihnen zusammen, um die Quellumgebung und die Anforderungen zu bewerten. Tools werden ausgeführt, um Ihre Umgebung zu bewerten, und die Spezialisten für Zeitarbeits Experten führen Sie durch die Bewertung ihrer lokalen Active Directory, Internet Browser, Betriebssysteme der Clientgeräte, des DNS (Domain Name System), des Netzwerks, der Infrastruktur und des identitätssystems, um Ermitteln Sie, ob für das Onboarding Änderungen erforderlich sind.
+Nachdem der Onboarding-Prozesses eingeleitet wurde, arbeitet das FastTrack Center bei der Analyse Ihrer Quellumgebung und der Anforderungen mit Ihnen zusammen. Tools zur Analyse Ihrer Umgebung werden ausgeführt und FastTrack-Spezialisten begleiten Sie bei der Bewertung von lokalem Active Directory, Internetbrowsern, Betriebssystemen auf Kundengeräten, des DNS-Systems, des Netzwerks, der Infrastruktur und des Identitätsverwaltungssystems, um zu bestimmen, ob für das Onboarding Änderungen erforderlich sind.
 
-Das kurzcenter verbindet Sie außerdem mit Anleitungen zum Steuern der erfolgreichen Einführung der berechtigten Dienste.
+Das FastTrack Center führt Sie auch zu Anleitungen, wie Sie die erfolgreiche Umsetzung der berechtigten Dienste fördern können.
 
-Basierend auf Ihrem aktuellen Setup stellen wir einen Sanierungsplan bereit, der Ihre Quellumgebung auf die Mindestanforderungen für ein erfolgreiches Onboarding zu EMS oder den einzelnen Cloud-Diensten umsetzt. Wir haben auch geeignete Prüf Punkt Aufrufe für die Korrekturphase eingerichtet.
+Basierend auf Ihrer aktuellen Einrichtung erstellen wir einen Korrekturplan. Nach Befolgen dieses Plans wird Ihre Quellumgebung an die Mindestanforderungen für ein erfolgreiches Onboarding für EMS oder deren einzelne Clouddienste angepasst. Für die Korrekturphase setzen wir auch entsprechende Telefonkonferenzen an.
 
-![Bewertung der Onboarding-Phase](./media/ft-assess-phase.png)
+![Analysephase des Onboardings](./media/ft-assess-phase.png)
 
 ## <a name="remediate-phase"></a>Korrekturphase
-Sie führen die Aufgaben im Korrektur Plan für Ihre Quellumgebung aus, damit Sie die Anforderungen für das Onboarding und die Übernahme der einzelnen Dienste erfüllen können (je nach Bedarf).
+Sie führen die Aufgaben im Korrekturplan für Ihre Quellumgebung aus, damit Sie die Anforderungen für das Onboarding der einzelnen Dienste erfüllen.
 
-![Onboarding-Korrekturphase](./media/ft-remediate-phase.png)
+![Korrekturphase des Onboardings](./media/ft-remediate-phase.png)
 
-Bevor Sie mit der Aktivierungsphase beginnen, überprüfen wir gemeinsam die Ergebnisse der Korrekturaktivitäten, um sicherzustellen, dass Sie bereit sind, fortzufahren.
+Bevor Sie die Aktivierungsphase einleiten, überprüfen wir gemeinsam die Ergebnisse der Korrekturaktivitäten, um sicherzustellen, dass Sie auf dem benötigten Stand sind.
 
 ## <a name="enable-phase"></a>Aktivierungsphase
-Wenn alle Korrekturaktivitäten abgeschlossen sind, wird das Projekt auf die Konfiguration der Kerninfrastruktur für die Nutzung der Dienste und auf die Einrichtung jedes berechtigten EMS Cloud-Diensts verschoben.
+Nach Abschluss aller Korrekturaktivitäten ist der nächste Schritt im Projekt die Konfiguration der Kerninfrastruktur für die Nutzung der Dienste und die Bereitstellung jedes berechtigten EMS-Clouddiensts.
 
-**Aktivieren von Phasen Kernfunktionen**
+**Aktivierungsphase – Kernfunktionen**
 
-Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integration von Mandanten und Identitäten. Es enthält auch Schritte zum Bereitstelleneiner Grundlage für Onboarding-Onlinedienste wie Azure AD Premium, InTune und Azure Information Protection.
+Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integration von Mandanten und Identitäten. Es umfasst außerdem Schritte zur Bereitstellung einer Basis für das Onboarding von Onlinediensten wie Azure AD Premium, Intune und Azure Information Protection.
 
-![Onboarding: Aktivieren von Phasen Kernfunktionen](./media/ft-enable-phase-core-01.png)
+![Aktivierungsphase des Onboardings – Kernfunktionen](./media/ft-enable-phase-core-01.png)
 
-![Onboarding: Aktivieren von Phasen Kernfunktionen](./media/ft-enable-phase-core-02.png)
+![Aktivierungsphase des Onboardings – Kernfunktionen](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
 > WAP steht für Webanwendungsproxy SSL steht für Secure Sockets Layer SDS steht für School Data Sync Weitere Informationen zu SDS finden Sie unter [Willkommen bei Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
-> Eine verwaltete Authentifizierungsmethode umfasst, ist aber nicht auf die Kennworthash Synchronisierung limitiert. Die Identitätsintegration ist eine einmalige Aktivität, die nicht die Migration oder Außerbetriebnahme vorhandener Authentifizierungsmethoden, wie verwalteter oder Verbund, umfasst.
+> Eine verwaltete Authentifizierungsmethode umfasst auch die Kennwort-Hashsynchronisierung. Die Identitätsintegration ist eine einmalige Aktivität und beinhaltet keine Migration oder Außerbetriebnahme vorhandener Authentifizierungsmethoden wie verwalteter oder Partner-Authentifizierungsmethoden.
 
-### <a name="enable-phase---azure-ad-premium"></a>Aktivieren von Phase-Azure AD Premium
+### <a name="enable-phase---azure-ad-premium"></a>Aktivierungsphase – Azure AD Premium
 
-Die Azure AD Premium-Umgebung kann mithilfe der Azure Active Directory Connect Tool-Verzeichnissynchronisierung und Active Directory Verbunddienste (AD FS) (je nach Bedarf) eingerichtet werden.
+Die Azure AD Premium-Umgebung kann mithilfe der Azure Active Directory Connect-Tool-Verzeichnissynchronisierung und der Active Directory-Verbunddienste (AD FS) (nach Bedarf) eingerichtet werden.
 
-Für Azure AD Premium-Szenarien, in denen lokale Identitäten für die Cloud synchronisiert werden, unterstützen wir Sie, indem wir IT-Administratoren und Benutzer zu Ihrem Abonnement hinzufügen, Verwaltungs Voraussetzungen konfigurieren, Azure AD Premium einrichten, Verzeichnis einrichten Synchronisierung mit verwalteter Authentifizierung und AD FS mithilfe des Azure AD Connect-Tools, Konfigurieren von Testbenutzern und Validieren der Kern Anwendungsfälle für den Dienst.
+Für Azure AD Premium-Szenarios, die das Synchronisieren lokaler Identitäten mit der Cloud umfassen, helfen wir Ihnen beim Hinzufügen von IT-Administratoren und Benutzern zu Ihrem Abonnement, beim Konfigurieren von Verwaltungsvoraussetzungen, beim Einrichten von Azure AD Premium, beim Einrichten der Verzeichnissynchronisierung mit verwalteter Authentifizierung und AD FS mithilfe des Azure AD Connect-Tools, beim Konfigurieren von Testbenutzern und dem Überprüfen Ihrer Hauptanwendungsfälle für den Dienst.
 
-Azure AD Premium-Setup umfasst die Aktivierung der folgenden Features:
+Die Einrichtung von Azure AD Premium umfasst das Aktivieren der folgenden Features:
 
--   Azure Active Directory Self-Service Password Reset (SSPR).
+-   Azure Active Directory Self-Service-Kennwortzurücksetzung (SSPR).
 
--   Azure-mehrstufige Authentifizierung (Azure MFA).
+-   Azure Multi-Factor Authentication (Azure MFA).
 
--   Bis zu drei (3) oder mehr Software as a Service (SaaS)-Anwendungsintegration mit einmaligem Anmelden (Single Sign-on, SSO) aus dem [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
+-   Bis zu drei (3) oder mehr SaaS-Anwendungsintegrationen (Software as a Service) mit einmaligem Anmelden (Single Sign-On, SSO) aus dem[Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Automatische Benutzer Protestierung für vorab integrierte SaaS-Anwendungen, wie in der [Lernprogramm Liste](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list)für die APP-Integration aufgeführt, nur für die ausschließliche Weiterleitung beschränkt.
+-   Automatische Benutzerbereitstellung für vorintegrierte SaaS-Anwendungen, wie sie in der [Liste der App-Integrationstutorials](https://docs.microsoft.com/de-DE/azure/active-directory/saas-apps/tutorial-list) aufgeführt sind, beschränkt auf die ausgehende Bereitstellung.
 
--   Benutzerdefinierter Anmeldebildschirm, einschließlich Logo, Text und Bilder.
+-   Benutzerdefinierter Anmeldebildschirm, einschließlich Logo, Text und Bildern.
 
 -   Self-Service-und dynamische Gruppen (Gruppen).
 
--   Azure Active Directory-Anwendungs Proxy.
+-   Azure Active Directory-Anwendungsproxy.
 
--   Azure Active Directory Connect-Integrität.
+-   Azure Active Directory Connect Health.
 
--   Azure Active Directory bedingten Zugriff.
+-   Bedingter Zugriff in Azure Active Directory Domain Services.
 
--   Azure Active Directory Terms of use.
+-   Azure Active Directory Nutzungsbedingungen.
 
 -   Azure Active Directory Identity Protection.
 
--   Azure Active Directory privilegierte Identitätsverwaltung.
+-   Azure Active Directory Privileged Identity Management.
 
--   Azure Active Directory Access Reviews.
+-   Azure Active Directory Domain Services-Zugriffsüberprüfungen.
 
-![Onboarding Aktivieren der Phase-Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
+![Aktivierungsphase des Onboardings – Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
-### <a name="enable-phase---intune"></a>Phase-InTune aktivieren
+### <a name="enable-phase---intune"></a>Aktivierungsphase – Intune
 
-Für InTune führen wir Sie durch die Vorbereitungen für die Verwendung von Microsoft InTune zum Verwalten von Geräten. Die genauen Schritte hängen von ihrer Quellumgebung ab und basieren auf Ihren Anforderungen für mobile Geräte und Mobile App Verwaltung. Die Schritte können Folgendes umfassen:
+Für Intune führen wir Sie durch die Vorbereitungen für die Verwendung von Microsoft Intune zur Verwaltung von Geräten. Die genauen Schritte hängen von Ihrer Quellumgebung ab und basieren auf dem Mobilgerät und den Anforderungen an die Verwaltung mobiler Apps. Die Schritte können Folgendes umfassen:
 
--   Lizenzierung Ihrer Endbenutzer Wir bieten auch Unterstützung bei der Aktivierung von Volumenlizenzen für Ihren Microsoft Cloud Service-Mandanten (bei Bedarf).
+-   Lizenzierung Ihrer Endbenutzer. Wir unterstützen Sie zudem beim Aktivieren von Volumenlizenzen für Ihren Microsoft Cloud Service-Mandanten (nach Bedarf).
 
--   Konfigurieren von Identitäten, die von InTune verwendet werden, indem Sie entweder Ihre lokale Active Directory oder Cloud-Identitäten nutzen.
+-   Konfigurieren von Identitäten, die von Intune verwendet werden sollen, entweder durch Nutzung Ihres lokalen Active Directory oder von Cloud-Identitäten.
 
--   Hinzufügen von Benutzern zu Ihrem InTune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer-und Gerätegruppen.
+-   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer- und Gerätegruppen.
 
--   Konfigurieren der MDM-Autorität (Mobile Device Management) basierend auf Ihren Verwaltungsanforderungen, einschließlich:
+-   Konfigurieren Ihrer Autorität für die Verwaltung von Mobilgeräten (MDM), basierend auf Ihren Verwaltungsanforderungen, darunter:
 
-    -   Festlegen von InTune als MDM-Autorität, wenn InTune Ihre einzige MDM-Lösung ist oder in Verbindung mit der Verwaltung mobiler Geräte für Office 365.
+    -   Festlegen von Intune als MDM-Autorität, wenn Intune Ihre einzige MDM-Lösung ist oder in Verbindung mit der Verwaltung mobiler Geräte für Office 365.
 
--   Bereitstellen von MDM-Anleitungen für:
+-   Bereitstellen von MDM-Anleitungen für Folgendes:
 
-    -   Konfigurieren von testsgruppen, die zur Überprüfung der MDM-Verwaltungsrichtlinien verwendet werden sollen.
+    -   Konfiguration von Testgruppen, die zur Validierung von MDM-Verwaltungsrichtlinien verwendet werden sollen.
 
-    -   Konfigurieren von MDM-Verwaltungsrichtlinien und-Diensten wie:
+    -   Konfigurieren von MDM-Verwaltungsrichtlinien und -Diensten wie:
 
-        -   Anwendungsbereitstellung für jede unterstützte Plattform über Weblinks oder Deep-Links.
+        -   Anwendungsbereitstellung für jede unterstützte Plattform über Weblinks oder Deep Links.
 
         -   Richtlinien für bedingten Zugriff.
 
-        -   Bereitstellung von e-Mails, drahtlosen Netzwerken und VPN-Profilen (virtuelles privates Netzwerk), wenn Sie über eine vorhandene Zertifizierungsstelle, eine WLAN-oder VPN-Infrastruktur in Ihrer Organisation verfügen.
+        -   Bereitstellung von E-Mail-, Wireless-Netzwerk- und VPN-Profilen (virtuelles privates Netzwerk), wenn Sie eine bestehende Zertifizierungsstelle, Wi-Fi- oder VPN-Infrastruktur in Ihrer Organisation haben.
 
-        -   Einrichten des Microsoft InTune Exchange Connectors (sofern zutreffend).
+        -   Einrichten des Microsoft Intune Exchange Connector (falls vorhanden).
 
-        -   Herstellen einer Verbindung mit einem InTune-Data Warehouse
+        -   Verbindung zum Intune Data Warehouse
 
-        -   Integrieren von InTune mit:
-            -   TeamViewer für Remoteunterstützung (TeamViewer-Abonnement ist erforderlich).
+        -   Integration von Intune mit:
+            -   Team Viewer für Remote-Unterstützung (Team Viewer-Abonnement erforderlich).
 
-            -   MTD-Partnerlösungen (Mobile Threat Defense) (Mobile Threat Defense Abonnement ist erforderlich).
+            -   Mobile Threat Defense (MTD)-Partnerlösungen (Mobile Threat Defense-Abonnement erforderlich).
 
-            -   Telecom Expense Management Solution (Telecom Expense Management Solution-Abonnement ist erforderlich).
+            -   Telecom Expense Management Solution (Telecom Expense Management Solution-Abonnement erforderlich).
 
-            -   Windows Defender Advanced Threat Protection (Windows E5-oder Microsoft 365 E5-Lizenzen sind erforderlich).
+            -   Windows Defender Advanced Threat Protection (Windows E5- oder Microsoft 365 E5-Lizenzen erforderlich).
 
-    -   Registrieren von Geräten jeder [unterstützten Plattform](https://technet.microsoft.com/library/dn600287.aspx) für InTune.
+    -   Registrieren von Geräten jeder [unterstützten Plattform](https://technet.microsoft.com/library/dn600287.aspx) bei Intune.
 
--   Bereitstellen von App-Schutz Anleitungen für:
+-   Bereitstellen von App-Schutz-Anleitungen für Folgendes:
 
     -   Konfigurieren von App-Schutzrichtlinien für jede unterstützte Plattform.
 
-    -   Konfigurieren von Richtlinien für bedingten Zugriff für verwaltete apps.
+    -   Konfigurieren von Richtlinien für bedingten Zugriff für verwaltete Apps.
 
-    -   Ausrichtung der entsprechenden Benutzergruppen mit den oben genannten MAM-Richtlinien.
+    -   Adressieren entsprechender Benutzergruppen mit den obigen MAM-Richtlinien.
 
     -   Verwenden von Verwendungsberichten für verwaltete Anwendungen.
 
--   Bereitstellen von Anleitungen für die PC-Verwaltung unter:
+-   Bereitstellen von Anleitungen zur PC-Verwaltung für Folgendes:
 
-    -   Installieren der InTune-Client Software (falls erforderlich).
+    -   Installieren der Intune-Clientsoftware (bei Bedarf).
 
-    -   Verwenden der in InTune verfügbaren Software-und Hardwareberichte
+    -   Verwenden der in Intune verfügbaren Soft- und Hardwareberichte.
 
     > [!IMPORTANT]
-    > Die klassische PC-Verwaltung von Windows 10 mit InTune wird nicht unterstützt. Der kurzstand unterstützt Windows 10-Geräteverwaltung über die Mobile Geräteverwaltung von InTune (MDM).
+    > FastTrack unterstützt nicht die klassische PC-Verwaltung von Windows 10 mit Intune. FastTrack unterstützt nur die Windows 10-Geräteverwaltung durch Intune Mobile Device Management (MDM).
 
 #### <a name="windows-autopilot"></a>Windows Autopilot
 
-Der Kurztext kann Ihnen helfen, ihre Gerätebereitstellung mit Windows Autopilot und InTune zu vereinfachen, indem Ihren Endbenutzern neue Geräte zur Verfügung gestellt werden, ohne dass benutzerdefinierte Betriebssystemabbilder auf Ihren Geräten erstellt, verwaltet und angewendet werden müssen.
+FastTrack kann die Gerätebereitstellung mit Windows Autopilot und Intune vereinfachen, indem Sie die Endbenutzer mit neuen Geräten ausstatten, ohne benutzerdefinierte Betriebssystemabbilder erstellen, verwalten und auf Ihren Geräte anwenden zu müssen.
 
-Der Kurzkurs unterstützt die folgenden Autopilot-Szenarien:
+FastTrack unterstützt die folgenden Autopilot-Szenarios:
 
-- **Azure AD Self-Service:** Geräte werden Azure AD beitreten und sich bei InTune anmelden. Dieses Szenario wird bei Verwendung von Windows 10 1703 und den neuesten Versionen unterstützt.
+- **Azure AD Self-Service:** Geräte werden in Azure AD aufgenommen und bei Intune registriert. Dieses Szenario wird unterstützt, wenn Windows 10 1703 und die neuesten Versionen verwendet werden.
 
-- **Hybrider Aad Self-Service:** Geräte werden sowohl an lokale Ad-als auch Azure AD teilnehmen und sich bei InTune anmelden. Dieses Szenario wird bei Verwendung von Windows 10 1809 und den neuesten Versionen unterstützt.
+- **Hybrid Azure AD Self-Service:** Geräte werden sowohl in das lokale Azure AD als auch Azure AD aufgenommen und bei Intune registriert. Dieses Szenario wird unterstützt, wenn Windows 10 1809 und die neuesten Versionen verwendet werden.
 
-- **Selbstverwaltung:** Geräte werden automatisch Azure AD beitreten. Dieses Szenario wird bei Verwendung von Windows 1809 und den neuesten Versionen unterstützt.
+- **Selbstbereitstellung:** Geräte werden automatisch in Azure AD aufgenommen. Dieses Szenario wird unterstützt, wenn Windows 1809 und die neuesten Versionen verwendet werden.
 
     > [!IMPORTANT]
-    > In diesem Fall werden Autopilot-Szenarien, die von Configuration Manager initiiert wurden, nicht unterstützt.
+    > FastTrack unterstützt keine vom Konfigurations-Manager initiierten Autopilot-Szenarios.
 
 Die Schritte zum Einrichten von Windows Autopilot hängen von der Quellumgebung ab und können Folgendes umfassen:
 
-- Konfigurieren und Einrichten von Microsoft InTune für Windows Autopilot.
+- Konfigurieren und Einrichten von Microsoft Intune für Windows Autopilot.
 
-- Konfigurieren Azure AD dynamischer Gruppen
+- Konfigurieren von dynamischen Gruppen in Azure AD
 
-- Fügen Sie Ihr Firmenbranding in Azure AD hinzu.
+- Einfügen Ihres Firmenlogo in Azure AD.
 
-- Erstellen und Zuweisen von Geräten zu Windows Autopilot-Profilen (beispielsweise ein Windows Autopilot-Profil, das die Erstellung lokaler Administrator Konten einschränkt).
+- Erstellen und Zuweisen von Geräten zu Windows-Autopilot-Profilen (z.B. ein Windows-Autopilot-Profil, das die Erstellung eines lokalen Administratorkontos einschränkt).
 
-- Passen Sie die Out-of-Box-Experience (OOBE) an, um den Anforderungen der Organisation zu entsprechen.
+- Passen Sie die Out-of-Box-Erfahrung (OOBE) an, um den Anforderungen der Organisation zu entsprechen.
 
-- Konfigurieren der automatischen MDM-Registrierung in Azure AD und InTune.
+- Konfigurieren der automatischen MDM-Registrierung in Azure AD und Intune.
 
-#### <a name="deploy-outlook-for-ios-and-android-securely"></a>Sicheres Bereitstellen von Outlook für IOS und Android
+#### <a name="deploy-outlook-for-ios-and-android-securely"></a>Sicheres Bereitstellen von Outlook für iOS und Android
 
-Der Kurztext kann Ihnen helfen, indem Sie Outlook für IOS und Android sicher in Ihrer Organisation bereitstellen, um sicherzustellen, dass Ihre Benutzer alle erforderlichen apps installiert haben.
+FastTrack kann Sie unterstützen, indem es Outlook für iOS und Android in Ihrer Organisation sicher bereitstellt, um dafür zu sorgen, dass die Benutzer alle erforderlichen Apps installiert haben.
 
-Die Schritte zur sicheren Bereitstellung von Outlook Mobile für IOS und Android mit InTune hängen von der Quellumgebung ab und können Folgendes umfassen:
+Die Schritte zur sicheren Bereitstellung von Outlook Mobile für iOS und Android mit Intune sind von der Quellumgebung abhängig und können Folgendes umfassen:
 
-- Laden Sie Outlook für IOS und Android, Microsoft Authenticator und die Intune-Unternehmensportal-App über den Apple App Store oder den Google Play Store herunter.
-- Geben Sie außerdem Anleitungen zum Einrichten von:
-    - Outlook für IOS und Android, Microsoft Authenticator und die APP-Bereitstellung des InTune-Unternehmensportals mit InTune.
-    - Richtlinien für den App-Schutz
+- Laden Sie Outlook für iOS und Android, Microsoft Authenticator und die Intune-Unternehmensportal-App über den Apple App Store oder Google Play Store herunter.
+- Stellen Sie auch Anleitungen zu Folgendem bereit:
+    - Bereitstellung von Outlook für iOS und Android, Microsoft Authenticator und der Intune-Unternehmensportal-App mit Intune.
+    - App-Schutzrichtlinien
     - Richtlinien für bedingten Zugriff
     - App-Konfigurationsrichtlinien
 
     > [!IMPORTANT]
-    > Das Team des Teams unterstützt das Sichern von Outlook für IOS und Android mit Postfachrichtlinien für mobile Geräte von Exchange nicht.
+    > Das FastTrack -Team unterstützt nicht die Sicherung von Outlook für iOS und Android mit Exchange-Postfachrichtlinien für Mobilgeräte.
 
-#### <a name="co-management"></a>Gemeinsame Verwaltung
+#### <a name="co-management"></a>Mitverwaltung
 
-Der Schnellstart führt Sie durch die Vorbereitungen zur gleichzeitigen Verwaltung von Windows 10-Geräten mit Configuration Manager und InTune. Die genauen Schritte hängen von ihrer Quellumgebung ab und können Folgendes umfassen:
+FastTrack führt Sie durch die Vorbereitung der gleichzeitigen Verwaltung von Windows 10-Geräten sowohl mit dem Configuration Manager als auch mit Intune. Die genauen Schritte hängen von der Quellumgebung ab und können Folgendes umfassen:
 
-- Erläutern Sie die Vorteile der gemeinsamen Verwaltung.
+- Erläutern der Vorteile der gemeinsamen Verwaltung.
 
-- Lizenzieren Sie Ihre Endbenutzer. Darüber hinaus unterstützt Sie die Aktivierung von Volumenlizenzen für Ihren Microsoft Cloud Service-Mandanten (nach Bedarf).
+- Lizenzieren Ihrer Endbenutzer. FastTrack unterstützt Sie zudem beim Aktivieren von Volumenlizenzen für Ihren Microsoft Cloud Service-Mandanten (nach Bedarf).
 
-- Konfigurieren Sie Identitäten, die von InTune verwendet werden sollen, indem Sie entweder Ihre lokalen Active Directory und/oder Cloud-Identitäten nutzen.
+- Konfigurieren von Identitäten, die von Intune verwendet werden sollen, entweder durch Nutzung Ihres lokalen Active Directory und/oder von Cloud-Identitäten.
 
-- Hinzufügen von Benutzern zu Ihrem InTune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer-und Gerätegruppen.
+- Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer- und Gerätegruppen.
 
-- Geben Sie Anleitungen zum Umstieg von InTune in System Center Configuration Manager (Hybrid) in InTune Standalone.
+- Bereitstellen von Anleitungen zum Wechsel von Intune, das im System Center Configuration Manager (Hybrid) integriert ist, zu Intune Standalone.
 
-- Leitfaden zum Einrichten von Azure Active Directory für die automatische MDM-Registrierung.
+- Bereitstellen von Anleitungen zum Einrichten der automatischen MDM-Registrierung in Azure Active Directory Domain Services.
 
-- Bereitstellen von Anleitungen zum Einrichten von Hybrid-Azure-Active Directory Join.
+- Bereitstellen von Anleitungen zur Einrichtung der hybriden Azure Active Directory-Verknüpfung.
 
-- Bereitstellen von Anleitungen zum Einrichten des Cloud Management-Gateways
+- Bereitstellen von Anleitungen zum Einrichten von Cloud Management Gateway
 
-- Aktivieren Sie die gemeinsame Verwaltung in der Configuration Manager-Konsole.
+- Aktivierung der Mitverwaltung in der Configuration Manager-Konsole.
 
-- Konfigurieren Sie die unterstützten Arbeitsauslastungen, die Sie zu InTune wechseln möchten.
+- Konfigurieren unterstützter Arbeitsauslastung, die Sie in Intune verschieben möchten.
 
-- Installieren Sie den Configuration Manager-Client in InTune-registrierten Geräten.
+- Installieren des Konfigurations-Manager-Clients in Geräten, die bei Intune registriert sind.
 
-- Geben Sie Anleitungen zum Überwachen der gemeinsamen Verwaltungsaktivitäten in Ihrer Umgebung.
+- Bereitstellen von Anleitungen zur Überwachung der Mitverwaltungsaktivitäten in Ihrer Umgebung.
 
-Außerdem erhalten Sie eine Anleitung, wie Sie die erfolgreiche Einführung der berechtigten Dienste vorantreiben können.
+FastTrack stellt Ihnen auch Anleitungen dazu bereit, wie Sie die erfolgreiche Umsetzung der berechtigten Dienste fördern können.
 
-![Onboarding enable Phase-InTune](./media/ft-enable-phase_intune_mam.png)
+![Aktivierungsphase des Onboardings – Intune](./media/ft-enable-phase_intune_mam.png)
 
-![Onboarding enable Phase-InTune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
+![Aktivierungsphase des Onboardings – Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Onboarding ermöglichen Phase-Co-Management](./media/ft-9-enable-phase-comanagement.png)
+![Aktivierungsphase des Onboardings – Mitverwaltung](./media/ft-9-enable-phase-comanagement.png)
 
 #### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
 
-Kunden werden Anleitungen zu folgenden Themen bereitgestellt: 
+Kunden erhalten Anleitungen für Folgendes: 
 
-- Aktivieren und konfigurieren Sie den Mandanten.
-- Erstellen und Einrichten von Bezeichnungen und Richtlinien
-- Wenden Sie den Schutz von Informationen auf Dokumente an. 
-- Automatisches klassifizieren und bezeichnen von Informationen in Office-Apps (wie Word, PowerPoint, Excel und Outlook), die unter Windows unter Verwendung des Azure Information Protection-Clients durchführen.
-- Verwenden Sie Dateien im Ruhezustand mithilfe des Azure Information Protection-Scanners.
-- Überwachen von e-Mails in Transit mit Exchange Online Nachrichtenfluss Regeln.
+- Aktivierung und Konfigurierung ihres Mandanten.
+- Erstellung und Einrichtung von Bezeichnungen und Richtlinien.
+- Anwendung von Informationsschutz auf Dokumente. 
+- Automatische Klassifizierung und Bezeichnung von Informationen in Office-Apps (wie Word, PowerPoint, Excel und Outlook), die unter Windows ausgeführt werden und den Azure Information Protection-Client verwenden.
+- Verwendung von ruhenden Dateien mithilfe des Azure Information Protection Scanners.
+- Überwachung von E-Mails während der Übertragung unter Verwendung von Exchange Online-Nachrichtenflussregeln.
 
-Kunden, die den Schutz mithilfe von Microsoft Azure Rights Management Services (Azure RMS), der Office 365-Nachrichtenverschlüsselung (OM) und der Verhinderung von Datenverlust (DLP) anwenden möchten, werden ebenfalls Unterstützung angeboten.
+Anleitungen werden auch für Kunden bereitgestellt, die Schutzmaßnahmen mit Microsoft Azure AD Rights Management Services (Azure RMS), Office 365 Message Encryption (OME) und Data Loss Prevention (DLP) anwenden möchten.
 
 > [!NOTE]
-> **Möchten Sie mehr erfahren?** Weitere Informationen finden Sie unter [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
+> **Mehr Informationen** finden Sie unter[Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).
 
-## <a name="next-steps"></a>Nächste Schritte
+## <a name="next-steps"></a>Weitere Schritte
 
-[Kurzgeld für EMS-Microsoft-Aufgaben](EMS-fasttrack-responsibilities.md)
+[FastTrack-Vorteil für EMS – Zuständigkeiten von Microsoft](EMS-fasttrack-responsibilities.md)
