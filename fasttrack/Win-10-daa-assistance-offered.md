@@ -3,21 +3,19 @@ title: Angebotene Unterstützung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
-f1_keywords:
-- windows-10-microsoft-365-onboarding-benefit-process-assistance
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
-ms.openlocfilehash: ef083d2d9f57821414f97f8f7aed1cfbdcc676b3
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 52ef57fc9bcda58652bf817552a881c0acdfe75e
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410862"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054146"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 

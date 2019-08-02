@@ -3,21 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: overview
-f1_keywords:
-- windows-10-microsoft-365-onboarding-benefit-process-assistance
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen.
-ms.openlocfilehash: 57c198fc4e1707b34bed802b70bba8b6b317e6e2
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 50a33d07593eef18a4d0dff8efb6adef0ca10250
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35415739"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054074"
 ---
 # <a name="windows-10"></a>Windows 10
 

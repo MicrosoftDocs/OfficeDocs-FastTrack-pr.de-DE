@@ -3,19 +3,19 @@ title: Ihre Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: f1770e977f4cf948edc1ec1dc62c3c11933ad964
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 726756fdc73a767e8af80b8809487b40d7b5cb94
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673750"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054062"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
