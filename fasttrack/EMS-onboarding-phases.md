@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 30b0f1eae559bbc32eb80f89d4f177be0178079b
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0ea242b03fc0d7cdfc3241c6d2f023213c2fa383
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053822"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294301"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -45,9 +45,6 @@ Nachdem Sie die gewünschte Anzahl von Lizenzen erworben haben, befolgen Sie die
 4. Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
 
 Sobald der Onboarding-Support begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
-
-> [!NOTE]
-> Wenn in Ihrem Office 365-Mandanten ein Microsoft Partner aufgelistet ist, wird diese Option nicht angezeigt. Wenden Sie sich für Unterstützung an Ihren Microsoft Partner.
 
 Als Microsoft Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie hierzu folgendermaßen vor:
 
