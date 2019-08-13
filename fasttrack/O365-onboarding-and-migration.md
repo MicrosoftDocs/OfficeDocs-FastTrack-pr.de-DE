@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 433f118b00f5a521eb8a48fbf43e3cd64ddf4a14
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054110"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294433"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -40,8 +40,6 @@ So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsof
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
 2.  Wählen Sie **Dienste** aus.
 3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
-> [!NOTE]
->  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 

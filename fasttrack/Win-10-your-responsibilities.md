@@ -3,19 +3,19 @@ title: Ihre Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Zu Ihren Zuständigkeiten während des Windows 10-Onboardings zählen die folgenden.
-ms.openlocfilehash: a88daa095b859248e844bfba70f76027fd1638f4
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: fdca7153db6f3268cbd6d2d1f364d1a43a6f73dd
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054170"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294378"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 

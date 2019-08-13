@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz bereit. '
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053990"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294337"
 ---
 # <a name="the-fasttrack-process"></a>Der FastTrack-Prozess
 
@@ -45,8 +45,6 @@ So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsof
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
 2.  Wählen Sie **Dienste** aus.
 3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
-> [!NOTE]
->  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
   
  Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     

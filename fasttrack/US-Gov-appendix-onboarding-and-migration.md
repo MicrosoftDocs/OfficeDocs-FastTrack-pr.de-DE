@@ -3,19 +3,19 @@ title: Onboarding-und Migrationsphasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 5e44bb896183b75079f9cb5126626ae0b37fc4a2
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053714"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294349"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
@@ -38,8 +38,6 @@ So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsof
 2.  Wählen Sie **FastTrack** aus.
 3.  Wählen Sie **Dienste** aus.
 4.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
-    > [!NOTE]
-    >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
 
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
