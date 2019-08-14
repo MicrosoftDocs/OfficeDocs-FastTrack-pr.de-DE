@@ -3,19 +3,19 @@ title: Berechtigte Dienste und Pläne
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053882"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294217"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
@@ -32,9 +32,7 @@ So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsof
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
 2.  Wählen Sie **Dienste** aus.
 3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
-    > [!NOTE]
-    >  Wenn in Ihrem Office 365-Mandanten ein Partner aufgelistet ist, wird diese Option nicht angezeigt. Bitten Sie Ihren Partner um Unterstützung. 
-
+  
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
 2.  Wählen Sie **Meine Kunden** aus.
@@ -163,7 +161,7 @@ Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für O
 |**Microsoft Azure Active Directory Premium**     |  Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.       |
 |**Microsoft Azure Information Protection**    |  Verfügbar für P2, als Teil von E5 oder als eigenständiger Plan. Verfügbar für Cloud-Dienste, die Anspruch auf FastTrack-Leistungsangebote haben. Für Cloud-Dienste P1, FastTrack teilt die Selbstbereitstellungsanleitung.       |
 |**Microsoft Intune**    |   Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.      |
-|**Cloud Attach**     |    Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.     |
+|**Cloud Attach Configuration Manager mit Microsoft Intune**     |    Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.     |
 |**Microsoft Intune for Education**     |  Berechtigt, wenn als eigenständiger Plan oder als Teil von A3 oder A5 erworben.       |
 |**Microsoft Advanced Threat Protection**     |    Eingeschränkt. Nur bei Erwerb als eigenständiger Plan zulässig. Wechseln Sie zu diesem Zweck zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft Advanced Threat Analytics**   |        Eingeschränkt. Nur berechtigt, wenn als eigenständiger Plan erworben. Wechseln Sie hierfür zum [Microsoft 365 FastTrack-Portal](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |

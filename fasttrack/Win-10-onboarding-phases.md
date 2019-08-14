@@ -3,19 +3,19 @@ title: Onboarding-Phasen
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Windows 10-Onboarding hat vier Hauptphasen: Einleiten, Analysieren, Korrigieren und Aktivieren.'
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054098"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294361"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -29,9 +29,9 @@ In dieser Phase werden der Onboarding-Prozess beschrieben, Ihre Daten überprüf
 
 FastTrack-Experten arbeiten mit Ihnen zusammen, um Ihre Quellumgebung und die Anforderungen zu beurteilen. Stellen Sie sicher, dass System Center Configuration Manager auf die erforderliche Stufe aktualisiert wurde, um die Windows 10-Bereitstellung zu unterstützen. 
 
-Wir stellen Ihnen empfohlene Optionen zur Bewertung Ihrer Windows 10-Apps zur Verfügung.
+Wir stellen Ihnen empfohlene Optionen zur Bewertung Ihrer Windows 10-Apps bereit. FastTrack bietet Anleitungen zum Aktivieren der Nutzung von Desktop Analytics und führt Sie durch die Erstellung eines Bereitstellungsplans für Desktop Analytics.
 
-FastTrack kann die Kompatibilitätsprüfung für Office 365 ProPlus auch unter Verwendung des Dashboards für die Office 365-Bereitschaft in Configuration Manager oder des eigenständigen Readiness Toolkits für Office durchführen. Weitere Informationen zu den verfügbaren Diensten finden Sie unter [FastTrack Center-Vorteil für Office 365](O365-fasttrack-benefit-for-office-365.md). 
+FastTrack kann auch durch die Kompatibilitätsbewertung für Office 365 ProPlus unter Verwendung des Dashboards für die Office 365-Bereitschaft in Configuration Manager oder mit dem eigenständigen Bereitschafts-Toolkit für Office führen. Weitere Informationen zu den verfügbaren Diensten finden Sie unter [FastTrack Center-Vorteil für Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
 ## <a name="remediate"></a>Korrigieren
 
