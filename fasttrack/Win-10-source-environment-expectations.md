@@ -3,19 +3,19 @@ title: Anforderungen an die Quellumgebung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Das FastTrack Center-Angebot umfasst Anleitungen für die Einrichtung von Integrationsebenen in Ihrer Quellumgebung für die Bereitstellung von Windows 10.
-ms.openlocfilehash: 2aaee180b8cc6a0b6b0f6d0608ebbcb02610d2da
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 30e3ce25d36116629dcd3814c90d3402bcff895e
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294392"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712259"
 ---
 # <a name="source-environment-expectations"></a>Anforderungen an die Quellumgebung
 
