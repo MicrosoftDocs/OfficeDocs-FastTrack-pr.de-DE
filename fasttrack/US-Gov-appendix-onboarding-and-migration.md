@@ -3,19 +3,19 @@ title: Onboarding-und Migrationsphasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/13/2019
+ms.date: 09/04/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 1c16d6f22b9739431d014bca490dd609f7564728
+ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294349"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36712283"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
@@ -59,7 +59,7 @@ Dabei arbeiten wir Ihnen zusammen, um mehr über die beabsichtigte Nutzung des D
 
 Ihr FastTrack Manager führt mit Ihnen und dem Einführungsteam ein interaktives Planungsgespräch. Dabei werden Ihnen die Funktionen der erworbenen Dienste, die wichtigsten Grundlagen für Ihren Erfolg, die Methodik zur Steigerung der Nutzung des Service und verschiedene Szenarios vorgestellt, wie Sie einen Nutzen aus den Diensten ziehen können. Wir unterstützen Sie bei der Erfolgsplanung und liefern, soweit erforderlich, Feedback zu wichtigen Bereichen.
   
-FastTrack-Spezialisten arbeiten bei der Analyse Ihrer Quellumgebung und der Anforderungen mit Ihnen zusammen. Wir stellen Ihnen Tools zur Verfügung, um Daten über Ihre Umgebung zu sammeln und Sie durch die Schätzung der Bandbreitenanforderungen und die Bewertung ihrer Internet Browser, Clientbetriebssysteme, des DNS (Domain Name System), des Netzwerks, der Infrastruktur und des identitätssystems zu unterstützen, um Ermitteln Sie, ob für das Onboarding Änderungen erforderlich sind. 
+FastTrack-Spezialisten arbeiten bei der Analyse Ihrer Quellumgebung und der Anforderungen mit Ihnen zusammen. Wir stellen Ihnen Tools zur Verfügung, um Daten über Ihre Umgebung zu sammeln und Sie durch die Abschätzung der Bandbreitenanforderungen und die Bewertung ihrer Internet Browser, Clientbetriebssysteme, Domain Name System (DNS), Netzwerks, Infrastruktur und Identitäts System zu unterstützen, um Ermitteln Sie, ob für das Onboarding Änderungen erforderlich sind. 
   
 Basierend auf Ihrer aktuellen Einrichtung erstellen wir einen Korrekturplan. Nach Befolgen dieses Plans wird Ihre Quellumgebung an die Mindestanforderungen für ein erfolgreiches Onboarding für Office 365 und bei Bedarf eine erfolgreiche Postfach- und/oder Datenmigration angepasst. Wir stellen verschiedene mögliche Maßnahmen zur Verfügung, mit denen sich der Nutzen für Endbenutzer und die Akzeptanz durch diese steigern lassen. Für die Korrekturphase setzen wir auch entsprechende Telefonkonferenzen an.
   
