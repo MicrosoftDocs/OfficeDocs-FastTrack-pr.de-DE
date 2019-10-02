@@ -3,19 +3,19 @@ title: Onboarding-und Migrationsphasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 1c16d6f22b9739431d014bca490dd609f7564728
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 05e14c08148a5b02df9c175882a2853f0a39301c
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712283"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342726"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 

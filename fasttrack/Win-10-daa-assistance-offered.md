@@ -3,19 +3,19 @@ title: Angebotene Unterstützung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712247"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342570"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 
@@ -51,7 +51,9 @@ FastTrack bietet keine Unterstützung für:
 Verantwortlichkeiten des Kunden umfassen:
 - Erstellen eines App-Inventars.
 - Überprüfen der Apps unter Windows 10 und Office 365 ProPlus.
+
 > [!NOTE]
-> Microsoft kann keine Änderungen an Ihrem Quellcode vornehmen. Das Desktop App Assure-Team kann jedoch App-Entwickler beraten, wenn Quellcode für Ihre Apps verfügbar ist. [!NOTE]
-> FastTrack kann ältere Versionen von ISV-Apps, -Add-Ins oder -Makros nicht korrigieren, wenn neuere Versionen in Windows 10 und Office 365 ProPlus unterstützt werden.[!NOTE]
+> Microsoft kann keine Änderungen an Ihrem Quellcode vornehmen. Das Desktop App Assure-Team kann jedoch App-Entwickler beraten, wenn Quellcode für Ihre Apps verfügbar ist.
+
+> [!NOTE]
 > Wenden Sie sich an einen [Microsoft-Partner](https://go.microsoft.com/fwlink/?linkid=2080150), um Unterstützung bei Diensten zu erhalten, deren Unterstützung nicht inbegriffen ist.

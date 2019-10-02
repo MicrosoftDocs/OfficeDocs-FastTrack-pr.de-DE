@@ -3,19 +3,19 @@ title: Phasen im Onboarding- und Migrationsprozess
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: c254b95ae5227d07dc646b9db2ffc670ee9ece9a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712235"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342414"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -200,16 +200,6 @@ Für Office 365 ProPlus stellen wir Anweisungen zu folgenden Themen bereit:
 - Bereitstellen mit Microsoft System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
     
 ![Schritte beim Onboarding von Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-  
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Für Microsoft StaffHub stellen wir Anweisungen zu folgenden Themen bereit:
-- Sicherstellen, dass Microsoft StaffHub auf Ihrem Office 365-Mandanten aktiviert ist
-- Aktivieren oder Deaktivieren von Benutzerlizenzen
-- Wichtige Produktfunktionen. 
-- Downloadpfade für Microsoft StaffHub.
-    
-![Schritte beim Microsoft StaffHub-Onboarding](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook für iOS und Android
 

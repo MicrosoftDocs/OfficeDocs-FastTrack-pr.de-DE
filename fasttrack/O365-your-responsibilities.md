@@ -3,19 +3,19 @@ title: Ihre Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712103"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342150"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
@@ -99,8 +99,6 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die nachfolgend aufge
 - Implementieren entsprechender Clientinfrastruktur.  
 - Implementieren eines Ansatzes zur Bereitstellung von Benutzerkonten gemäß Anleitung von Microsoft.  
 - Aktivieren verschiedener Dienste gemäß Anleitung von Microsoft.  
-- Erhalten einer Apple-ID, wenn Sie die Verwaltung mobiler Geräte konfigurieren   
-- Aktualisieren Ihres Apple Push Notification Service (APNS)-Zertifikats
     
 \*Informationen zu Ihren Zuständigkeiten für Office 365 US Government finden Sie unter [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   

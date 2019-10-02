@@ -3,19 +3,19 @@ title: Berechtigte Dienste und Pläne
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711635"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342558"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
@@ -57,8 +57,7 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
 - Power BI
 - Project Online
 - Yammer Enterprise 
-- Office 365 ProPlus
-- Microsoft StaffHub
+- Office 365 ProPlus
 - Windows 10
 - Azure Active Directory Premium
 - Azure Information Protection

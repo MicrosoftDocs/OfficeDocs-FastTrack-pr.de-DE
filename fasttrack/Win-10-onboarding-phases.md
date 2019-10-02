@@ -3,19 +3,19 @@ title: Onboarding-Phasen
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Windows 10-Onboarding hat vier Hauptphasen: Einleiten, Analysieren, Korrigieren und Aktivieren.'
-ms.openlocfilehash: 9eafd79decb7e7d4c98b177ed0dacf67737099dc
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712091"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342678"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
