@@ -3,19 +3,19 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 4e2383b2654fb1218bbb2cb9913e6cbf6b94572a
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712155"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342294"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -224,15 +224,7 @@ Bereitstellen von Anleitungen zu:
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool.
 - Auswählen und Einrichten einer lokalen oder Cloudinstallation.
 - Erstellen der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.
-- Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets
-    
-## <a name="microsoft-staffhub"></a>Microsoft StaffHub
-
-Bereitstellen von Anleitungen zu:
-- Sicherstellen, dass Microsoft StaffHub auf Ihrem Office 365-Mandanten aktiviert ist
-- Aktivieren oder Deaktivieren von Benutzerlizenzen
-- Wichtige Produktfunktionen.
-- Downloadpfade für Microsoft StaffHub.
+- Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets.
     
 ## <a name="outlook-for-ios-and-android"></a>Outlook für iOS und Android
 

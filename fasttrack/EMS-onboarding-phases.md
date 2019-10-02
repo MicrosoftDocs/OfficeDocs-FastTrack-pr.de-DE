@@ -5,21 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
-ms.reviewer: ''
-ms.suite: ems
-ms.openlocfilehash: ba93fb6e6ba23219752eebb857ed156f2cbfaab8
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 5b661d709b4f5c25395f07f005d055c5bb84db35
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711539"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342618"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -140,7 +137,7 @@ Für Intune führen wir Sie durch die Vorbereitungen für die Verwendung von Mic
 
 -   Konfigurieren Ihrer Autorität für die Verwaltung von Mobilgeräten (MDM), basierend auf Ihren Verwaltungsanforderungen, darunter:
 
-    -   Festlegen von Intune als MDM-Autorität, wenn Intune Ihre einzige MDM-Lösung ist oder in Verbindung mit der Verwaltung mobiler Geräte für Office 365.
+    -   Festlegen von Intune als Ihre MDM-Berechtigung, wenn Intune Ihre einzige MDM-Lösung ist.
 
 -   Bereitstellen von MDM-Anleitungen für Folgendes:
 
