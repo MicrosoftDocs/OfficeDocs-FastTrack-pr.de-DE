@@ -3,18 +3,18 @@ title: Anhang B FastTrack Center - zusätzlicher Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: c2f25e63d1e6d7d8b870a191136aad29e52fcfa3
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 8da19cd3922e1e37eb382716039dc6a96166191e
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342498"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921293"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
@@ -42,9 +42,9 @@ Für Skype for Business Online bieten wir eine Anleitung für lokale Lync- und S
 
 Für Office 365 ProPlus bieten wir Unterstützung in den folgenden Bereichen: 
 - Bewertung und Planung mit Fokus auf der Vorbereitung der Umgebung auf die Erstbereitstellung und die Aktualisierungsverwaltung gemäß den Best Practices von Microsoft 
-- Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office 365-Bereitstellungstools 
+- Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office 365-Bereitstellungstools und Office-Individualisierungstool. 
 - Bereitstellungspaketierung mithilfe von System Center Configuration Manager  
-- Bereitstellung und Konfiguration der Office-Telemetrie als Anleitung zum Überprüfen der Verwendung geschäftskritischer Office-Dokumente und -Lösungen auf Anwendungskompatibilität
+- Ermöglicht die Verwendung des Readiness Toolkit for Office, um potenzielle Kompatibilitätsprobleme mit Ihren VBA-Makros (Microsoft Visual Basic for Applications) und Add-Ins zu identifizieren, die Sie mit Office verwenden.
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -132,12 +132,7 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 
 - Bereitstellen von Hilfestellung und Unterstützung für:  
   - Bewertung und Planung der Erstbereitstellung und Aktualisierungsverwaltung gemäß den Best Practices von Microsoft
-  - Bereitstellen und Konfigurieren der Office-Telemetrie 
-  - Aktivieren der Telemetrieprotokollierung Office 2013-Clients und höher mithilfe von Gruppenrichtlinien 
-  - Bereitstellen des Office-Telemetrie-Agents für frühere Office-Clients (Office 2003, Office 2007 und Office 2010). 
-  - Bereitstellen des Telemetrieprozessors 
-    > [!NOTE]
-    > Hierfür ist ein Dateifreigabeort zum Speichern der Telemetriedaten und ein Server erforderlich, auf dem SQL Server 2005 und höher ausgeführt wird, an den verarbeitete Daten übermittelt werden. 
+  - Ermöglicht die Verwendung des Readiness Toolkit for Office, um potenzielle Kompatibilitätsprobleme mit Ihren Microsoft VBA-Makros und Add-Ins zu identifizieren, die Sie mit Office verwenden.
   
 ## <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 

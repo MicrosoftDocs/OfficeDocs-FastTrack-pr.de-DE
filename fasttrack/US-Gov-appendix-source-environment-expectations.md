@@ -3,19 +3,19 @@ title: Erwartungen der Quellumgebung für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Der FastTrack Center-Vorteil stellt Anweisungen zum Einrichten von Integrationsstufen für Ihre Quellumgebung bereit. (Beispiel: Ihre Quellumgebung weist bereits Dienste auf, die Sie in Office 365 verlagern möchten).'
-ms.openlocfilehash: 75f45b6933efb900dcbce9baa1a4120e7de4bbfa
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 00874c59fc3de017c457e633eca1c85ff453e9c7
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342630"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921949"
 ---
 # <a name="source-environment-expectations-for-office-365-us-government"></a>Erwartungen der Quellumgebung für Office 365 US-Regierung
 

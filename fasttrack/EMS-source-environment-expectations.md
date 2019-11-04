@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c5cb280c3ac2280f0f32fda39258b68ee144e508
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342366"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921185"
 ---
 # <a name="source-environment-expectations"></a>Anforderungen an die Quellumgebung
 
@@ -35,7 +35,7 @@ In der folgenden Tabelle werden die Anforderungen an die vorhandene Quellumgebun
 |Azure AD Premium Onboarding|Das lokale Active Directory Domain Services und seine Umgebung wurden für Azure AD Premium vorbereitet, was die Behebung identifizierter Probleme beinhaltet, die die Integration mit den Funktionen von Azure AD und Azure AD Premium verhindern.|
 |Intune Onboarding| IT-Administratoren müssen über bestehende Zertifizierungsstellen-, WiFi- und VPN-Infrastrukturen verfügen, die bereits in ihren Produktionsumgebungen eingesetzt werden, wenn sie die Bereitstellung von WiFi- und VPN-Profilen mit Intune planen.<br /><br /> **Hinweis**: Der Servicevorteil beinhaltet keine Unterstützung bei der Einrichtung oder Konfiguration von Zertifizierungsstellen, WiFi-, VPN-Infrastrukturen oder Apple MDM Push-Zertifikaten für   |
 |Comanagement|Mit Comanagement sind IT-Administratoren für die Vorbereitung der lokalen Umgebung verantwortlich, was die Behebung von Problemen beinhalten kann, die verhindern, dass Sie Windows 10-Geräte gleichzeitig mit Configuration Manager und Intune verwalten.<br /><br />**Hinweis**: Der FastTrack-Leistungsangebot beinhaltet keine Unterstützung bei der Einrichtung oder Aktualisierung des Configuration Manager-Standortservers und/oder des Configuration Manager-Clients auf die Mindestanforderungen, die für das Comanagement mit Windows 10-Geräten erforderlich sind. |
-|Intune integriert mit Windows Defender Advanced Threat Protection (Windows Defender ATP)|Ihr Windows Defender ATP-Abonnement wurde aktiviert und entsprechend den Sicherheitsanforderungen Ihrer Organisation konfiguriert.<br /><br />**Hinweis**: Das FastTrack-Leistungsangebot bietet Unterstützung bei der Integration von Intune mit Windows Defender ATP und der Erstellung von Richtlinien zur Gerätekompatibilität auf der Grundlage der Risikobewertung von Windows 10. Das FastTrack-Leistungsangebot bietet keine Unterstützung beim Kauf, der Lizenzierung, der Aktivierung oder der Verwendung von Windows Defender ATP und der Security Center-Konsole. |
+|Integration von Intune in Microsoft Defender Advanced Threat Protection (ATP)|**Hinweis**: Das FastTrack-Leistungsangebot bietet Unterstützung bei der Integration von Intune mit Microsoft Defender ATP und der Erstellung von Richtlinien zur Gerätekompatibilität auf der Grundlage der Risikobewertung von Windows 10. Der Servicevorteil umfasst keine Unterstützung bei Erwerb, Lizenzierung oder Aktivierung. |
 |Windows Autopilot|IT-Administratoren sind für die Registrierung ihrer Geräte in ihrer Organisation verantwortlich, indem sie entweder den Hardware-Anbieter ihre Hardware-IDs in ihrem Namen hochladen lassen oder sie selbst in den Windows-Autopilot-Dienst hochladen. |
 |Sicheres Bereitstellen von Outlook für iOS und Android mit Intune|<br /><br />– Benutzeridentitäten, die in Azure AD für Office 365 aktiviert sind.<br />– Exchange Online oder Hybrid Exchange konfiguriert mit zugewiesenen Benutzerlizenzen.<br />|
 |Azure Information Protection (P2 oder EMS E5)|<br /><br />Kunden sollten bereits: <br /> – Azure AD verwenden.<br />– Windows oder iOS verwenden (andere Betriebssysteme sind außerhalb des Projektumfangs).<br /> – Office-Clients verwenden, die aktueller sind als Office 2010 SP2, die nicht auf Office als Hauptclient angewiesen sind. <br /> – Hauptspeicherorte für die Dateifreigabe haben.  <br /> – Von Active Directory Rights Management Services (AD RMS) aktualisiert haben. <br /> – Eine genehmigte Klassifikationstaxonomie haben. <br /> – Alle regulatorischen Einschränkungen für die Verwaltung ihrer geschützten Schlüssel verstehen. <br />|

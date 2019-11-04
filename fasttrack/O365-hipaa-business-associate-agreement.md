@@ -3,18 +3,18 @@ title: 'Anhang C: FastTrack Center-HIPAA-Vertrag für Geschäftspartner'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'Wenn Sie einen HIPAA-Vertrag für Geschäftspartner (Business Associate Agreement, BAA) mit Microsoft für FastTrack Services haben, sind alle unter FastTrack Center Benefit for Office 365 aufgeführten Services in diesem BAA enthalten, mit Ausnahme der Folgenden:'
-ms.openlocfilehash: 9707c1dbe9f76b8799870b4e71b23e871e53cb96
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 27170e7399cfe25284cffc989dcca5fdc696b200
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342270"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921545"
 ---
 # <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a>Anhang C: FastTrack Center-HIPAA-Vertrag für Geschäftspartner
 
