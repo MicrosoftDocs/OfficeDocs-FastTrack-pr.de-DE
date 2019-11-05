@@ -3,19 +3,19 @@ title: Onboarding-Phasen
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Windows 10-Onboarding hat vier Hauptphasen: Einleiten, Analysieren, Korrigieren und Aktivieren.'
-ms.openlocfilehash: 8cd5f1586518976d965c08f07398974334093658
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: c2c9515f0e3cefed133da74d41e84995724ed042
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342678"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921889"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -33,6 +33,8 @@ Wir stellen Ihnen empfohlene Optionen zur Bewertung Ihrer Windows 10-Apps bereit
 
 FastTrack kann auch durch die Kompatibilitätsbewertung für Office 365 ProPlus unter Verwendung des Dashboards für die Office 365-Bereitschaft in Configuration Manager oder mit dem eigenständigen Bereitschafts-Toolkit für Office führen. Weitere Informationen zu den verfügbaren Diensten finden Sie unter [FastTrack Center-Vorteil für Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
+Außerdem beurteilt FastTrack moderne Verwaltungsstrategien für Sie, einschließlich des Verbindens von Configuration Manager über die Cloud mit Microsoft Intune oder des Bereitstellens von Intune als alleine Cloudverwaltungslösung.
+
 ## <a name="remediate"></a>Korrigieren
 
 Sie führen die Aufgaben im Korrekturplan für Ihre Quellumgebung aus, damit Sie die Anforderungen für das Onboarding erfüllen. Wir stellen eine Korrekturcheckliste bereit, anhand derer Sie Ihre Umgebung vorbereiten und überprüfen können, ob alle erforderlichen Komponenten vorhanden sind, damit ihre Quellumgebung den minimalen Voraussetzungen für eine erfolgreiche Bereitstellung gerecht wird. 
@@ -45,6 +47,8 @@ Wir unterstützen Sie bei der Bereitstellung von Office 365 ProPlus mit Configur
 
 Wir unterstützen Sie dabei, Ihre Organisation bei der Verwendung Ihrer vorhandenen Configuration Manager-Umgebung oder von Microsoft 365 mit Windows 10 Enterprise und Office 365 ProPlus auf dem neuesten Stand zu halten.
 
+Wo erforderlich, kann FastTrack Kunden bei der modernen Verwaltung behilflich sein, und zwar über das Verbinden von Configuration Manager über die Cloud mit Microsoft Intune oder das Bereitstellen von Intune als alleine Cloudverwaltungslösung. Weitere Informationen zu den verknüpften Diensten finden Sie unter [FastTrack Center-Leistungsangebotprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+
 > [!NOTE]
 > Wenn Sie nicht über Pläne oder Prozesse für die Bereitstellung und Wartung verfügen, können wir basierend auf dem Szenario des direkten Upgrades (empfohlen) oder von [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot) Anleitungen für bewährte Methoden bereitstellen.
 
@@ -54,6 +58,7 @@ FastTrack bietet keine Anleitungen für Folgendes:
 
 - Upgrade von Configuration Manager auf den Current Branch.
 - Erstellen von benutzerdefinierten Images für die Bereitstellung von Windows 10.
+- Erstellen und Unterstützen von Bereitstellungsskripts für die Bereitstellung von Windows 10.
 - Konvertieren eines Windows 10-Systems aus BIOS in UEFI (Unified Extensible Firmware Interface).
 - Aktivieren von Windows 10-Sicherheitsfeatures. 
 - Konfigurieren der Windows-Bereitstellungsdienste (WDS) für den PXE-Start (Preboot Execution Environment).

@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342654"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921569"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade 
 - Bereitstellen von Windows 10 Enterprise mithilfe von Microsoft System Center Configuration Manager oder Microsoft 365.
 - Bereitstellen von Office 365 ProPlus. 
 - Aktualisieren von Windows 10 Enterprise und Office 365 ProPlus mithilfe von System Center Configuration Manager oder Microsoft 365.
+- Verbinden Sie Configuration Manager über die Cloud mit Microsoft Intune, oder stellen Sie Intune als alleine Cloudverwaltungslösung bereit.
   
 > [!NOTE]
 > FastTrack bietet Kunden einen empfohlenen Ansatz, Anleitungen und bewährte Methoden für schnelle und vorhersehbare Ergebnisse. Wenn Sie nicht entsprechend dieser Anleitungen bereitstellen, wird die Erfahrung möglicherweise beeinträchtigt. Eine Anleitung wird als eine Kombination aus mündlicher und schriftlicher Unterstützung definiert. Wenn FastTrack-Experten eine Anleitung bereitstellen, können FastTrack-Mitarbeiter nicht in Ihrem Auftrag handeln. Sie können die FastTrack-Dienste für die Qualifizierung von Plänen verwenden, solange Ihr Abonnement aktuell ist.  

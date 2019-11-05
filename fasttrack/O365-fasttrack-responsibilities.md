@@ -3,19 +3,19 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 0ce5279af4a6136b4415de444f5e792672ce040d
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342294"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921581"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -88,7 +88,7 @@ Bereitstellen von Anleitungen zu:
   - Installieren und Konfigurieren von WAP zur Veröffentlichung Ihrer AD FS-Infrastruktur im Internet, wenn erforderlich.
     > [!NOTE]
     > Für alle Konfigurationen mit mehreren Gesamtstrukturen liegen AD FS-Bereitstellungen außerhalb des Bereichs. 
-- Testen der Funktionalität für einmaliges Anmelden, sofern bereitgestellt.
+- Testen der Funktionalität für nahtloses einmaliges Anmelden, sofern bereitgestellt.
 - Unterstützung einer erfolgreichen Diensteinführung und des Werts.
     
 \*\*Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Pass-Through-Authentifizierung: aktuelle Einschränkungen](https://go.microsoft.com/fwlink/?linkid=860356). 
@@ -100,9 +100,10 @@ Bereitstellen von Anleitungen zu:
 Bereitstellen von Anleitungen zu:
 - Erstellen oder Aktualisieren von DNS-Datensätzen. 
 - Aktivieren des E-Mail-Routings zwischen dem Quellmessagingsystem und Office 365-Umgebungen 
-- Konfigurieren von Exchange Online Protection (EOP), Verhinderung von Datenverlust (DLP) und Office 365 Message Encryption (OME) – einschließlich Exchange Online Advanced Threat Protection-Funktionen, falls in Ihrem Abonnement verfügbar – und Sicherstellen, dass die MX-Einträge auf Office 365 für alle E-Mail-aktivierten Domänen verweisen.
+- Konfigurieren von Exchange Online Protection (EOP), Verhinderung von Datenverlust (DLP), Office 365 Message Encryption (OME) und Office 365 Advanced Threat Protection (ATP) – falls in Ihrem Abonnement verfügbar – und Sicherstellen, dass die MX-Einträge auf Office 365 für alle E-Mail-aktivierten Domänen verweisen.
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
 - Konfigurieren von Postfach-Clients (Outlook für Windows, Outlook im Web und Outlook für iOS und Android).
+- Konfigurieren von Automatisierung, Untersuchung und Reaktion für Office 365 ATP (sofern in Ihrem Abonnement verfügbar).
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
@@ -139,6 +140,16 @@ Bereitstellen von Anleitungen zu:
 - So konfigurieren Sie die SharePoint Online-Hybridlösung OneDrive for Business-Umleitung (nur SharePoint 2013 und SharePoint 2016).
 - Migration von Daten, wenn der FastTrack Center-Datenmigrationsdienst verwendet wird und wenn Sie berechtigt sind.
     
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Bereitstellen von Anleitungen zum:
+- Aktivieren von sicheren Links.
+- Aktivieren sicherer Anlagen.
+- Aktivieren von Antiphishing-Richtlinien.
+- Konfigurieren von Automatisierung, Untersuchung und Reaktion.
+- Verwenden des Angriffssimulators.
+- Berichterstellung und Bedrohungsanalyse.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:

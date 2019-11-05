@@ -3,19 +3,19 @@ title: Phasen im Onboarding- und Migrationsprozess
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342414"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922641"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -97,10 +97,14 @@ Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail 
 - Einrichten von Exchange Online Protection (EOP)-Funktionen für alle E-Mail-aktivierten Domänen, die in Office 365 überprüft wurden.
     > [!NOTE]
     > Ihre MX-Einträge (Mail Exchange) müssen auf Office 365 verweisen. 
-- Einrichten der Exchange Online Advanced Threat Protection (ATP)-Funktion, wenn diese Bestandteil Ihres Abonnementdiensts ist, sobald Ihre MX-Einträge auf Office 365 verweisen. Diese Funktion wird im Rahmen der Antischadsoftware-Einstellungen von Exchange Online Protection konfiguriert.
+- Einrichten der Office 365 Advanced Threat Protection (ATP)-Funktion, wenn diese Bestandteil Ihres Abonnementdiensts ist. Weitere Informationen finden Sie unter [Office 365 Advanced Threat Protection](#office-365-advanced-threat-protection).
 - Einrichten der Verhinderung von Datenverlust (Data Loss Prevention, DLP) für alle E-Mail-aktivierten Domänen, die in Office 365 als Teil Ihres Abonnementdiensts validiert wurden. Dies geschieht, sobald Ihre MX-Einträge auf Office 365 verweisen.
 - Einrichten der Office 365-Nachrichtenverschlüsselung (OME) für alle E-Mail-aktivierten Domänen, die in Office 365 als Teil Ihres Abonnementdiensts validiert wurden. Dies geschieht, sobald Ihre MX-Einträge auf Office 365 verweisen.
-- Konfigurieren von Firewallports
+
+> [!NOTE]
+> Der Postfachreplikationsdienst (Mailbox Replication Service, MRS) versucht, IRM-E-Mails (Information Rights Managed) aus dem lokalen Postfach in das entsprechende Exchange Online-Postfach zu migrieren. Die Möglichkeit, die geschützten Inhalte nach der Migration zu lesen, hängt von der Kundenzuordnung und dem Kopieren von AD RMS-Vorlagen (Active Directory Rights Managed Services) zum Azure RMS-Dienst (Azure Rights Management) ab.
+
+- Konfigurieren von Firewallports.
 - Einrichten von DNS, einschließlich der erforderlichen AutoErmittlungs-, SPF (Sender Policy Framework)- und MX-Einträge (falls erforderlich). 
 - Einrichten des E-Mail-Nachrichtenflusses zwischen Ihrer Quellmessagingumgebung und Exchange Online (bei Bedarf)
 - Durchführen der E-Mail-Migration von Ihrer Quellmessagingumgebung zu Office 365.
@@ -128,6 +132,14 @@ Für OneDrive for Business hängen die Schritte davon ab, ob Sie aktuell SharePo
   
 ![Schritte beim Onboarding von OneDrive während der Aktivierungsphase](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
+
+Für Office 365 ATP stellen wir Anweisungen zu folgenden Themen bereit:
+- Aktivieren von sicheren Links, sicheren Anlagen und Antiphishing. 
+- Konfigurieren von Automatisierung, Untersuchung und Reaktion.
+- Verwenden des Angriffssimulators.
+- Berichterstellung und Bedrohungsanalyse.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit:
