@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie *mindestens* 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.
-ms.openlocfilehash: 444268c16b93ef8cccbf156e779c6465d32a5b8a
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 6cea55294624df24437ef509e33a27d946675ef5
+ms.sourcegitcommit: bcb004732e9198bddea721c98b3221a7d9c0ddd6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921901"
+ms.lasthandoff: 11/05/2019
+ms.locfileid: "37992373"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>FastTrack Center-Leistungsangebot für Windows 10
 
@@ -26,6 +26,7 @@ Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie mi
     
 - [Windows 10](Win-10-windows-10.md)
 - [Desktop App Assure](Win-10-desktop-app-assure.md)
+- [Microsoft Defender Advanced Threat Protection](Win-10-microsoft-defender-atp.md)
   
 
   
