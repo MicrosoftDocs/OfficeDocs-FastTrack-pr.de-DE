@@ -3,19 +3,19 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 6570fa144076288a4ab00806e9e0f8bd9172582f
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 08fc251860aca5868deefd19904abd30b5a9f8b9
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921581"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662988"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -107,50 +107,7 @@ Bereitstellen von Anleitungen zu:
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
-## <a name="sharepoint-online"></a>SharePoint Online
-
-Bereitstellen von Anleitungen zu:
-- Einrichten von Benutzerkonten einschließlich Lizenzierung.
-- Aktivieren der Websiteerstellung für Ihren SharePoint Online-Administrator.    
-- Planen von Websitesammlungen. 
-- Sichern von Inhalten und Verwalten von Berechtigungen.
-- Aktivieren persönlichen Websites und von Features für das soziale Netzwerk.
-- Konfigurieren von SharePoint Online-Features. 
-- Durchführen der Datenmigration, falls der FastTrack Center-Datenmigrationsdienst verwendet wird und die Berechtigungskriterien erfüllt sind
-- Auswerten der lokalen SharePoint-Farminfrastrukturkonfiguration, die für die SharePoint Online-Hybridlösung erforderlich ist. 
-- Mithilfe von Tools und Automatisierung für:
-  - Das Konfigurieren lokaler Cloud-Suchdienstanwendungen. 
-  - Das Konfigurieren einer Vertrauensstellung zwischen einer lokalen SharePoint- und einer Cloudumgebung.
-- Das Konfigurieren von lokalen SharePoint-Websites zur Verwendung von SharePoint Online-Hybridfeatures.
-    
-## <a name="onedrive-for-business"></a>OneDrive for Business
-
-Bereitstellen von Anleitungen zu:
-- Bestimmen lokaler SharePoint-Versionen und von Integrationsoptionen. 
-- Bestimmen von Synchronisierungs- und Identitätsoptionen.
-- Auswählen einer Einführungsoption:   
-  - Just-in-Time-Einführung
-  - Gestaffelte Einführung (in aufeinanderfolgenden Phasen)
-- Vorbereiten der lokalen Umgebung auf die Bereitstellung von OneDrive for Business:
-  - Bestimmen des ordnungsgemäßen OneDrive for Business-Synchronisierungsclients.
-  - Konfigurieren von DNS, Netzwerkports und Firewall. 
-- Zuweisen von Endbenutzerlizenzen. 
-- Einrichten von SharePoint Online-Gruppen zum Festlegen, wer OneDrive for Business erhält. 
-- Bereitstellen des OneDrive for Business-Synchronisierungsclients auf Desktops.   
-- So konfigurieren Sie die SharePoint Online-Hybridlösung OneDrive for Business-Umleitung (nur SharePoint 2013 und SharePoint 2016).
-- Migration von Daten, wenn der FastTrack Center-Datenmigrationsdienst verwendet wird und wenn Sie berechtigt sind.
-    
-## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
-
-Bereitstellen von Anleitungen zum:
-- Aktivieren von sicheren Links.
-- Aktivieren sicherer Anlagen.
-- Aktivieren von Antiphishing-Richtlinien.
-- Konfigurieren von Automatisierung, Untersuchung und Reaktion.
-- Verwenden des Angriffssimulators.
-- Berichterstellung und Bedrohungsanalyse.
-
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen
@@ -175,26 +132,51 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren von Teams-Liveereignissen 
 - Einrichten der Organisation und Integration in Microsoft Stream.
 
+## <a name="office-365-advanced-threat-protection"></a>Office 365 Advanced Threat Protection
 
-## <a name="skype-for-business-online"></a>Skype for Business Online
+Bereitstellen von Anleitungen zum:
+- Aktivieren von sicheren Links.
+- Aktivieren sicherer Anlagen.
+- Aktivieren von Antiphishing-Richtlinien.
+- Konfigurieren von Automatisierung, Untersuchung und Reaktion.
+- Verwenden des Angriffssimulators.
+- Berichterstellung und Bedrohungsanalyse.
+
+## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Bereitstellen von Anleitungen zu:
-- Bereitstellen von Skype for Business-Identitäten für Office 365. 
-- Aktivieren von Onlinekonferenz-, Chat- und Anwesenheitsfeatures für Office 365. 
-- Erstellen von Konten zum Zuordnen zu unterstützten Raumsystemgeräten (bis zu 10 Konten) 
-- Konfigurieren einer Serverumgebung für geteilte Domänen zur Unterstützung von Lync-Hybrid- oder Skype for Business Online-Hybridszenarien (falls zutreffend)
-- Aktivieren von Audiokonferenzen:
-  - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke
-  - Zuweisen einer Konferenzbrücke zu lizenzierten Benutzern
-- Aktivieren des Telefonsystems:
-  - Aktivieren des Telefonsystems und Plänen für Anrufonboarding (auf verfügbaren Märkten)
-  - Zuweisung von Nummern zu lizenzierten Benutzern
-  - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999
-  - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus
-- Aktivieren von Skype for Business-Livekonferenzen:
-  - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen
-  - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
+- Beheben von Problemen bei der Bereitstellung
+- Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell
+- Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los
+- Installieren von Office Mobile-Apps (wie Outlook für iOS und Android, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten. 
+- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool.
+- Auswählen und Einrichten einer lokalen oder Cloudinstallation.
+- Erstellen der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.
+- Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets.
     
+## <a name="onedrive-for-business"></a>OneDrive for Business
+
+Bereitstellen von Anleitungen zu:
+- Bestimmen lokaler SharePoint-Versionen und von Integrationsoptionen. 
+- Bestimmen von Synchronisierungs- und Identitätsoptionen.
+- Auswählen einer Einführungsoption:   
+  - Just-in-Time-Einführung
+  - Gestaffelte Einführung (in aufeinanderfolgenden Phasen)
+- Vorbereiten der lokalen Umgebung auf die Bereitstellung von OneDrive for Business:
+  - Bestimmen des ordnungsgemäßen OneDrive for Business-Synchronisierungsclients.
+  - Konfigurieren von DNS, Netzwerkports und Firewall. 
+- Zuweisen von Endbenutzerlizenzen. 
+- Einrichten von SharePoint Online-Gruppen zum Festlegen, wer OneDrive for Business erhält. 
+- Bereitstellen des OneDrive for Business-Synchronisierungsclients auf Desktops.   
+- So konfigurieren Sie die SharePoint Online-Hybridlösung OneDrive for Business-Umleitung (nur SharePoint 2013 und SharePoint 2016).
+- Migration von Daten, wenn der FastTrack Center-Datenmigrationsdienst verwendet wird und wenn Sie berechtigt sind.
+    
+## <a name="outlook-for-ios-and-android"></a>Outlook für iOS und Android
+
+Bereitstellen von Anleitungen zu:
+- Herunterladen von Outlook auf IOS- und Android-Geräte
+- Konfigurieren von E-Mail-Konten in Outlook
+
 ## <a name="power-bi"></a>Power BI
 
 Bereitstellen von Anleitungen zu:
@@ -220,28 +202,45 @@ Bereitstellen von Anleitungen zu:
 - Konfigurieren von Update-Einstellungen mit dem Office 365-Bereitstellungstool oder den Gruppenrichtlinienvorlagen
 - Einrichten eines einzelnen lokalen Verteilungsservers für Project Online-Desktopclient, einschließlich einer Anleitung zum Erstellen einer configuration.xml-Datei für das Office 2016-Bereitstellungstool. 
 - Herstellen einer Verbindung zwischen Project Online-Desktopclient und Project Online
+
+## <a name="sharepoint-online"></a>SharePoint Online
+
+Bereitstellen von Anleitungen zu:
+- Einrichten von Benutzerkonten einschließlich Lizenzierung.
+- Aktivieren der Websiteerstellung für Ihren SharePoint Online-Administrator.    
+- Planen von Websitesammlungen. 
+- Sichern von Inhalten und Verwalten von Berechtigungen.
+- Aktivieren persönlichen Websites und von Features für das soziale Netzwerk.
+- Konfigurieren von SharePoint Online-Features. 
+- Durchführen der Datenmigration, falls der FastTrack Center-Datenmigrationsdienst verwendet wird und die Berechtigungskriterien erfüllt sind
+- Auswerten der lokalen SharePoint-Farminfrastrukturkonfiguration, die für die SharePoint Online-Hybridlösung erforderlich ist. 
+- Mithilfe von Tools und Automatisierung für:
+  - Das Konfigurieren lokaler Cloud-Suchdienstanwendungen. 
+  - Das Konfigurieren einer Vertrauensstellung zwischen einer lokalen SharePoint- und einer Cloudumgebung.
+- Das Konfigurieren von lokalen SharePoint-Websites zur Verwendung von SharePoint Online-Hybridfeatures.
+    
+## <a name="skype-for-business-online"></a>Skype for Business Online
+
+Bereitstellen von Anleitungen zu:
+- Bereitstellen von Skype for Business-Identitäten für Office 365. 
+- Aktivieren von Onlinekonferenz-, Chat- und Anwesenheitsfeatures für Office 365. 
+- Erstellen von Konten zum Zuordnen zu unterstützten Raumsystemgeräten (bis zu 10 Konten) 
+- Konfigurieren einer Serverumgebung für geteilte Domänen zur Unterstützung von Lync-Hybrid- oder Skype for Business Online-Hybridszenarien (falls zutreffend)
+- Aktivieren von Audiokonferenzen:
+  - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke
+  - Zuweisen einer Konferenzbrücke zu lizenzierten Benutzern
+- Aktivieren des Telefonsystems:
+  - Aktivieren des Telefonsystems und Plänen für Anrufonboarding (auf verfügbaren Märkten)
+  - Zuweisung von Nummern zu lizenzierten Benutzern
+  - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999
+  - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus
+- Aktivieren von Skype for Business-Livekonferenzen:
+  - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen
+  - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
     
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Bereitstellen von Anleitungen zu:
-- Beheben von Problemen bei der Bereitstellung
-- Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell
-- Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los
-- Installieren von Office Mobile-Apps (wie Outlook für iOS und Android, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten. 
-- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool.
-- Auswählen und Einrichten einer lokalen oder Cloudinstallation.
-- Erstellen der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.
-- Bereitstellen mit System Center Configuration Manager, einschließlich Unterstützung beim Erstellen des System Center Configuration Manager-Pakets.
-    
-## <a name="outlook-for-ios-and-android"></a>Outlook für iOS und Android
-
-Bereitstellen von Anleitungen zu:
-- Herunterladen von Outlook auf IOS- und Android-Geräte
-- Konfigurieren von E-Mail-Konten in Outlook
-
 \*Informationen zu den FastTrack-Zuständigkeiten für Office 365 US Government finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 
