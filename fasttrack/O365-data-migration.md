@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921245"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662928"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -66,10 +66,6 @@ Migrationen werden anhand einer standardisierten und vorher festgelegten 24x7-Ba
 #### <a name="us-governmentdod"></a>US Government/DOD
 
 Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.Es gibt fünf Migrationstage in der Woche von Montag 2:00 Uhr (Koordinierte Weltzeit, UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Deutschland Microsoft Cloud Deutschland (MCD)
-
-Migrationen werden anhand einer standardisierten und vorher festgelegten 9x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt einen Migrationsbatch pro Migrationstag. Es gibt fünf Migrationstage innerhalb einer Woche von Montag 12:00 Uhr (UTC) bis Freitag 21:00 Uhr (UTC).
     
  ### <a name="end-state"></a>Endzustand
   
@@ -172,10 +168,6 @@ Migrationen werden anhand einer standardisierten und vorher festgelegten 24x7-Ba
 
 Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.Es gibt fünf Migrationstage in der Woche von Montag 2:00 Uhr (Koordinierte Weltzeit, UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Deutschland Microsoft Cloud Deutschland (MCD)
-
-Migrationen werden anhand einer standardisierten und vorher festgelegten 9x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt einen Migrationsbatch pro Migrationstag. Es gibt fünf Migrationstage innerhalb einer Woche von Montag 12:00 Uhr (UTC) bis Freitag 21:00 Uhr (UTC).
-
 - Alle Migrationen unterliegen den SharePoint Online-Kontingenten, die unter [SharePoint Online und OneDrive for Business: Softwarebeschränkungen und-Grenzen](https://go.microsoft.com/fwlink/?LinkID=616612) erläutert werden.   
 - Der Gesamtbetrag der migrierten Daten ist auf 75 % des SharePoint Online-Gesamtspeicherkontingents, für das Sie berechtigt sind, beschränkt (einschließlich den zusätzlichen Speicher, den Sie möglicherweise separat gekauft haben).
     
@@ -230,7 +222,7 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
 - Durchführen von Korrekturen nach der Migration (sofern zutreffend)
 - Planen und Implementieren der Änderungsverwaltung und Endbenutzerkommunikation (sofern zutreffend)   
 - Verwalten und Konfigurieren aller für eine erfolgreiche Durchführung der Analyse- und Migrationsaktivitäten erforderlichen Änderungen am Quellsystem bzw. an den Quellgeräten
-- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens 7 Tage im Voraus).
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens drei (3) Tage im Voraus).
 - Löschen von Benutzerdaten aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 > [!NOTE]
 > Microsoft übernimmt keine Garantie für die Geschwindigkeit der Dateimigration.
@@ -255,10 +247,6 @@ Migrationen werden anhand einer standardisierten und vorher festgelegten 24x7-Ba
 #### <a name="us-governmentdod"></a>US Government/DOD
 
 Migrationen werden anhand einer standardisierten und vorher festgelegten 24x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt drei Migrationsbatches pro Migrationstag.Es gibt fünf Migrationstage in der Woche von Montag 2:00 Uhr (Koordinierte Weltzeit, UTC) bis Freitag um Mitternacht (UTC), d. h., dass die letzte geplante Migration am Freitag 20:00 Uhr (UTC) stattfindet.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Deutschland Microsoft Cloud Deutschland (MCD)
-
-Migrationen werden anhand einer standardisierten und vorher festgelegten 9x5-Basis in vordefinierten Migrationszeiträumen durchgeführt. Es gibt einen Migrationsbatch pro Migrationstag. Es gibt fünf Migrationstage innerhalb einer Woche von Montag 12:00 Uhr (UTC) bis Freitag 21:00 Uhr (UTC).
     
 - Für alle Migrationen sind der entsprechende Zugriff und die jeweiligen Berechtigungen für die Quellumgebung erforderlich.   
 - Alle Migrationen unterliegen den OneDrive for Business-Kontingenten, die in [SharePoint Online und OneDrive for Business: Softwarebeschränkungen und-Grenzen](https://go.microsoft.com/fwlink/?LinkId=698855) erläutert werden.
@@ -285,7 +273,7 @@ FastTrack-Spezialisten führen die folgenden erforderlichen Aufgaben für Migrat
 - Bereitstellen der erforderlichen Komponenten für Analyse- und Migrationstools, sofern für das Szenario zutreffend.  
 - Bereitstellen der erforderlichen Komponenten für den Zugriff auf die Quell- und Zielumgebung für das Durchführen der Analyse und der Migration für das Migrationsteam   
 - Bereitstellen von Analysetools zum Durchführen der Analyse der Quell- und Zielumgebung oder Bereitstellen von Anleitungen zur Verwendung systemeigener Quellplattformfunktionen zum Erstellen von Analyseberichten    
-- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens 7 Tage im Voraus).
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens drei (3) Tage im Voraus).
 - Löschen von Benutzerdaten aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 - Unterstützung beim Bereitstellen und Ausführen von Analyse- und Migrationstools (sofern zutreffend)   
 - Konfigurieren der Migrationsinfrastruktur als Vorbereitung auf die Inhaltsmigration (sofern zutreffend)    
