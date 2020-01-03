@@ -3,18 +3,18 @@ title: Anhang B FastTrack Center - zusätzlicher Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662868"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929209"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
@@ -102,7 +102,6 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 
 - Unterstützung bei der Koexistenz einer einzelnen öffentlichen Ordnerstruktur, einschließlich:  
   - Vorbereitung der öffentlichen Ordner in Exchange 2007, Exchange 2010 und Exchange 2013. 
-  - Windows PowerShell-Cmdlets, die für die Synchronisierung der Hierarchie öffentlicher Exchange 2007-, Exchange 2010- und Exchange 2013-Ordner mit Exchange Online erforderlich sind.  
   - Konfiguration von Exchange Online, damit der Zugriff auf öffentliche Ordner zu lokalen öffentlichen Ordnern umgeleitet wird.  
   - Konfiguration des Zugriffs auf öffentliche Ordner aus Exchange Online für eine einzelne Exchange 2007-, Exchange 2010- oder die lokale Exchange 2013-Umgebung.  
   - Unterstützung bei der Überprüfung des Zugriffs auf die öffentliche Ordnerumgebung für bis zu 10 Benutzer in Exchange Online

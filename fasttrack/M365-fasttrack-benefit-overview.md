@@ -3,7 +3,7 @@ title: FastTrack Center-Leistungsangebot für Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack für Microsoft 365 bietet Hilfestellung für die Planung, Bereitstellung und Einführung, einschließlich Remotezugriff auf technisches Know-how von Microsoft, bewährte Methoden, Tools und Ressourcen. FastTrack für Microsoft 365 hilft Organisationen und ihren Partnern, die Bereitstellung zu beschleunigen und die Einführung von Office 365, Windows 10 und Enterprise Mobility + Security für den Endbenutzer sicherzustellen.
-ms.openlocfilehash: 429cab1672ca5e8f7950124068da48e19de5a8e4
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 4380fd4f1047d11ca97afab84d3a04099fe41ad4
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662832"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929173"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>FastTrack Center-Leistungsangebot für Microsoft 365
 
