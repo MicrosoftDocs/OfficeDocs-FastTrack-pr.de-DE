@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662928"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929221"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -83,9 +83,9 @@ Im Folgenden finden Sie den erwarteten Endzustand, nachdem alle Migrationen abge
 |||||
 |:-----|:-----|:-----|:-----|
 |**Quellumgebung**|**Migrationstyp**|**Was wird aus dem Quellpostfach migriert?**|**Was wird nicht migriert?**|
-|**Exchange 2003 und höher**|Übernahmemigration| E-Mails <br/> Postfachregeln <br/> Stellvertretungen <br/> Postfachkontakte <br/> Kalender <br/> Aufgaben <br/> E-Mails mit Rechteverwaltung| Öffentliche Ordner <br/> Persönliche Kontakte <br/> E-Mail-aktivierte Benutzer <br/> Blockierte oder inaktive Benutzer <br/> Signaturen <br/> Postfachpapierkorb <br/>  E-Mails, die die zulässige Nachrichtengröße überschreiten <br/> Archivdaten <br/> Verschlüsselte E-Mails <br/> Beschädigte Elemente <br/>  Inaktive Postfächer |
-|**Exchange 2003 und Exchange 2007**|Mehrstufige Migration| E-Mails <br/> Postfachregeln <br/> Stellvertretungen <br/> Postfachkontakte <br/> Kalender <br/> Aufgaben <br/> E-Mails mit Rechteverwaltung| Öffentliche Ordner <br/> Persönliche Kontakte <br/> E-Mail-aktivierte Benutzer <br/> Blockierte oder inaktive Benutzer <br/> Signaturen <br/> Postfachpapierkorb <br/> E-Mails, die die zulässige Nachrichtengröße überschreiten <br/> Archivdaten <br/> Verschlüsselte E-Mails <br/> Beschädigte Elemente <br/> Inaktive Postfächer |
-|**Exchange 2010, Exchange 2013 und Exchange 2016** <br/><br/> **Hinweis** *Informationen zu lokalen Exchange-Abhängigkeiten finden Sie unter [Voraussetzungen für die Hybridbereitstellung](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migration mit Hybridbereitstellung| E-Mails <br/> Postfachregeln <br/> Stellvertretungen <br/> Postfachkontakte <br/> Kalender <br/> Aufgaben <br/> Signaturen <br/> Persönliches Archiv, das mit dem Benutzerpostfach migriert wird <br/> Wiederherstellbare Elemente <br/> E-Mails mit Rechteverwaltung| Öffentliche Ordner <br/> E-Mail, die die zulässige Nachrichtengröße überschreitet. <br/> Journalarchiv oder eine beliebige Archivlösung von Drittanbietern <br/> Blockierte oder inaktive Benutzer <br/> Archivdaten aus PST-Dateien <br/> Verschlüsselte E-Mails <br/> Beschädigte Elemente <br/> Inaktive Postfächer |
+|**Exchange 2003 und höher**|Übernahmemigration| E-Mails <br/> Postfachregeln <br/> Stellvertretungen <br/> Postfachkontakte <br/> Kalender <br/> Aufgaben <br/> E-Mails mit Rechteverwaltung <br/> Verschlüsselte E-Mails| Öffentliche Ordner <br/> Persönliche Kontakte <br/> E-Mail-aktivierte Benutzer <br/> Blockierte oder inaktive Benutzer <br/> Signaturen <br/> Postfachpapierkorb <br/>  E-Mails, die die zulässige Nachrichtengröße überschreiten <br/> Archivdaten <br/> Beschädigte Elemente <br/>  Inaktive Postfächer |
+|**Exchange 2003 und Exchange 2007**|Mehrstufige Migration| E-Mails <br/> Postfachregeln <br/> Stellvertretungen <br/> Postfachkontakte <br/> Kalender <br/> Aufgaben <br/> E-Mails mit Rechteverwaltung <br/> Verschlüsselte E-Mails| Öffentliche Ordner <br/> Persönliche Kontakte <br/> E-Mail-aktivierte Benutzer <br/> Blockierte oder inaktive Benutzer <br/> Signaturen <br/> Postfachpapierkorb <br/> E-Mails, die die zulässige Nachrichtengröße überschreiten <br/> Archivdaten <br/> Beschädigte Elemente <br/> Inaktive Postfächer |
+|**Exchange 2010, Exchange 2013 und Exchange 2016** <br/><br/> **Hinweis** *Informationen zu lokalen Exchange-Abhängigkeiten finden Sie unter [Voraussetzungen für die Hybridbereitstellung](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migration mit Hybridbereitstellung| E-Mails <br/> Postfachregeln <br/> Stellvertretungen <br/> Postfachkontakte <br/> Kalender <br/> Aufgaben <br/> Signaturen <br/> Persönliches Archiv, das mit dem Benutzerpostfach migriert wird <br/> Wiederherstellbare Elemente <br/> E-Mails mit Rechteverwaltung <br/> Verschlüsselte E-Mails| Öffentliche Ordner <br/> E-Mail, die die zulässige Nachrichtengröße überschreitet. <br/> Journalarchiv oder eine beliebige Archivlösung von Drittanbietern <br/> Blockierte oder inaktive Benutzer <br/> Archivdaten aus PST-Dateien <br/> Beschädigte Elemente <br/> Inaktive Postfächer |
 |**G Suite-Umgebung (nur Gmail, Kontakte und Kalender)** <br/> <br/> **Hinweis** *Ihre G Suite-Umgebung muss über Google-APIs verfügen, und das Google Admin SDK muss zur Erweiterung der Funktionalität aktiviert sein.* <br/> <br/> **Hinweis** *Standort von Daten: FastTrack kann migrierte Daten basierend auf dem Standort des Kundenmandanten in den USA oder in anderen Ländern übertragen, verarbeiten und speichern, in denen Microsoft oder seine Drittanbieterlieferanten Einrichtungen unterhalten. FastTrack löscht alle gespeicherten Daten innerhalb von 30 Tagen nach Abschluss der entsprechenden Dienste.*           |Übernahmemigration oder mehrstufige Migration| E-Mails <br/> Postfachkontakte <br/> Kalender <br/> Bezeichnungen | Regeln <br/> Stellvertretungen <br/> Signaturen <br/> Aufgaben <br/> E-Mail oder Anlage größer als 35 MB <br/> Blockierte oder inaktive Benutzer <br/> Archivdaten aus PST-Dateien oder einer Drittanbieter-Archivlösung (z. B. Google Vault) <br/> E-Mails mit Rechteverwaltung oder Verschlüsselung <br/> Beschädigte Elemente <br/> Google Hangouts <br/> Google-Gruppen <br/> Ressourcenpostfächer <br/> Inaktive Postfächer |
 |**IBM Domino 7.0.3 oder höher** ([Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|Mehrstufige Migration| E-Mails – letzte 90 Tage <br/> Kalender – letzte 90 Tage und zukünftige Einträge <br/> Postfachkontakte – alle <br/> Aufgaben – alle <br/> Räume und Ressourcen – vorausgesetzt, dass sie in der Standardvorlage implementiert sind. <br/> E-Mail-Dateien, einschließlich freigegebene E-Mail-Dateien, müssen die standardmäßige E-Mail-Vorlage verwenden. | Signaturen <br/> Postfachregeln <br/> Stellvertretungen <br/> Verschlüsselte Elemente <br/> Dokumentenverknüpfungen <br/> Briefpapier für Benutzer <br/> E-Mail, die die zulässige Nachrichtengröße überschreitet. <br/> Blockierte oder inaktive Benutzer <br/> Archivdaten <br/> Beschädigte Elemente <br/> Kalenderkoexistenz <br/> Inaktive Postfächer |
 |**Novell GroupWise 7.0.4 und höher** <br/><br/> **Hinweis** *Standort von Daten: FastTrack kann migrierte Daten basierend auf dem Standort des Kundenmandanten in den USA oder in anderen Ländern übertragen, verarbeiten und speichern, in denen Microsoft oder seine Drittanbieterlieferanten Einrichtungen unterhalten. FastTrack löscht alle gespeicherten Daten innerhalb von 30 Tagen nach Abschluss der entsprechenden Dienste.*           |Mehrstufige Migration| E-Mails <br/> Kalender <br/> Postfachkontakte <br/> Persönliche Gruppen <br/> Aufgaben (mit Einschränkungen) <br/> Dokumente | Regeln <br/> Proxys/Stellvertretungen/ACL-Konvertierung <br/> Signaturen <br/> Kontaktkategorien <br/> Verschlüsselte E-Mail-Nachrichten <br/> Suchordner <br/> E-Mail oder Anlage größer als 35 MB <br/> Blockierte oder inaktive Benutzer <br/> Archivdaten <br/> Elemente mit Rechteverwaltung oder Verschlüsselung <br/> Beschädigte Elemente <br/> Kalenderkoexistenz <br/> Inaktive Postfächer |
@@ -273,8 +273,6 @@ FastTrack-Spezialisten führen die folgenden erforderlichen Aufgaben für Migrat
 - Bereitstellen der erforderlichen Komponenten für Analyse- und Migrationstools, sofern für das Szenario zutreffend.  
 - Bereitstellen der erforderlichen Komponenten für den Zugriff auf die Quell- und Zielumgebung für das Durchführen der Analyse und der Migration für das Migrationsteam   
 - Bereitstellen von Analysetools zum Durchführen der Analyse der Quell- und Zielumgebung oder Bereitstellen von Anleitungen zur Verwendung systemeigener Quellplattformfunktionen zum Erstellen von Analyseberichten    
-- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens drei (3) Tage im Voraus).
-- Löschen von Benutzerdaten aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 - Unterstützung beim Bereitstellen und Ausführen von Analyse- und Migrationstools (sofern zutreffend)   
 - Konfigurieren der Migrationsinfrastruktur als Vorbereitung auf die Inhaltsmigration (sofern zutreffend)    
 - Durchführen einer Testmigration zur Überprüfung der Migrationsinfrastruktur und der erforderlichen Komponenten    
@@ -300,6 +298,8 @@ Sie führen die folgenden erforderlichen Aufgaben für Migrationen aus:
 - Lokale Installation der bereitgestellten FastTrack-Migrationssoftware (sofern zutreffend)  
 - Ausführen von Korrekturaktivitäten, die im von FastTrack bereitgestellten Wartungsbericht beschrieben sind (sofern zutreffend).   
 - Bereitstellen eines Migrationszeitplans mithilfe von FastTrack-Vorlagen und -Anleitungen 
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis (mindestens drei (3) Tage im Voraus).
+- Löschen von Benutzerdaten aus dem Plan bis zu 24 Stunden vor dem Migrationsbatch. Zu diesem Zeitpunkt ist dies der Plan für den letzten Migrationsbatch.
 - Durchführen der Qualitätssicherung für die Migration und der Benutzerakzeptanztests   
 - Durchführen von Korrekturen nach der Migration (sofern zutreffend)  
 - Planen und Implementieren der Änderungsverwaltung und Endbenutzerkommunikation (sofern zutreffend)  
