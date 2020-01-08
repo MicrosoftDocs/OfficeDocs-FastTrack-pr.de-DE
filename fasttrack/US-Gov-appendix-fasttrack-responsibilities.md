@@ -10,16 +10,16 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 6ac727d55ba8d5653fb9ebffa95b7c3c4a104f70
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: ab9213c8ea5095531a0a06bb40138c995be093a6
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929293"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959187"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US-Regierung
 
-Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:
+Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:  
   
 ## <a name="general"></a>Allgemein
 
@@ -192,7 +192,7 @@ Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzel
 > [!NOTE]
 > Jammern Enterprise ist keine Komponente von Office 365 US-Regierung, kann aber ohne Kosten als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in gcc lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc High-oder DoD-Plänen nicht verfügbar.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung   
