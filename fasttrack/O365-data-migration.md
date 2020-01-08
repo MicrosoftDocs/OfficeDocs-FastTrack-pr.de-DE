@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929221"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959199"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -98,7 +98,6 @@ FastTrack-Experten führen während einer Migration die folgenden Aufgaben aus:
 - Bereitstellen einer Standardvorlage für die Planung von Postfachmigrationen
 - Bereitstellen von Informationen über die erforderlichen Berechtigungen für FastTrack-Experten. 
 - Erstellen eines vordefinierten Postfachmigrationsplans im vordefinierten Format
-- Freigeben der Preflight-Tools an Sie, damit Sie sie vorab ausführen und proaktiv die Fehler beheben können, bevor Sie die betroffenen Postfächer migrieren.
 - Ausführen der Migration eines einzelnen Postfachs bis zu zweimal in einem Migrationsbatch, bevor die Migration dieses Postfachs als fehlerhafte Migration gemeldet wird.
 - Migrieren der Postfachinhalte bei Exchange- und IMAP4-basierten Quellumgebungen bis zu 85 % des Speichergrenzwerts für das Benutzerpostfach (wenn der Speichergrenzwert für Postfächer beispielsweise bei 50 GB liegt, migriert Microsoft bis zu 85 % des 50-GB-Speichergrenzwerts). 
 - Aktivieren der SMTP-E-Mail-Weiterleitungskoexistenz zwischen der Quellmessagingumgebung und Office 365 Exchange Online, wenn die Übernahmemigration nicht verwendet wird.
