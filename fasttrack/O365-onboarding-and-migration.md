@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: d40e0733bf0257faa7c5c39195377cd5872652c4
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 919908648177a45a9544d8980c11344064d4c4bd
+ms.sourcegitcommit: b5a887ad5e592a469476af3716634ec64a1afe4a
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928777"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40988431"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -140,7 +140,9 @@ Für Office 365 ATP stellen wir Anweisungen zu folgenden Themen bereit:
 - Verwenden des Angriffssimulators.
 - Berichterstellung und Bedrohungsanalyse.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+![Office 365 ATP-Diagramm (Onboarding)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit:
 - Sicherstellen der Mindestanforderungen  
