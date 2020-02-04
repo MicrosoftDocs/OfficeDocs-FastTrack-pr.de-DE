@@ -3,19 +3,19 @@ title: Ihre Verantwortlichkeiten für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: ba4fc42e59c0f3581ea8bf2525a43646a156ee2c
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 786fcd6b78c20d09fa66e0d8f6b25a1316c82148
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929353"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677187"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Verantwortlichkeiten für Office 365 US-Regierung
 
