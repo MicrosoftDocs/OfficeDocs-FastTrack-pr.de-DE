@@ -3,19 +3,19 @@ title: Berechtigte Dienste und Pläne
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959175"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677019"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
@@ -79,6 +79,7 @@ FastTrack Center bietet Unterstützung für die folgenden Dienste:
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Microsoft 365 A5 Security\*
  
 ## <a name="eligible-office-365-plans"></a>Berechtigte Office 365-Pläne
 
@@ -157,14 +158,35 @@ Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für O
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>Berechtigte Enterprise Mobility + Security-Pläne
 
-|Plan    |Berechtigungsdetails  |
-|---------|---------|
-|**Enterprise Mobility + Security (EMS) in E3 oder E5**       |   Verfügbar für Clouddienste, die für FastTrack-Angebote in Frage kommen. Andernfalls wird dies an einen FastTrack-Experten oder zur Empfehlung eines Partners weitergeleitet.        |
-|**Azure Active Directory Premium**     |  Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.       |
-|**Azure Information Protection**    |  Verfügbar für P2, als Teil von E5 oder als eigenständiger Plan. Verfügbar für Cloud-Dienste, die Anspruch auf FastTrack-Leistungsangebote haben. Für Cloud-Dienste P1, FastTrack teilt die Selbstbereitstellungsanleitung.       |
-|**Microsoft Intune**    |   Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.      |
-|**Microsoft Intune und Configuration Manager**     |    Berechtigt, wenn als eigenständiger Plan oder als Teil von E3 oder E5 erworben.     |
-|**Microsoft Intune for Education**     |  Berechtigt, wenn als eigenständiger Plan oder als Teil von A3 oder A5 erworben.       |
+**Enterprise Mobility + Security** 
+
+- Enterprise Mobility + Security (EMS) E3\*\*\*\*
+- Enterprise Mobility + Security (EMS) E5\*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium Plan 1
+- Azure Active Directory Premium Plan 2
+
+**Azure Information Protection**
+
+- Azure Information Protection Plan 2\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune und Configuration Manager**
+
+- Microsoft Intune and Configuration Manager
+
+**Microsoft Intune for Education**
+
+- Microsoft Intune for Education
+
+\*\*\*\*Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten. Andernfalls wird dies an einen FastTrack-Spezialisten oder zur Überweisung an einen Partner weitergeleitet.
+
+\*\*\*\*\*Verfügbar für P2, als Teil von E5 oder als eigenständiger Plan. Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten. Für Cloud Services P1 teilt FastTrack die Anleitung zur Selbstbereitstellung.
 
 Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
