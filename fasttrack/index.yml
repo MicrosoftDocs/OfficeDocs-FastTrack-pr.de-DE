@@ -1,0 +1,52 @@
+### YamlMime:Hub
+title: Microsoft Kurzdokumentation und Ressourcen
+summary: Erfahren Sie, wie Microsoft-Kurztext Kunden bei der Bereitstellung von Microsoft Cloud-Lösungen helfen kann. Kunden mit berechtigten Abonnements für Microsoft 365, Azure oder Dynamics 365 können den kurzstand ohne zusätzliche Kosten für die Dauer Ihres Abonnements verwenden.
+brand: m365
+metadata:
+  title: Microsoft Kurzdokumentation und Ressourcen
+  description: Erfahren Sie, wie Microsoft-Kurztext Kunden bei der Bereitstellung von Microsoft Cloud-Lösungen helfen kann. Kunden mit berechtigten Abonnements für Microsoft 365, Azure oder Dynamics 365 können den kurzstand ohne zusätzliche Kosten für die Dauer Ihres Abonnements verwenden.
+  ms.service: microsoft-365-enterprise
+  ms.topic: hub-page
+  audience: ITPro
+  author: samanro
+  ms.author: samanro
+  ms.date: 07/03/2019
+  localization_priority: Priority
+  ms.openlocfilehash: c890da55f729c321c506493ada7be8b11395e0e7
+  ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+  ms.translationtype: MT
+  ms.contentlocale: de-DE
+  ms.lasthandoff: 02/11/2020
+  ms.locfileid: "41891745"
+conceptualContent:
+  items:
+  - title: FastTrack für Microsoft 365
+    links:
+    - url: /fasttrack/m365-fasttrack-benefit-overview
+      itemType: overview
+      text: Übersicht
+    - url: /fasttrack/O365-fasttrack-benefit-for-office-365
+      itemType: concept
+      text: Office 365
+    - url: /enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program
+      itemType: concept
+      text: Enterprise Mobility + Security
+    - url: /fasttrack/win-10-fasttrack-benefit-for-windows-10
+      itemType: concept
+      text: Windows 10
+  - title: Kurzinformationen für Azure
+    links:
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/?v=18.03
+      itemType: overview
+      text: Wichtige Vorteile
+    - url: https://azure.microsoft.com/programs/azure-fasttrack/partners/
+      itemType: concept
+      text: Kurzprojekt für Azure-Partner
+  - title: Kurzinformationen für Dynamics 365
+    links:
+    - url: /dynamics365/get-started/fasttrack/customer-engagement/microsoft-fasttrack-dynamics-365
+      itemType: overview
+      text: Kundenengagement (Übersicht)
+    - url: /dynamics365/unified-operations/fin-and-ops/get-started/fasttrack-dynamics-365-overview
+      itemType: concept
+      text: Dynamics für die Finanzierung & Vorgänge
