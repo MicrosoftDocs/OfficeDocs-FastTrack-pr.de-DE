@@ -3,19 +3,19 @@ title: Der FastTrack-Prozess
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz bereit. '
-ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677079"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347659"
 ---
 # <a name="the-fasttrack-process"></a>Der FastTrack-Prozess
 
@@ -43,8 +43,8 @@ Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsof
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **Dienste** aus.
-3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
+2.  Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
+3.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
   
  Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     
@@ -55,7 +55,7 @@ Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Webs
 2.  Wählen Sie **Meine Kunden** aus.
 3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
 4.  Wählen Sie **Dienste** aus.
-5.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus. 
+5.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
 
 In der folgenden Tabelle sind Rollen und Verantwortlichkeiten für den Prozess aufgeführt.
     

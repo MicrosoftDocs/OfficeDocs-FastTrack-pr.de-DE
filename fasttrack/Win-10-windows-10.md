@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen.
-ms.openlocfilehash: ce40590a481465a3aa5ee5238935aa98627bb05b
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677301"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347515"
 ---
 # <a name="windows-10"></a>Windows 10
 
 FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen. Die FastTrack-Experten helfen Ihnen beim:
 
-- Bereitstellen von Windows 10 Enterprise mithilfe von Microsoft System Center Configuration Manager oder Microsoft 365.
+- Bereitstellen von Windows 10 Enterprise mithilfe von Microsoft Endpoint Configuration Manager oder Microsoft 365.
 - Bereitstellen von Office 365 ProPlus. 
-- Aktualisieren von Windows 10 Enterprise und Office 365 ProPlus mithilfe von System Center Configuration Manager oder Microsoft 365.
+- Aktualisieren von Windows 10 Enterprise und Office 365 ProPlus mithilfe von Microsoft Endpoint Configuration Manager oder Microsoft 365.
 - Verbinden Sie Configuration Manager über die Cloud mit Microsoft Intune, oder stellen Sie Intune als alleine Cloudverwaltungslösung bereit.
   
 > [!NOTE]
@@ -41,14 +41,14 @@ Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwl
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **Dienste** aus.
-3.  Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+2.  Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
+3.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
 2.  Wählen Sie **Meine Kunden** aus.
 3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
 4.  Wählen Sie **Dienste** aus.
-5.  Wählen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+5.  Wählen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
 6.  Wählen Sie die Windows 10-Produktoption aus, und füllen Sie das Formular aus.
  

@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676803"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347503"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -32,25 +32,23 @@ Das Onboarding hat vier Hauptphasen:
 Nachdem Sie die gewünschte Anzahl von Lizenzen erworben haben, befolgen Sie die Anleitung in der E-Mail zur Kaufbestätigung, um die Lizenzen Ihrem vorhandenen oder neuen Mandanten zuzuordnen. Microsoft prüft dann Ihre Berechtigung für den FastTrack Center-Vorteil und versucht, Kontakt mit Ihnen aufzunehmen, um Unterstützung beim Onboarding anzubieten.
 
 > [!NOTE]
-> Sie können auch Unterstützung vom [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) anfordern, wenn Sie bereit sind, diese Dienste für Ihre Organisation bereitzustellen.
+> Sie können auch Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern, wenn Sie bereit sind, diese Dienste für Ihre Organisation bereitzustellen.
 
 ### <a name="to-request-assistance"></a>So fordern Sie Unterstützung an
 
 1. Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an.
-2. Wählen Sie **FastTrack** aus.
-3. Wählen Sie **Dienste** aus.
-4. Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+2. Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
+3. Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
 
 Sobald der Onboarding-Support begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
 
 Als Microsoft Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie hierzu folgendermaßen vor:
 
 1. Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an.
-2. Wählen Sie **FastTrack** aus.
-3. Wählen Sie **Meine Kunden** aus.
-4. Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-5. Wählen Sie **Dienste** aus.
-6. Füllen Sie das Formular **Antrag auf Unterstützung bei Microsoft 365** aus.
+2. Wählen Sie **Meine Kunden** aus.
+3. Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+4. Wählen Sie **Dienste** aus.
+5. Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
 
 Sobald der Onboarding-Support beginnt, richtet FastTrack einen Zeitplan für Onlinebesprechungen ein, um den Onboarding-Prozess zu besprechen, Daten zu überprüfen und eine Auftaktbesprechung zu vereinbaren.
 
@@ -121,7 +119,11 @@ Die Einrichtung von Azure AD Premium umfasst das Aktivieren der folgenden Featur
 
 -   Azure Active Directory Privileged Identity Management.
 
--   Azure Active Directory Domain Services-Zugriffsüberprüfungen.
+-   Azure Active Directory Domain Services ugriffsüberprüfungen.
+
+-   Azure Active Directory-Kennwortschutz.
+
+-   Azure Active Directory B2B.
 
 ![Aktivierungsphase des Onboardings – Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
@@ -162,7 +164,7 @@ Für Intune führen wir Sie durch die Vorbereitungen für die Verwendung von Mic
 
             -   Telecom Expense Management Solution (Telecom Expense Management Solution-Abonnement erforderlich).
 
-            -   Windows Defender Advanced Threat Protection (Windows E5- oder Microsoft 365 E5-Lizenzen erforderlich).
+            -   Microsoft Defender Advanced Threat Protection (Windows E5- oder Microsoft 365 E5-Lizenzen erforderlich).
 
     -   Registrieren von Geräten jeder [unterstützten Plattform](https://technet.microsoft.com/library/dn600287.aspx) bei Intune.
 
@@ -240,9 +242,9 @@ FastTrack führt Sie durch die Vorbereitung der gleichzeitigen Verwaltung von Wi
 
 - Konfigurieren von Identitäten, die von Intune verwendet werden sollen, entweder durch Nutzung Ihres lokalen Active Directory und/oder von Cloud-Identitäten.
 
-- Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer- und Gerätegruppen.
+- Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen.
 
-- Bereitstellen von Anleitungen zum Wechsel von Intune, das im System Center Configuration Manager (Hybrid) integriert ist, zu Intune Standalone.
+- Bereitstellen von Anleitungen zum Wechsel von Intune, das im Microsoft Endpoint Configuration Manager integriert ist, zu Intune Standalone.
 
 - Bereitstellen von Anleitungen zum Einrichten der automatischen MDM-Registrierung in Azure Active Directory Domain Services.
 

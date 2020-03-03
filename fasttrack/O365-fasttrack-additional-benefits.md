@@ -3,18 +3,18 @@ title: Anhang B FastTrack Center - zusätzlicher Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676647"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347611"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
@@ -43,7 +43,7 @@ Für Skype for Business Online bieten wir eine Anleitung für lokale Lync- und S
 Für Office 365 ProPlus bieten wir Unterstützung in den folgenden Bereichen: 
 - Bewertung und Planung mit Fokus auf der Vorbereitung der Umgebung auf die Erstbereitstellung und die Aktualisierungsverwaltung gemäß den Best Practices von Microsoft 
 - Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office 365-Bereitstellungstools und Office-Individualisierungstool. 
-- Bereitstellungspaketierung mithilfe von System Center Configuration Manager  
+- Bereitstellungspaketerstellung mit dem Microsoft Endpoint Configuration Manager.  
 - Ermöglicht die Verwendung des Readiness Toolkit for Office, um potenzielle Kompatibilitätsprobleme mit Ihren VBA-Makros (Microsoft Visual Basic for Applications) und Add-Ins zu identifizieren, die Sie mit Office verwenden.
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
