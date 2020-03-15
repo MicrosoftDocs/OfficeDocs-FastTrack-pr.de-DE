@@ -10,35 +10,35 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: dd51175a74a4693da43030c36a2e84db77294d32
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: dd0ebf343498250492b6af42b0fbbf144dc1b5e8
+ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347539"
+ms.lasthandoff: 03/13/2020
+ms.locfileid: "42637379"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
 Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
 
 > [!IMPORTANT]
-> Sie müssen *mindestens* 150 Lizenzen aus der Liste der berechtigten Pläne erwerben, um die FastTrack-Dienste zu erhalten.
+> Sie müssen *mindestens* 150 Lizenzen aus der Liste der berechtigten Pläne erwerben, um die FastTrack-Dienste zu erhalten. 
   
 Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) Unterstützung. 
 
 Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. 
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
-3.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
+1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.    Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
+3.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
-1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **Meine Kunden** aus.
-3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-4.  Wählen Sie **Dienste** aus.
-5.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
+1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.    Wählen Sie **Meine Kunden** aus.
+3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+4.    Wählen Sie **Dienste** aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
 
 Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
 
@@ -206,7 +206,7 @@ Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für E
 Weitere Informationen finden Sie unter [FastTrack Center-Leistungsangebot für Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).
 
 > [!NOTE]
-> Es gibt keine Lizenzierungsmindestanforderung für kommerzielle Internetdienstanbieter (ISVs), die Windows 10-Apps erstellen. Alle App-Anforderungen müssen auf eine Windows 10- oder Office 365 ProPlus-Version ausgelegt sein, die sich derzeit im Fenster für die reguläre Wartung befindet.
+> Es gibt keine Lizenzierungsmindestanforderung für kommerzielle Internetdienstanbieter (ISVs), die Windows 10-Apps erstellen. Alle App-Anforderungen müssen für eine Windows 10- oder Office 365 ProPlus-Version ausgelegt sein, die sich derzeit im Fenster für die reguläre Wartung befindet.
 
 ## <a name="ineligible-plans"></a>Nicht berechtigte Pläne
 
