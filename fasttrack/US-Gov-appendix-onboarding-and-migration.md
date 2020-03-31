@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347527"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052992"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
@@ -34,16 +34,16 @@ Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwl
 Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. 
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **unter Hilfe für Microsoft 365** von den **schnell Aktionen** oben auf Ihrer Zielseite anfordern oder indem Sie **Unterstützung für Microsoft 365** auf der Bereitstellungs Karte anfordern auswählen.
-3. Füllen Sie das Formular **Anforderungs Unterstützung für Microsoft 365 aus** . 
+1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.    Wählen Sie **unter Hilfe für Microsoft 365** von den **schnell Aktionen** oben auf Ihrer Zielseite anfordern oder indem Sie **Unterstützung für Microsoft 365** auf der Bereitstellungs Karte anfordern auswählen.
+3. Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
 
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
-1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **Meine Kunden** aus.
-3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-4.  Wählen Sie **Dienste** aus.
-5.  Füllen Sie das Formular **Anforderungs Unterstützung für Microsoft 365 aus** .   
+1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.    Wählen Sie **Meine Kunden** aus.
+3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+4.    Wählen Sie **Dienste** aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.   
 
 Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     
@@ -57,7 +57,7 @@ Dabei arbeiten wir Ihnen zusammen, um mehr über die beabsichtigte Nutzung des D
 
 Ihr FastTrack Manager führt mit Ihnen und dem Einführungsteam ein interaktives Planungsgespräch. Dabei werden Ihnen die Funktionen der erworbenen Dienste, die wichtigsten Grundlagen für Ihren Erfolg, die Methodik zur Steigerung der Nutzung des Service und verschiedene Szenarios vorgestellt, wie Sie einen Nutzen aus den Diensten ziehen können. Wir unterstützen Sie bei der Erfolgsplanung und liefern, soweit erforderlich, Feedback zu wichtigen Bereichen.
   
-FastTrack-Experten arbeiten mit Ihnen zusammen, um Ihre Quellumgebung und die Anforderungen zu beurteilen. Wir stellen Ihnen Tools zur Verfügung, um Daten über Ihre Umgebung zu sammeln und Sie durch die Abschätzung der Bandbreitenanforderungen und die Bewertung ihrer Internet Browser, Clientbetriebssysteme, Domain Name System (DNS), Netzwerks, Infrastruktur und Identitäts System zu unterstützen, um Ermitteln Sie, ob für das Onboarding Änderungen erforderlich sind. 
+FastTrack-Experten arbeiten mit Ihnen zusammen, um Ihre Quellumgebung und die Anforderungen zu beurteilen. Wir stellen Ihnen Tools zur Verfügung, um Daten über Ihre Umgebung zu sammeln und Sie durch die Schätzung der Bandbreitenanforderungen und die Bewertung ihrer Internet Browser, Clientbetriebssysteme, Domain Name System (DNS), Netzwerks, Infrastruktur und Identitäts System zu unterstützen, um festzustellen, ob Änderungen für das Onboarding erforderlich sind. 
   
 Basierend auf Ihrer aktuellen Einrichtung erstellen wir einen Korrekturplan. Nach Befolgen dieses Plans wird Ihre Quellumgebung an die Mindestanforderungen für ein erfolgreiches Onboarding für Office 365 und bei Bedarf eine erfolgreiche Postfach- und/oder Datenmigration angepasst. Wir stellen verschiedene mögliche Maßnahmen zur Verfügung, mit denen sich der Nutzen für Endbenutzer und die Akzeptanz durch diese steigern lassen. Für die Korrekturphase setzen wir auch entsprechende Telefonkonferenzen an.
   
@@ -184,11 +184,6 @@ Für Office 365 ProPlus stellen wir Anweisungen zu folgenden Themen bereit:
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool    
 - Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool    
-- Bereitstellung mithilfe von Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen von Microsoft Endpoint Configuration Manager-Verpackungen.
+- Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
 ![Schritte beim Onboarding von Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-
-  
-
-  
-

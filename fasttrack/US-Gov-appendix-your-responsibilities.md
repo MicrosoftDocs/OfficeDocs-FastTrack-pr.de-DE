@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 088534b930921210396a0ba9371bd3373756ff92
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0ee08a2fdbe05365731bd0110be29499ae6cce63
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347779"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052968"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Verantwortlichkeiten für Office 365 US-Regierung
 
@@ -103,7 +103,4 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 - Aktivieren verschiedener Dienste gemäß Anleitung von Microsoft.    
 - Erhalten einer Apple-ID, wenn Sie die Verwaltung mobiler Geräte konfigurieren   
 - Aktualisieren Ihres Apple Push Notification Service (APNS)-Zertifikats
-    
-
   
-

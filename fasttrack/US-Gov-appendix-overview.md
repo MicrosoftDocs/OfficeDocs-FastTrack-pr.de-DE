@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit den Spezialisten für Zeitarbeits Experten zusammen, um Ihre Office 365 Umgebung für die Verwendung bereitzustellen und die Einführung und Nutzung in Ihrer Organisation zu planen.
-ms.openlocfilehash: a26f01aa7c12444c5e64ce1618e53360d9fbc5ff
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347371"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052812"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government
 
@@ -34,5 +34,3 @@ Es werden folgende Themen behandelt:
 - [Ihre Verantwortlichkeiten für Office 365 US-Regierung](US-Gov-appendix-your-responsibilities.md) 
 - [Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md)   
 - [Anhang B: FastTrack Center - zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
-
-
