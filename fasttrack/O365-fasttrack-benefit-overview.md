@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Mit dem FastTrack Center-Vorteil für Office 365 arbeiten Sie remote mit FastTrack-Experten zusammen, um Ihre Office 365-Umgebung betriebsbereit zu machen sowie die Bereitstellung und Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung für dieses Angebot finden Sie unter „FastTrack Center-Vorteil für Office 365“.
-ms.openlocfilehash: 83007d0d0b7e843f87e44cc8408529e657497308
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8ce3fa3b8a0f677c520aa8ffd1924c4461ee17c2
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347431"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052752"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
 
@@ -51,6 +51,4 @@ Wenn das Onboarding abgeschlossen ist, wird Ihr Office 365-Mandant erstellt. Liz
     > Die Bereitstellung und Konfiguration von AD FS und WAP erfolgen mit dem [Azure AD Connect-Konfigurations-Assistenten](https://go.microsoft.com/fwlink/?linkid=844794) von Ihrer lokalen Umgebung aus. 
   
 - Lizenzierte Benutzer können nun auf [berechtigte Dienste und Pläne](M365-eligible-services-and-plans.md) zugreifen.
-    
 
- 

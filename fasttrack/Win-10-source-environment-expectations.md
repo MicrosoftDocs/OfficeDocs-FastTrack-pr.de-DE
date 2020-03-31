@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Das FastTrack Center-Angebot umfasst Anleitungen für die Einrichtung von Integrationsebenen in Ihrer Quellumgebung für die Bereitstellung von Windows 10.
-ms.openlocfilehash: 6aa9b600ac68286cc788995f155f8c5ec63a84ad
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 17873396463de2a8b08563ea9245b7206890de1e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347635"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052284"
 ---
 # <a name="source-environment-expectations"></a>Anforderungen an die Quellumgebung
 
@@ -34,5 +34,3 @@ Für ein Infrastrukturupgrade müssen Sie diese Voraussetzungen erfüllen:
 
 Weitere Informationen finden Sie in der Configuration Manager-Tabelle der unterstützten Versionen unter [Unterstützung für Windows 10 in Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).
   
-
- 

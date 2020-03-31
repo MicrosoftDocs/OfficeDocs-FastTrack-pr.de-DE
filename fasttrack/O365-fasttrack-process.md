@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz bereit. '
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347659"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052764"
 ---
 # <a name="the-fasttrack-process"></a>Der FastTrack-Prozess
 
@@ -42,20 +42,20 @@ Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwl
 Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) muss Ihr Administrator sich dort anmelden und anschließend auf das Widget **Need help?** klicken. 
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
-3.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
+1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.    Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
+3.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
   
  Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     
  Sobald die Onboarding-Unterstützung begonnen hat, richten wir einen Zeitplan für Onlinebesprechungen ein.
     
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
-1.  Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.  Wählen Sie **Meine Kunden** aus.
-3.  Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-4.  Wählen Sie **Dienste** aus.
-5.  Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
+1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
+2.    Wählen Sie **Meine Kunden** aus.
+3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
+4.    Wählen Sie **Dienste** aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
 
 In der folgenden Tabelle sind Rollen und Verantwortlichkeiten für den Prozess aufgeführt.
     
@@ -64,7 +64,3 @@ In der folgenden Tabelle sind Rollen und Verantwortlichkeiten für den Prozess a
 |**Rolle** <br/> |**Zuständigkeit** <br/> |
 |**FastTrack-Spezialist** <br/> |Stellt alle Dienste für Onboarding, Migration und die Benutzerakzeptanz remote bereit.  <br/> Unterstützt Sie remote mithilfe einer Kombination aus Tools und veröffentlichter Dokumentation. <br/> Arbeitet direkt mit Ihnen oder Ihrem Bevollmächtigten zusammen. <br/> Unterstützt Sie bei der E-Mail- und Datenmigration.|
 |**FastTrack Center**  <br/> |Bietet Anleitung für das Onboarding und die Planung der erfolgreichen Einführung der Dienste.  <br/> Bietet Unterstützung und steht in der jeweiligen Region zu den üblichen Geschäftszeiten zur Verfügung. <br/> Bietet Unterstützung in den folgenden Sprachen: Deutsch, Englisch, Französisch, Italienisch, Japanisch, Koreanisch, Portugiesisch (Brasilien), Spanisch, Thai, Vietnamesisch, traditionelles Chinesisch und Chinesisch (vereinfacht) (Ressourcen sprechen nur Mandarin).|
-
-
-  
-

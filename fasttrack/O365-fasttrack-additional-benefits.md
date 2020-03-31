@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347611"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052560"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
@@ -143,7 +143,3 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die nachfolgend genan
 - Bestimmen eines Operational Sponsors oder Leiters mit Entscheidungsbefugnis für die Leitung des Projektausschusses  
 - Bestimmen eines Executive Sponsors für die Zusammenarbeit mit dem Executive Sponsor von Microsoft  
 - Abhalten einer monatlichen Projektbesprechung
-    
-
-  
-

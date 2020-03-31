@@ -10,15 +10,17 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Der FastTrack-Leistungsangebot für Windows 10 bietet Anleitungen zur Bereitstellung für die neuen Microsoft Edge für Windows 10 Enterprise-Kunden mit 150 oder mehr Arbeitsplätzen.
-ms.openlocfilehash: e45905e191d4d00d21e27c87b76af52f9d67188f
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: fb6856bcde7fb8a2de4afafd7e62e1faea9c2ef3
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347731"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052500"
 ---
 # <a name="the-new-microsoft-edge"></a>Das neue Microsoft Edge
 
 Der FastTrack-Leistungsangebot für Windows 10 bietet Anleitungen zur Bereitstellung für die neuen Microsoft Edge für Windows 10 Enterprise-Kunden mit 150 oder mehr Arbeitsplätzen. Wenn Sie darüber hinaus über eine Web-App oder eine Website verfügen, die mit Internet Explorer oder Google Chrome verwendet wird, und bei der Kompatibilitätsprobleme auftreten, korrigieren wir dies im Rahmen des [App Assure-Programm](Win-10-app-assure.md) für Sie ohne zusätzliche Kosten.
 
 Ein FastTrack-Spezialist arbeitet mit Ihnen zusammen, um Microsoft Edge unter Windows 10 Enterprise mit Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager oder Microsoft Intune) bereitzustellen.
+
+
