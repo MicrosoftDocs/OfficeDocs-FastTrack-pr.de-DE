@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637391"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052344"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 
@@ -232,41 +232,37 @@ Die Schritte zur sicheren Bereitstellung von Outlook Mobile für iOS und Android
     > [!IMPORTANT]
     > Das FastTrack -Team unterstützt nicht die Sicherung von Outlook für iOS und Android mit Exchange-Postfachrichtlinien für Mobilgeräte.
 
-#### <a name="co-management"></a>Mitverwaltung
+#### <a name="cloud-attach"></a>Cloudanfügung
 
-FastTrack führt Sie durch die Vorbereitung der gleichzeitigen Verwaltung von Windows 10-Geräten sowohl mit dem Configuration Manager als auch mit Intune. Die genauen Schritte hängen von der Quellumgebung ab und können Folgendes umfassen:
+FastTrack führt Sie durch die Vorbereitungen auf die Cloudanfügung bestehender Configuration Manager-Umgebungen mit Intune. Die genauen Schritte hängen von der Quellumgebung ab. Die Schritte können Folgendes umfassen:
 
-- Erläutern der Vorteile der gemeinsamen Verwaltung.
+- Erläutern der Vorteile von Cloudanfügungen von Configuration Manager mit Intune.
 
-- Lizenzieren Ihrer Endbenutzer. FastTrack unterstützt Sie zudem beim Aktivieren von Volumenlizenzen für Ihren Microsoft Cloud Service-Mandanten (nach Bedarf).
+- Lizenzierung Ihrer Endbenutzer. FastTrack unterstützt Sie zudem beim Aktivieren von Volumenlizenzen für Ihren Microsoft Cloud Service-Mandanten (nach Bedarf).
 
-- Konfigurieren von Identitäten, die von Intune verwendet werden sollen, entweder durch Nutzung Ihres lokalen Active Directory und/oder von Cloud-Identitäten.
+- Konfigurieren von Identitäten, die von Intune verwendet werden sollen, durch Nutzung Ihres lokalen Active Directory und von Cloudidentitäten.
 
-- Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen.
+- Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer- und Gerätegruppen.
 
-- Bereitstellen von Anleitungen zum Wechsel von Intune, das im Microsoft Endpoint Configuration Manager integriert ist, zu Intune Standalone.
-
-- Bereitstellen von Anleitungen zum Einrichten der automatischen MDM-Registrierung in Azure Active Directory Domain Services.
+- Aktivieren der Cloudanfügung in der Configuration Manager-Konsole.
 
 - Bereitstellen von Anleitungen zur Einrichtung der hybriden Azure Active Directory-Verknüpfung.
 
-- Bereitstellen von Anleitungen zum Einrichten von Cloud Management Gateway
+- Bereitstellen von Anleitungen zum Einrichten der automatischen MDM-Registrierung in Azure Active Directory Domain Services.
 
-- Aktivierung der Mitverwaltung in der Configuration Manager-Konsole.
+- Bereitstellen von Anleitungen zum Einrichten von Cloud Management Gateway.
 
 - Konfigurieren unterstützter Arbeitsauslastung, die Sie in Intune verschieben möchten.
 
-- Installieren des Konfigurations-Manager-Clients in Geräten, die bei Intune registriert sind.
+- Installieren des Configuration Manager-Clients auf Geräten, die bei Intune registriert sind.
 
-- Bereitstellen von Anleitungen zur Überwachung der Mitverwaltungsaktivitäten in Ihrer Umgebung.
-
-FastTrack stellt Ihnen auch Anleitungen dazu bereit, wie Sie die erfolgreiche Umsetzung der berechtigten Dienste fördern können.
+FastTrack stellt auch Anleitungen zur Förderung der erfolgreichen Umsetzung der berechtigten Dienste bereit.
 
 ![Aktivierungsphase des Onboardings – Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![Aktivierungsphase des Onboardings – Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Aktivierungsphase des Onboardings – Mitverwaltung](./media/ft-9-enable-phase-comanagement.png) 
+![Aktivierungsphase des Onboardings – Cloudanfügung](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
 
@@ -287,3 +283,4 @@ Anleitungen werden auch für Kunden bereitgestellt, die Schutzmaßnahmen mit Mic
 ## <a name="next-steps"></a>Weitere Schritte
 
 [FastTrack-Vorteil für EMS – Zuständigkeiten von Microsoft](EMS-fasttrack-responsibilities.md)
+

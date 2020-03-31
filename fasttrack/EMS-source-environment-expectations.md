@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347467"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052332"
 ---
 # <a name="source-environment-expectations"></a>Anforderungen an die Quellumgebung
 
@@ -34,7 +34,7 @@ In der folgenden Tabelle werden die Anforderungen an die vorhandene Quellumgebun
 |Haupt-Onboarding|Active Directory-Gesamtstrukturen mit Windows Server 2008 oder höher als Funktionsgesamtstrukturebene mit der folgenden Gesamtstrukturkonfiguration:<br /><br />– Einzelne Active Directory-Gesamtstruktur<br />– Mehrere Active Directory-Gesamtstruktur </br></br>**Hinweis**: Für alle Konfigurationen mit mehreren Gesamtstrukturen liegt die Active Directory-Verbunddienste-Bereitstellung (AD FS) außerhalb des FastTrack-Center Leistungsangebot.|
 |Azure AD Premium Onboarding|Das lokale Active Directory Domain Services und seine Umgebung wurden für Azure AD Premium vorbereitet, was die Behebung identifizierter Probleme beinhaltet, die die Integration mit den Funktionen von Azure AD und Azure AD Premium verhindern.|
 |Intune Onboarding| IT-Administratoren müssen über bestehende Zertifizierungsstellen-, WiFi- und VPN-Infrastrukturen verfügen, die bereits in ihren Produktionsumgebungen eingesetzt werden, wenn sie die Bereitstellung von WiFi- und VPN-Profilen mit Intune planen.<br /><br /> **Hinweis**: Der Servicevorteil beinhaltet keine Unterstützung bei der Einrichtung oder Konfiguration von Zertifizierungsstellen, WiFi-, VPN-Infrastrukturen oder Apple MDM Push-Zertifikaten für   |
-|Comanagement|Mit Comanagement sind IT-Administratoren für die Vorbereitung der lokalen Umgebung verantwortlich, was die Behebung von Problemen beinhalten kann, die verhindern, dass Sie Windows 10-Geräte gleichzeitig mit Configuration Manager und Intune verwalten.<br /><br />**Hinweis**: Der FastTrack-Leistungsangebot beinhaltet keine Unterstützung bei der Einrichtung oder Aktualisierung des Configuration Manager-Standortservers und/oder des Configuration Manager-Clients auf die Mindestanforderungen, die für das Comanagement mit Windows 10-Geräten erforderlich sind. |
+|Cloudanfügung in Configuration Manager mit Intune|Mit Cloudanfügung sind IT-Administratoren für die Vorbereitung der lokalen Umgebung verantwortlich, was die Behebung von Problemen beinhalten kann, die die Cloudanfügung Ihrer Configuration Manager-Umgebungen mit Intune verhindern.<br /><br />**Hinweis**: Der FastTrack-Servicevorteil beinhaltet keine Unterstützung bei der Einrichtung oder Aktualisierung des Configuration Manager-Standortservers oder des Configuration Manager-Clients auf die Mindestanforderungen, die zur Unterstützung der Cloudanfügung erforderlich sind. |
 |Integration von Intune in Microsoft Defender Advanced Threat Protection (ATP)|**Hinweis**: Das FastTrack-Leistungsangebot bietet Unterstützung bei der Integration von Intune mit Microsoft Defender ATP und der Erstellung von Richtlinien zur Gerätekompatibilität auf der Grundlage der Risikobewertung von Windows 10. Der Servicevorteil umfasst keine Unterstützung bei Erwerb, Lizenzierung oder Aktivierung. |
 |Windows Autopilot|IT-Administratoren sind für die Registrierung ihrer Geräte in ihrer Organisation verantwortlich, indem sie entweder den Hardware-Anbieter ihre Hardware-IDs in ihrem Namen hochladen lassen oder sie selbst in den Windows-Autopilot-Dienst hochladen. |
 |Sicheres Bereitstellen von Outlook für iOS und Android mit Intune|<br /><br />– Benutzeridentitäten, die in Azure AD für Office 365 aktiviert sind.<br />– Exchange Online oder Hybrid Exchange konfiguriert mit zugewiesenen Benutzerlizenzen.<br />|
@@ -48,3 +48,4 @@ In der folgenden Tabelle werden die Anforderungen an die vorhandene Quellumgebun
 ## <a name="next-steps"></a>Nächste Schritte
 
 [FastTrack-Center Leistungsangebot für EMS Onboarding Phasen](EMS-onboarding-phases.md)
+
