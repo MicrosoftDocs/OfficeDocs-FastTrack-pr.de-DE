@@ -3,19 +3,19 @@ title: Anforderungen an die Quellumgebung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Der FastTrack Center-Vorteil stellt Anweisungen zum Einrichten von Integrationsstufen für Ihre Quellumgebung bereit. (Beispiel: Ihre Quellumgebung weist bereits Dienste auf, die Sie in Office 365 verlagern möchten).'
-ms.openlocfilehash: ac93f14fd3131ade2d17d512732cd04302f9e361
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: f439f5abda91c207f9b58a4d0fe8fbf2b69bda07
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052644"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098337"
 ---
 # <a name="source-environment-expectations"></a>Anforderungen an die Quellumgebung
 

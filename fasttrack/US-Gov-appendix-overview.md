@@ -3,18 +3,18 @@ title: 'Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Of
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit den Spezialisten für Zeitarbeits Experten zusammen, um Ihre Office 365 Umgebung für die Verwendung bereitzustellen und die Einführung und Nutzung in Ihrer Organisation zu planen.
-ms.openlocfilehash: fa44502e2697cd18e2e2e3c56d8c1f629ed60afc
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: e6c6a056c4d10b3f73dc69c75c2f780743c1502b
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052812"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098229"
 ---
 # <a name="appendix-d---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government
 
