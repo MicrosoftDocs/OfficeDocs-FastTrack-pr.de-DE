@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052572"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098137"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -50,12 +50,11 @@ In der folgenden Tabelle werden die Anforderungen an Ihre vorhandene Quellumgebu
 |**OneDrive for Business-Migration**  <br/> | Dateifreigaben (SMB-Dateifreigaben auf Geräten mit Unterstützung für SMB 2.0 und höher)  <br/>  Eine einzelne G Suite-Umgebung (nur Google Drive).  <br/>  Box (Starter, Business, Enterprise). <br/> <br/> **Hinweis** *FastTrack migriert nur zu aktiven Office 365-Laufwerken.*|
    
 ## <a name="migration-to-exchange-online"></a>Migration zu Exchange Online
-
+''
 ### <a name="enable-to-migrate"></a>Aktivieren der Migration
   
 Wenn Sie Microsoft zum Migrieren Ihrer E-Mails verwenden, wird eine Anleitung bereitgestellt, um sowohl Exchange Online als auch die Quellumgebung für die Migration zu aktivieren. Abhängig von der Quellumgebung werden möglicherweise verschiedene Schritte für die Aktivierung ausgeführt. Wir bieten Anleitung durch eine Kombination von Tools und Dokumentationen und führen gegebenenfalls Konfigurationsaufgaben aus. Bei zutreffenden Parametern migrieren wir die Postfächer, überwachen Aufträge und stellen Statusberichte bereit.
-  
-Möglicherweise müssen Sie Microsoft entsprechenden Zugriff und entsprechende Berechtigungen für Ihr E-Mail-System erteilen, sodass Migrationsaktivitäten ausgeführt werden können.
+"Microsoft benötigt für die Durchführung von Migrationsaktivitäten entsprechenden Zugriff und Berechtigungen zu Ihrem E-Mail-System.
   
 ### <a name="migration-policy-and-steps"></a>Migrationsrichtlinie und -schritte
   
