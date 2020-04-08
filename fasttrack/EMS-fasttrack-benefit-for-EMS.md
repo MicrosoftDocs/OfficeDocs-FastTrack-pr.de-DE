@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2a81deb376f9d25a9d998c7ba49ae9a26205d94d
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: f7e4d5e2fdca888a43531956f8fef9f8ed2b347d
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347791"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097762"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>FastTrack Center-Leistungsangebot für Enterprise Mobility + Security (EMS)
 
@@ -39,4 +39,4 @@ Sie verwenden den Enterprise Mobility + Security (EMS) FastTrack Center-Leistung
 
 [Berechtigte Dienste und Pläne für FastTrack Center-Leistungsangebot](M365-eligible-services-and-plans.md)
 
-
+''''

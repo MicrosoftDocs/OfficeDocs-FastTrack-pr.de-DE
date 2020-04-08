@@ -3,19 +3,19 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347767"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098277"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -146,7 +146,7 @@ Bereitstellen von Anleitungen zum:
 
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung
-- Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell
+- Zuweisen von Endbenutzerlizenzen und gerätebasierten Lizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell.
 - Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los
 - Installieren von Office Mobile-Apps (wie Outlook für iOS und Android, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten. 
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool.
@@ -243,4 +243,3 @@ Bereitstellen von Anleitungen zu:
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
   
 \*Informationen zu den FastTrack-Zuständigkeiten für Office 365 US Government finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
-

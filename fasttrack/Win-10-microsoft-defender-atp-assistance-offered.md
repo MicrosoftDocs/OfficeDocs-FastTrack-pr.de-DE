@@ -3,19 +3,19 @@ title: Angebotene Unterstützung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, bieten FastTrack-Experten Remoteunterstützung für die Bereitstellung zum Schützen von Endpunkten. Unser Service ist auf die Umgebung und Bedürfnisse jedes Kunden zugeschnitten.
-ms.openlocfilehash: 466830de034342d196a3bc5b681b28f43ee5cbbe
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0e4dc5c08c66839d63c2e09958a26da96325b132
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347707"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098193"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 
@@ -48,4 +48,3 @@ Folgendes ist in den FastTrack-Diensten nicht inbegriffen:
    - Linux
 - Hilfestellung zur hardwarebasierten Isolation, App-Kontrolle, Exploit-Schutz und Netzwerkfirewall.
 - Fortlaufende Verwaltung und Bedrohungsreaktion.
-

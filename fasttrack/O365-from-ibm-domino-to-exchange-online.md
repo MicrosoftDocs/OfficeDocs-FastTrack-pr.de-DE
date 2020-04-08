@@ -3,19 +3,19 @@ title: Anhang A Migration aus IBM Domino zu Exchange Online
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Die Migration aus IBM Domino zu Exchange Online umfasst mehrere wichtige Aspekte, einschließlich der Schritte in den folgenden Phasen:'
-ms.openlocfilehash: ac945137e7beee0d0813ce171fc7292d683e9cd9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: b24ab9399bba785a984444190f187f6a3028d021
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347575"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098125"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Anhang A: Migration aus IBM Domino zu Exchange Online
 
@@ -126,7 +126,7 @@ Aktivitäten vor der eigentlichen Migration werden von Ihnen und dem FastTrack C
     
  **Verantwortlichkeiten des Kunden**
   
-- Identifizieren und Importieren der Migrationszeitpläne 21 Tage vor der Migration.
+- Bereitstellen eines Plans in einer definierten Methode und Auflisten der zu migrierenden speziellen Benutzerdaten bei jedem Migrationsereignis.
     > [!NOTE]
     > Diese Aufgabe ist wichtig, da die Aktivitäten, die vor der eigentlichen Migration durchgeführt werden müssen, Korrekturen und ggf. die wiederholte Replikaterstellung in verschiedenen Phasen vor Beginn der eigentlichen Migration (T-0) umfassen. Während der Migration einiger Postfächer werden an anderen Postfächern T-Minus-Aktivitäten durchgeführt. Eine sorgfältige Planung und Koordination ist daher unabdingbar. 
 - Beheben von Problemen, die während der T-Minus-Aktivitäten festgestellt wurden.
@@ -136,7 +136,3 @@ Aktivitäten vor der eigentlichen Migration werden von Ihnen und dem FastTrack C
 - Identifizieren und Melden von Problemen nach der Migration. Das FastTrack Center bietet bis zu 5 Tage nach der Migration Unterstützung. Danach liegt dies in Ihrer Verantwortung. Sie können nach der Migration Tickets zu Problemen senden, z. B. fehlende E-Mails, Kalenderelemente und Kontakte oder Duplikate im Postfach.
     
 Das FastTrack Center deckt weder Bereitstellung, noch Lizenzgebühren noch Support ab, der mit der Verzeichnisvorbereitung (einschließlich Synchronisierung von Domino mit dem Active Directory-Verzeichnis), Software für Koexistenz für Notes-Anwendungsinteroperabilität, Self-Service-Migration oder der Migration von Archiven zusammenhängt.
-  
-
-  
-

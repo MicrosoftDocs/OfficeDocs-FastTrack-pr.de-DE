@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 76a7665de8d37721ed833c5a864302c4ac1b4932
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347395"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098041"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>FastTrack Center-Leistungsangebotprozess für Enterprise Mobility + Security (EMS)
 Wenn Ihre Organisation Anspruch auf den Center-Leistungsangebot für EMS hat, können Sie mit FastTrack Experten remote zusammenarbeiten, um Microsoft Azure Active Directory Premium, Microsoft Intune und Azure Information Protection betriebsbereit zu machen. Sie können auch Hilfe über die [FastTrack-Website](https://www.microsoft.com/fasttrack/microsoft-365/ems) für Azure Information Protection und Microsoft Cloud App Security anfordern. Unter [Berechtigte Dienstleistungen und Pläne](M365-eligible-services-and-plans.md) erfahren Sie, ob Ihre Organisation berechtigt ist.
@@ -58,3 +58,4 @@ Nachstehend wird erklärt, was Sie nach Abschluss des Onboardings erwarten könn
         -   Die Möglichkeit, Informationen innerhalb von lokalen Dateifreigaben und SharePoint-Servern mit dem Azure Information Protection Scanner zu erkennen. 
 
         -   Die Möglichkeit, Ihre Azure Information Protection Mandantenschlüssel innerhalb des Azure Key Vault zu verwalten. 
+

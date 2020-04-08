@@ -3,19 +3,19 @@ title: Angebotene Unterstützung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347683"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098385"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 
@@ -74,3 +74,5 @@ Verantwortlichkeiten des Kunden umfassen:
 
 > [!NOTE]
 > Wenden Sie sich an einen [Microsoft-Partner](https://go.microsoft.com/fwlink/?linkid=2080150), um Unterstützung bei Diensten zu erhalten, deren Unterstützung nicht inbegriffen ist.
+
+

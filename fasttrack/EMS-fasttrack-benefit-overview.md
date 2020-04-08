@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4a4af4ed65ac5a0d8f2e6de8e9059b25213c8ba3
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 702cfb8de3e1733a9176503a5546d0bca4180b25
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347443"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097801"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über das FastTrack Center-Leistungsangebot
 
@@ -57,3 +57,4 @@ Alle Onboarding-Anweisungen werden von einem zugewiesenen FastTrack-Personal rem
 ## <a name="next-steps"></a>Nächste Schritte
 
 [FastTrack Center-Leistungsangebot für EMS – Erwartungen an die Quellumgebung](EMS-source-environment-expectations.md)
+

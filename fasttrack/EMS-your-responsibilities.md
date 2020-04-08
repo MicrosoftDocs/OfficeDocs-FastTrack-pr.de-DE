@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 3ba9fa6b742a54db8df6c64ce60b6ff7de708de5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347479"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098101"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
@@ -63,9 +63,9 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 
 -   Bereitstellen und Konfigurieren öffentlicher SSL-Zertifikate.
 
--   Einrichten oder Aktualisieren von Configuration Manager auf die Mindestanforderungen für die Microsoft Intune-Integration in Configuration Manager.
+-     Einrichten oder Aktualisieren von Configuration Manager auf die Mindestanforderungen für die Microsoft Intune-Integration in Configuration Manager.
 
--   Falls sie für die Bereitstellung von WLAN und VPN-Profilen mit Intune erforderlich sind, Erstellen und Konfigurieren von Zertifizierungsstellen, WLAN- und VPN-Infrastrukturen nach Bedarf.
+-     Falls sie für die Bereitstellung von WLAN und VPN-Profilen mit Intune erforderlich sind, Erstellen und Konfigurieren von Zertifizierungsstellen, WLAN- und VPN-Infrastrukturen nach Bedarf.
 
 -   Verfassen der Nutzungsbedingungen der Organisation, die auf dem Microsoft Intune-Unternehmensportal konfiguriert und angezeigt werden sollen, auf das die Endbenutzer zugreifen können.
 
@@ -127,5 +127,6 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 ## <a name="see-also"></a>Siehe auch
 
 - [FastTrack-Leistungsangebot für EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [FastTrack-Leistungsangebot für Office 365](O365-fasttrack-benefit-for-office-365.md)
 
