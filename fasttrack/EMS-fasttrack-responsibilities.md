@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347407"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097717"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -249,43 +249,37 @@ Unterstützung bei den folgenden Schritten:
     > [!NOTE]
     > Die Einrichtung von Windows Autopilot außerhalb von Intune ist für den FastTrack-Vorteil nicht möglich.
 
-### <a name="enable-phase---co-management"></a>Aktivierungsphase – Co-Verwaltung
+### <a name="enable-phase---cloud-attach"></a>Aktivierungsphase – Cloudanfügung
 
 Unterstützung bei den folgenden Schritten:
 
 -   Lizenzierung Ihrer Endbenutzer.
 
+-   Implementieren der Cloudanfügung in der Configuration Manager-Konsole.
+
 -   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen (falls Intune nicht installiert ist).
+
+-   Einrichten der hybriden Azure Active Directory-Verknüpfung.
 
 -   Einrichten von Azure Active Directory Domain Services für die automatische MDM-Registrierung.
 
--   Einrichten einer hybriden Azure Active Directory-Verknüpfung.
-
 -   Einrichten des Cloud Management-Gateways.
 
--   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administrationsrollen und Erstellen von Benutzer- und Gerätegruppen.
+-   Hinzufügen von Benutzern zu Ihrem Intune-Abonnement, Definieren von IT-Administratorrollen und Erstellen von Benutzer- und Gerätegruppen.
 
--   Vorbereiten von Intune (falls Intune nicht installiert ist):
+-   Vorbereiten des Intune-Dienstes für die Geräteverwaltung.
 
-    -   Konfigurieren der Berechtigung für Ihre Mobile Device Management MDM), basierend auf Ihren Verwaltungsanforderungen, einschließlich:
+-   Erteilung der Berechtigung für die mobile Geräteverwaltung (MDM) für Intune.
 
-    -   Festlegen von Intune als Ihre MDM-Autorität.
+-   Konfiguration von Testgruppen, die zur Validierung von MDM-Verwaltungsrichtlinien verwendet werden sollen.
 
-    -   Konfiguration von Testgruppen, die zur Validierung von MDM-Verwaltungsrichtlinien verwendet werden sollen.
+-   Navigieren durch das Intune-Administrationsportal, um Informationen über Benutzer und Geräte zu finden.
 
-    -   Navigieren durch das Intune-Administrationsportal, um Informationen über Benutzer und Geräte zu finden.
+-   Einrichten von InTune-Rollen (Helpdesk-Betreiber, Administratoren usw.)
 
-    -   Einrichten von Intune-Rollen (Helpdesk-Operator, Administratoren, usw).
+-   Registrieren von Windows 10-Geräten auf InTune.
 
-    -   Konfiguration und Bereitstellung von Intune App Schutzrichtlinien für jede unterstützte Plattform.
-
-    -   Registrieren von Windows 10-Geräten zu Ihrem Intune.
-
-- Aktivierung der Co-Verwaltung in der Configuration Manager-Konsole.
-
-- Wechseln der Arbeitsauslastung auf Intune.
-
-- Überwachen der Co-Verwaltung Aktivitäten in Ihrer Umgebung.
+-   Bedarfsgerechte Übertragung der Arbeitsauslastung an InTune.
 
 ### <a name="enable-phase--azure-information-protection"></a>Aktivierungsphase – Azure Information Protection
 
@@ -311,3 +305,4 @@ Anleitungen werden auch für Kunden bereitgestellt, die Schutz mit Microsoft Azu
 ## <a name="next-steps"></a>Nächste Schritte
 
 [FastTrack-Vorteil für EMS – Ihre Verantwortung](EMS-your-responsibilities.md)
+
