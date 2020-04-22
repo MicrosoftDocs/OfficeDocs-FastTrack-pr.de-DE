@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 2fe39da0e41e6d42cecef8d4ecb410a1676419e1
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098241"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665916"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
@@ -175,15 +175,15 @@ Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts
 > [!NOTE]
 > Jammern Enterprise ist keine Komponente von Office 365 US-Regierung, kann aber ohne Kosten als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in gcc lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc High-oder DoD-Plänen nicht verfügbar. 
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365-apps
 
-Für Office 365 ProPlus stellen wir Anweisungen zu folgenden Themen bereit: 
+Für Microsoft 365-Apps bieten wir Anleitungen für: 
 - Beheben von Problemen bei der Bereitstellung    
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell    
-- Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los    
-- Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
-- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool    
-- Einrichten eines einzelnen lokalen Verteilungsservers für Office 365 ProPlus, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool    
+- Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-los.    
+- Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren IOS-oder Android-Geräten.   
+- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool.    
+- Einrichten eines einzelnen lokalen Verteilungsservers für Microsoft 365-apps, einschließlich Unterstützung beim Erstellen einer Configuration. XML-Datei für die Verwendung mit dem Office 365-Bereitstellungs Tool.    
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
-![Schritte beim Onboarding von Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![Schritte beim Onboarding von Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

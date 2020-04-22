@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 26432b8bc6228956012fc7708b6de95d2b8b69da
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 159f38e85340308bd97eaf31eb20f58fec1d0554
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098349"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665811"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Verantwortlichkeiten für Office 365 US-Regierung
 
@@ -61,7 +61,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 - Einrichten eines kollaborativen Microsoft Teams-Speicherplatzes für die Onboarding-Partnerschaft und einladen von Teammitgliedern des Zentrums für die Teammitglieder (nicht verfügbar in gcc High-oder DoD-Plänen)   
 - Beginnen des Onboardings berechtigter Dienste in Zusammenarbeit mit FastTrack-Spezialisten.    
 - Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen    
-- Zusammenstellen von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Microsoft Teams und Office 365 ProPlus) und Unternehmenszielen
+- Stellen Sie Ihre Ziele für Office 365 Dienste bereit (beispielsweise SharePoint Online, Exchange Online, Microsoft Teams und Microsoft 365-Apps) und organisatorische Ziele.
     
 ## <a name="assess-phase"></a>Analysephase
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Der FastTrack-Prozess stellt Dienste für Onboarding und Benutzerakzeptanz bereit. '
-ms.openlocfilehash: 98e4f944e54de52ebbdf1755c5ab185a80395b33
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 641637705a5a578b18f3ba06130d9477975b92f8
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097705"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666137"
 ---
 # <a name="the-fasttrack-process"></a>Der FastTrack-Prozess
 
@@ -35,7 +35,7 @@ Die Dienste für die Benutzerakzeptanz bestehen aus Aufgaben, die Ihnen eine Anl
 
 In der folgenden Abbildung wird der Onboarding-Prozess dargestellt.
   
-![Zeitrahmen für die Nutzung des Onboarding-Angebots](media/O365-Onboarding-Timeline.png)
+![Zeitrahmen für die Nutzung des Onboarding-Angebots](media/o365-onboarding-timeline-m365-apps.png)
   
 Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) Unterstützung. 
 
