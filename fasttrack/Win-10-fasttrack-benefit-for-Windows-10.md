@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie *mindestens* 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.
-ms.openlocfilehash: aaa143651057586938f829fe41a0ddbe2cdf40c5
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 66b8da97435ef0c89a31bc4d55228fbead88bbb3
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098205"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665823"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>FastTrack Center-Leistungsangebot für Windows 10
 
-Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben. Anschließend arbeiten Sie mit FastTrack-Experten zusammen an der Bewertung, Fehlerbehebung und Bereitstellung von Windows 10, des neuen Microsoft Edge oder von Microsoft Defender Advanced Thread Protection sowie der Koordination der FastTrack Center-Leistungsangebote für Office 365 ProPlus. 
+Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben. Anschließend arbeiten Sie mit FastTrack-Experten zusammen an der Bewertung, Fehlerbehebung und Bereitstellung von Windows 10, des neuen Microsoft Edge oder von Microsoft Defender Advanced Thread Protection sowie der Koordination der FastTrack Center-Leistungsangebote für Microsoft 365 Apps. 
 
 Das FastTrack Center-Leistungsangebot für Windows 10 biete zudem den App Assure-Dienst. Über den App Assure-Dienst stellt ein FastTrack-Experte Ihnen Empfehlungen und Anleitungen zur Fehlerbehebung bei Problemen mit der Kompatibilität der App zur Verfügung. 
 
-Außerdem bieten FastTrack-Experten Anweisungen zur Bereitstellung von Windows 10, Microsoft Edge und Office 365 ProPlus und helfen Ihnen, auf dem neuesten Stand zu bleiben. Diese Dienstvorteile stehen Ihnen mit einem berechtigten Abonnement innerhalb der [berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) von FastTrack ohne zusätzliche Kosten zur Verfügung.
+Außerdem bieten FastTrack-Experten Anweisungen zur Bereitstellung von Windows 10, Microsoft Edge und Microsoft 365 Apps und helfen Ihnen, auf dem neuesten Stand zu bleiben. Diese Dienstvorteile stehen Ihnen mit einem berechtigten Abonnement innerhalb der [berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) von FastTrack ohne zusätzliche Kosten zur Verfügung.
   
 > [!NOTE]
 > Für die Zwecke dieses Dokuments kann es sich bei FastTrack-Experten sowohl um Microsoft-Mitarbeiter, um von Microsoft genehmigte Anbieter und von Microsoft genehmigte Partner handeln. 

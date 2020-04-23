@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098277"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666171"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -107,7 +107,19 @@ Bereitstellen von Anleitungen zu:
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
   
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
+
+Bereitstellen von Anleitungen zu:
+- Beheben von Problemen bei der Bereitstellung
+- Zuweisen von Endbenutzerlizenzen und gerätebasierten Lizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell.
+- Installieren von Microsoft 365 Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.
+- Installieren von Office Mobile-Apps (wie Outlook für iOS und Android, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS- oder Android-Geräten. 
+- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool
+- Auswählen und Einrichten einer lokalen oder Cloudinstallation.
+- Erstellen der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.
+- Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen
@@ -141,18 +153,6 @@ Bereitstellen von Anleitungen zum:
 - Konfigurieren von Automatisierung, Untersuchung und Reaktion.
 - Verwenden des Angriffssimulators.
 - Berichterstellung und Bedrohungsanalyse.
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Bereitstellen von Anleitungen zu:
-- Beheben von Problemen bei der Bereitstellung
-- Zuweisen von Endbenutzerlizenzen und gerätebasierten Lizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell.
-- Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los
-- Installieren von Office Mobile-Apps (wie Outlook für iOS und Android, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten. 
-- Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool.
-- Auswählen und Einrichten einer lokalen oder Cloudinstallation.
-- Erstellen der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.
-- Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 

@@ -9,13 +9,13 @@ ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Office 365 ProPlus bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
-ms.openlocfilehash: 0f5b8abfc30c63b1990e69004ba7bca7ee33aaec
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Microsoft 365 Apps bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
+ms.openlocfilehash: e7bc00346742f4a69865d6d111eea4187a861c40
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098385"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666051"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 
@@ -32,9 +32,9 @@ Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Webs
 
 FastTrack bietet Unterstützung bei der Problembeseitigung für Apps, die auf den folgenden Microsoft-Produkte bereitgestellt werden:
 
-### <a name="windows-10-and-office-365-proplus"></a>Windows 10 und Office 365 ProPlus
+### <a name="windows-10-and-microsoft-365-apps"></a>Windows 10 und Microsoft 365-Apps
 
-- Apps, die unter Windows 7, Windows 8,1, Office 2010 und Office 2013 funktioniert haben, funktionieren ebenfalls unter Windows 10 und Office 365 ProPlus.
+- Apps, die unter Windows 7, Windows 8,1, Office 2010 und Office 2013 funktioniert haben, funktionieren ebenfalls unter Windows 10 und Microsoft 365 Apps.
 
 ### <a name="the-new-microsoft-edge"></a>Das neue Microsoft Edge
 
@@ -61,13 +61,13 @@ Weitere Informationen finden Sie unter[Was ist Windows Virtual Desktop?](https:/
 ## <a name="out-of-scope"></a>Nicht inbegriffen
 
 Folgendes ist in den FastTrack-Diensten nicht inbegriffen:
-- App-Bestandserfassung und Tests dazu, was unter Windows 10 und Office 365 ProPlus funktioniert und was nicht. Weitere Hilfestellung zu diesem Vorgang, finden Sie im [Bereitstellungscenter für Desktop](https://go.microsoft.com/fwlink/?linkid=2080140). Wenn Sie an einer detaillierten Upgradebereitschaftsbewertung interessiert sind, füllen Sie das Formular [Kundenanforderung auf Bewertung der Bereitschaft für den modernen Desktop](https://go.microsoft.com/fwlink/?linkid=2053818) aus.
+- App-Bestandserfassung und Tests dazu, was unter Windows 10 und Microsoft 365 Apps funktioniert und was nicht. Weitere Hilfestellung zu diesem Vorgang, finden Sie im [Bereitstellungscenter für Desktop](https://go.microsoft.com/fwlink/?linkid=2080140). Wenn Sie an einer detaillierten Upgradebereitschaftsbewertung interessiert sind, füllen Sie das Formular [Kundenanforderung auf Bewertung der Bereitschaft für den modernen Desktop](https://go.microsoft.com/fwlink/?linkid=2053818) aus.
 - Untersuchen von ISV-Apps von Drittanbietern auf Windows 10-Kompatibilität und Supportanweisungen. Weitere Informationen finden Sie unter [Desktopanalysen](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Dienste nur für das App-Packaging. Das Desktop App Assure-Team paketiert jedoch Apps, für die alle Probleme für Windows 10 behoben wurden, um sicherzustellen, dass sie in der Umgebung des Kunden bereitgestellt werden können.
 
 Verantwortlichkeiten des Kunden umfassen:
 - Erstellen eines App-Inventars.
-- Überprüfen der Apps unter Windows 10 und Office 365 ProPlus.
+- Überprüfen der Apps unter Windows 10 und Microsoft 365 Apps.
 
 > [!NOTE]
 > Microsoft kann keine Änderungen an Ihrem Quellcode vornehmen. Das Desktop App Assure-Team kann jedoch App-Entwickler beraten, wenn Quellcode für Ihre Apps verfügbar ist.

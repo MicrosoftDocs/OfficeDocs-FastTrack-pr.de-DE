@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098289"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666159"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -201,19 +201,19 @@ Für Project Online Professional und Project Online Premium stellen wir Anweisun
 
 Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts bereit.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365-Apps
 
-Für Office 365 ProPlus stellen wir Anweisungen zu folgenden Themen bereit:
+Für Microsoft 365-Apps stellen wir Anweisungen zu folgenden Themen bereit:
 - Beheben von Problemen bei der Bereitstellung   
 - Zuweisen von Endbenutzerlizenzen und gerätebasierten Lizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell. 
-- Installieren von Office 365 ProPlus aus dem Office 365-Portal mithilfe von Klick-und-Los   
-- Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
+- Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
+- Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS- oder Android-Geräten.   
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool   
 - Auswahl und Einrichtung einer lokalen oder Cloud-Installation. 
 - Erstellung der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.  
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
-![Schritte beim Onboarding von Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![Schritte beim Onboarding von Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook für iOS und Android
 

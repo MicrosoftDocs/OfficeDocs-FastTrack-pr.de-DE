@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098181"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666111"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Anhang B: FastTrack Center – zusätzlicher Vorteil
 
@@ -38,9 +38,9 @@ Für Exchange Online bieten wir Unterstützung bei der Konfiguration für die fo
 
 Für Skype for Business Online bieten wir eine Anleitung für lokale Lync- und Skype for Business-Benutzermigration zu Skype for Business Online.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Für Office 365 ProPlus bieten wir Unterstützung in den folgenden Bereichen: 
+Für Microsoft 365-Apps stellen wir Anweisungen für Folgendes bereit: 
 - Bewertung und Planung mit Fokus auf der Vorbereitung der Umgebung auf die Erstbereitstellung und die Aktualisierungsverwaltung gemäß den Best Practices von Microsoft 
 - Entwicklung von Bereitstellungskonfigurationen und Aktualisierungseinstellungen mithilfe des Office 365-Bereitstellungstools und Office-Individualisierungstool. 
 - Bereitstellungspaketerstellung mit dem Microsoft Endpoint Configuration Manager.  
@@ -127,7 +127,7 @@ Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen 
 
 - Hilfestellung für das Migrieren von Benutzern in Batches in einer Skype for Business-Hybridbereitstellung (Kontaktlisten von Benutzern werden beibehalten)
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 - Bereitstellen von Hilfestellung und Unterstützung für:  
   - Bewertung und Planung der Erstbereitstellung und Aktualisierungsverwaltung gemäß den Best Practices von Microsoft

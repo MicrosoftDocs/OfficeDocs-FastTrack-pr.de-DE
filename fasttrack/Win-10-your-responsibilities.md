@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Zu Ihren Zuständigkeiten während des Windows 10-Onboardings zählen die folgenden.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097789"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666087"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
@@ -54,7 +54,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 ## <a name="enable-phase"></a>Aktivierungsphase
 
 - Teilen Sie Ihren Bildschirm mit dem FastTrack-Team, wenn Sie beim Ausführen von Evaluierungstools für Ihre Umgebung oder für Clouddienstabonnements Anleitungen benötigen (bei Bedarf).
-- Konfigurieren netzwerkbezogener Elemente gemäß Anleitung von des FastTrack-Teams.
-- Führen Sie die Verzeichnisbereitschaft aus, und konfigurieren Sie die Verzeichnissynchronisierung anhand der Anweisungen des FastTrack-Teams aus, wenn Sie Office 365 ProPlus mit Windows 10 bereitstellen.
+- Konfigurieren netzwerkbezogener Elemente gemäß Anleitung des FastTrack-Teams.
+- Führen Sie die Verzeichnisbereitschaft aus, und konfigurieren Sie die Verzeichnissynchronisierung anhand der Anweisungen des FastTrack-Teams aus, wenn Sie Microsoft 365 Apps mit Windows 10 bereitstellen.
 - Konfigurieren Sie eine Authentifizierungsmethode wie "Verwaltet" oder "Verbund".
 
