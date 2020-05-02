@@ -3,19 +3,19 @@ title: Angebotene Unterstützung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben (wie unter "Berechtigte Diensten und Pläne" beschrieben), bieten die FastTrack-Experten Anleitungen zur Bereitstellung und Hilfestellung zu Kompatibilität, wenn Sie über eine Web-App oder eine Website verfügen, die mit Internet Explorer oder Google Chrome verwendet wird.
-ms.openlocfilehash: 1a843d087560f728aa44a26a66403900df8fad3b
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 2de928647dff3b08b3e080d8e106552d8b9a8d76
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097729"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999629"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung
 
