@@ -3,26 +3,26 @@ title: Microsoft Defender Advanced Threat Protection
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Der FastTrack Center-Vorteil für Windows 10 bietet Zugriff auf Microsoft Defender Advanced Threat Protection (ATP) – ein neuer Dienst, mit dessen Hilfe Unternehmensnetzwerke erweiterte Bedrohungen verhindern, erkennen, untersuchen und darauf reagieren können.
-ms.openlocfilehash: f5f81609fe1d632f0499a96135aca048b7e1e158
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 9407dfddff1b59c88a19fb0266e73efe3d117615
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097777"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999641"
 ---
-# <a name="microsoft-defender-advanced-threat-protection"></a><span data-ttu-id="2f6fe-103">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="2f6fe-103">Microsoft Defender Advanced Threat Protection</span></span>
+# <a name="microsoft-defender-advanced-threat-protection"></a><span data-ttu-id="00e1f-103">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="00e1f-103">Microsoft Defender Advanced Threat Protection</span></span>
 
-<span data-ttu-id="2f6fe-104">Der FastTrack Center-Vorteil für Windows 10 bietet Zugriff auf Microsoft Defender Advanced Threat Protection (ATP) – ein neuer Dienst, mit dessen Hilfe Unternehmensnetzwerke erweiterte Bedrohungen verhindern, erkennen, untersuchen und darauf reagieren können.</span><span class="sxs-lookup"><span data-stu-id="2f6fe-104">The FastTrack Center Benefit for Windows 10 provides access to Microsoft Defender Advanced Threat Protection (ATP) – a new service designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span> <span data-ttu-id="2f6fe-105">Wenn Sie den Microsoft Defender ATP-Dienst anfordern, hilft Ihnen ein FastTrack-Spezialist bei der Bereitstellung der Technologien zur Sicherung Ihrer Endpunkte.</span><span class="sxs-lookup"><span data-stu-id="2f6fe-105">When you request the Microsoft Defender ATP service, a FastTrack Specialist works with you to help you deploy the technologies to secure your endpoints.</span></span>
+<span data-ttu-id="00e1f-104">Der FastTrack Center-Vorteil für Windows 10 bietet Zugriff auf Microsoft Defender Advanced Threat Protection (ATP) – eine Plattform, mit deren Hilfe Unternehmensnetzwerke erweiterte Bedrohungen verhindern, erkennen, untersuchen und darauf reagieren können.</span><span class="sxs-lookup"><span data-stu-id="00e1f-104">The FastTrack Center Benefit for Windows 10 provides access to Microsoft Defender Advanced Threat Protection (ATP) – a platform designed to help enterprise networks prevent, detect, investigate, and respond to advanced threats.</span></span> <span data-ttu-id="00e1f-105">Wenn Sie über FastTrack Unterstützung bei der Bereitstellung von Microsoft Defender ATP anfordern, arbeitet ein FastTrack-Spezialist mit Ihnen zusammen, um Sie bei der Bereitstellung der Technologien zur Sicherung Ihrer Endpunkte zu unterstützen.</span><span class="sxs-lookup"><span data-stu-id="00e1f-105">When you request for Microsoft Defender ATP deployment assistance through FastTrack, a FastTrack Specialist works with you to assist with deploying the technologies to secure your endpoints.</span></span>
 
-<span data-ttu-id="2f6fe-106">Ein Microsoft-Entwickler arbeitet mit Ihnen zusammen, um die Betriebssystemversion und Geräteverwaltung sowie den Status Ihrer Windows-AV-Dienste oder anderer Endpunktsicherheitssoftware zu beurteilen.</span><span class="sxs-lookup"><span data-stu-id="2f6fe-106">A Microsoft engineer works with you to assess the OS version and device management as well as the status of your Windows AV services or other endpoint security software.</span></span> <span data-ttu-id="2f6fe-107">Wir bieten auch Hilfestellung für Konfigurationsprofile für Endpunktschutz und Geräteeinschränkungen.</span><span class="sxs-lookup"><span data-stu-id="2f6fe-107">We also provide guidance for configuration profiles for endpoint protection and device restriction.</span></span>  
+<span data-ttu-id="00e1f-106">Im Rahmen der Vorteile von FastTrack arbeitet ein Microsoft-Entwickler mit Ihnen zusammen, um die Betriebssystemversion und Geräteverwaltung sowie den Status Ihrer Windows Defender-AV-Dienste oder anderer Endpunktsicherheitssoftware zu beurteilen.</span><span class="sxs-lookup"><span data-stu-id="00e1f-106">As part of the FastTrack Benefit, A Microsoft engineer works with you to assess the OS version and device management as well as the status of your Windows Defender AV services or other endpoint security software.</span></span> <span data-ttu-id="00e1f-107">Wir bieten auch Hilfestellung bei der Konfiguration von Endpunktschutz- und Geräteeinschränkungsprofilen.</span><span class="sxs-lookup"><span data-stu-id="00e1f-107">We also provide guidance for configuration of endpoint protection and device restriction profiles.</span></span>  
 
 > [!NOTE]
-> <span data-ttu-id="2f6fe-108">Dies ist ein Dienst, der von FastTrack bereitgestellt wird, und kein Softwarepaket.</span><span class="sxs-lookup"><span data-stu-id="2f6fe-108">This is a service provided by FastTrack and not a software package.</span></span> 
+> <span data-ttu-id="00e1f-108">Dies ist ein Dienst, der von FastTrack bereitgestellt wird, und kein Softwarepaket.</span><span class="sxs-lookup"><span data-stu-id="00e1f-108">This is a service provided by FastTrack and not a software package.</span></span> 
 
