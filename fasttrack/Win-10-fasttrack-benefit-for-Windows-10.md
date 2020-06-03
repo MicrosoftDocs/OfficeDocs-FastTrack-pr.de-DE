@@ -3,33 +3,33 @@ title: FastTrack Center-Leistungsangebot für Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie *mindestens* 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.
-ms.openlocfilehash: b909bc9bf989187407dcba3c3b3d40e58e813c29
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 46abe29b9f7d6350138ee7d0d9a1ac472ee1c1fa
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999711"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472041"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="b592d-103">FastTrack Center-Leistungsangebot für Windows 10</span><span class="sxs-lookup"><span data-stu-id="b592d-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="4f30a-103">FastTrack Center-Leistungsangebot für Windows 10</span><span class="sxs-lookup"><span data-stu-id="4f30a-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="b592d-104">Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.</span><span class="sxs-lookup"><span data-stu-id="b592d-104">You can use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="b592d-105">Anschließend arbeiten Sie mit FastTrack-Experten zusammen an der Bewertung, Fehlerbehebung und Bereitstellung von Windows 10, des neuen Microsoft Edge oder von Microsoft Defender Advanced Thread Protection sowie der Koordination der FastTrack Center-Leistungsangebote für Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="b592d-105">You then work with FastTrack Specialists to assess, remediate, and deploy either Windows 10, the new Microsoft Edge, or Microsoft Defender Advanced Thread Protection and coordinate FastTrack Center benefits for Microsoft 365 Apps.</span></span> 
+<span data-ttu-id="4f30a-104">Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.</span><span class="sxs-lookup"><span data-stu-id="4f30a-104">You can use the FastTrack Center Benefit for Windows 10 when you purchase at least 150 licenses for an eligible service or plan.</span></span> <span data-ttu-id="4f30a-105">Anschließend arbeiten Sie mit FastTrack-Experten zusammen an der Bewertung, Fehlerbehebung und Bereitstellung von Windows 10, des neuen Microsoft Edge oder von Microsoft Defender Advanced Thread Protection sowie der Koordination der FastTrack Center-Leistungsangebote für Microsoft 365 Apps.</span><span class="sxs-lookup"><span data-stu-id="4f30a-105">You then work with FastTrack Specialists to assess, remediate, and deploy either Windows 10, the new Microsoft Edge, or Microsoft Defender Advanced Thread Protection and coordinate FastTrack Center benefits for Microsoft 365 Apps.</span></span> 
 
-<span data-ttu-id="b592d-106">Das FastTrack Center-Leistungsangebot für Windows 10 biete zudem den App Assure-Dienst.</span><span class="sxs-lookup"><span data-stu-id="b592d-106">The FastTrack Center Benefit for Windows 10 also provides the App Assure service.</span></span> <span data-ttu-id="b592d-107">Über den App Assure-Dienst stellt ein FastTrack-Experte Ihnen Empfehlungen und Anleitungen zur Fehlerbehebung bei Problemen mit der Kompatibilität der App zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="b592d-107">With this service, a FastTrack Specialist is made available to provide advisory and remediation guidance if you encounter app compatibility issues.</span></span> 
+<span data-ttu-id="4f30a-106">Das FastTrack Center-Leistungsangebot für Windows 10 biete zudem den App Assure-Dienst.</span><span class="sxs-lookup"><span data-stu-id="4f30a-106">The FastTrack Center Benefit for Windows 10 also provides the App Assure service.</span></span> <span data-ttu-id="4f30a-107">Über den App Assure-Dienst stellt ein FastTrack-Experte Ihnen Empfehlungen und Anleitungen zur Fehlerbehebung bei Problemen mit der Kompatibilität der App zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="4f30a-107">With this service, a FastTrack Specialist is made available to provide advisory and remediation guidance if you encounter app compatibility issues.</span></span> 
 
-<span data-ttu-id="b592d-108">Außerdem bieten FastTrack-Experten Anweisungen zur Bereitstellung von Windows 10, Microsoft Edge und Microsoft 365 Apps und helfen Ihnen, auf dem neuesten Stand zu bleiben.</span><span class="sxs-lookup"><span data-stu-id="b592d-108">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10, Microsoft Edge, and Microsoft 365 Apps.</span></span> <span data-ttu-id="b592d-109">Diese Dienstvorteile stehen Ihnen mit einem berechtigten Abonnement innerhalb der [berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) von FastTrack ohne zusätzliche Kosten zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="b592d-109">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+<span data-ttu-id="4f30a-108">Außerdem bieten FastTrack-Experten Anweisungen zur Bereitstellung von Windows 10, Microsoft Edge und Microsoft 365 Apps und helfen Ihnen, auf dem neuesten Stand zu bleiben.</span><span class="sxs-lookup"><span data-stu-id="4f30a-108">FastTrack Specialists will also provide guidance as you deploy and stay up-to-date with Windows 10, Microsoft Edge, and Microsoft 365 Apps.</span></span> <span data-ttu-id="4f30a-109">Diese Dienstvorteile stehen Ihnen mit einem berechtigten Abonnement innerhalb der [berechtigten Dienste und Pläne](M365-eligible-services-and-plans.md) von FastTrack ohne zusätzliche Kosten zur Verfügung.</span><span class="sxs-lookup"><span data-stu-id="4f30a-109">These service benefits are available at no additional cost with an eligible subscription included in the FastTrack [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
   
 > [!NOTE]
-> <span data-ttu-id="b592d-110">Für die Zwecke dieses Dokuments kann es sich bei FastTrack-Experten sowohl um Microsoft-Mitarbeiter, um von Microsoft genehmigte Anbieter und von Microsoft genehmigte Partner handeln.</span><span class="sxs-lookup"><span data-stu-id="b592d-110">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="4f30a-110">Für die Zwecke dieses Dokuments kann es sich bei FastTrack-Experten sowohl um Microsoft-Mitarbeiter, um von Microsoft genehmigte Anbieter und von Microsoft genehmigte Partner handeln.</span><span class="sxs-lookup"><span data-stu-id="4f30a-110">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
-- [<span data-ttu-id="b592d-111">Windows 10</span><span class="sxs-lookup"><span data-stu-id="b592d-111">Windows 10</span></span>](Win-10-windows-10.md)
-- [<span data-ttu-id="b592d-112">App Assure</span><span class="sxs-lookup"><span data-stu-id="b592d-112">App Assure</span></span>](Win-10-app-assure.md)
-- [<span data-ttu-id="b592d-113">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="b592d-113">Microsoft Edge</span></span>](Win-10-microsoft-edge.md)
-- [<span data-ttu-id="b592d-114">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="b592d-114">Microsoft Defender Advanced Threat Protection</span></span>](Win-10-microsoft-defender-atp.md)
+- [<span data-ttu-id="4f30a-111">Windows 10</span><span class="sxs-lookup"><span data-stu-id="4f30a-111">Windows 10</span></span>](Win-10-windows-10.md)
+- [<span data-ttu-id="4f30a-112">App Assure</span><span class="sxs-lookup"><span data-stu-id="4f30a-112">App Assure</span></span>](Win-10-app-assure.md)
+- [<span data-ttu-id="4f30a-113">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="4f30a-113">Microsoft Edge</span></span>](Win-10-microsoft-edge.md)
+- [<span data-ttu-id="4f30a-114">Microsoft Defender Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="4f30a-114">Microsoft Defender Advanced Threat Protection</span></span>](Win-10-microsoft-defender-atp.md)
 
