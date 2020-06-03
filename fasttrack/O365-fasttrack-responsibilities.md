@@ -3,19 +3,19 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999819"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472200"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -119,7 +119,42 @@ Bereitstellen von Anleitungen zu:
 - Erstellen der Konfigurations-XML des Office-Bereitstellungstool mit dem Office-Anpassungstool oder nativem XML zur Konfiguration des Bereitstellungspakets.
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-information-governance"></a>Microsoft Information Governance 
+
+Bereitstellen von Anleitungen zu:
+- Datensatzverwaltung.
+  - Anwenden von Berechtigungen für die Datensatzverwaltung
+  - Anleitung zum Übersetzen von Datei Plänen und Aufbewahrungs Zeitplänen in Bezeichnungen und Richtlinien.
+  - Erstellen von Aufbewahrungs Bezeichnungen und Richtlinien
+  - Festlegen von Löschrichtlinien
+  - Überprüfen von Elementen zur Disposition.
+- Insider Risikomanagement.
+  - Aktivieren von Office 365 Überwachungsprotokollen
+  - Konfigurieren von Einstellungen im Insider Risk Management.
+  - Erstellen von Insider Risikorichtlinien mithilfe der integrierten Textbuch.
+  - Konfigurieren von Berechtigungen für die Kommunikations Kompatibilität.
+  - Erstellen von Kommunikationsrichtlinien mit anpassbaren Vorlagen.
+  - Überwachen und Überprüfen von Benachrichtigungen
+- Information Governance.
+  - Anwenden von Berechtigungen für die Information Governance.
+  - Erstellen von Aufbewahrungs Bezeichnungen.
+  - Veröffentlichen von Aufbewahrungs Beschriftungen (manuell und automatisch).
+  - Erstellen von Import Aufträgen.
+
+## <a name="microsoft-information-protection"></a>Microsoft Information Protection
+
+Bereitstellen von Anleitungen zu:
+- Datenklassifizierung.
+- Typen vertraulicher Informationen.
+- Erstellen von Sensitivitäts Bezeichnungen.
+- Anwenden von Sensitivitäts Bezeichnungen. 
+- Einheitliche Beschriftung.
+- Schulungs Klassifizierer.
+- Kennen ihrer Daten mit dem Inhalts-Explorer und dem Aktivitäts-Explorer.
+- Veröffentlichen von Bezeichnungen mithilfe von Richtlinien (manuell und automatisch).
+- Erstellen von Richtlinien zur Verhinderung von Datenverlust (DLP) für Microsoft Teams-Chats und-Kanäle.
+
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen
