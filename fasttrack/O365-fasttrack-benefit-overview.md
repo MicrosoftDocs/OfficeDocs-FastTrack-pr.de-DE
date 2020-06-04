@@ -3,7 +3,7 @@ title: Übersicht über den FastTrack Center-Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Mit dem FastTrack Center-Vorteil für Office 365 arbeiten Sie remote mit FastTrack-Experten zusammen, um Ihre Office 365-Umgebung betriebsbereit zu machen sowie die Bereitstellung und Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung für dieses Angebot finden Sie unter „FastTrack Center-Vorteil für Office 365“.
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999891"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471709"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
 
@@ -30,10 +30,9 @@ Es werden folgende Themen behandelt:
 - [Datenmigration](O365-data-migration.md)
 - [FastTrack-Zuständigkeiten](O365-fasttrack-responsibilities.md)
 - [Ihre Zuständigkeiten](O365-your-responsibilities.md) 
-- [Anhang A: Migration aus IBM Domino zu Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [Anhang B: FastTrack Center - zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
-- [Anhang C: FastTrack Center-HIPAA-Vertrag für Geschäftspartner](O365-hipaa-business-associate-agreement.md)
-- [Anhang D: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government](US-Gov-appendix-overview.md)
+- [Anhang A: FastTrack Center – zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
+- [Anhang B: FastTrack Center-HIPAA-Vertrag für Geschäftspartner](O365-hipaa-business-associate-agreement.md)
+- [Anhang C: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government](US-Gov-appendix-overview.md)
     
 Wenn das Onboarding abgeschlossen ist, wird Ihr Office 365-Mandant erstellt. Lizenzierte Benutzer können auf Office 365 über eine der folgenden Identitätsoptionen zugreifen:
 - Cloud-Identitäten mit eindeutigen Office 365-Konten.
