@@ -1,5 +1,5 @@
 ---
-title: Anhang C – Übersicht über die Vorteile des Zentrums für Office 365 US-Regierung
+title: 'Anhang C: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: de-DE
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472152"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang C – Übersicht über die Vorteile des Zentrums für Office 365 US-Regierung
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang C: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government
 
 Mit dem schnell Center-Vorteil für Office 365 arbeiten Sie Remote mit den Spezialisten für Zeitarbeits Experten zusammen, um Ihre Office 365 Umgebung für die Verwendung bereitzustellen und die Einführung und Nutzung in Ihrer Organisation zu planen. 
   
@@ -32,4 +32,4 @@ Es werden folgende Themen behandelt:
 - [Datenmigration](O365-data-migration.md)    
 - [Aufgaben für Office 365 US-Regierung](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Ihre Verantwortlichkeiten für Office 365 US-Regierung](US-Gov-appendix-your-responsibilities.md)    
-- [Anhang A – weitere Vorteile des kurzcenters](O365-fasttrack-additional-benefits.md)
+- [Anhang A: FastTrack Center – zusätzlicher Vorteil](O365-fasttrack-additional-benefits.md)
