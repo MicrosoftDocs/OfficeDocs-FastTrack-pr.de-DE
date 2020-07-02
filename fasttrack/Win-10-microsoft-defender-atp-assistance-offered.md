@@ -3,19 +3,19 @@ title: Angebotene Unterstützung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, bieten FastTrack-Experten Remoteunterstützung für die Bereitstellung zum Schützen von Endpunkten. Unser Service ist auf die Umgebung und Bedürfnisse jedes Kunden zugeschnitten.
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472008"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011525"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 
@@ -37,7 +37,7 @@ FastTrack bietet Remoteanleitungen für Folgendes:
     - Automatische Untersuchung und Reaktion.
     - Sicherheitsbewertung.
 - Schauen Sie sich Simulationen und Lernprogramme an (z. B. Übungsszenarios, gefälschte Schadsoftware und automatisierte Untersuchungen).
-- Tiefgehende Einblicke in Berichterstellung und Bedrohungsanalyse.
+- Übersicht über die Features "Reporting" und "Threat Analytics"
 - Integration von Office 365 ATP in Microsoft Defender ATP.
 - Ausführen von exemplarischen Vorgehensweisen im Microsoft Defender Security Center-Portal.
 
@@ -51,6 +51,7 @@ Folgendes ist in den FastTrack-Diensten nicht inbegriffen:
    - Windows Server
    - macOS
    - Linux
+   - Mobile Geräte (Android und IOS)
 - Konfiguration der folgenden Funktionen zur Verringerung der Angriffsfläche:
     - Hardwarebasierte Isolation.
     - Anwendungssteuerung.
@@ -60,3 +61,4 @@ Folgendes ist in den FastTrack-Diensten nicht inbegriffen:
 - Konfiguration oder Schulung zur Überprüfung von API- oder SIEM-Verbindungen (Security Information and Event Management).
 - Registrierung oder Konfiguration von Microsoft Threat Protection (MTP).
 - Schulungen oder Anleitungen für die erweiterte Suche.
+- Schulungen oder Anleitungen für die Verwendung oder Erstellung von Kusto-Abfragen.

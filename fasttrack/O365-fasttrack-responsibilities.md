@@ -3,19 +3,19 @@ title: FastTrack-Zuständigkeiten
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: f7a519e0f5fd6b5b8d458fd326826e5a16797a67
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472200"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011429"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
@@ -82,7 +82,7 @@ Bereitstellen von Anleitungen zu:
       - Konfigurieren der Azure Active Directory-Pass-Through-Authentifizierung, falls erforderlich.\*\*
       - Konfigurieren des Einmaligen Anmeldens (Single Sign-On, SSO) von Azure Active Directory, falls erforderlich.\*\*\*
     > [!NOTE]
-    > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten. Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860094) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
 - Für eine einzelne Gesamtstruktur mit Verbundidentitäten ist das Ziel: 
   - Installieren und Konfigurieren von AD FS für die lokale Domänenauthentifizierung mit Office 365 in einer fehlertoleranten Konfiguration für einen Einzelstandort, falls erforderlich.
   - Installieren und Konfigurieren von WAP zur Veröffentlichung Ihrer AD FS-Infrastruktur im Internet, wenn erforderlich.
@@ -140,6 +140,15 @@ Bereitstellen von Anleitungen zu:
   - Erstellen von Aufbewahrungs Bezeichnungen.
   - Veröffentlichen von Aufbewahrungs Beschriftungen (manuell und automatisch).
   - Erstellen von Import Aufträgen.
+- Erweiterte eDiscovery.
+  - Nicht Office 365 Daten.
+  - Festlegen von Berechtigungen.
+  - Erstellen von Fällen.
+  - Hinzufügen von depotbanks. 
+  - Rechtliche Aufbewahrungspflicht.
+  - Such.
+  - Überprüfungs Sätze.
+  - Exportieren von Inhalten.
 
 ## <a name="microsoft-information-protection"></a>Microsoft Information Protection
 
@@ -154,7 +163,7 @@ Bereitstellen von Anleitungen zu:
 - Veröffentlichen von Bezeichnungen mithilfe von Richtlinien (manuell und automatisch).
 - Erstellen von Richtlinien zur Verhinderung von Datenverlust (DLP) für Microsoft Teams-Chats und-Kanäle.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen
