@@ -3,23 +3,23 @@ title: Onboarding-und Migrationsphasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 6ab44c470bdec34aeab2ae3514e479007f6df394
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 8d4e396694af010f4233a3aeb8cedd6237baf203
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472188"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011273"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
-Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.
+Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
   
 ![Phasen im Onboarding-Angebot](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsof
 2.    Wählen Sie **unter Hilfe für Microsoft 365** von den **schnell Aktionen** oben auf Ihrer Zielseite anfordern oder indem Sie **Unterstützung für Microsoft 365** auf der Bereitstellungs Karte anfordern auswählen.
 3. Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
 
-Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
 2.    Wählen Sie **Meine Kunden** aus.
 3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
@@ -55,11 +55,11 @@ Dabei arbeiten wir Ihnen zusammen, um mehr über die beabsichtigte Nutzung des D
   
 ## <a name="assess-phase"></a>Analysephase
 
-Ihr FastTrack Manager führt mit Ihnen und dem Einführungsteam ein interaktives Planungsgespräch. Dabei werden Ihnen die Funktionen der erworbenen Dienste, die wichtigsten Grundlagen für Ihren Erfolg, die Methodik zur Steigerung der Nutzung des Service und verschiedene Szenarios vorgestellt, wie Sie einen Nutzen aus den Diensten ziehen können. Wir unterstützen Sie bei der Erfolgsplanung und liefern, soweit erforderlich, Feedback zu wichtigen Bereichen.
+Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
   
 FastTrack-Experten arbeiten mit Ihnen zusammen, um Ihre Quellumgebung und die Anforderungen zu beurteilen. Wir stellen Ihnen Tools zur Verfügung, um Daten über Ihre Umgebung zu sammeln und Sie durch die Schätzung der Bandbreitenanforderungen und die Bewertung ihrer Internet Browser, Clientbetriebssysteme, Domain Name System (DNS), Netzwerks, Infrastruktur und Identitäts System zu unterstützen, um festzustellen, ob Änderungen für das Onboarding erforderlich sind. 
   
-Basierend auf Ihrer aktuellen Einrichtung erstellen wir einen Korrekturplan. Nach Befolgen dieses Plans wird Ihre Quellumgebung an die Mindestanforderungen für ein erfolgreiches Onboarding für Office 365 und bei Bedarf eine erfolgreiche Postfach- und/oder Datenmigration angepasst. Wir stellen verschiedene mögliche Maßnahmen zur Verfügung, mit denen sich der Nutzen für Endbenutzer und die Akzeptanz durch diese steigern lassen. Für die Korrekturphase setzen wir auch entsprechende Telefonkonferenzen an.
+Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
   
 ![Onboarding-Schritte für die Analysephase](media/O365.png)
   
@@ -69,7 +69,7 @@ Sie führen die Aufgaben im Korrekturplan für Ihre Quellumgebung aus, damit Sie
   
 ![Onboarding-Schritte während der Korrekturphase](media/O365-Onboarding-Remediate.png)
   
-Wir stellen außerdem verschiedene mögliche Maßnahmen zur Verfügung, mit denen sich der Nutzen für Endbenutzer und die Akzeptanz durch diese steigern lassen. Vor Einleiten der Aktivierungsphase überprüfen wir gemeinsam die Ergebnisse der Korrekturaktivitäten, um sicherzustellen, dass Sie auf dem benötigten Stand sind. 
+We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
   
 In dieser Phase arbeitet der FastTrack Manager mit Ihnen an der Erfolgsplanung und unterstützt Sie durch Anleitung bei der Wahl der richtigen Ressourcen und bewährten Methoden, mit denen Sie den Dienst in Ihrer Organisation zur Verfügung stellen und die Nutzung aller Dienste steigern können.
   
@@ -79,25 +79,25 @@ Nach Abschluss aller Korrekturaktivitäten ist der nächste Schritt im Projekt d
   
 ## <a name="core"></a>Haupt-Onboarding
 
-Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integration von Mandanten und Identitäten. Ferner gehören dazu grundlegende Schritte für das Onboarding von Diensten wie Exchange Online, SharePoint Online und Skype for Business Online. Es finden weiterhin Besprechungen zur Erfolgsplanung mit Ihrem FastTrack Manager statt, in denen Sie Ihren Fortschritt bewerten und bestimmen, wie wir Sie in der Zukunft unterstützen können.
+Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
   
 ![Schritte beim Haupt-Onboarding während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Core.png)
   
 ![Schritte beim Haupt-Onboarding während der Aktivierungsphase_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP steht für Webanwendungsproxy SSL steht für Secure Sockets Layer SDS steht für School Data Sync Weitere Informationen zu SDS finden Sie unter [Willkommen bei Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 Das Onboarding für einen oder mehrere berechtigte Dienste kann beginnen, sobald das Haupt-Onboarding abgeschlossen ist.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail für Ihre Organisation einzurichten. Welche Schritte genau dazu notwendig sind, hängt von Ihrer Quellumgebung und Ihren E-Mail-Migrationsplänen ab. Dies können unter anderem die folgenden Schritte sein:
+For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
   
 - Einrichten von Exchange Online Protection (EOP)-Funktionen für alle E-Mail-aktivierten Domänen, die in Office 365 überprüft wurden.   
     > [!NOTE]
     > Ihre MX-Einträge (Mail Exchange) müssen auf Office 365 verweisen.   
-- Einrichten der Exchange Online Advanced Threat Protection (ATP)-Funktion, wenn diese Bestandteil Ihres Abonnementdiensts ist, sobald Ihre MX-Einträge auf Office 365 verweisen. Diese Funktion wird im Rahmen der Antischadsoftware-Einstellungen von Exchange Online Protection konfiguriert.   
+- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
 - Konfigurieren von Firewallports.   
 - Einrichten von DNS, einschließlich der erforderlichen AutoErmittlungs-, SPF (Sender Policy Framework)- und MX-Einträge (falls erforderlich).     
 - Einrichten des E-Mail-Nachrichtenflusses zwischen Ihrer Quellmessagingumgebung und Exchange Online (bei Bedarf)   
@@ -183,7 +183,7 @@ Für Microsoft 365-Apps stellen wir Anweisungen zu folgenden Themen bereit:
 - Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.    
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS- oder Android-Geräten.   
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool    
-- Einrichten eines einzelnen lokalen Verteilungsservers für Microsoft 365-apps, einschließlich Unterstützung beim Erstellen einer Configuration. XML-Datei für die Verwendung mit dem Office 365-Bereitstellungs Tool.    
+- Einrichten eines einzelnen lokalen Verteilungsservers für Microsoft 365-apps, einschließlich Unterstützung beim Erstellen einer configuration.xml Datei für die Verwendung mit dem Office 365-Bereitstellungs Tool.    
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
 ![Schritte beim Onboarding von Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
