@@ -3,7 +3,7 @@ title: Übersicht über den FastTrack Center-Vorteil
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -11,17 +11,17 @@ f1_keywords:
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: Mit dem FastTrack Center-Vorteil für Office 365 arbeiten Sie remote mit FastTrack-Experten zusammen, um Ihre Office 365-Umgebung betriebsbereit zu machen sowie die Bereitstellung und Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung für dieses Angebot finden Sie unter „FastTrack Center-Vorteil für Office 365“.
-ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+description: With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see FastTrack Center Benefit for Office 365.
+ms.openlocfilehash: 3537f6effa5bd2c65f542496ea42ab70075621ce
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471709"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011333"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über den FastTrack Center-Vorteil
 
-Mit dem FastTrack Center-Vorteil für Office 365 arbeiten Sie remote mit FastTrack-Experten zusammen, um Ihre Office 365-Umgebung betriebsbereit zu machen sowie die Bereitstellung und Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung für dieses Angebot finden Sie unter [FastTrack Center-Vorteil für Office 365](O365-fasttrack-benefit-for-office-365.md).
+With FastTrack Center Benefit for Office 365, you work remotely with FastTrack Specialists to get your Office 365 environment ready for use and plan rollout and usage within your organization. To learn more about eligibility, see [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md).
   
 Es werden folgende Themen behandelt:
 - [Der FastTrack-Prozess](O365-fasttrack-process.md) 
@@ -34,11 +34,11 @@ Es werden folgende Themen behandelt:
 - [Anhang B: FastTrack Center-HIPAA-Vertrag für Geschäftspartner](O365-hipaa-business-associate-agreement.md)
 - [Anhang C: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government](US-Gov-appendix-overview.md)
     
-Wenn das Onboarding abgeschlossen ist, wird Ihr Office 365-Mandant erstellt. Lizenzierte Benutzer können auf Office 365 über eine der folgenden Identitätsoptionen zugreifen:
+Your Office 365 tenant is created at the completion of onboarding. Licensed users can access Office 365 by using one of the following identity options:
 - Cloud-Identitäten mit eindeutigen Office 365-Konten.
-- Synchronisierte Identitäten mit Office 365-Konten, die von Ihrem lokalen Active Directory aus mithilfe von Azure Active Directory Connect (Kennworthash-Synchronisierung oder Pass-Through-Authentifizierung) synchronisiert werden. Für Kunden mit:
+- Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication). These are for customers with:
   - Eine einzelne Active Directory-Gesamtstrukturumgebung.
-  - Unterstützte Active Directory-Topologie mit mehreren Gesamtstrukturen. Unterstützte Topologien finden Sie unter [Anforderungen an die Quellumgebung](O365-source-environment-expectations.md).
+  - Supported multi-forests Active Directory topology. For supported topologies, see [Source Environment Expectations](O365-source-environment-expectations.md).
 - Verbundidentitäten mit Office 365-Konten, für die Folgendes zutrifft:
   - Mit dem Tool Azure Active Directory Connect aus Active Directory synchronisiert, für Kunden mit:
       - einer einzelnen Active Directory-Gesamtstrukturkonfiguration.
