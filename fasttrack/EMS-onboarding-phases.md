@@ -82,7 +82,7 @@ Zum Haupt-Onboarding zählen die Bereitstellung des Diensts sowie die Integratio
 
 ![Aktivierungsphase des Onboardings – Kernfunktionen](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP steht für Webanwendungsproxy SSL steht für Secure Sockets Layer SDS steht für School Data Sync Weitere Informationen zu SDS finden Sie unter [Willkommen bei Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
 > Eine verwaltete Authentifizierungsmethode umfasst auch die Kennwort-Hashsynchronisierung. Die Identitätsintegration ist eine einmalige Aktivität und beinhaltet keine Migration oder Außerbetriebnahme vorhandener Authentifizierungsmethoden wie verwalteter oder Partner-Authentifizierungsmethoden.

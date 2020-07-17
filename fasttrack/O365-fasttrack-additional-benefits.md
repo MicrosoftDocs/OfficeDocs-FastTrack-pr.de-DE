@@ -8,7 +8,7 @@ ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
 ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
 ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
@@ -18,7 +18,7 @@ ms.locfileid: "45010985"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Anhang A: FastTrack Center – zusätzlicher Vorteil
 
-Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
+Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter [Berechtigte Dienste und Pläne](M365-eligible-services-and-plans.md). 
   
 ## <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -48,7 +48,7 @@ Für Microsoft 365-Apps stellen wir Anweisungen für Folgendes bereit:
     
 ## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
-FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
+Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die nachfolgend genannten. Diese gelten möglicherweise zusätzlich zu den in [FastTrack-Zuständigkeiten](O365-fasttrack-responsibilities.md) definierten Aktivitäten oder ersetzen diese.
   
 ## <a name="general"></a>Allgemein
 
@@ -64,7 +64,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>Unterstützung bei georedundantem AD FS
 
-- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
+- Bereitstellung eines standardmäßigen Referenzarchitekturentwurfs für eine georedundante AD FS-Topologie über zwei (2) Rechenzentren. Die Standardarchitektur bietet Folgendes:
   - Verbundauthentifizierung für Dienste, die im FastTrack Center-Vorteil enthalten sind 
   - Ausfallsicherheit eines einzelnen Standorts  
   - Hochverfügbarkeit und Failover  
@@ -79,7 +79,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
 ### <a name="ad-fs-client-access-policy-guidance"></a>Unterstützung bei der AD FS-Clientzugriffsrichtlinie
 
 - Überprüfen der Richtlinien und der Konfiguration, die für sichere Office 365-Ressourcen erforderlich sind  
-- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
+- Unterstützung bei der Konfiguration von AD FS-Clientzugriffsrichtlinien für ermittelte Clientzugriffszenarien innerhalb der unterstützten Szenarien Weitere Informationen finden Sie unter [Einschränken des Zugriffs auf Office 365-Dienste basierend auf dem Speicherort des Clients](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - Überprüfung der Verbundauthentifizierungsfunktion mit geänderten Clientzugriffsrichtlinien für ermittelte Zugriffsszenarien mit einer Konfiguration von bis zu 10 Benutzern
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
   - Automatische UM-Telefonzentralenkontakte und Outlook-Voicemail, damit Benutzer zu Exchange Online umgeleitet werden. 
   - Unterstützung bei der Erstellung von für den Verbund benötigten SRV-Einträgen
 > [!NOTE]
-> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
+> UM kann mit unterstützten UM-IP-Gateways und Sitzungsrahmencontrollern (Session Border Controllers, SBCs) konfiguriert werden. Weitere Informationen finden Sie unter [Telefonsystemintegration mit UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>Unterstützung bei Koexistenz öffentlicher Ordner
 
@@ -135,7 +135,7 @@ FastTrack Specialists have the following responsibilities during onboarding. The
   
 ## <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 
-You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
+Zu Ihren Zuständigkeiten während des Onboardings zählen die nachfolgend genannten. Diese gelten zusätzlich zu den Abschnitt [Ihre Zuständigkeiten](O365-your-responsibilities.md) definierten Aufgaben. 
   
 - Zuweisen und Verwalten von Ressourcen gemäß dem Projektplan  
 - Rechtzeitige Einleitung entsprechender Maßnahmen zum Verringern von Sicherheitsrisiken und Beheben der Probleme von Kunden, Partnerprojektmanagern und dem FastTrack Manager   
