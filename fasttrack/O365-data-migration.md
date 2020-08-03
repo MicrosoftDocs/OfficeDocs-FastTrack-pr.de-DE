@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack-Spezialisten bieten Anleitung zu Schritten für die Datenmigration in Office 365. Dies steht für alle berechtigten Kunden mit Office 365-Diensten für Exchange Online, OneDrive for Business und SharePoint Online zur Verfügung.
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011309"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534048"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -38,9 +38,6 @@ Sie verfügen möglicherweise über Daten in Ihrer Quellumgebung, die Sie zu Off
   
 > [!NOTE]
 > Falls eine Integration erforderlich ist, muss sich Ihre Quellumgebung auf der Mindeststufe für die jeweilige Anwendung befinden. 
-  
-> [!NOTE]
-> Neu im März 2020: Microsoft stellt sechsmonatige [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license)- und [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license)-Testlizenzen zur Verfügung, um Kunden bei Remotearbeit und Fernunterricht im Zuge des Ausbruchs von COVID-19 zu unterstützen. Ausnahmsweise stellt FastTrack von März 2020 bis August 2020 Datenmigrationsdienste für Mandanten mit 500 oder mehr Lizenzen dieser Testversionen sowie für [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) für Schüler und Studenten zur Verfügung. Microsoft behält sich das Recht vor, dieses Angebot jederzeit ohne vorherige Ankündigung zu kündigen, zu ändern oder auszusetzen.
 
 In der folgenden Tabelle werden die Anforderungen an Ihre vorhandene Quellumgebung für die Migration beschrieben.
   

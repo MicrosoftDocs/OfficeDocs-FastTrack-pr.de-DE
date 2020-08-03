@@ -10,19 +10,19 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
-ms.openlocfilehash: c5d959a40e11bf17382887d31494eac9e4ed9a93
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bdd1ce3f98a807d6c07002741b5092390463bf86
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011225"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534036"
 ---
 # <a name="eligible-services-and-plans"></a>Berechtigte Dienste und Pläne
 
 Wenn Sie einen der Microsoft 365-Dienste erwerben, bieten FastTrack-Experten eine Anleitung beim Onboarding in Microsoft 365 und bei den ersten Schritten mit diesen Diensten.
 
 > [!IMPORTANT]
-> Sie müssen *mindestens* 150 Lizenzen aus der Liste der berechtigten Pläne erwerben, um die FastTrack-Dienste zu erhalten. Neu im März 2020: Microsoft stellt sechsmonatige [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license)- und [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license)-Testlizenzen zur Verfügung, um Kunden bei Remotearbeit und Fernunterricht im Zuge des Ausbruchs von COVID-19 zu unterstützen. FastTrack unterstützt Kunden ausnahmsweise beim Onboarding in Zusammenhang mit diesen kostenlosen Testversionen und bietet Schülern und Studenten zwischen März und August 2020 eine kostenlose [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)-Lizenz an. Microsoft behält sich das Recht vor, dieses Angebot jederzeit ohne vorherige Ankündigung zu kündigen, zu ändern oder auszusetzen.   
+> Sie müssen *mindestens* 150 Lizenzen aus der Liste der berechtigten Pläne erwerben, um die FastTrack-Dienste zu erhalten.  
   
 Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) oder die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) Unterstützung. 
 
