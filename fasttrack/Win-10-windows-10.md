@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen.
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011513"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634169"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ Sie erhalten über das [Microsoft 365 Admin Center](https://go.microsoft.com/fwl
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
-3.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie **Meine Kunden** aus.
-3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-4.    Wählen Sie **Dienste** aus.
-5.    Wählen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
-6.    Wählen Sie die Windows 10-Produktoption aus, und füllen Sie das Formular aus.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Suchen Sie nach Ihrem Kunden, indem Sie den Kundennamen, die Domäne oder die TPID eingeben.
+4.    Wählen Sie den Kunden aus den Suchergebnissen aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
  

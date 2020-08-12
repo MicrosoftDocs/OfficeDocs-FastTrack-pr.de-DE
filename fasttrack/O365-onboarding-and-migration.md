@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korrektur und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen.'
-ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 075ff08f59992d5ebd6fd77fa25012c1416cd8ae
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
 ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011597"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634229"
 ---
 # <a name="onboarding-and-migration-phases"></a>Phasen im Onboarding- und Migrationsprozess
 
@@ -38,15 +38,15 @@ Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsof
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
-3.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus. 
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie **Meine Kunden** aus.
-3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-4.    Wählen Sie **Dienste** aus.
-5.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Suchen Sie nach Ihrem Kunden, indem Sie den Kundennamen, die Domäne oder die TPID eingeben.
+4.    Wählen Sie den Kunden aus den Suchergebnissen aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
 
 Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     

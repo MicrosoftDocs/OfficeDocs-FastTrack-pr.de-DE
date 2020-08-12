@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben (wie unter "Berechtigte Diensten und Pläne" beschrieben), bieten die FastTrack-Experten Anleitungen zur Bereitstellung und Hilfestellung zu Kompatibilität, wenn Sie über eine Web-App oder eine Website verfügen, die mit Internet Explorer oder Google Chrome verwendet wird.
-ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: 29a38add3ca5787faaf083e96ec858661fe823b0
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011561"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634181"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung
 
@@ -33,16 +33,15 @@ Wenn Sie Anleitungen zur Bereitstellung von Microsoft Edge anfordern möchten, e
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie aus den **Schnellzugriffsaktionen** oben auf Zielseite die Option **Unterstützung für Microsoft 365 anfordern** oder auf der Bereitstellungskarte die Option **Unterstützung für Microsoft 365 anfordern** aus.
-3.    Füllen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie **Meine Kunden** aus.
-3.    Suchen Sie nach Ihrem Kunden, oder wählen Sie ihn aus der Kundenliste aus.
-4.    Wählen Sie **Dienste** aus.
-5.    Wählen Sie das Formular **Anfordern von Unterstützung für Microsoft 365** aus.
-6.    Wählen Sie die **Microsoft Edge**-Produktoption aus, und füllen Sie das Formular aus.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Suchen Sie nach Ihrem Kunden, indem Sie den Kundennamen, die Domäne oder die TPID eingeben.
+4.    Wählen Sie den Kunden aus den Suchergebnissen aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
  
 Um Hilfe zur App-Kompatibilität zu erhalten, füllen Sie die [Serviceanfrage für App Assure](https://go.microsoft.com/fwlink/?linkid=2022721) aus.
 
