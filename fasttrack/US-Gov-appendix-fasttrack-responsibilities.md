@@ -3,19 +3,19 @@ title: Aufgaben für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011621"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776477"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US-Regierung
 
@@ -102,7 +102,7 @@ Bereitstellen von Anleitungen zu:
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
 - Einrichten von Unified Messaging (um) mit Exchange Online (um ist in gcc DoD-Plänen nicht verfügbar). 
     
-Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md).
+Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -197,7 +197,7 @@ Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzel
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung   
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell  
-- Installieren von Microsoft 365 Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
+- Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
 - Einrichten eines einzelnen lokalen Verteilungsservers für Microsoft 365-apps, einschließlich Unterstützung beim Erstellen einer configuration.xml Datei für die Verwendung mit dem Office 365-Bereitstellungs Tool.   

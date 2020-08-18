@@ -3,19 +3,19 @@ title: Onboarding-und Migrationsphasen für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/01/2020
+ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 Onboarding für Office 365 US-Regierung hat vier primäre Phasen: initiieren, bewerten, korrigieren und aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: a1c18b08e1be0cbb0afc26e9736d9b13c027de8f
-ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.openlocfilehash: bc7f6040e6e7be01395e13f4b6af6d46074fa987
+ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46634217"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46776489"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding-und Migrationsphasen für Office 365 US-Regierung
 
@@ -35,15 +35,15 @@ Für Unterstützung über das [Microsoft 365 Admin Center](https://go.microsof
 
 So erhalten Sie Unterstützung über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie **unter Hilfe mit Microsoft 365** aus den **schnell Aktionen** oben auf Ihrer Zielseite anfordern aus.
-3.    Schließen Sie die **Anforderungs Unterstützung mit dem Microsoft 365** -Formular ab.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
   
 Als Partner können Sie auch im Namen eines Kunden Hilfe auf der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) anfordern. Gehen Sie dazu wie folgt vor:
 1.    Melden Sie sich bei der [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) an. 
-2.    Wählen Sie **unter Hilfe mit Microsoft 365** aus den **schnell Aktionen** oben auf Ihrer Zielseite anfordern aus.
-3.    Suchen Sie nach Ihrem Kunden, indem Sie den Kundennamen, die Domäne oder TPID eingeben.
-4.    Wählen Sie in den Suchergebnissen Kunden aus.
-5.    Schließen Sie die **Anforderungs Unterstützung mit dem Microsoft 365** -Formular ab.
+2.    Wählen Sie oben auf Ihrer Startseite in **Schnelle Aktionen** die Option **Anfordern von Unterstützung bei Microsoft 365** aus.
+3.    Suchen Sie nach Ihrem Kunden, indem Sie den Kundennamen, die Domäne oder die TPID eingeben.
+4.    Wählen Sie den Kunden aus den Suchergebnissen aus.
+5.    Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
 
 Sie können auch über die [FastTrack-Website](https://go.microsoft.com/fwlink/?linkid=780698) in der Liste der verfügbaren Dienste für Ihren Mandanten Hilfe zu FastTrack Center anfordern.  
     
@@ -103,7 +103,7 @@ Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail 
 - Einrichten des E-Mail-Nachrichtenflusses zwischen Ihrer Quellmessagingumgebung und Exchange Online (bei Bedarf)   
 - Durchführen der E-Mail-Migration von Ihrer Quellmessagingumgebung zu Office 365.   
     > [!NOTE]
-    > Weitere Informationen zur E-Mail- und Datenmigration finden Sie unter [Datenmigration](O365-data-migration.md). 
+    > Weitere Informationen zur E-Mail- und Datenmigration finden Sie unter [Datenmigration](data-migration.md). 
   
 ![Schritte beim Onboarding von Exchange während der Aktivierungsphase](media/O365-Onboarding-Enable-Exchange.png)
   
