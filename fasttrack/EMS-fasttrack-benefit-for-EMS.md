@@ -9,17 +9,17 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: a86fe2b4be3cf68e08c8dc0aa4c8e773d050dc77
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: cd14af0915c7b0b023ae160a9d81d0f7f37ee1ad
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800499"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817280"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>FastTrack Center-Leistungsangebot für Enterprise Mobility + Security (EMS)
 

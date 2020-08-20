@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, zeigen Ihnen FastTrack-Spezialisten, wie Sie auf Windows 10 und Microsoft 365 Apps bereitstellen und ohne zusätzliche Kosten (mit einem berechtigenden Abonnement) auf dem neuesten Stand bleiben.
-ms.openlocfilehash: c291ddb37146b6a2f4151be971570dbba806fe2e
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795078"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817688"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 

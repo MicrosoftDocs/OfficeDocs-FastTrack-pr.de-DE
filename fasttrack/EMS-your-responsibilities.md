@@ -9,17 +9,17 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: de4e8ea80036f762469bd32b53c9a927fe8307e3
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 916a242fcbecf1d2cf9f011658e8f92eeea42f62
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800547"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817604"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 

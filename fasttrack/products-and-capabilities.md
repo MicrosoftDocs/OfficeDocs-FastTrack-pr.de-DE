@@ -7,15 +7,15 @@ ms.date: 8/17/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Dieses Thema enthält Details zu den von der Kurzhilfe unterstützten Arbeits Auslastungs Szenarien und den erforderlichen Anforderungen an die Quellumgebung, bevor wir beginnen können. Basierend auf Ihren aktuellen Einstellungen arbeiten wir mit Ihnen zusammen, um einen Korrektur Plan zu erstellen, der Ihre Quellumgebung auf die Mindestanforderungen für ein erfolgreiches Onboarding bringt.
-ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: d25c1df8e628f14487952cacc86ccf8fb9dad8c1
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800967"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817700"
 ---
 # <a name="products-and-capabilities"></a>Produkte und Funktionen
 

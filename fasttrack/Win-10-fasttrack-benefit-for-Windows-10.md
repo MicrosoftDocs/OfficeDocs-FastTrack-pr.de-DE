@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie *mindestens* 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.
-ms.openlocfilehash: f05d0805767a27ebdc91fac885c3b47668d3f873
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800823"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817664"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>FastTrack Center-Leistungsangebot für Windows 10
 

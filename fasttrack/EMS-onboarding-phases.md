@@ -9,14 +9,14 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
-ms.openlocfilehash: f763358a44878f025d588a10eb97fcd20a5ed984
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: e919acc1a1982de5c023b0cdf84d4ac955b2ec9d
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800475"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817509"
 ---
 # <a name="onboarding-phases"></a>Onboarding-Phasen
 

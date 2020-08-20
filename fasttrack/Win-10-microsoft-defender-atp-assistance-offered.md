@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben, bieten FastTrack-Experten Remoteunterstützung für die Bereitstellung zum Schützen von Endpunkten. Unser Service ist auf die Umgebung und Bedürfnisse jedes Kunden zugeschnitten.
-ms.openlocfilehash: 05b466e1136344294da3e277c9a0e60370e42588
-ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46800715"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817652"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung  
 
