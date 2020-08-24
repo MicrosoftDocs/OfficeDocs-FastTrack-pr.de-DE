@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: de-DE
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800859"
@@ -20,7 +20,7 @@ ms.locfileid: "46800859"
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die nachfolgend aufgeführten.\*
   
@@ -125,32 +125,32 @@ Bereitstellen von Anleitungen zu:
 ## <a name="microsoft-information-governance"></a>Microsoft Information Governance 
 
 Bereitstellen von Anleitungen zu:
-- Verwaltung von Unterlagen.
-  - Anwenden von Berechtigungen für die Datensatzverwaltung
-  - Anleitung zum Übersetzen von Datei Plänen und Aufbewahrungs Zeitplänen in Bezeichnungen und Richtlinien.
-  - Erstellen von Aufbewahrungs Bezeichnungen und Richtlinien
-  - Festlegen von Löschrichtlinien
+- Verwaltung von Datensätzen.
+  - Anwenden von Berechtigungen auf die Datensatzverwaltung.
+  - Anleitung zum Übersetzen von Dateiplänen und Aufbewahrungszeitplänen in Beschriftungen und Richtlinien.
+  - Erstellen von Aufbewahrungsbezeichnungen und -richtlinien.
+  - Festlegen von Löschrichtlinien.
   - Überprüfen von Elementen zur Disposition.
-- Insider Risikomanagement.
-  - Aktivieren von Office 365 Überwachungsprotokollen
-  - Konfigurieren von Einstellungen im Insider Risk Management.
-  - Erstellen von Insider Risikorichtlinien mithilfe der integrierten Textbuch.
-  - Konfigurieren von Berechtigungen für die Kommunikations Kompatibilität.
-  - Erstellen von Kommunikationsrichtlinien mit anpassbaren Vorlagen.
-  - Überwachen und Überprüfen von Benachrichtigungen
-- Informationsverwaltung.
-  - Anwenden von Berechtigungen für die Information Governance.
-  - Erstellen von Aufbewahrungs Bezeichnungen.
-  - Veröffentlichen von Aufbewahrungs Beschriftungen (manuell und automatisch).
-  - Erstellen von Import Aufträgen.
+- Insider-Risikomanagement.
+  - Aktivieren von Office 365-Überwachungsprotokollen.
+  - Konfigurieren von Einstellungen innerhalb des Insider-Risikomanagements.
+  - Erstellen von Insider-Risikorichtlinien mithilfe der integrierten Playbooks.
+  - Konfigurieren von Berechtigungen für die Kommunikationscompliance.
+  - Erstellen von Richtlinien für die Kommunikationscompliance mithilfe von anpassbaren Vorlagen.
+  - Überwachen und Überprüfen von Benachrichtigungen.
+- Informationsgovernance.
+  - Anwenden von Berechtigungen auf Informationsgovernance.
+  - Erstellen von Aufbewahrungsbezeichnungen.
+  - Veröffentlichen von Aufbewahrungsbezeichnungen (manuell und automatisch).
+  - Erstellen von Importaufträgen.
 - Advanced eDiscovery.
-  - Nicht Office 365 Daten.
+  - Nicht-Office 365-Daten.
   - Festlegen von Berechtigungen.
   - Erstellen von Fällen.
-  - Hinzufügen von depotbanks. 
-  - Rechtliche Aufbewahrungspflicht.
-  - Such.
-  - Überprüfungs Sätze.
+  - Hinzufügen von Verwahrern. 
+  - Gesetzliche Aufbewahrungspflichten.
+  - Suche.
+  - Prüfdateisätze.
   - Exportieren von Inhalten.
 
 ## <a name="microsoft-information-protection"></a>Microsoft Information Protection
@@ -158,15 +158,15 @@ Bereitstellen von Anleitungen zu:
 Bereitstellen von Anleitungen zu:
 - Datenklassifikation.
 - Typen vertraulicher Informationen.
-- Erstellen von Sensitivitäts Bezeichnungen.
-- Anwenden von Sensitivitäts Bezeichnungen. 
+- Erstellen von Vertraulichkeitsbezeichnungen.
+- Anwenden von Vertraulichkeitsbezeichnungen. 
 - Einheitliche Bezeichnungen.
-- Schulungs Klassifizierer.
-- Kennen ihrer Daten mit dem Inhalts-Explorer und dem Aktivitäts-Explorer.
+- Trainierbare Klassifizierungsmerkmale.
+- Erkennen Ihrer Daten über den Inhalts- und Aktivitäten-Explorer.
 - Veröffentlichen von Bezeichnungen mithilfe von Richtlinien (manuell und automatisch).
-- Erstellen von Richtlinien zur Verhinderung von Datenverlust (DLP) für Microsoft Teams-Chats und-Kanäle.
+- Erstellen von Richtlinien zum Schutz vor Datenverlust (DLP) für Microsoft Teams-Chats und -Kanäle.
 
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen
