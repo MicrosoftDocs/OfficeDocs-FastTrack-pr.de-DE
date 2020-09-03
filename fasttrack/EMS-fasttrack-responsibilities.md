@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: e91f585c86c260a3b270d305c11e50380a568d70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 46d059e97dc2eae307fed2596cd339be11062ad2
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817172"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338269"
 ---
 # <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 Zu den Zuständigkeiten von FastTrack während des Onboardings zählen die folgenden.
 

@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: None
 description: Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online-Mandanten erwerben, sind für zusätzliche FastTrack Center-Dienste berechtigt. Weitere Informationen finden Sie unter „Berechtigte Dienste und Pläne“.
-ms.openlocfilehash: 48559090e5fe55cf0001a5e11793dec75a12dfaf
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7b98f341bf645b83a91e11eec1a1f2347380d97a
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817544"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338437"
 ---
 # <a name="appendix-a---fasttrack-center-additional-benefit"></a>Anhang A: FastTrack Center – zusätzlicher Vorteil
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 Kunden, die mindestens 20.000 Lizenzen für einen Exchange Online Mandanten erwerben, sind für weitere Services des Zentrums berechtigt. Weitere Informationen finden Sie unter [Berechtigung](eligibility.md) . 
   

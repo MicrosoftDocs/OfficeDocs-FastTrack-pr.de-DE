@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen.
-ms.openlocfilehash: 0b19ada41624d8c8fa8d3ab5e85a14b42edd53f3
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: e4cebb463833c71cc9129155e86821c69f180a27
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817136"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338125"
 ---
 # <a name="windows-10"></a>Windows 10
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 FastTrack bietet Anleitungen zur Windows 10-Bereitstellung, um Sie beim Upgrade von Windows 7 Professional und Windows 8.1 Professional auf Windows 10 Enterprise zu unterstützen. Die FastTrack-Experten helfen Ihnen beim:
 

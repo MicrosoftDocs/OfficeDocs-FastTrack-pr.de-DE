@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie *mindestens* 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.
-ms.openlocfilehash: 6616b967bac16402f732c56d763dc67accf19f70
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 3293ff9212224774cd101171a20e18972e51f8c4
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817664"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338533"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>FastTrack Center-Leistungsangebot für Windows 10
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben. Anschließend arbeiten Sie mit FastTrack-Experten zusammen an der Bewertung, Fehlerbehebung und Bereitstellung von Windows 10, des neuen Microsoft Edge oder von Microsoft Defender Advanced Thread Protection sowie der Koordination der FastTrack Center-Leistungsangebote für Microsoft 365 Apps. 
 

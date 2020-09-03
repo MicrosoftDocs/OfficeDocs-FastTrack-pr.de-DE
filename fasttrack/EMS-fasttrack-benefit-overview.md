@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0623391ccd8d5125c1a8dfeed798b174718f6a7f
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7a5b82c1bd819a403050821c3c560ef6e78349f0
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817244"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338569"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Übersicht über das FastTrack Center-Leistungsangebot
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 Mit FastTrack Center-Leistungsangebot für Microsoft Azure Active Directory Premium, Microsoft Intune und Azure Information Protection arbeiten Sie remote mit FastTrack Spezialisten zusammen, um Ihre Umgebung betriebsbereit zu machen und den Rollout und die Nutzung in Ihrer Organisation zu planen. Weitere Informationen zur Berechtigung finden Sie unter [FastTrack Center-Leistungsangebotprozess für Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 

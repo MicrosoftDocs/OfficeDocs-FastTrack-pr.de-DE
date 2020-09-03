@@ -7,19 +7,19 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Zu Ihren Zuständigkeiten während des Windows 10-Onboardings zählen die folgenden.
-ms.openlocfilehash: f86a889f1819afa8a8dceefb45ab9dc1ab439535
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 7a6ec109d0a07c255925c86f20b24df4ea2f0ed8
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817148"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338113"
 ---
 # <a name="your-responsibilities"></a>Ihre Zuständigkeiten
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 

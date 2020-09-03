@@ -9,22 +9,22 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: fd951f10-6404-43a3-8f2f-464f5b5003ac
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: cd14af0915c7b0b023ae160a9d81d0f7f37ee1ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 26956e322088e5886d3ff525455cef8ae7a5d848
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817280"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338413"
 ---
 # <a name="fasttrack-center-benefit-for-enterprise-mobility--security-ems"></a>FastTrack Center-Leistungsangebot für Enterprise Mobility + Security (EMS)
 
 > [!CAUTION]
-> Dieser Inhalt ist nicht mehr aktuell und wird zum Entfernen geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigationsleiste für den aktuellen Inhalt.
+> Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
 
 Sie verwenden den Enterprise Mobility + Security (EMS) FastTrack Center-Leistungsangebot, wenn Sie mindestens 150 Lizenzen für EMS oder einen seiner einzelnen Cloud-Dienste in einem berechtigten Plan erwerben. Arbeiten Sie anschließend mit FastTrack-Experten zusammen, um die Analyse, Problembehebung, Aktivierung und Nutzungssteigerung für diese Dienste durchzuführen. Diese Experten bieten außerdem Hilfestellung bei der Migration. 
