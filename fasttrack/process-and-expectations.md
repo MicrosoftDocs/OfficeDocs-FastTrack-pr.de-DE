@@ -3,19 +3,19 @@ title: Prozess und Erwartungen
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema wird behandelt, wie Sie über FastTrack Hilfe erhalten können und wie diese Unterstützung bereitgestellt wird. Sie erhalten Tipps für eine erfolgreiche Erfahrung, und Sie erfahren mehr über die wichtigsten Verpflichtungen von FastTrack und von Ihrem Unternehmen.
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817580"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319935"
 ---
 # <a name="process-and-expectations"></a>Prozess und Erwartungen
 
@@ -43,6 +43,8 @@ Damit Ihr Partner in Ihrem Namen über die FastTrack-Website Hilfe anfordern kan
 3.  Suchen Sie nach Ihrem Kunden, indem Sie den Kundennamen, die Domäne oder die TPID eingeben.
 4.  Wählen Sie den Kunden aus den Suchergebnissen aus.
 5.  Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
+
+Um Unterstützung für die APP-Versicherung anzufordern, füllen Sie die [Dienstanforderung der APP-Garantie](https://go.microsoft.com/fwlink/?linkid=2022721)aus.
 
 ## <a name="fasttrack-expectations"></a>FastTrack-Erwartungen
 

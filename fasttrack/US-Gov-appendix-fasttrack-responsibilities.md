@@ -3,19 +3,19 @@ title: Aufgaben für Office 365 US-Regierung
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: bc8c0e76a11f9e159303b7f4140e3f9fd9144ce2
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: e11ce3ce5bbfd04a1f821425364ba86964e8690f
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776477"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319971"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US-Regierung
 
@@ -197,7 +197,7 @@ Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzel
 Bereitstellen von Anleitungen zu:
 - Beheben von Problemen bei der Bereitstellung   
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell  
-- Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
+- Installieren von Microsoft 365 Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
 - Einrichten eines einzelnen lokalen Verteilungsservers für Microsoft 365-apps, einschließlich Unterstützung beim Erstellen einer configuration.xml Datei für die Verwendung mit dem Office 365-Bereitstellungs Tool.   

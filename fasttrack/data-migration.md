@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817712"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319947"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -281,6 +281,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Inhalte, die nicht im Besitz des Google Drive-Kontos sind, das migriert wird </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Google Drive-Administratorberichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
 <li> Mitgliedschaftsberechtigungen für freigegebene Laufwerke (<strong>Hinweis</strong>: Verwenden Sie die Google Drive-Administratorberichte, um die Mitgliedschaften für freigegebene Laufwerke zu identifizieren. Weisen Sie die Endbenutzer an, diese Mitgliedschaftseinstellungen auf dem Ziel vor der Migration zu konfigurieren.) </li>
+<li> Dateien, die als eingeschränkt oder nicht kopierbar gekennzeichnet sind </li>
 <li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
 </ul></td>
 </tr>

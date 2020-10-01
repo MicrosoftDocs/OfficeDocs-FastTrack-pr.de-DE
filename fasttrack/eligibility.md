@@ -3,19 +3,19 @@ title: Teilnahmeberechtigung
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817568"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320019"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -46,8 +46,8 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - Windows Virtual Desktop
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>Berechtigte Pläne
@@ -65,6 +65,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Microsoft 365 E5 eDiscovery und Überwachung\*
   - Microsoft 365 E5 Information Protection und Governance\*
   - Microsoft 365 E5 Insider-Risikomanagement\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Business\*
   - Microsoft 365 Apps for Enterprise\*
@@ -115,6 +116,19 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Exchange Online Protection
   - Office 365 Advanced Threat Protection
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - Telefonsystem
+  - Anrufplan
+  - Audiokonferenzen
+  - Microsoft Teams-Raum
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - OneDrive for Business mit Office
+  - OneDrive for Business Plan 1
+  - OneDrive for Business-Plan 2
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - SharePoint Online Plan 1
   - SharePoint Online Plan 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - OneDrive for Business mit Office
-  - OneDrive for Business Plan 1
-  - OneDrive for Business-Plan 2
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - Telefonsystem\*\*\*
-  - Anrufplan\*\*\*
-  - Audiokonferenzen\*\*\*
-  - Skype for Business Online Plan 1
-  - Skype for Business Online Plan 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*Nur für FastTrack-berechtigte Clouddienste und Features verfügbar, die in diesem Leistungsangebot beschrieben werden.  
       
 \*\*Weitere Informationen zu den FastTrack-Vorteilen für US-Regierungsbehörden finden Sie unter [Office 365 US Government](https://aka.ms/aboutgovcloud).  
-      
-\*\*\*Kann sowohl für Skype for Business Online als auch für lizenzierte Benutzer von Teams verwendet werden. Erfordert den qualifizierten Kauf von Skype for Business oder Teams.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Enterprise Mobility- + Security-Pläne  
       
