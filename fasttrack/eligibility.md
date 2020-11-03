@@ -1,21 +1,21 @@
 ---
 title: Teilnahmeberechtigung
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 103ac3686aec9705fe9b48b9467a1927e1a9d018
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48320019"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827633"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 

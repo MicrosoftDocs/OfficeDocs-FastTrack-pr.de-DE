@@ -1,21 +1,21 @@
 ---
 title: Prozess und Erwartungen
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema wird behandelt, wie Sie über FastTrack Hilfe erhalten können und wie diese Unterstützung bereitgestellt wird. Sie erhalten Tipps für eine erfolgreiche Erfahrung, und Sie erfahren mehr über die wichtigsten Verpflichtungen von FastTrack und von Ihrem Unternehmen.
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319935"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827648"
 ---
 # <a name="process-and-expectations"></a>Prozess und Erwartungen
 
@@ -27,7 +27,7 @@ Hilfe von einem FastTrack-Experten anfordern
   
 Es gibt zwei Orte, an denen Sie Unterstützung von einem FastTrack-Experten anfordern können:
 
-  - Über das Microsoft Admin Center: Ihr Mandantenadministrator meldet sich beim Microsoft Admin Center an und klickt dann auf das Widget **Benötigen Sie Hilfe?**, das ihn daraufhin durch den Anforderungsprozess führt.
+  - Über das Microsoft Admin Center: Ihr Mandantenadministrator meldet sich beim Microsoft Admin Center an und klickt dann auf das Widget **Benötigen Sie Hilfe?** , das ihn daraufhin durch den Anforderungsprozess führt.
   - Über die FastTrack-Website: Sie oder Ihr Partner fordern Unterstützung für Ihr Unternehmen über die FastTrack-Website an.
 
 So fordern Sie Unterstützung direkt über die FastTrack-Website an
@@ -55,7 +55,7 @@ FastTrack bietet End-to-End-Unterstützung zum Umstieg auf bzw. zur Verwendung v
 In technischen Gesprächen, Workshops und Checkpoint-Besprechungen arbeiten Sie remote mit den FastTrack-Experten:
 
   - **Technische Gespräche und Workshops:** Diese bieten tiefgehende Analysen von Sachthemen und bewährte Methoden, um Ihre Bereitstellung von Microsoft 365-Diensten zu beschleunigen. Diese Besprechungen liefern häufig eine Übersicht über verfügbare Dokumentationen, Softwaretools und Administratorkonsolen. Standarddauer: 60 Minuten.
-  - **Checkpoint-Besprechungen:** Wöchentliche oder zweiwöchentliche Berührungspunkte, um sicherzustellen, dass die Bereitstellung voranschreitet. Standarddauer: 30 Minuten.
+  - **Prüfpunkt-Besprechungen:** Wöchentliche oder allwöchentliche Berührungsstellen, um sicherzustellen, dass Ihre Bereitstellung fortschreitet. Standarddauer: 30 Minuten.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Erwartete Ergebnisse und wichtige Meilensteine 
 

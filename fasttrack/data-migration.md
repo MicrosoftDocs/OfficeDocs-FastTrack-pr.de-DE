@@ -1,21 +1,21 @@
 ---
 title: Datenmigration
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319947"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827651"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -23,8 +23,8 @@ Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf 
 
 Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab:
 
-  - **Für Office 365-Mandanten mit 150 bis 499-Lizenzen**: FastTrack bietet nur Migrationsanleitungen. Sie sind für die Durchführung der Datenmigration verantwortlich. Wir führen Sie durch die Dokumentation, die Ihnen hilft, ﻿kostenlose Tools für die Durchführung einer Self-Service-Migration zu planen und zu verwenden.
-  - **Für Office 365-Mandanten mit 500 oder mehr Lizenzen**: FastTrack bietet Migrationsanleitungen und Datenmigrationsdienste. Wir unterstützen Sie bei der Planung Ihrer Migration, beim Konfigurieren ihrer Quellumgebungen und des Office 365-Mandanten und beim Nutzen unsere Datenmigrationsdienste zum Migrieren Ihrer Daten. Sie erstellen und planen Ihre Migrationsereignisse. Wir führen Migrationsereignisse gemäß Ihrem Zeitplan aus, überwachen deren Status und stellen Statusberichte bereit.
+  - **Für Office 365-Mandanten mit 150 bis 499-Lizenzen** : FastTrack bietet nur Migrationsanleitungen. Sie sind für die Durchführung der Datenmigration verantwortlich. Wir führen Sie durch die Dokumentation, die Ihnen hilft, ﻿kostenlose Tools für die Durchführung einer Self-Service-Migration zu planen und zu verwenden.
+  - **Für Office 365-Mandanten mit 500 oder mehr Lizenzen** : FastTrack bietet Migrationsanleitungen und Datenmigrationsdienste. Wir unterstützen Sie bei der Planung Ihrer Migration, beim Konfigurieren ihrer Quellumgebungen und des Office 365-Mandanten und beim Nutzen unsere Datenmigrationsdienste zum Migrieren Ihrer Daten. Sie erstellen und planen Ihre Migrationsereignisse. Wir führen Migrationsereignisse gemäß Ihrem Zeitplan aus, überwachen deren Status und stellen Statusberichte bereit.
 
 > [!NOTE]
 > Wenn Sie einen kommerziellen Plan vor dem 1.9.2017 erworben oder verlängert haben, benötigen Sie nur 150 Lizenzen, um für Datenmigrationsdienste qualifiziert zu sein. Bei Plänen für Bildungseinrichtungen sind nur Lehrpersonal und Mitarbeiter für Migrationsdienste berechtigt.
@@ -54,7 +54,7 @@ Wenn Sie sich für die Migration Ihrer E-Mails zu Exchange Online mithilfe von F
   - FastTrack migriert nur zu aktiven Office 365-Postfächern.
   - Sie müssen bestimmte Anforderungen erfüllen, wenn Sie von einer lokalen Exchange-Umgebung migrieren möchten. Weitere Informationen finden Sie unter [Voraussetzungen für die Hybridbereitstellung](https://go.microsoft.com/fwlink/?LinkId=787528).
   - Sämtliche Quellumgebungen müssen über die neuesten Service Packs (SP) verfügen und auf der Rollup (RU)-/Kumulativen Update (KU)-Ebene für das entsprechende Produkt in der Quellumgebung vorhanden sein.
-  - Verteilerlisten (*MailEnabledGroup*-Objekte) und externe Kontakte (*MailEnabledContact*-Objekte) im lokalen Active Directory befinden, sind nicht Bestandteil einer Postfachdatenmigration. Sie können Sie jedoch mithilfe von Azure Active Directory (Azure AD) Connect synchronisieren. 
+  - Verteilerlisten ( *MailEnabledGroup* -Objekte) und externe Kontakte ( *MailEnabledContact* -Objekte) im lokalen Active Directory befinden, sind nicht Bestandteil einer Postfachdatenmigration. Sie können Sie jedoch mithilfe von Azure Active Directory (Azure AD) Connect synchronisieren. 
 
 ## <a name="source-environments"></a>Quellumgebungen
 
@@ -79,7 +79,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>Hinweis:</strong> Informationen zu lokalen Exchange-Abhängigkeiten finden Sie unter  <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Voraussetzungen für die Hybridbereitstellung</span></a>.</td>
+<strong>Hinweis:</strong> Informationen zu lokalen Exchange-Abhängigkeiten finden Sie unter <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Voraussetzungen für die Hybrid Bereitstellung</span></a>.</td>
 <td>Migration mit Hybridbereitstellung</td>
 <td><ul>
 <li>E-Mails</li>
@@ -107,7 +107,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <tr class="even">
 <td><strong>G Suite-Umgebung (nur Gmail, Kontakte und Kalender)</strong><br />
 <br />
-<strong>Hinweis:</strong> Ihre G Suite-Umgebung muss die Voraussetzungen erfüllen, die unter <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">Durchführen einer G Suite-Migration</a> beschrieben werden.</td>
+<strong>Hinweis:</strong> Ihre g Suite-Umgebung muss die unter <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">Ausführen einer g Suite-Migration</a>beschriebenen Voraussetzungen erfüllen.</td>
 <td>Übernahmemigration oder mehrstufige Migration</td>
 <td><ul>
 <li> E-Mails </li>
@@ -242,7 +242,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
 <li> Ausgeblendete Freigaben </li>
 <li> Freigabe (z. B. gewährte Berechtigungen auf Freigabeebene) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -282,7 +282,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Google Drive-Administratorberichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
 <li> Mitgliedschaftsberechtigungen für freigegebene Laufwerke (<strong>Hinweis</strong>: Verwenden Sie die Google Drive-Administratorberichte, um die Mitgliedschaften für freigegebene Laufwerke zu identifizieren. Weisen Sie die Endbenutzer an, diese Mitgliedschaftseinstellungen auf dem Ziel vor der Migration zu konfigurieren.) </li>
 <li> Dateien, die als eingeschränkt oder nicht kopierbar gekennzeichnet sind </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -317,7 +317,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Box-Apps, Lesezeichen, Favoriten und Workflows </li>
 <li> Inhalte, die nicht im Besitz des migrierten Box-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Box-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Dropbox-Apps und Favoriten (Pins/Sterne) </li>
 <li> Inhalte, die nicht im Besitz des migrierten Dropbox-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Dropbox-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -435,7 +435,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
 <li> Ausgeblendete Freigaben </li>
 <li> Freigabe (z. B. gewährte Berechtigungen auf Freigabeebene) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -474,7 +474,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Inhalte, die nicht im Besitz des Google Drive-Kontos sind, das migriert wird </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Google Drive-Administratorberichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
 <li> Mitgliedschaftsberechtigungen für freigegebene Laufwerke (<strong>Hinweis</strong>: Verwenden Sie die Google Drive-Administratorberichte, um die Mitgliedschaften für freigegebene Laufwerke zu identifizieren. Weisen Sie die Endbenutzer an, diese Mitgliedschaftseinstellungen auf dem Ziel vor der Migration zu konfigurieren.) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -509,7 +509,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Box-Apps, Lesezeichen, Favoriten und Workflows </li>
 <li> Inhalte, die nicht im Besitz des migrierten Box-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Box-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Dropbox-Apps und Favoriten (Pins/Sterne) </li>
 <li> Inhalte, die nicht im Besitz des migrierten Dropbox-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Dropbox-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Einschränkungen und Begrenzen von SharePoint Online</span></a>  überschreiten</li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
 </ul></td>
 </tr>
 </tbody>

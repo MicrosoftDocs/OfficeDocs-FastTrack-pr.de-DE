@@ -1,7 +1,7 @@
 ---
 title: Das neue Microsoft Edge
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Der FastTrack-Leistungsangebot für Windows 10 bietet Anleitungen zur Bereitstellung für die neuen Microsoft Edge für Windows 10 Enterprise-Kunden mit 150 oder mehr Arbeitsplätzen.
-ms.openlocfilehash: 521249edbcca687432074792b1cdf86f4298b263
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 986d4a7328bd7e4b78bdd4c18284507ad7466f98
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338485"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827297"
 ---
 # <a name="the-new-microsoft-edge"></a>Das neue Microsoft Edge
 
