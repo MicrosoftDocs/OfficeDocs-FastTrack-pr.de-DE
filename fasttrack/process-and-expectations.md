@@ -3,19 +3,19 @@ title: Prozess und Erwartungen
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema wird behandelt, wie Sie über FastTrack Hilfe erhalten können und wie diese Unterstützung bereitgestellt wird. Sie erhalten Tipps für eine erfolgreiche Erfahrung, und Sie erfahren mehr über die wichtigsten Verpflichtungen von FastTrack und von Ihrem Unternehmen.
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827648"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525332"
 ---
 # <a name="process-and-expectations"></a>Prozess und Erwartungen
 
@@ -27,7 +27,7 @@ Hilfe von einem FastTrack-Experten anfordern
   
 Es gibt zwei Orte, an denen Sie Unterstützung von einem FastTrack-Experten anfordern können:
 
-  - Über das Microsoft Admin Center: Ihr Mandantenadministrator meldet sich beim Microsoft Admin Center an und klickt dann auf das Widget **Benötigen Sie Hilfe?** , das ihn daraufhin durch den Anforderungsprozess führt.
+  - Über das Microsoft Admin Center: Ihr Mandantenadministrator meldet sich beim Microsoft Admin Center an und klickt dann auf das Widget **Benötigen Sie Hilfe?**, das ihn daraufhin durch den Anforderungsprozess führt.
   - Über die FastTrack-Website: Sie oder Ihr Partner fordern Unterstützung für Ihr Unternehmen über die FastTrack-Website an.
 
 So fordern Sie Unterstützung direkt über die FastTrack-Website an

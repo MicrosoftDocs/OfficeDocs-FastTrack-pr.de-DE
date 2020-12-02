@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: 7b796ea88c884445bd7069c6c7768c8fc3e3d170
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 5a64bcbecffa3fd78f54b9a5e0f3f07e76d0b316
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827651"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525336"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -23,8 +23,8 @@ Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf 
 
 Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab:
 
-  - **Für Office 365-Mandanten mit 150 bis 499-Lizenzen** : FastTrack bietet nur Migrationsanleitungen. Sie sind für die Durchführung der Datenmigration verantwortlich. Wir führen Sie durch die Dokumentation, die Ihnen hilft, ﻿kostenlose Tools für die Durchführung einer Self-Service-Migration zu planen und zu verwenden.
-  - **Für Office 365-Mandanten mit 500 oder mehr Lizenzen** : FastTrack bietet Migrationsanleitungen und Datenmigrationsdienste. Wir unterstützen Sie bei der Planung Ihrer Migration, beim Konfigurieren ihrer Quellumgebungen und des Office 365-Mandanten und beim Nutzen unsere Datenmigrationsdienste zum Migrieren Ihrer Daten. Sie erstellen und planen Ihre Migrationsereignisse. Wir führen Migrationsereignisse gemäß Ihrem Zeitplan aus, überwachen deren Status und stellen Statusberichte bereit.
+  - **Für Office 365-Mandanten mit 150 bis 499-Lizenzen**: FastTrack bietet nur Migrationsanleitungen. Sie sind für die Durchführung der Datenmigration verantwortlich. Wir führen Sie durch die Dokumentation, die Ihnen hilft, ﻿kostenlose Tools für die Durchführung einer Self-Service-Migration zu planen und zu verwenden.
+  - **Für Office 365-Mandanten mit 500 oder mehr Lizenzen**: FastTrack bietet Migrationsanleitungen und Datenmigrationsdienste. Wir unterstützen Sie bei der Planung Ihrer Migration, beim Konfigurieren ihrer Quellumgebungen und des Office 365-Mandanten und beim Nutzen unsere Datenmigrationsdienste zum Migrieren Ihrer Daten. Sie erstellen und planen Ihre Migrationsereignisse. Wir führen Migrationsereignisse gemäß Ihrem Zeitplan aus, überwachen deren Status und stellen Statusberichte bereit.
 
 > [!NOTE]
 > Wenn Sie einen kommerziellen Plan vor dem 1.9.2017 erworben oder verlängert haben, benötigen Sie nur 150 Lizenzen, um für Datenmigrationsdienste qualifiziert zu sein. Bei Plänen für Bildungseinrichtungen sind nur Lehrpersonal und Mitarbeiter für Migrationsdienste berechtigt.
@@ -54,7 +54,7 @@ Wenn Sie sich für die Migration Ihrer E-Mails zu Exchange Online mithilfe von F
   - FastTrack migriert nur zu aktiven Office 365-Postfächern.
   - Sie müssen bestimmte Anforderungen erfüllen, wenn Sie von einer lokalen Exchange-Umgebung migrieren möchten. Weitere Informationen finden Sie unter [Voraussetzungen für die Hybridbereitstellung](https://go.microsoft.com/fwlink/?LinkId=787528).
   - Sämtliche Quellumgebungen müssen über die neuesten Service Packs (SP) verfügen und auf der Rollup (RU)-/Kumulativen Update (KU)-Ebene für das entsprechende Produkt in der Quellumgebung vorhanden sein.
-  - Verteilerlisten ( *MailEnabledGroup* -Objekte) und externe Kontakte ( *MailEnabledContact* -Objekte) im lokalen Active Directory befinden, sind nicht Bestandteil einer Postfachdatenmigration. Sie können Sie jedoch mithilfe von Azure Active Directory (Azure AD) Connect synchronisieren. 
+  - Verteilerlisten (*MailEnabledGroup*-Objekte) und externe Kontakte (*MailEnabledContact*-Objekte) im lokalen Active Directory befinden, sind nicht Bestandteil einer Postfachdatenmigration. Sie können Sie jedoch mithilfe von Azure Active Directory (Azure AD) Connect synchronisieren. 
 
 ## <a name="source-environments"></a>Quellumgebungen
 
@@ -302,6 +302,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Zuletzt geändert von </li>
 </ul></li>
 <li> Geteilte Inhalte, die im Besitz des Box-Kontos sind, das migriert wird </li>
+<li> Feld Notizen (in das Word-Dokumentformat konvertiert) </li>
 </ul></td>
 <td><ul>
 <li> Besitzverlauf, frühere Versionen und Kommentare </li>
