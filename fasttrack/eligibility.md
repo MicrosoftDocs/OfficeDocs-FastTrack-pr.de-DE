@@ -3,19 +3,19 @@ title: Teilnahmeberechtigung
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525388"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750018"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -35,7 +35,10 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
 > [!NOTE]
 > Office 365 ProPlus wurde in Microsoft 365 Apps umbenannt. In einigen Fällen wird möglicherweise noch der alte Name verwendet. Details zum Zeitpunkt des Inkrafttretens dieser Änderung finden Sie unter [Namensänderung für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
+  - Microsoft 365 Defender
+  - Microsoft Cloud App Security
   - Microsoft Defender Advanced Threat Protection (ATP)
+  - Microsoft Defender for Identity 
   - Microsoft Edge
   - Microsoft Information Governance
   - Microsoft Information Protection
