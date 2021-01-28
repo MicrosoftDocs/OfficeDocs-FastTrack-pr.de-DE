@@ -3,19 +3,19 @@ title: Prozess und Erwartungen
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema wird behandelt, wie Sie über FastTrack Hilfe erhalten können und wie diese Unterstützung bereitgestellt wird. Sie erhalten Tipps für eine erfolgreiche Erfahrung, und Sie erfahren mehr über die wichtigsten Verpflichtungen von FastTrack und von Ihrem Unternehmen.
-ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749982"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016507"
 ---
 # <a name="process-and-expectations"></a>Prozess und Erwartungen
 
@@ -44,7 +44,7 @@ Damit Ihr Partner in Ihrem Namen über die FastTrack-Website Hilfe anfordern kan
 4.  Wählen Sie den Kunden aus den Suchergebnissen aus.
 5.  Füllen Sie das Formular **Anfordern von Unterstützung bei Microsoft 365** aus.
 
-Um Unterstützung für die APP-Versicherung anzufordern, füllen Sie die [Dienstanforderung der APP-Garantie](https://go.microsoft.com/fwlink/?linkid=2022721)aus.
+Wenn Sie Unterstützung für App Assure anfordern möchten, füllen Sie die [App Assure-Serviceanfrage aus.](https://go.microsoft.com/fwlink/?linkid=2022721)
 
 ## <a name="fasttrack-expectations"></a>FastTrack-Erwartungen
 
@@ -55,7 +55,7 @@ FastTrack bietet End-to-End-Unterstützung zum Umstieg auf bzw. zur Verwendung v
 In technischen Gesprächen, Workshops und Checkpoint-Besprechungen arbeiten Sie remote mit den FastTrack-Experten:
 
   - **Technische Gespräche und Workshops:** Diese bieten tiefgehende Analysen von Sachthemen und bewährte Methoden, um Ihre Bereitstellung von Microsoft 365-Diensten zu beschleunigen. Diese Besprechungen liefern häufig eine Übersicht über verfügbare Dokumentationen, Softwaretools und Administratorkonsolen. Standarddauer: 60 Minuten.
-  - **Prüfpunkt-Besprechungen:** Wöchentliche oder allwöchentliche Berührungsstellen, um sicherzustellen, dass Ihre Bereitstellung fortschreitet. Standarddauer: 30 Minuten.
+  - **Prüfpunktbesprechungen:** Wöchentliche oder zweiwöchentlich Touchpoints, um sicherzustellen, dass Ihre Bereitstellung schreitet. Standarddauer: 30 Minuten.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Erwartete Ergebnisse und wichtige Meilensteine 
 

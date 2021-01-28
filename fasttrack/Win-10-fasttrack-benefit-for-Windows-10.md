@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Verwenden Sie das FastTrack Center-Leistungsangebot für Windows 10, wenn Sie *mindestens* 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben.
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827345"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016435"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>FastTrack Center-Leistungsangebot für Windows 10
 
 > [!CAUTION]
 > Dieser Inhalt ist nicht mehr aktuell, und seine Entfernung ist geplant. Verwenden Sie das Inhaltsverzeichnis in der linken Navigation, um sich über aktuelle Inhalte zu informieren.
 
-Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben. Anschließend arbeiten Sie mit FastTrack-Experten zusammen an der Bewertung, Fehlerbehebung und Bereitstellung von Windows 10, des neuen Microsoft Edge oder von Microsoft Defender Advanced Thread Protection sowie der Koordination der FastTrack Center-Leistungsangebote für Microsoft 365 Apps. 
+Sie können das FastTrack Center-Leistungsangebot für Windows 10 verwenden, wenn Sie mindestens 150 Lizenzen für einen berechtigten Dienst oder Plan erwerben. Anschließend arbeiten Sie mit den FastTrack-Experten zusammen, um Windows 10, Microsoft Edge oder Microsoft Defender Advanced Thread Protection zu bewerten, zu bewerkden und zu implementieren und die Vorteile von FastTrack Center für Microsoft 365-Apps zu koordinieren. 
 
 Das FastTrack Center-Leistungsangebot für Windows 10 biete zudem den App Assure-Dienst. Über den App Assure-Dienst stellt ein FastTrack-Experte Ihnen Empfehlungen und Anleitungen zur Fehlerbehebung bei Problemen mit der Kompatibilität der App zur Verfügung. 
 

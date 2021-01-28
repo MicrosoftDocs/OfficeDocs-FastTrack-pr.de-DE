@@ -3,7 +3,7 @@ title: FastTrack Center-Leistungsangebot für Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: FastTrack ist eine Leistung, die Ihnen bei der Bereitstellung von Microsoft 365 (in berechtigten Abonnements enthalten) ohne zusätzliche Kosten behilflich sein soll. Sie können FastTrack-Dienste mit einem neuen oder vorhandenen berechtigten Abonnement verwenden.
-ms.openlocfilehash: 58de2974475829100adbc2b9546c8d437279c094
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 9bd0a852147432bebc8e98a30f5924d9260d3041
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749994"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016663"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>FastTrack Center-Leistungsangebot für Microsoft 365
 

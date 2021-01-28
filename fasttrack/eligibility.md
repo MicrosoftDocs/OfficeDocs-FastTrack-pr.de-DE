@@ -3,19 +3,19 @@ title: Teilnahmeberechtigung
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750018"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016459"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -36,7 +36,7 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
 > Office 365 ProPlus wurde in Microsoft 365 Apps umbenannt. In einigen Fällen wird möglicherweise noch der alte Name verwendet. Details zum Zeitpunkt des Inkrafttretens dieser Änderung finden Sie unter [Namensänderung für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
   - Microsoft 365 Defender
-  - Microsoft Cloud App Security
+  - Microsoft Cloud App-Sicherheit
   - Microsoft Defender Advanced Threat Protection (ATP)
   - Microsoft Defender for Identity 
   - Microsoft Edge
@@ -124,7 +124,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Telefonsystem
   - Anrufplan
   - Audiokonferenzen
-  - Microsoft Teams-Raum
+  - Microsoft Teams Room
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -168,7 +168,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
 
 #### <a name="azure-information-protection"></a>Azure Information Protection
 
-  - Azure Information Protection Plan 2\*\*\*\*\*
+  - Azure Information Protection
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
       
 <br>
 
-\*\*\*\*Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten. Andernfalls wird dies an einen FastTrack-Spezialisten oder zur Überweisung an einen Partner weitergeleitet.  
-      
-\*\*\*\*\*Verfügbar für P2, als Teil von E5 oder als eigenständiger Plan. Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten. Für Cloud Services P1 teilt FastTrack die Anleitung zur Selbstbereitstellung.  
-      
+\*\*\*\*Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten. Andernfalls wird dies an einen FastTrack-Spezialisten oder zur Überweisung an einen Partner weitergeleitet.    
 
 ### <a name="windows-10-plans"></a>Windows 10-Pläne
 

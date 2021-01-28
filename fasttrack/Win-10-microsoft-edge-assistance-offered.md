@@ -10,21 +10,21 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Wenn Sie einen der Windows 10- oder Microsoft 365-Dienste erwerben (wie unter "Berechtigte Diensten und Pläne" beschrieben), bieten die FastTrack-Experten Anleitungen zur Bereitstellung und Hilfestellung zu Kompatibilität, wenn Sie über eine Web-App oder eine Website verfügen, die mit Internet Explorer oder Google Chrome verwendet wird.
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827321"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016615"
 ---
 # <a name="assistance-offered"></a>Angebotene Unterstützung
 
-Wenn Sie einen der berechtigten Windows 10-oder Microsoft 365-Dienste erwerben (entsprechend den Angaben unter " [Berechtigung](eligibility.md)"), bieten Sie Spezialisten für die Remotebereitstellung und die Kompatibilitätsunterstützung an, wenn Sie über eine Web-App oder Website verfügen, die mit Internet Explorer oder Google Chrome funktioniert. 
+Wenn Sie einen der berechtigten Windows 10- oder Microsoft 365-Dienste erwerben (wie [in](eligibility.md)der Berechtigungsliste ausführlich zu sehen), bieten die FastTrack-Experten Hilfestellung zur Remotebereitstellung und Kompatibilitätsunterstützung, wenn Sie über eine Web-App oder -Website verfügen, die mit Internet Explorer oder Google Chrome funktioniert. 
 
 ## <a name="assistance"></a>Unterstützung
 
 FastTrack bietet Remoteanleitungen für Folgendes:
-- Leitfaden für die Bereitstellung des neuen Microsoft Edge unter Windows 10 Enterprise mit Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager oder Microsoft Intune).
+- Anleitung zum Bereitstellen von Microsoft Edge unter Windows 10 Enterprise mit Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager oder Microsoft Intune).
 - Anleitung zur Microsoft Edge-Konfiguration (mithilfe von Gruppenrichtlinien oder Intune-App-Konfiguration und App-Richtlinien).
 - Leitfaden für die Inventur der Liste der Websites, die möglicherweise im Internet Explorer-Modus verwendet werden müssen.
 - Anleitung zum Aktivieren des Internet Explorer-Modus mit der vorhandenen Unternehmenswebsite-Liste.

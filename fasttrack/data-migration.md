@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: ec7bc5cf9c25ef1e386c7fae42a5fd8e1716dee5
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 0ecfdfab7c7f7ae8879ea6374c3560dcaeb2f283
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750042"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016471"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -79,11 +79,11 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <tr class="odd">
 <td><strong>Exchange 2010, Exchange 2013, Exchange 2016, Exchange 2019</strong><br />
 <br />
-<strong>Hinweis:</strong> Informationen zu lokalen Exchange-Abhängigkeiten finden Sie unter <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Voraussetzungen für die Hybrid Bereitstellung</span></a>.</td>
+<strong>Hinweis:</strong> Informationen zu lokalen Exchange-Abhängigkeiten finden Sie unter <a href="https://go.microsoft.com/fwlink/?LinkId=787528"><span class="underline">Voraussetzungen für die Hybridbereitstellung.</span></a></td>
 <td>Migration mit Hybridbereitstellung</td>
 <td><ul>
 <li>E-Mails</li>
-<li>Postfachregeln</li>
+<li>Serverseitige Postfachregeln</li>
 <li>Stellvertretungen</li>
 <li>Postfachkontakte </li>
 <li> Kalender </li>
@@ -102,12 +102,13 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Archivdaten aus PST-Dateien </li>
 <li> Beschädigte Elemente </li>
 <li> Inaktive Postfächer </li>
+<li> Clientseitige Postfachregeln</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><strong>G Suite-Umgebung (nur Gmail, Kontakte und Kalender)</strong><br />
 <br />
-<strong>Hinweis:</strong> Ihre g Suite-Umgebung muss die unter <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">Ausführen einer g Suite-Migration</a>beschriebenen Voraussetzungen erfüllen.</td>
+<strong>Hinweis:</strong> Ihre G Suite-Umgebung muss die unter "Ausführen einer <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">G Suite-Migration" beschriebenen Voraussetzungen erfüllen.</a></td>
 <td>Übernahmemigration oder mehrstufige Migration</td>
 <td><ul>
 <li> E-Mails </li>
@@ -242,7 +243,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
 <li> Ausgeblendete Freigaben </li>
 <li> Freigabe (z. B. gewährte Berechtigungen auf Freigabeebene) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -281,8 +282,8 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Inhalte, die nicht im Besitz des Google Drive-Kontos sind, das migriert wird </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Google Drive-Administratorberichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
 <li> Mitgliedschaftsberechtigungen für freigegebene Laufwerke (<strong>Hinweis</strong>: Verwenden Sie die Google Drive-Administratorberichte, um die Mitgliedschaften für freigegebene Laufwerke zu identifizieren. Weisen Sie die Endbenutzer an, diese Mitgliedschaftseinstellungen auf dem Ziel vor der Migration zu konfigurieren.) </li>
-<li> Dateien, die als eingeschränkt oder nicht kopierbar gekennzeichnet sind </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien, die als eingeschränkt oder nicht kopiert werden können </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -302,7 +303,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Zuletzt geändert von </li>
 </ul></li>
 <li> Geteilte Inhalte, die im Besitz des Box-Kontos sind, das migriert wird </li>
-<li> Feld Notizen (in das Word-Dokumentformat konvertiert) </li>
+<li> Box Notes (konvertiert in Word-Dokumentformat) </li>
 </ul></td>
 <td><ul>
 <li> Besitzverlauf, frühere Versionen und Kommentare </li>
@@ -318,7 +319,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Box-Apps, Lesezeichen, Favoriten und Workflows </li>
 <li> Inhalte, die nicht im Besitz des migrierten Box-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Box-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -356,7 +357,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Dropbox-Apps und Favoriten (Pins/Sterne) </li>
 <li> Inhalte, die nicht im Besitz des migrierten Dropbox-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Dropbox-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 </tbody>
@@ -436,7 +437,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
 <li> Ausgeblendete Freigaben </li>
 <li> Freigabe (z. B. gewährte Berechtigungen auf Freigabeebene) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -475,7 +476,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Inhalte, die nicht im Besitz des Google Drive-Kontos sind, das migriert wird </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Google Drive-Administratorberichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
 <li> Mitgliedschaftsberechtigungen für freigegebene Laufwerke (<strong>Hinweis</strong>: Verwenden Sie die Google Drive-Administratorberichte, um die Mitgliedschaften für freigegebene Laufwerke zu identifizieren. Weisen Sie die Endbenutzer an, diese Mitgliedschaftseinstellungen auf dem Ziel vor der Migration zu konfigurieren.) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -510,7 +511,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Box-Apps, Lesezeichen, Favoriten und Workflows </li>
 <li> Inhalte, die nicht im Besitz des migrierten Box-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Box-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -548,7 +549,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <li> Dropbox-Apps und Favoriten (Pins/Sterne) </li>
 <li> Inhalte, die nicht im Besitz des migrierten Dropbox-Kontos sind </li>
 <li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Dropbox-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
-<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online Einschränkungen und-Einschränkungen</span> überschreiten</a> </li>
+<li> Dateien oder Ordner, die die aktuellen <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">Einschränkungen und Einschränkungen für SharePoint Online überschreiten</span></a> </li>
 </ul></td>
 </tr>
 </tbody>

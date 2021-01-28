@@ -1,23 +1,23 @@
 ---
-title: Aufgaben für Office 365 US-Regierung
+title: FastTrack Responsibilities for Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 42ad4053ef169470abd5de96cd59329704d1b224
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750078"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016669"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Aufgaben für Office 365 US-Regierung
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Responsibilities for Office 365 US Government
 
 Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:  
   
@@ -79,8 +79,8 @@ Bereitstellen von Anleitungen zu:
   - Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Office 365-Domänendiensten (AD DS) und Active Directory, falls erforderlich.   
   - Konfigurieren der Kennwortsynchronisierung (Kennworthash) für Office 365 (Azure Active Directory) mit dem Tool „Azure Active Directory Connect“, falls erforderlich.  
   - Für Umgebungen mit einer einzigen und mehreren Gesamtstrukturen:
-      - Konfigurieren von Azure Active Directory Pass-Through-Authentifizierung, falls erforderlich (in gcc High-oder DoD-Plänen nicht verfügbar).
-      - Konfigurieren von Azure Active Directory nahtlose Einzel Sign-On (SSO), falls erforderlich (in gcc High-oder DoD-Plänen nicht verfügbar).
+      - Konfigurieren der Azure Active Directory-Pass-Through-Authentifizierung, falls erforderlich (nicht verfügbar in GCC High- oder DoD-Plänen).
+      - Konfigurieren von Azure Active Directory Seamless Single Sign-On (SSO), falls erforderlich (nicht verfügbar in GCC High- oder DoD-Plänen).
     > [!NOTE]
     > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten. Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860094) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: aktuelle Einschränkungen](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -93,6 +93,13 @@ Bereitstellen von Anleitungen zu:
 - Testen der Funktionalität für einmaliges Anmelden, sofern bereitgestellt.   
 - Unterstützung einer erfolgreichen Diensteinführung und des Werts.
     
+## <a name="compliance"></a>Compliance
+
+Bereitstellen von Anleitungen zu:
+- Remoteunterstützung bei **Microsoft Information Governance** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
+- Remoteunterstützung mit **Microsoft Information Protection** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
+- Remoteunterstützung mit **Azure Information Protection** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
+
 ## <a name="exchange-online"></a>Exchange Online
 
 Bereitstellen von Anleitungen zu: 
@@ -100,7 +107,7 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren des E-Mail-Routings zwischen dem Quellmessagingsystem und Office 365-Umgebungen    
 - Konfigurieren von Exchange Online Protection-Funktionen (einschließlich Exchange Online Advanced Threat ProtectionFunktionen, falls in Ihrem Abonnement verfügbar) und Sicherstellen, dass die MX-Einträge auf Office 365 für alle E-Mail-aktivierten Domänen verweisen.   
 - Konfigurieren der Hybrideinrichtung zwischen einer einzelnen lokalen Exchange-Organisation und Office 365 *oder* zwischen mehreren lokalen Exchange-Organisationen und Office 365. 
-- Einrichten von Unified Messaging (um) mit Exchange Online (um ist in gcc DoD-Plänen nicht verfügbar). 
+- Einrichten von Unified Messaging (UM) mit Exchange Online (UM ist in GCC-DoD-Plänen nicht verfügbar). 
     
 Weitere Informationen zu den Zuständigkeiten bei der Datenmigration finden Sie unter [Datenmigration](data-migration.md).
   
@@ -147,12 +154,12 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren von Audiokonferenzen:   
   - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke   
   - Zuweisen einer Konferenzbrücke zu lizenzierten Benutzern 
-- Aktivieren des Telefonsystems (nicht verfügbar in gcc High-oder DoD-Plänen):  
+- Aktivieren des Telefonsystems (in GCC High- oder DoD-Plänen nicht verfügbar):  
   - Aktivieren des Telefonsystems und Plänen für Anrufonboarding (auf verfügbaren Märkten) 
   - Zuweisung von Nummern zu lizenzierten Benutzern  
   - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999  
   - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus  
-- Aktivieren Skype for Business Besprechungs Übertragung (nicht verfügbar in gcc High-oder DoD-Plänen):  
+- Aktivieren von Skype for Business Meeting Broadcast (in GCC High- oder DoD-Plänen nicht verfügbar):  
   - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen  
   - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
     
@@ -190,7 +197,7 @@ Bereitstellen von Anleitungen zu:
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
 
 > [!NOTE]
-> Jammern Enterprise ist keine Komponente von Office 365 US-Regierung, kann aber ohne Kosten als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in gcc lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Jammern ist in gcc High-oder DoD-Plänen nicht verfügbar.
+> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in GCC lizenziert ist, ohne Kosten erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -200,5 +207,5 @@ Bereitstellen von Anleitungen zu:
 - Installieren von Microsoft 365 Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
-- Einrichten eines einzelnen lokalen Verteilungsservers für Microsoft 365-apps, einschließlich Unterstützung beim Erstellen einer configuration.xml Datei für die Verwendung mit dem Office 365-Bereitstellungs Tool.   
+- Einrichten eines einzelnen Standortverteilungsservers für Microsoft 365-Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.   
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
