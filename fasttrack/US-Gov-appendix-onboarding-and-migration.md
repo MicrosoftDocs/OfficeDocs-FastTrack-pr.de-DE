@@ -3,19 +3,19 @@ title: Onboarding- und Migrationsphasen für Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'Das Office 365-Onboarding für Office 365 US Government hat vier Hauptphasen: Einleitung, Bewertung, Behebung und Aktivierung. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 8a16d48099cb2899e966fa61857c216c59350cb5
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+description: 'Das Office 365-Onboarding für Office 365 US Government hat vier Hauptphasen: Initiieren, Bewerten, Besenden und Aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
+ms.openlocfilehash: 478ad19aad0d12e69fdab2a4d59f9554b37647b8
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016567"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416600"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding- und Migrationsphasen für Office 365 US Government
 
@@ -57,7 +57,7 @@ Dabei arbeiten wir Ihnen zusammen, um mehr über die beabsichtigte Nutzung des D
 
 Ihr FastTrack Manager führt mit Ihnen und dem Einführungsteam ein interaktives Planungsgespräch. Dabei werden Ihnen die Funktionen der erworbenen Dienste, die wichtigsten Grundlagen für Ihren Erfolg, die Methodik zur Steigerung der Nutzung des Service und verschiedene Szenarios vorgestellt, wie Sie einen Nutzen aus den Diensten ziehen können. Wir unterstützen Sie bei der Erfolgsplanung und liefern, soweit erforderlich, Feedback zu wichtigen Bereichen.
   
-FastTrack-Experten arbeiten mit Ihnen zusammen, um Ihre Quellumgebung und die Anforderungen zu beurteilen. Wir stellen Tools bereit, mit deren Hilfe Sie Daten zu Ihrer Umgebung sammeln und Sie durch die Schätzung der Bandbreitenanforderungen und die Bewertung Ihrer Internetbrowser, Clientbetriebssysteme, DNS (Domain Name System), Destings, Infrastruktur und Identitätssystems führen, um festzustellen, ob Änderungen für das Onboarding erforderlich sind. 
+FastTrack-Experten arbeiten mit Ihnen zusammen, um Ihre Quellumgebung und die Anforderungen zu beurteilen. Wir bieten Tools, mit deren Hilfe Sie Daten zu Ihrer Umgebung sammeln und Sie durch die Schätzung der Bandbreitenanforderungen und die Bewertung Ihrer Internetbrowser, Clientbetriebssysteme, des Domain Name System (DNS), des Netzwerks, der Infrastruktur und des Identitätssystems leiten können, um festzustellen, ob Änderungen für das Onboarding erforderlich sind. 
   
 Basierend auf Ihrer aktuellen Einrichtung erstellen wir einen Korrekturplan. Nach Befolgen dieses Plans wird Ihre Quellumgebung an die Mindestanforderungen für ein erfolgreiches Onboarding für Office 365 und bei Bedarf eine erfolgreiche Postfach- und/oder Datenmigration angepasst. Wir stellen verschiedene mögliche Maßnahmen zur Verfügung, mit denen sich der Nutzen für Endbenutzer und die Akzeptanz durch diese steigern lassen. Für die Korrekturphase setzen wir auch entsprechende Telefonkonferenzen an.
   
@@ -132,8 +132,8 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 - Einrichten von DNS    
 - Erstellen von Konten für jedes Raumsystemgerät    
 - Bereitstellen eines unterstützten Skype for Business Online-Clients   
-- Einrichten einer Serverkonfiguration für geteilte Domänen zwischen Ihrer lokalen Lync 2010-, Lync 2013- oder Skype for Business 2015-Serverumgebung und dem Skype for Business Online-Mandanten (sofern zutreffend).
-- Aktivieren von Anrufplänen, Skype Meeting Broadcast und Telefonsystem und Anrufplänen (in verfügbaren Märkten – nicht verfügbar in GCC High- oder DoD-Plänen). 
+- Einrichten einer Konfiguration geteilter Domänenserver zwischen Ihrer lokalen Lync 2010-, Lync 2013- oder Skype for Business 2015-Serverumgebung und dem Skype for Business Online-Mandanten (sofern zutreffend).
+- Aktivieren von Anrufplänen, Skype-Besprechungsübertragungen und Telefonsystem- und Anrufplänen (in verfügbaren Märkten – in GCC High- oder DoD-Plänen nicht verfügbar). 
     
 ![Schritte beim Onboarding von Lync während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -173,7 +173,7 @@ Für Project Online stellen wir Anweisungen zu folgenden Themen bereit:
 Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts bereit.
 
 > [!NOTE]
-> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in GCC lizenziert ist, ohne Kosten erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar. 
+> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365-Apps
 
@@ -183,7 +183,7 @@ Für Microsoft 365-Apps stellen wir Anweisungen zu folgenden Themen bereit:
 - Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.    
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS- oder Android-Geräten.   
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool    
-- Einrichten eines einzelnen Standortverteilungsservers für Microsoft 365-Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.    
+- Einrichten eines einzelnen Standortverteilungsservers für Microsoft 365 Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.    
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
 ![Schritte beim Onboarding von Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

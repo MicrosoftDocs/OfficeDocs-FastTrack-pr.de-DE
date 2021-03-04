@@ -3,19 +3,19 @@ title: Ihre Zuständigkeiten für Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: b2889b0b589c6bdb470dedc81f50e428143edc0c
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: df3481b18ae675f85add83ba969fce78f24eaf6b
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016639"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416506"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Zuständigkeiten für Office 365 US Government
 
@@ -41,7 +41,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 - Verwalten, Konfigurieren und Anwenden von Sicherheitsrichtlinien.    
 - Aktivieren mobiler Geräte.    
 - Konfiguration, Analyse, Überprüfung der Bandbreite, Tests und Überwachung des Netzwerks. 
-- Ändern von Firewallregeln zur Unterstützung bestimmter URLs und IP-Adressbereiche, die von Office 365-Diensten verwendet werden (falls erforderlich).
+- Ändern von Firewallregeln zur Unterstützung der spezifischen URLs und IP-Adressbereiche, die von Office 365-Diensten verwendet werden (falls erforderlich).
 - Bereitstellen von lokalen Reverseproxyendpunkten für Microsoft (falls erforderlich).     
 - Ändern des Netzwerks, um die erforderliche Bandbreite für Skype for Business Online-Dienste bereitzustellen.   
 - Verwalten eines Genehmigungsprozesses für das Management technischer Änderungen und Erstellen dazugehöriger Dokumentation.    
@@ -58,7 +58,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
     
 ## <a name="initiate-phase"></a>Einleitungsphase
 
-- Richten Sie microsoft Teams für die Zusammenarbeit für die Integrationspartnerschaft ein, und laden Sie FastTrack Center-Teammitglieder ein (nicht verfügbar in GCC High- oder DoD-Plänen).   
+- Richten Sie gemeinsamen Microsoft Teams-Raum für die Onboardingpartnerschaft ein, und laden Sie FastTrack Center-Teammitglieder ein (nicht verfügbar in GCC High- oder DoD-Plänen).   
 - Beginnen des Onboardings berechtigter Dienste in Zusammenarbeit mit FastTrack-Spezialisten.    
 - Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen.    
 - Zusammenstellen von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Microsoft Teams und Microsoft 365 Apps) und Unternehmenszielen.

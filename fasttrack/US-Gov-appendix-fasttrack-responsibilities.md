@@ -3,19 +3,19 @@ title: FastTrack Responsibilities for Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: a7860d56652de3aba80e77b7f9b054e8a80be6f4
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: d75d5f7c541d0800e82d08f1b060b89bfa82ee88
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016669"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416530"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Responsibilities for Office 365 US Government
 
@@ -96,9 +96,9 @@ Bereitstellen von Anleitungen zu:
 ## <a name="compliance"></a>Compliance
 
 Bereitstellen von Anleitungen zu:
-- Remoteunterstützung bei **Microsoft Information Governance** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
-- Remoteunterstützung mit **Microsoft Information Protection** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
-- Remoteunterstützung mit **Azure Information Protection** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
+- Remoteunterstützung mit **Microsoft Information Governance** (siehe Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
+- Remoteunterstützung mit **Microsoft Information Protection** (siehe Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
+- Remoteunterstützung mit **Azure Information Protection** (siehe Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -159,11 +159,11 @@ Bereitstellen von Anleitungen zu:
   - Zuweisung von Nummern zu lizenzierten Benutzern  
   - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999  
   - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus  
-- Aktivieren von Skype for Business Meeting Broadcast (in GCC High- oder DoD-Plänen nicht verfügbar):  
+- Aktivieren der Skype for Business-Besprechungsübertragung (in GCC High- oder DoD-Plänen nicht verfügbar):  
   - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen  
   - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
     
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen   
@@ -197,7 +197,7 @@ Bereitstellen von Anleitungen zu:
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
 
 > [!NOTE]
-> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer, der für Office 365 in GCC lizenziert ist, ohne Kosten erworben werden. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar.
+> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,5 +207,5 @@ Bereitstellen von Anleitungen zu:
 - Installieren von Microsoft 365 Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
-- Einrichten eines einzelnen Standortverteilungsservers für Microsoft 365-Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.   
+- Einrichten eines einzelnen Standortverteilungsservers für Microsoft 365 Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.   
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.

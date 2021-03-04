@@ -4,7 +4,7 @@
 <thead>
 <tr class="header">
 <th><strong>Dienst</strong></th>
-<th><strong>Details zum kurzbeschreibungs Handbuch</strong></th>
+<th><strong>FastTrack-Anleitungsdetails</strong></th>
 <th><strong>Anforderungen an die Quellumgebung</strong></th>
 </tr>
 </thead>
@@ -12,74 +12,74 @@
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender ist eine vereinheitlichte, vor-und nach Verletzung der Enterprise Defense-Suite, die die Erkennung, Verhinderung, Untersuchung und Antwort über alle Endpunkte, Identitäten, e-Mails und apps hinweg einheitlich koordiniert und einen integrierten Schutz vor anspruchsvollen Angriffen bietet. Wir bieten Remote-Anleitungen für: </p> 
+<td> <p> Microsoft 365 Defender ist eine einheitliche Vor- und Nachverletzungs-Enterprise-Schutzsuite, die Erkennung, Verhinderung, Untersuchung und Reaktion auf Endpunkte, Identitäten, E-Mails und Apps nativ koordiniert, um integrierten Schutz vor komplexen Angriffen zu bieten. Wir bieten Remoteanleitungen für: </p> 
 <ul>
-<li>  Bietet eine Übersicht über das Microsoft 365 Security Center.  </li>
-<li>  Überprüfung produktübergreifender Vorfälle, einschließlich der Fokussierung auf das, was kritisch ist, indem Sie den vollständigen Angriffsbereich, Betroffene Objekte und die zusammengefassten automatischen Behebungsaktionen sicherstellen.  </li>
-<li>  Demonstrieren, wie Microsoft 365 Defender die Untersuchung von Objekten, Benutzern, Geräten und Postfächern orchestrieren kann, die möglicherweise durch die automatische Selbstheilung gefährdet wurden. </li>
-<li>  Erläuterung und Bereitstellung von Beispielen dafür, wie Kunden proaktiv nach Intrusionsversuchen und Verletzungs Aktivitäten für Ihre e-Mails, Daten, Geräte und Konten in mehreren Datasets suchen können.   </li>
-<li> Zeigt Kunden an, wie Sie Ihre Sicherheitsposition ganzheitlich mithilfe von Microsoft Secure Score überprüfen und verbessern können.</li>
+<li>  Bereitstellen einer Übersicht über das Microsoft 365 Security Center.  </li>
+<li>  Überprüfen produktübergreifender Vorfälle, einschließlich der Fokussierung auf das Entscheidende, indem sichergestellt wird, dass der gesamte Angriffsbereich, die ressourcenbelastenden Ressourcen und die automatisierten Abhilfemaßnahmen, die zusammengeteilt sind, sichergestellt werden.  </li>
+<li>  Demonstrieren, wie Microsoft 365 Defender die Untersuchung von Ressourcen, Benutzern, Geräten und Postfächern orchestrieren kann, die möglicherweise durch automatisierte Selbstheilung gefährdet wurden. </li>
+<li>  Erläutern und Bereitstellen von Beispielen dafür, wie Kunden proaktiv nach Angriffsversuchen und Verletzungsaktivitäten abwehren können, die Sich auf Ihre E-Mails, Daten, Geräte und Konten in mehreren Datensätzen ausdingen.   </li>
+<li> Zeigen Sie Kunden, wie sie ihre Sicherheitslage ganzheitlich mithilfe von Microsoft Secure Score überprüfen und verbessern können.</li>
 </ul>
-<p><strong>Das folgende liegt außerhalb des Bereichs</strong></p>
+<p><strong>Die folgenden Bereiche sind nicht mehr</strong></p>
 <ul>
 <li> Projektmanagement der Problemlösungsaktivitäten des Kunden. </li>
-<li> Fortlaufende Verwaltung, Bedrohungs Antwort und Korrektur. </li>
-<li> Bereitstellungsanleitungen oder Schulungen unter:
+<li> Laufende Verwaltung, Bedrohungsreaktion und Behebung. </li>
+<li> Bereitstellungsanleitungen oder Bildungseinrichtungen zu:
 <ul>
-<li> Wie Sie die verschiedenen Warnungstypen und überwachten Aktivitäten korrigieren oder interpretieren. </li>
-<li> Vorgehensweise zum Untersuchen eines Benutzers, Computers, einer lateralen Bewegungspfad oder Entität. </li>
-<li> Benutzerdefinierte Bedrohungs Suche.  </li>
+<li> Wie Die verschiedenen Warnungstypen und überwachten Aktivitäten behoben oder interpretiert werden. </li>
+<li> Untersuchen eines Benutzers, Computers, lateralen Bewegungspfads oder einer Entität. </li>
+<li> Benutzerdefinierte Bedrohungssuche.  </li>
 </ul>
 </li>
-<li> Security Information and Event Management (SIEM) oder API-Integration.</li>
+<li> Sicherheitsinformationen und Ereignisverwaltung (SIEM) oder API-Integration.</li>
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  Microsoft Cloud App Security ist ein Cloud Access Security Broker (CASB), der eine umfassende Sichtbarkeit, eine Kontrolle über Daten Reisen und ausgefeilte Analysen zum Identifizieren und bekämpfen von Cyber-Bedrohungen für alle Microsoft-und Drittanbieter-Cloud-Dienste bereitstellt. Wir bieten Remote-Anleitungen für:
+<td>  Microsoft Cloud App Security ist ein Cloud Access Security Broker (CASB), der umfassende Sichtbarkeit, Kontrolle über Datenreise und ausgefeilte Analysen bietet, um Cyberbedrohungen in allen Ihren Microsoft- und Drittanbieter-Clouddiensten zu identifizieren und zu bekämpfen. Wir bieten Remoteanleitungen für:
 <ul>
 <li>  Konfigurieren des Portals, einschließlich:  </li>
 <ul>
 <li> Importieren von Benutzergruppen.</li>
-<li> Verwalten von Administratorzugriff und-Einstellungen.  </li>
-<li> Definieren Sie Ihre Bereitstellung, um bestimmte Benutzergruppen auszuwählen, die überwacht oder von der Überwachung ausgeschlossen werden sollen.</li>
-<li> Festlegen von IP-Bereichen und-Tags.</li>
-<li> Personalisierung der Benutzeroberfläche mit Ihrem Logo und Ihrem benutzerdefinierten Messaging.</li>
+<li> Verwalten des Administratorzugriffs und der Einstellungen.  </li>
+<li> Legen Sie die Bereitstellung so fest, dass bestimmte Benutzergruppen ausgewählt werden, die überwacht oder von der Überwachung ausgeschlossen werden.</li>
+<li> Festlegen von IP-Bereichen und -Tags.</li>
+<li> Personalisierung der Endbenutzererfahrung mit Ihrem Logo und benutzerdefiniertem Messaging.</li>
 </ul>
-<li> Einrichten der Cloud-Ermittlung zur Bereitstellung von Shadow IT mithilfe von:</li>
+<li> Einrichten der Clouderkennung für die Bereitstellung von Schatten-IT mithilfe von:</li>
 <ul>
 <li> Microsoft Defender für Endpunkte.</li>
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Verbinden von <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">vorgestellten Apps</a> mithilfe von App-Konnektoren</li>
-<li> Einrichten des bedingten Zugriffs-App-Steuerelements in den App-Sicherheitsportalen für bedingte Zugriffe und Clouds zum Anwenden von Steuerelementen für die Echtzeitsitzung.</li>
-<li> Bereitstellen der Cloud-App-Sicherheit und von Cloud Discovery-Dashboards</li>
-<li> Anpassen von App-Risikobewertungen basierend auf den Prioritäten Ihrer Organisation.</li>
-<li> Erstellen von App-Tags und Kategorien.</li>
-<li> Sanktionierung und nicht Sanktionierung von apps.</li>
-<li> Verwenden der Aktivitäts-und Datei Protokolle</li>
-<li> Verwalten von OAuth-apps.</li>
-<li> Grundlegendes zur Vorfall Korrelation im Microsoft 365 Defender-Portal.</li>
-<li> Bereitstellen von Konfigurationsunterstützung <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">für die 20 häufigsten Anwendungsfälle für CASBs</a> (einschließlich der Erstellung oder Aktualisierung von bis zu sechs (6) Richtlinien) mit Ausnahme von: </li>
+<li> Verbinden <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">von empfohlenen Apps</a> mithilfe von App-Connectors.</li>
+<li> Einrichten der App-Steuerung für bedingten Zugriff in den Portalen bedingter Zugriff und Cloud App-Sicherheit, um Sitzungssteuerelemente in Echtzeit anzuwenden.</li>
+<li> Bereitstellen der Cloud App Security- und Cloud Discovery-Dashboards.</li>
+<li> Anpassen der App-Risikoergebnisse basierend auf den Prioritäten Ihrer Organisation.</li>
+<li> Erstellen von App-Tags und -Kategorien.</li>
+<li> Sanktions- und Nichtfunktionierungs-Apps.</li>
+<li> Verwenden der Aktivitäts- und Dateiprotokolle.</li>
+<li> Verwalten von OAuth-Apps.</li>
+<li> Grundlegendes zur Korrelation zwischen Vorfällen im Microsoft 365 Defender-Portal.</li>
+<li> Bereitstellung von Konfigurationsunterstützung bei den <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> am meisten verwendeten Fällen für CASBs (einschließlich der Erstellung oder Aktualisierung von bis zu sechs (6) Richtlinien) mit Ausnahme von: </li>
 <ul>
-<li> Überwachen der Konfiguration Ihrer Internet-als-Dienstumgebungen (IaaS) (#18).</li>
-<li> Überwachen von Benutzeraktivitäten zum Schutz vor Bedrohungen in ihren IaaS-Umgebungen (#19).</li>
+<li> Überwachen der Konfiguration Ihres Internet as a Service (IaaS)-Umgebungen (#18).</li>
+<li> Überwachen von Benutzeraktivitäten zum Schutz vor Bedrohungen in Ihren IaaS-Umgebungen (#19).</li>
 </ul>
 </ul>
-<p><strong>Das folgende liegt außerhalb des Bereichs</strong></p>
+<p><strong>Die folgenden Bereiche sind nicht mehr</strong></p>
 <ul>
 <li> Projektmanagement der Problemlösungsaktivitäten des Kunden.</li>
-<li> Fortlaufende Verwaltung, Bedrohungs Antwort und Korrektur. </li>
-<li> Einrichten der Infrastruktur, Installation oder Bereitstellung automatischer Protokoll Uploads für fortlaufende Berichte mithilfe von Docker oder eines Protokoll Sammlers. Weitere Informationen finden Sie unter <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">Top 20 Use Cases for CASBs</a> .</li>
-<li> Erstellen eines Snapshot-Berichts für die Cloud-Suche.</li>
-<li> Blockieren der APP-Verwendung mithilfe von Block Skripts.</li>
-<li> Verbinden von benutzerdefinierten apps.</li>
-<li> Integration mit Drittanbieter-Identitätsanbietern (Providers) und DLP-Anbietern (Data Loss Prevention, Verhinderung von Datenverlust).</li>
+<li> Laufende Verwaltung, Bedrohungsreaktion und Behebung. </li>
+<li> Einrichten der Infrastruktur, Installation oder Bereitstellung von automatischen Protokolluploads für kontinuierliche Berichte mithilfe von Docker oder einem Protokollsammler. Weitere <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">Informationen finden Sie unter Top 20 use cases for CASBs.</a></li>
+<li> Erstellen eines Cloud Discovery-Snapshotberichts.</li>
+<li> Blockieren der App-Verwendung mithilfe von Blockskripts.</li>
+<li> Verbinden benutzerdefinierter Apps.</li>
+<li> Integration in Drittanbieter von Identitätsanbietern (IsPs) und Verhinderung von Datenverlust (Data Loss Prevention, DLP).</li>
 <li> Schulungen oder Anleitungen für die erweiterte Suche.</li>
-<li> Automatische Untersuchung und Korrektur einschließlich Microsoft Power-Automatisierungs Textbuch.</li>
-<li> Security Information and Event Management (SIEM) oder API-Integration (einschließlich Azure Sentinel).</li>
-<li> Bereitstellen der Cloud-App-Sicherheit als Machbarkeitsstudie</li>
+<li> Automatisierte Untersuchung und Korrektur, einschließlich Microsoft Power Automate-Playbooks.</li>
+<li> Sicherheitsinformationen und Ereignisverwaltung (SIEM) oder API-Integration (einschließlich Azure Sentinel).</li>
+<li> Bereitstellen von Cloud App Security als Konzeptbeweis.</li>
 </ul></td>
 </tr>
 
@@ -88,15 +88,15 @@
 <tr class="odd">
 <td><strong>Microsoft Defender Advanced Threat Protection (ATP)</strong></td>
 <td>  Microsoft Defender Advanced Threat Protection (ATP) ist eine Plattform, mit deren Hilfe Unternehmensnetzwerke erweiterte Bedrohungen verhindern, erkennen, untersuchen und darauf reagieren können.  
-  Wir bieten Remote-Anleitungen für:
+  Wir bieten Remoteanleitungen für:
 <ul>
-<li>  Bereitstellen der Technologien zum Sichern der Endpunkte  </li>
-<li>  Konfigurieren von Endpunktschutz-und Geräte Einschränkungs Profilen  </li>
-<li>  Bewertung der Betriebssystemversion und Geräteverwaltung (einschließlich InTune, Microsoft Endpoint Configuration Manager, Gruppenrichtlinienobjekte (Group Policy Objects, GPOs) und Konfigurationen von Drittanbietern) sowie der Status Ihrer Windows Defender AV-Dienste oder anderer Endpoint Security-Software.  </li>
-<li>  Bewerten des Status Ihrer Windows AV-Dienste oder anderer Endpoint Security-Software.  </li>
+<li>  Bereitstellen der Technologien zum Sichern Ihrer Endpunkte.  </li>
+<li>  Konfigurieren von Endpunktschutz- und Geräteeinschränkungsprofilen.  </li>
+<li>  Bewerten der Betriebssystemversion und Geräteverwaltung (einschließlich Intune, Microsoft Endpoint Configuration Manager, Gruppenrichtlinienobjekte (GPOs) und Konfigurationen von Drittanbietern sowie des Status Ihrer Windows Defender-AV-Dienste oder anderer Endpunktsicherheitssoftware.  </li>
+<li>  Bewerten des Status Ihrer Windows AV-Dienste oder anderer Endpunktsicherheitssoftware.  </li>
 <li>  Bewerten von Proxys und Firewalls, die den Netzwerkdatenverkehr einschränken.  </li>
-<li>  Aktivieren des Microsoft Defender ATP-Diensts durch erläutern der Bereitstellungeines ATP-Agent-Profils mithilfe eines Onboard-Endpunkts.  </li>
-<li>  Bereitstellungsanleitungen, Konfigurationsunterstützung und Schulung unter:
+<li>  Aktivieren des Microsoft Defender ATP-Diensts durch Erläuterung der Bereitstellung eines ATP-Agentprofils mithilfe eines onboard-Endpunkts.  </li>
+<li>  Bereitstellungsanleitungen, Konfigurationsunterstützung und Bildungseinrichtungen zu:
 <ul>
 <li>  
   Bedrohungs- und Sicherheitsrisikoverwaltung.  
@@ -117,8 +117,8 @@
   Sicherheitsbewertung.  
   </li>
 </ul></li>
-<li>  Überprüfen von Simulationen und Lernprogrammen (wie Übungsszenarien, gefälschte Schadsoftware und automatisierte Untersuchungen).  </li>
-<li>  Übersicht über die Features "Reporting" und "Threat Analytics"  </li>
+<li>  Überprüfen von Simulationen und Lernprogrammen (z. B. Übungsszenarien, gefälschte Schadsoftware und automatisierte Untersuchungen).  </li>
+<li>  Übersicht über Berichterstellungs- und Bedrohungsanalysefeatures.  </li>
 <li>  Integration von Office 365 ATP in Microsoft Defender ATP.  </li>
 <li>  Ausführen von exemplarischen Vorgehensweisen im Microsoft Defender Security Center-Portal.  </li>
 <li>  Die folgenden Betriebssysteme:
@@ -136,20 +136,20 @@
   Windows Server 2019 Core Edition.  
   </li>
 <li>  
-  Windows Server Semi-Annual-Kanal (SAC) Version 1803.  
+  Windows Server Semi-Annual Channel (SAC) Version 1803.  
   </li>
 <li>  
-  macOS-Versionen 10,13, 10,14 und 10,15.  
+  macOS-Versionen 10.13, 10.14 und 10.15.  
   </li>
 </ul>
 </li>
 </ul>
-<strong>Hinweis:</strong> Alle Windows Server-Versionen müssen mit der neuesten Version von System Center Configuration Manager 2012 (Versionen 1012 R2, 1511 oder 1602) oder mit dem Microsoft Endpoint Configuration Manager (Version 2002 oder höher) verwaltet werden. 
+<strong>Hinweis:</strong> Alle Windows Server-Versionen müssen über die neueste Version von System Center Configuration Manager 2012 (Versionen 1012 R2, 1511 oder 1602) oder Microsoft Endpoint Configuration Manager (Version 2002 oder höher) verwaltet werden. 
 
 </li>
 </ul>
 
-<strong>Das folgende liegt außerhalb des Bereichs </strong>  
+<strong>Die folgenden Bereiche sind nicht mehr </strong>  
 <ul>
 <li>  Projektmanagement der Problemlösungsaktivitäten des Kunden.  </li>
 <li>  Unterstützung vor Ort.  </li>
@@ -166,34 +166,34 @@
   Linux.  
   </li>
 <li>  
-  Mobile Geräte (Android und IOS).  
+  Mobile Geräte (Android und iOS).  
   </li>
 </ul></li>
-<li>  Server-Onboarding und-Konfiguration:
+<li>  Server-Onboarding und -konfiguration:
 <ul>
 <li>  
-  Konfigurieren eines Proxyservers für die Offline Kommunikation.  
+  Konfigurieren eines Proxyservers für die Offlinekommunikation.  
   </li>
 <li>  
-  Konfigurieren von Configuration Manager-Bereitstellungspaketen auf untergeordneten Configuration Manager-Instanzen und-Versionen.  
+  Konfigurieren von Configuration Manager-Bereitstellungspaketen für Configuration Manager-Instanzen und -Versionen auf ebener ebener Ebene.  
   </li>
 <li>  
-  Onboarding-Server im Azure Security Center.  
+  Onboarding von Servern im Azure Security Center.  
   </li>
 <li>  
-  Server, die nicht von Configuration Manager verwaltet werden.  
+  Server, die nicht vom Configuration Manager verwaltet werden.  
   </li>
 </ul></li>
-<li>  macOS-Onboarding und-Konfiguration:
+<li>  macOS-Onboarding und -Konfiguration:
 <ul>
 <li>  
-  Manuelle InTune-basierte Bereitstellung.  
+  Manuelle Intune-basierte Bereitstellung.  
   </li>
 <li>  
   JAMF-basierte Bereitstellung.
   </li>
 <li>  
-  Andere produktbasierte MDM-Bereitstellung (Mobile Device Management).  
+  Andere produktbasierte Bereitstellung für die Mobile Device Management (MDM).  
   </li>
 <li>  
   Manuelle Bereitstellung.  
@@ -215,93 +215,93 @@
   </li>
 </ul></li>
 <li>  Registrierung oder Konfiguration von Microsoft-Bedrohungsexperten.  </li>
-<li>  Konfiguration oder Schulung Überprüfen der API oder der Sicherheitsinformationen und der Ereignisverwaltung (SIEM)-Verbindungen.  </li>
+<li>  Konfiguration oder Schulung zur Überprüfung von API- oder Sicherheitsinformationen und Ereignisverwaltungsverbindungen (EVENT Management, SIEM).  </li>
 <li>  Registrierung oder Konfiguration von Microsoft Threat Protection (MTP).  </li>
 <li>  Schulungen oder Anleitungen für die erweiterte Suche.  </li>
-<li>  Schulungen oder Anleitungen für die Verwendung oder Erstellung von Kusto-Abfragen.</li>
+<li>  Schulungen oder Anleitungen zur Verwendung oder Erstellung von Kusto-Abfragen.</li>
 </li>
 </ul>
-Wenden Sie sich an einen <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Microsoft-Partner</a> , um Unterstützung für diese Dienste zu erhalten.  
+Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an einen Microsoft-Partner,</a> um Unterstützung für diese Dienste zu erhalten.  
 </ul></td>
 <td></td>
 
 <tr class="odd">
-<td><strong>Microsoft Defender für Identity </strong></td>
-<td>  Microsoft Defender for Identity ist eine Cloud-basierte Sicherheitslösung, die ihre lokalen Active Directory Signale nutzt, um erweiterte Bedrohungen, kompromittierte Identitäten und böswillige Insider Aktionen zu identifizieren, zu erkennen und zu untersuchen, die an Ihre Organisation gerichtet sind. Wir bieten Remote-Anleitungen für:
+<td><strong>Microsoft Defender for Identity </strong></td>
+<td>  Microsoft Defender for Identity ist eine cloudbasierte Sicherheitslösung, die Ihre lokalen Active Directory-Signale nutzt, um komplexe Bedrohungen, kompromittierte Identitäten und bösartige, gegen Ihre Organisation gerichtete Insideraktionen zu identifizieren, zu erkennen und zu untersuchen. Wir bieten Remoteanleitungen für:
 <ul>
-<li>   Erstellen Ihrer Instanz von Defender für Identity. </li>
-<li>   Verbinden von Defender für Identität mit Active Directory. </li>
-<li>   Bewerten der Bereitschaft Ihrer Umgebung zur Bereitstellung des Defender for Identity Sensors auf Ihren Domänencontrollern, einschließlich:</li>   
+<li>   Erstellen Ihrer Instanz von Defender for Identity. </li>
+<li>   Verbinden von Defender for Identity mit Active Directory. </li>
+<li>   Bewerten der Bereitschaft Ihrer Umgebung zur Bereitstellung des Defender for Identity-Sensors auf Ihren Domänencontrollern, einschließlich:</li>   
 <ul> 
-<li>  Ausführung des Sizing-Tools für die Planung von Ressourcen Kapazitäten. </li>
-<li>  Durchführen des Überwachungstools, um die Kompatibilität Ihrer Domänencontroller mit dem Sensor zu bewerten. </li>
+<li>  Ausführen des Größenanpassungstools für die Ressourcenkapazitätsplanung. </li>
+<li>  Ausführen des Überwachungstools, um die Kompatibilität Ihrer Domänencontroller mit dem Sensor zu bewerten. </li>
 </ul>
 <li>  Bereitstellen des Sensors zum Erfassen und Analysieren von Netzwerkdatenverkehr und Windows-Ereignissen direkt von Ihren Domänencontrollern, einschließlich: </li>
 <ul> 
-<li>  Herunterladen des Sensor Pakets. </li>
+<li>  Herunterladen des Sensorpakets. </li>
 <li>  Konfigurieren des Sensors. </li>
-<li>  Unbeaufsichtigtes Installieren des Sensors auf dem Domänencontroller. </li>
+<li>  Automatisches Installieren des Sensors auf dem Domänencontroller. </li>
 <li>  Bereitstellen des Sensors in Ihrer Umgebung mit mehreren Gesamtstrukturen. </li>
 </ul>
-<li>  Integrieren von Defender for Identity mit Microsoft Cloud App Security (Cloud App Security Licensing ist nicht erforderlich). </li>
-<li>  Bereitstellen von Bereitstellungsanleitungen, Konfigurationsunterstützung und Schulung für: </li>
+<li>  Integrieren von Defender for Identity in Microsoft Cloud App Security (Cloud App Security-Lizenzierung ist nicht erforderlich). </li>
+<li>  Bereitstellen von Bereitstellungsanleitungen, Konfigurationsunterstützung und Bildungseinrichtungen zu: </li>
 <ul>
-<li> Optimieren der Umgebung, um "Rauschen" zu reduzieren  </li>
-<li>  Grundlegendes zum Beurteilungsbericht für Identitäts Sicherheits Positionen. </li>
-<li>  Grundlegendes zum Bewertungsbericht über die Benutzer Ermittlung und-Bewertung. </li>
-<li> Grundlegendes zum inaktiven Benutzerbericht.  </li>
-<li> Bereitstellen von Korrekturoptionen für ein kompromittiertes Konto.  </li>
+<li> Optimieren der Umgebung, um "Rauschen" zu reduzieren.  </li>
+<li>  Grundlegendes zum Bericht zur Bewertung der Identitätssicherheitslage. </li>
+<li>  Grundlegendes zum Bewertungsergebnis für die Priorität der Benutzeruntersuchung und zum Bewertungsbericht der Benutzeruntersuchung. </li>
+<li> Grundlegendes zum bericht des inaktiven Benutzers.  </li>
+<li> Bereitstellen von Korrekturoptionen für ein gefährdetes Konto.  </li>
 </ul>
-<li>  Erleichterung der Migration von Advanced Threat Analytics (ATA) zur Defender for Identity. </li>
+<li>  Vereinfachen der Migration von Advanced Threat Analytics (ATA) zu Defender for Identity. </li>
 </ul>
-<p><strong>Das folgende liegt außerhalb des Bereichs</strong></p>
+<p><strong>Die folgenden Bereiche sind nicht mehr</strong></p>
 <ul>
 
 <li> Projektmanagement der Problemlösungsaktivitäten des Kunden. </li>
-<li> Fortlaufende Verwaltung, Bedrohungs Antwort und Korrektur.  </li>
-<li> Bereitstellen des Defender für den Identitäts Sensor, einschließlich: </li>
+<li> Laufende Verwaltung, Bedrohungsreaktion und Behebung.  </li>
+<li> Bereitstellen des Defender for Identity-Sensors, einschließlich: </li>
 <ul>
 <li> Manuelle Kapazitätsplanung. </li>
-<li> Bereitstellen des Sensors in einer eigenständigen Kapazität. </li>
-<li> Bereitstellen des Sensors mithilfe eines Netzwerkschnittstellenkarten-Teaming-Adapters (NIC) </li>
+<li> Bereitstellen des Sensors in eigenständiger Kapazität. </li>
+<li> Bereitstellen des Sensors mithilfe eines Netzwerkschnittstellenkartenadapters (Network Interface Card, NIC). </li>
 <li> Bereitstellen des Sensors über ein Drittanbietertool. </li>
-<li> Herstellen einer Verbindung mit dem Defender für den Identitäts-clouddienst über eine Webproxy Verbindung </li>
+<li> Herstellen einer Verbindung mit dem Defender for Identity-Clouddienst über eine Webproxyverbindung. </li>
 </ul>
-<li> Erstellen und Verwalten von honeytokens. </li>
-<li> Bereitstellungsanleitungen oder Schulungen unter: </li>
+<li> Erstellung und Verwaltung von "honeytokens". </li>
+<li> Bereitstellungsanleitungen oder Bildungseinrichtungen zu: </li>
 <ul>
-<li> Remediation oder Interpretation verschiedener Warnungstypen und überwachten Aktivitäten.  </li>
+<li> Behebung oder Interpretation verschiedener Warnungstypen und überwachter Aktivitäten.  </li>
 <li> Untersuchen eines Benutzers, Computers, lateralen Bewegungspfads oder einer Entität. </li>
-<li> Bedrohung oder erweiterte Jagd. </li>
-<li> Vorfall Antwort. </li>
+<li> Bedrohung oder erweiterte Suche. </li>
+<li> Reaktion auf Vorfälle. </li>
 </ul>
 <li> Bereitstellen eines Lernprogramms für Sicherheitswarnungen für Defender for Identity. </li>
-<li> Bereitstelleneiner Benachrichtigung, wenn Defender for Identity verdächtige Aktivitäten erkennt, indem Sicherheitswarnungen über einen benannten Sensor an Ihren Syslog-Server gesendet werden.  </li>
-<li> Konfigurieren von Defender for Identity zum Ausführen von Abfragen mithilfe des SAMR-Protokolls (Security Account Manager Remote), um lokale Administratoren auf bestimmten Computern zu identifizieren. </li>
+<li> Bereitstellen einer Benachrichtigung, wenn Defender for Identity verdächtige Aktivitäten erkennt, indem Sicherheitswarnungen über einen benannten Sensor an Ihren syslog-Server gesendet werden.  </li>
+<li> Konfigurieren von Defender for Identity zum Ausführen von Abfragen mithilfe des Security Account Manager Remote (SAMR)-Protokolls, um lokale Administratoren auf bestimmten Computern zu identifizieren. </li>
 <li> Konfigurieren von VPN-Lösungen zum Hinzufügen von Informationen aus der VPN-Verbindung zur Profilseite eines Benutzers.  </li>
-<li> Security Information and Event Management (SIEM) oder API-Integration (einschließlich Azure Sentinel). </li>
-<li> Bereitstellen von Defender für Identitäts Sensoren als Machbarkeitsstudie</li>
+<li> Sicherheitsinformationen und Ereignisverwaltung (SIEM) oder API-Integration (einschließlich Azure Sentinel). </li>
+<li> Bereitstellen von Defender for Identity-Sensoren als Konzeptbeweis.</li>
 </ul></td>
 <td><ul>
 <li>  Active Directory bereitgestellt.  </li>
-<li>  Die Domänencontroller, auf denen Sie Defender für Identitäts Sensoren installieren möchten, verfügen über eine Internetverbindung mit dem Defender for Identity Cloud Service.  </li>
+<li>  Die Domänencontroller, auf die Sie Defender for Identity-Sensoren installieren möchten, verfügen über eine Internetverbindung zum Defender for Identity-Clouddienst.  </li>
 <ul>
-<li> Ihre Firewall und der Proxy müssen für die Kommunikation mit dem Defender for Identity Cloud Service geöffnet sein (*. ATP.Azure.com Port 443 muss geöffnet sein).</li>
+<li> Die Firewall und der Proxy müssen für die Kommunikation mit dem Defender for Identity-Clouddienst geöffnet sein (*.atp.azure.com Port 443 muss geöffnet sein).</li>
 </ul>
-<li> Domänencontroller mit einer der folgenden Optionen:</li>
+<li> Domänencontroller, die auf einem der folgenden Controller ausgeführt werden:</li>
 <ul>
 <li> Windows Server 2008 R2 SP1.</li>
 <li> Windows Server 2012.</li>
 <li> Windows Server 2012 R2.</li>
 <li> Windows Server 2016.</li>
-<li> Windows Server 2019 mit KB4487044 (OS Build 17763,316).</li>
+<li> Windows Server 2019 mit KB4487044 (Betriebssystem build 17763.316).</li>
 </ul>
 </ul></td>
 </tr>
 
 <tr class="even">
 <td><strong>Microsoft Information Governance</strong></td>
-<td>  Wir bieten Remote-Anleitungen für:
+<td>  Wir bieten Remoteanleitungen für:
 <ul>
 <li>  Aufbewahrungsbezeichnungen und Richtlinien.  </li>
 <li>  Verwaltung von Unterlagen.  </li>
@@ -311,25 +311,25 @@ Wenden Sie sich an einen <a href="https://go.microsoft.com/fwlink/?linkid=208015
 <li>  Advanced eDiscovery.  </li>
 </ul>
 
-  <strong>Das folgende liegt außerhalb des Bereichs </strong>  
+  <strong>Die folgenden Bereiche sind nicht mehr </strong>  
 <ul>
-<li> Entwicklung eines Daten Satz Verwaltungsdatei Plans.</li>
-<li> Daten-Konnektoren.</li>
+<li> Entwicklung eines Datensatzverwaltungsdateiplans.</li>
+<li> Datenconnectors.</li>
 <li> Informationsbarrieren.</li>
 <li> Privilegierte Zugriffsverwaltung.</li>
 <li> Entwicklung der Informationsarchitektur in SharePoint.</li>
-<li> Benutzerdefinierte Skripterstellung und Codierung.</li>
+<li> Benutzerdefinierte Skripts und Codierung.</li>
 </td>
-<td>Neben dem <strong>Haupt-Onboarding</strong> -Teil im <a href="#general">allgemeinen</a>gibt es keine minimalen Systemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft Information Protection</strong></td>
-<td>  Wir bieten Remote-Anleitungen für:
+<td>  Wir bieten Remoteanleitungen für:
 <ul>
 <li>  Datenklassifikation.  </li>
 <li>  Typen vertraulicher Informationen.  </li>
 <li>  Erstellen von Vertraulichkeitsbezeichnungen.  </li>
-<li>  Anwenden von Sensitivitäts Bezeichnungen.  </li>
+<li>  Anwenden von Vertraulichkeitsbezeichnungen.  </li>
 <li>  Einheitliche Bezeichnungen.  </li>
 <li>  Trainierbare Klassifizierungsmerkmale.  </li>
 <li>  Erkennen Ihrer Daten über den Inhalts- und Aktivitäten-Explorer.  </li>
@@ -338,31 +338,140 @@ Wenden Sie sich an einen <a href="https://go.microsoft.com/fwlink/?linkid=208015
 <li>  Erstellen von Endpunkt-DLP-Richtlinien für Windows 10-Geräte.  </li>
 </ul>
 
-<strong>Das folgende liegt außerhalb des Bereichs </strong>  
+<strong>Die folgenden Bereiche sind nicht mehr </strong>  
 <ul>
 <li>Kundenschlüssel.</li>
-<li>Entwicklung benutzerdefinierter regulärer Ausdrücke (Regex) für vertrauliche Informationstypen.</li>
-<li>Erstellen oder Ändern von Schlüsselwörter Wörterbüchern.</li>
-<li>Benutzerdefinierte Skripterstellung und Codierung.</li>
+<li>Entwicklung von benutzerdefinierten regulären Ausdrücken (RegEx) für Typen vertraulicher Informationen.</li>
+<li>Erstellen oder Ändern von Schlüsselwortwörterbüchern.</li>
+<li>Benutzerdefinierte Skripts und Codierung.</li>
 </ul>
-<strong>Hinweis:</strong> Weitere Informationen finden Sie unter <strong> Azure Information Protection </strong> in <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>.
+<strong>Hinweis:</strong> Weitere Informationen finden Sie unter <strong> Azure Information Protection </strong> in Enterprise Mobility + <a href="#enterprise-mobility--security">Security</a>.
 <ul>
 
 </td>
-<td>Neben dem <strong>Haupt-Onboarding</strong> -Teil im <a href="#general">allgemeinen</a>gibt es keine minimalen Systemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 
 <tr class="odd">
 <td><strong>Office 365 Advanced Threat Protection (ATP)</strong></td>
-<td>  Wir bieten Remote-Anleitungen für:
+<td>  Wir bieten Remoteanleitungen für:
 <ul>
 <li>  Aktivieren von sicheren Links, sicheren Anlagen und Antiphishing.  </li>
 <li>  Konfigurieren von Automatisierung, Untersuchung und Reaktion.  </li>
 <li>  Verwenden des Angriffssimulators.  </li>
 <li>  Berichterstellung und Bedrohungsanalyse.  </li>
 </ul></td>
-<td>Neben dem <strong>Haupt-Onboarding</strong> -Teil im <a href="#general">allgemeinen</a>gibt es keine minimalen Systemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
+
+
+<tr class="odd">
+<td><strong>Ermittlung & Antwort</strong></td>
+<td>  
+
+<strong>Advanced eDiscovery</strong>
+  
+<ul>
+<li>  Aktivieren von sicheren Links, sicheren Anlagen und Antiphishing.  </li>
+<li>  Konfigurieren von Automatisierung, Untersuchung und Reaktion.  </li>
+<li>  Verwenden des Angriffssimulators.  </li>
+<li>  Berichterstellung und Bedrohungsanalyse.  </li>
+</ul>
+
+<strong>Erweiterte Überwachung</strong> (nur in E5 unterstützt)
+
+Wir bieten Remoteanleitungen für: 
+<ul>
+<li> Aktivieren der erweiterten Überwachung.</li>
+<li> Ausführen einer Benutzeroberfläche für das Such-Überwachungsprotokoll und grundlegende PowerShell-Überwachungsbefehle.</li>
+</ul>
+
+<strong> Compliance-Manager</strong>
+
+Wir bieten Remoteanleitungen für:  
+
+<ul> <li>Überprüfen von Rollentypen.  </li>
+<li> Hinzufügen und Konfigurieren von Bewertungen.</li>
+<li> Bewerten der Compliance durch Implementieren von Verbesserungsmaßnahmen und Bestimmen, wie sich dies auf Ihre Compliance-Bewertung aus wirkt.</li>
+<li> Überprüfen der integrierten Steuerelementzuordnung und Bewertung von Steuerelementen.</li>
+<li> Generieren eines Berichts innerhalb einer Bewertung.</li>
+</ul>
+
+<strong>Die folgenden Bereiche sind nicht mehr </strong> 
+<ul>
+<li> Benutzerdefinierte Skripts oder Codierungen.</li>
+<li> eDiscovery-API. </li>
+<li> Datenconnectors. </li>
+<li> Compliancegrenzen und Sicherheitsfilter.</li>
+<li> Datenuntersuchungen.</li>
+<li> Anfragen von Datensubjekten.</li>
+<li> Entwurfs-, Architekten- und Drittanbieterdokumentüberprüfung.</li>
+<li> Einhaltung der branchen- und regionalen Vorschriften und Anforderungen.</li>
+<li> Praktische Implementierung empfohlener Verbesserungsmaßnahmen für Bewertungen im Compliance Manager.</li>
+</ul>
+</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+</tr>
+<tr class="odd">
+<td><strong>Insider Threat Management</strong></td>
+
+<td>  Wir bieten Remoteanleitungen für:
+<ul>
+<li> Erstellen von Richtlinien und Überprüfen von Einstellungen.</li>
+<li> Zugreifen auf Berichte und Warnungen.</li>
+<li> Erstellen von Fällen.</li>
+<li> Erstellen von Benachrichtigungsvorlagen.</li>
+<li> Anleitungen zum Erstellen des Personalconnector.</li>
+</ul>
+
+<strong> Kommunikationskonformität </strong> 
+
+Wir bieten Remoteanleitungen für: 
+<ul>
+<li> Erstellen von Richtlinien und Überprüfen von Einstellungen.</li>
+<li> Zugreifen auf Berichte und Warnungen.</li>
+<li> Erstellen von Benachrichtigungsvorlagen.</li>
+</ul>
+
+<strong> Compliance-Manager</strong>
+
+Wir bieten Remoteanleitungen für:  
+
+<ul> <li>Überprüfen von Rollentypen.  </li>
+<li> Hinzufügen und Konfigurieren von Bewertungen.</li>
+<li> Bewerten der Compliance durch Implementieren von Verbesserungsmaßnahmen und Bestimmen, wie sich dies auf Ihre Compliance-Bewertung aus wirkt.</li>
+<li> Überprüfen der integrierten Steuerelementzuordnung und Bewertung von Steuerelementen.</li>
+<li> Generieren eines Berichts innerhalb einer Bewertung.</li>
+</ul>
+
+<strong>Die folgenden Bereiche sind nicht mehr </strong> 
+<ul>
+<li> Erstellen und Verwalten von Power Automate-Flüssen.</li>
+<li> Datenconnectors (über den HR-Connector hinaus). </li>
+<li> Konfigurationen für benutzerdefinierte reguläre Ausdrücke (RegEx).</li>
+<li> Entwurfs-, Architekten- und Drittanbieterdokumentüberprüfung.</li>
+<li> Informationsbarrieren.</li>
+<li> Privilegierte Zugriffsverwaltung.</li>
+<li> Einhaltung der branchen- und regionalen Vorschriften und Anforderungen.</li>
+<li> Praktische Implementierung empfohlener Verbesserungsmaßnahmen für Bewertungen im Compliance Manager.</li>
+</ul></td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+</tr>
+
+
+</tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
+
 
 </tbody>
 </table>
@@ -373,8 +482,8 @@ Wenden Sie sich an einen <a href="https://go.microsoft.com/fwlink/?linkid=208015
 <TABLE  CELLPADDING="2" CELLSPACING="2" WIDTH="100%">
 <tr class="header">
 <TD width 15%><strong>Dienst</strong></TD>
-<TD width 50%><strong>Details zum kurzbeschreibungs Handbuch</strong></TD>
-<TD width 25%><strong>Anforderungen an die Quellumgebung</strong></TD>
+<TD width 50%><strong>FastTrack-Anleitungsdetails</strong></TD>
+<TD width 25%><strong>Erwartungen an die Quellumgebung</strong></TD>
 <TR>
 </thead>
 <tbody>
