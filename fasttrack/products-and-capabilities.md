@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dieses Thema enthält Details zu den von FastTrack unterstützten Arbeitsauslastungsszenarien und den Erwartungen an die Quellumgebung, die erforderlich sind, bevor wir beginnen können. Basierend auf Ihrem aktuellen Setup erstellen wir zusammen mit Ihnen einen Korrekturplan, der Ihre Quellumgebung auf die Mindestanforderungen für ein erfolgreiches Onboarding bringt.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416564"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464207"
 ---
 # <a name="products-and-capabilities"></a>Produkte und Funktionen
 
@@ -208,7 +208,7 @@ Wir bieten Remoteanleitungen für:
 
 <strong>Erweiterte Überwachung</strong> (nur in E5 unterstützt)
 
-Wir bieten Remoteanleitungen für: 
+Wir bieten Remoteanleitungen für:  
 <ul>
 <li> Aktivieren der erweiterten Überwachung.</li>
 <li> Ausführen einer Benutzeroberfläche für das Such-Überwachungsprotokoll und grundlegende PowerShell-Überwachungsbefehle.</li>
