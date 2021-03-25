@@ -3,18 +3,18 @@ title: 'Anhang B: Übersicht über das FastTrack Center-Leistungsangebot für Of
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Mit dem FastTrack Center-Vorteil für Office 365 arbeiten Sie remote mit FastTrack-Spezialisten zusammen, um Ihre Office 365-Umgebung für die Verwendung bereit zu machen und den Rollout und die Verwendung in Ihrer Organisation zu planen.
-ms.openlocfilehash: 95e0c4f9e672e70ae9d76212b7611e664db5f3f9
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 0337e8d5e2354e507c04831472b5e7d9fe8f22cb
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416541"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188044"
 ---
 # <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Anhang B: Übersicht über das FastTrack Center-Leistungsangebot für Office 365 US Government
 

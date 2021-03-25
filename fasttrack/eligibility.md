@@ -3,19 +3,19 @@ title: Teilnahmeberechtigung
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416424"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187984"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -37,14 +37,14 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
-  - Microsoft Defender Advanced Threat Protection (ATP)
+  - Microsoft Defender für Endpunkt
   - Microsoft Defender for Identity 
+  - Microsoft Defender für Office 365
   - Microsoft Edge
   - Microsoft Information Governance
   - Microsoft Information Protection
   - Microsoft Intune
-  - Microsoft Teams
-  - Office 365 Advanced Threat Protection (ATP)
+  - Microsoft Teams
   - OneDrive for Business
   - Power BI
   - Project Online
@@ -117,9 +117,9 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Exchange Online Plan 2
   - Exchange Online-Kiosk
   - Exchange Online Protection
-  - Office 365 Advanced Threat Protection
+  - Microsoft Defender für Office 365
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Telefonsystem
   - Anrufplan

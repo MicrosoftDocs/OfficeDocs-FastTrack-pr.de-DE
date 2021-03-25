@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: b02c7c863cdc689fab4a6545ac1acc84f6b03fc2
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f518e8dbda9200318022bad2cc12d1ba68263df8
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416612"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188024"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -189,7 +189,7 @@ Wenn Sie sich für die Migration Ihrer Dateien zu SharePoint Online mithilfe von
 
 ## <a name="considerations"></a>Überlegungen
 
-  - Alle Migrationen unterliegen SharePoint Online-Kontingenten. Weitere Informationen finden Sie unter [<span class="underline">SharePoint Online und OneDrive for Business: Softwarelimits und -beschränkungen</span>](https://go.microsoft.com/fwlink/?LinkId=698855).
+ - Alle Migrationen unterliegen SharePoint Online-Kontingenten. Weitere Informationen <a href="https://go.microsoft.com/fwlink/?LinkId=698855">finden Sie unter SharePoint-Grenzwerte.</a> 
   - Der Gesamtbetrag sollte auf 75 Prozent des SharePoint Online-Gesamtspeicherkontingents, für das Sie berechtigt sind, beschränkt werden (einschließlich den zusätzlichen Speicher, den Sie möglicherweise separat gekauft haben).
 
 ## <a name="source-environment-details"></a>Detail der Quellumgebung
@@ -381,7 +381,7 @@ Wenn Sie sich für die Migration Ihrer Dateien zu OneDrive for Business mithilfe
 
 ## <a name="considerations"></a>Überlegungen
 
-  - Alle Migrationen unterliegen den OneDrive for Business-Kontingenten. Weitere Informationen finden Sie unter [<span class="underline">SharePoint Online und OneDrive for Business: Softwarelimits und -beschränkungen</span>](https://go.microsoft.com/fwlink/?LinkId=698855).
+  - Alle Migrationen unterliegen SharePoint Online-Kontingenten. Weitere Informationen <a href="https://go.microsoft.com/fwlink/?LinkId=698855">finden Sie unter SharePoint-Grenzwerte.</a> 
   - Der Gesamtbetrag sollte auf 75 Prozent der Daten des SharePoint Online-Gesamtspeicherkontingents, für das Sie berechtigt sind, beschränkt werden (einschließlich den zusätzlichen Speicher, den Sie möglicherweise separat gekauft haben).
   - FastTrack migriert nur zu aktiven OneDrive for Business-Laufwerken.
 
@@ -566,3 +566,206 @@ Während des Migrationsprojekts führen Sie Standardaktivitäten aus. Einzelheit
 Sie führen außerdem die folgenden Aktivitäten speziell für OneDrive for Business-Migrationen aus:
 
   - Bereitstellen aller OneDrive for Business-Websites, die für Ihre Migrationsereignisse bestimmt sind.
+
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Migration zu Microsoft Teams und Microsoft 365-Gruppen
+
+Wenn Sie FastTrack verwenden, um Ihre Dateien zu Microsoft Teams und Microsoft 365-Gruppen zu migrieren, bieten wir Migrationsleitfäden und Datenmigrationsdienste. Wir bieten Anleitungen, mit denen Sie Ihre Migration planen, Ihre Quellumgebungen und Teams und Microsoft 365-Gruppen konfigurieren und unsere Datenmigrationsdienste nutzen können, um Ihre Dateien zu migrieren. Sie erstellen und planen Ihre Migrationsereignisse. Wir führen Migrationsereignisse gemäß Ihrem Zeitplan aus, überwachen deren Status und stellen Statusberichte bereit. Wenn Ihre Migrationsereignisse abgeschlossen sind, können Sie erwarten, dass Dateien aus entsprechend geplanten und berechtigten Quellen Ihrer Quellumgebungen zu Teams und Microsoft 365-Gruppen migriert wurden. Teams-Kanäle und Microsoft 365-Gruppen müssen vom Kunden vorab bereitgestellt werden, bevor sie Daten zu diesen Zieltypen migrieren können. Teams und Microsoft 365-Gruppen haben Auswirkungen auf Ihre Berechtigungen für den Dateizielspeicherort. Teams und Microsoft 365-Gruppen sind so aufgebaut, dass die Zusammenarbeit ermöglicht wird. Der Microsoft 365-Kanal oder die Microsoft 365-Gruppe bestimmen, wer bei der Migration zu diesen Zielen Zugriff auf diese Dateien hat. FastTrack fügt während der Migration keine Endbenutzer oder Gruppen zu einem Teams-Kanal oder zu Microsoft 365-Gruppen hinzu.
+
+## <a name="considerations"></a>Überlegungen
+
+- Alle Migrationen unterliegen SharePoint Online-Kontingenten. Weitere Informationen <a href="https://go.microsoft.com/fwlink/?LinkId=698855">finden Sie unter SharePoint-Grenzwerte.</a> 
+- Der Gesamtbetrag sollte auf 75 Prozent des SharePoint Online-Gesamtspeicherkontingents, für das Sie berechtigt sind, beschränkt werden (einschließlich den zusätzlichen Speicher, den Sie möglicherweise separat gekauft haben). 
+
+
+## <a name="source-environment-details"></a>Detail der Quellumgebung
+
+Unsere Datenmigrationsdienste migrieren Daten aus diesen Quellumgebungen: 
+
+- Dateifreigaben (SMB [Server Message Block]-Dateifreigaben auf Geräten mit Unterstützung für SMB 2.0 und höher)
+-  Eine einzelne G Suite-Umgebung (nur Google Drive). 
+- Box (Starter, Business, Enterprise). 
+- Dropbox für Teams (Standard und Erweitert). 
+
+Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quellumgebungen gelten:
+
+<table>
+<thead>
+<tr class="header">
+ <th><strong>Quellumgebung</strong></th>
+ <th><strong>Migrationstyp</strong></th>
+ <th><strong>Was wird migriert?</strong></th>
+ <th><strong>Was wird nicht migriert?</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Alle Dateifreigabegeräte mit Unterstützung für SMB 2.0 und höher</strong></td>
+<td>Einzeln oder mehrstufig</td>
+<td><ul>
+<li> Dokumente </li>
+<li> Datei- und Ordnerstruktur </li>
+<li> Datei- und Ordnerberechtigungen auf Benutzerebene* </li>
+<li> Datei- und Ordnerberechtigungen auf Gruppenebene* </li>
+<li> Dateien unter 15 GB </li>
+<li> Grundlegende Dokument- und Ordnermetadaten: 
+<ul>
+<li> Erstellungsdatum </li>
+<li> Änderungsdatum </li>
+<li> Erstellt von </li>
+<li> Zuletzt geändert von </li>
+</ul></li>
+</ul>
+<br>
+* Setzt die Konfiguration der Verzeichnissynchronisierung voraus. Es werden nur NTFS-Berechtigungen migriert, die für den Windows-Datei-Explorer verfügbar sind. Berechtigungen, die direkt auf Dateifreigabegeräten verwaltet werden, werden nicht migriert. Wenn Daten auf einem SMB 2.0-Gerät gespeichert werden, werden die NTFS-äquivalenten Berechtigungen, die vom SMB-Protokoll verfügbar gemacht werden, migriert. Berechtigungen werden vom Microsoft 365-Gruppen- und/oder Microsoft Teams-Kanal betroffen. Wenn es sich bei dem Ziel um einen Microsoft 365-Gruppen- oder Microsoft Teams-Kanal handelt, bestimmt die Gruppe oder der Kanal das endgültige Berechtigungsprofil für migrierte Dateien. Es wird empfohlen, keine Berechtigungen für Dateien zu migrieren, die zu einem Microsoft 365-Gruppen- oder Microsoft Teams-Kanal migriert werden.</td>
+<td><ul>
+<li> Besitzverlauf und frühere Versionen </li>
+<li> Konvertierung eingebetteter URLs im Inhalt </li>
+<li> Frühere Versionen </li>
+<li> Windows-Datei-/-Ordnerattribute (z. B. „Schreibgeschützt“ und „Ausgeblendet“)  </li>
+<li> Nicht-Windows-NTFS-Dateisystem (New Technology File System) und erweiterte NTFS-Berechtigungen sowie besondere Einstellungen: </li>
+<li> Explizite Verweigerungsberechtigungen (werden nach der Migration entfernt, Inhalte unterliegen parallelen Berechtigungen oder Berechtigungen im übergeordneten Ordner). </li>
+<li> Konfiguration der NTFS-Überwachung </li>
+<li> Zusätzliche Dateimetadaten von der Dateiklassifizierungsinfrastruktur (File Classification Infrastructure, FCI) </li>
+<li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
+<li> Ausgeblendete Freigaben </li>
+<li> Freigabe (z. B. gewährte Berechtigungen auf Freigabeebene) </li>
+<li> Dateien oder Ordner, die aktuelle <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online-Einschränkungen und -Einschränkungen überschreiten</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>Einzelne G Suite-Umgebung (nur Google Drive)</strong></td>
+<td>Einzeln oder mehrstufig</td>
+<td><ul>
+<li> Google Docs, Google Tabellen und Google Präsentationen (Dateien werden in das entsprechende Office-Format konvertiert, einschließlich derjenigen über 10 MB) </li>
+<li> Datei- und Ordnerstruktur </li>
+<li> Ordnerberechtigungen auf Benutzerebene* </li>
+<li> Ordnerberechtigungen auf Gruppenebene* </li>
+<li> Dateien unter 15 GB </li>
+<li> Grundlegende Dokument- und Ordnermetadaten: 
+<ul>
+<li> Erstellungsdatum </li>
+<li> Änderungsdatum </li>
+<li> Erstellt von </li>
+<li> Zuletzt geändert von </li>
+</ul></li>
+<li> Freigegebene Laufwerke (Ordner und Dateien) </li>
+<li> Geteilte Inhalte, die im Besitz des Google Drive-Kontos sind, das migriert wird </li>
+</ul>
+<br>
+*Berechtigungen werden vom Microsoft 365-Gruppen- und/oder Microsoft #A0 betroffen. Wenn es sich bei dem Ziel um einen Microsoft 365-Gruppen- oder Microsoft Teams-Kanal handelt, bestimmt die Gruppe oder der Kanal das endgültige Berechtigungsprofil für migrierte Dateien. Es wird empfohlen, keine Berechtigungen für Dateien zu migrieren, die zu einem Microsoft 365-Gruppen- oder Microsoft Teams-Kanal migriert werden. 
+</td>
+<td><ul>
+<li> Besitzverlauf, frühere Versionen und Kommentare </li>
+<li> Beschreibungen von Dateien und Ordnern, Ordnerfarben </li>
+<li> Berechtigungen für Dateien auf Benutzerebene </li>
+<li> Berechtigungen für Dateien auf Gruppenebene </li>
+<li> Erweiterte Metadaten </li>
+<li> Attribute für Dateisperre </li>
+<li> Konvertierung eingebetteter URLs im Inhalt </li>
+<li> Gelöschte Elemente </li>
+<li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
+<li> Blockierte oder inaktive Benutzer </li>
+<li> Google Fotos, Google Formulare, Google Maps und andere verbundene Apps </li>
+<li> Google Zeichnungen </li>
+<li> Freigegebene Inhalte außerhalb Ihrer Organisation </li>
+<li> Inhalte, die nicht im Besitz des Google Drive-Kontos sind, das migriert wird </li>
+<li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Google Drive-Administratorberichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
+<li> Mitgliedschaftsberechtigungen für freigegebene Laufwerke (<strong>Hinweis</strong>: Verwenden Sie die Google Drive-Administratorberichte, um die Mitgliedschaften für freigegebene Laufwerke zu identifizieren. Weisen Sie die Endbenutzer an, diese Mitgliedschaftseinstellungen auf dem Ziel vor der Migration zu konfigurieren.) </li>
+<li> Dateien oder Ordner, die aktuelle <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online-Einschränkungen und -Einschränkungen überschreiten</span></a> </li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><strong>Box (Starter, Business, Enterprise)</strong></td>
+<td>Einzeln oder mehrstufig</td>
+<td><ul>
+<li> Dokumente </li>
+<li> Datei- und Ordnerstruktur </li>
+<li> Ordnerberechtigungen auf Benutzerebene* </li>
+<li> Ordnerberechtigungen auf Gruppenebene* </li>
+<li> Dateien unter 15 GB </li>
+<li> Grundlegende Dokument- und Ordnermetadaten: 
+<ul>
+<li> Erstellungsdatum </li>
+<li> Änderungsdatum </li>
+<li> Erstellt von </li>
+<li> Zuletzt geändert von </li>
+</ul></li>
+<li> Geteilte Inhalte, die im Besitz des Box-Kontos sind, das migriert wird </li>
+<li> Box Notes (in Word-Dokumentformat konvertiert) </li>
+</ul>
+<br>
+*Berechtigungen werden vom Microsoft 365-Gruppen- und/oder Microsoft #A0 betroffen. Wenn es sich bei dem Ziel um einen Microsoft 365-Gruppen- oder Microsoft Teams-Kanal handelt, bestimmt die Gruppe oder der Kanal das endgültige Berechtigungsprofil für migrierte Dateien. Es wird empfohlen, keine Berechtigungen für Dateien zu migrieren, die zu einem Microsoft 365-Gruppen- oder Microsoft Teams-Kanal migriert werden. </td>
+<td><ul>
+<li> Besitzverlauf, frühere Versionen und Kommentare </li>
+<li> Beschreibungen von Dateien und Ordnern </li>
+<li> Berechtigungen für Dateien auf Benutzerebene </li>
+<li> Berechtigungen für Dateien auf Gruppenebene </li>
+<li> Box-Tags und erweiterte Metadaten </li>
+<li> Attribute für Dateisperre </li>
+<li> Konvertierung eingebetteter URLs im Inhalt </li>
+<li> Gelöschte Elemente </li>
+<li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
+<li> Blockierte oder inaktive Benutzer </li>
+<li> Box-Apps, Lesezeichen, Favoriten und Workflows </li>
+<li> Inhalte, die nicht im Besitz des migrierten Box-Kontos sind </li>
+<li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Box-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
+<li> Dateien oder Ordner, die aktuelle <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online-Einschränkungen und -Einschränkungen überschreiten</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>Dropbox für Teams (Standard und Erweitert)</strong></td>
+<td>Einzeln oder mehrstufig</td>
+<td><ul>
+<li> Dokumente </li>
+<li> Datei- und Ordnerstruktur </li>
+<li> Ordnerberechtigungen auf Benutzerebene* </li>
+<li> Ordnerberechtigungen auf Gruppenebene* </li>
+<li> Dateien unter 15 GB </li>
+<li> Grundlegende Dokument- und Ordnermetadaten: 
+<ul>
+<li> Erstellungsdatum </li>
+<li> Änderungsdatum </li>
+<li> Erstellt von </li>
+<li> Zuletzt geändert von </li>
+</ul></li>
+<li> Freigegebene Teamordner und -inhalte </li>
+<li> Geteilte Inhalte, die im Besitz des Dropbox-Kontos sind, das migriert wird </li>
+</ul>
+<br>
+*Berechtigungen werden vom Microsoft 365-Gruppen- und/oder Microsoft #A0 betroffen. Wenn es sich bei dem Ziel um einen Microsoft 365-Gruppen- oder Microsoft Teams-Kanal handelt, bestimmt die Gruppe oder der Kanal das endgültige Berechtigungsprofil für migrierte Dateien. Es wird empfohlen, keine Berechtigungen für Dateien zu migrieren, die zu einem Microsoft 365-Gruppen- oder Microsoft Teams-Kanal migriert werden.
+</td>
+<td><ul>
+<li> Besitzverlauf, frühere Versionen und Kommentare </li>
+<li> Beschreibungen von Dateien und Ordnern </li>
+<li> Berechtigungen für Dateien auf Benutzerebene </li>
+<li> Berechtigungen für Dateien auf Gruppenebene </li>
+<li> Erweiterte Metadaten </li>
+<li> Attribute für Dateisperre </li>
+<li> Konvertierung eingebetteter URLs im Inhalt </li>
+<li> Gelöschte Elemente </li>
+<li> Beschädigte Dokumente und Dokumente, auf die nicht zugegriffen werden kann </li>
+<li> Nicht gemountete Dropbox-Ordner </li>
+<li> Gelöschte oder getrennte Benutzer </li>
+<li> Dropbox Paper, Showcases und Spaces </li>
+<li> Dropbox-Apps und Favoriten (Pins/Sterne) </li>
+<li> Inhalte, die nicht im Besitz des migrierten Dropbox-Kontos sind </li>
+<li> Berechtigungen und grundlegende Metadaten von externen Benutzern (<strong>Hinweis</strong>: Verwenden Sie Dropbox-Berichte zum Identifizieren von Inhalten, die für externe Benutzer freigegeben wurden. Weisen Sie Endbenutzer an, Inhalte nach der Migration erneut für externe Benutzer freizugeben.) </li>
+<li> Dateien oder Ordner, die aktuelle <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">SharePoint Online-Einschränkungen und -Einschränkungen überschreiten</span></a> </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
+
+Während des Migrationsprojekts führen unsere FastTrack-Spezialisten Standardaktivitäten aus. Einzelheiten hierzu finden Sie in den Informationen zu Datenmigrationszuständigkeiten unter [Prozess und Erwartungen](process-and-expectations.md).
+
+## <a name="your-responsibilities"></a>Ihre Zuständigkeiten 
+
+Während des Migrationsprojekts führen Sie Standardaktivitäten aus. Einzelheiten hierzu finden Sie in den Informationen zu Datenmigrationszuständigkeiten unter [Prozess und Erwartungen](process-and-expectations.md).
+Sie führen außerdem die folgenden Aktivitäten aus, die speziell für Migrationen von Microsoft Teams und Microsoft 365-Gruppen verwendet werden: 
+
+- Bereitstellen aller Microsoft Teams-Kanäle und Microsoft 365-Gruppen, die auf Ihre Migrationsereignisse ausgerichtet sind.
+
+> [!NOTE]
+>FastTrack stellt keine Microsoft Teams-Kanäle oder Microsoft 365-Gruppen vorab zur Verfügung. FastTrack fügt keine Endbenutzer oder Gruppen zu Microsoft Teams-Kanälen oder Microsoft 365-Gruppen hinzu. Sie müssen Ihre Endbenutzer oder Gruppen zu allen Microsoft Teams-Kanälen und Microsoft 365-Gruppen hinzufügen, bevor Sie Daten zu diesen Zielen migrieren, damit diese Endbenutzer Zugriff auf diese neu migrierten Dokumente haben.
