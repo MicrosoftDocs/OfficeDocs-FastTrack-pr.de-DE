@@ -3,216 +3,216 @@ title: Teilnahmeberechtigung
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416424"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187984"
 ---
-# <a name="eligibility"></a><span data-ttu-id="21fb4-103">Teilnahmeberechtigung</span><span class="sxs-lookup"><span data-stu-id="21fb4-103">Eligibility</span></span>
+# <a name="eligibility"></a><span data-ttu-id="14017-103">Teilnahmeberechtigung</span><span class="sxs-lookup"><span data-stu-id="14017-103">Eligibility</span></span>
 
-<span data-ttu-id="21fb4-104">In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.</span><span class="sxs-lookup"><span data-stu-id="21fb4-104">In this topic, we outline the eligibility requirements for receiving remote, guided assistance from FastTrack Specialists included in the purchase of Microsoft 365 licenses and details the specific products and capabilities covered.</span></span>
+<span data-ttu-id="14017-104">In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.</span><span class="sxs-lookup"><span data-stu-id="14017-104">In this topic, we outline the eligibility requirements for receiving remote, guided assistance from FastTrack Specialists included in the purchase of Microsoft 365 licenses and details the specific products and capabilities covered.</span></span>
 
-<span data-ttu-id="21fb4-105">Die FastTrack-Unterstützung ist für Kunden mit mindestens 150 Lizenzen aus einem der geeigneten Pläne aus den folgenden Microsoft-Produktfamilien verfügbar: Microsoft 365, Office 365, Enterprise Mobility & Security und Windows 10.</span><span class="sxs-lookup"><span data-stu-id="21fb4-105">FastTrack assistance is available for customers with 150 or more licenses from one of the eligible plans from the following Microsoft product families: Microsoft 365, Office 365, Enterprise Mobility & Security, and Windows 10.</span></span> <span data-ttu-id="21fb4-106">Diese Pläne können für ein einzelnes Produkt (z. B. Exchange Online) oder eine Suite von Produkten (Office 365 E3) sein.</span><span class="sxs-lookup"><span data-stu-id="21fb4-106">These plans can be for an individual product (like Exchange Online) or a suite of products (Office 365 E3).</span></span> <span data-ttu-id="21fb4-107">Da Microsoft viele Einkaufsoptionen bietet, ist die Liste der geeigneten Pläne umfangreich. Sie finden sie unter [Berechtigte Pläne](#eligible-plans).</span><span class="sxs-lookup"><span data-stu-id="21fb4-107">Because Microsoft provides many purchasing options, the list of eligible plans is extensive and is found in [Eligible plans](#eligible-plans).</span></span>
+<span data-ttu-id="14017-105">Die FastTrack-Unterstützung ist für Kunden mit mindestens 150 Lizenzen aus einem der geeigneten Pläne aus den folgenden Microsoft-Produktfamilien verfügbar: Microsoft 365, Office 365, Enterprise Mobility & Security und Windows 10.</span><span class="sxs-lookup"><span data-stu-id="14017-105">FastTrack assistance is available for customers with 150 or more licenses from one of the eligible plans from the following Microsoft product families: Microsoft 365, Office 365, Enterprise Mobility & Security, and Windows 10.</span></span> <span data-ttu-id="14017-106">Diese Pläne können für ein einzelnes Produkt (z. B. Exchange Online) oder eine Suite von Produkten (Office 365 E3) sein.</span><span class="sxs-lookup"><span data-stu-id="14017-106">These plans can be for an individual product (like Exchange Online) or a suite of products (Office 365 E3).</span></span> <span data-ttu-id="14017-107">Da Microsoft viele Einkaufsoptionen bietet, ist die Liste der geeigneten Pläne umfangreich. Sie finden sie unter [Berechtigte Pläne](#eligible-plans).</span><span class="sxs-lookup"><span data-stu-id="14017-107">Because Microsoft provides many purchasing options, the list of eligible plans is extensive and is found in [Eligible plans](#eligible-plans).</span></span>
 
-## <a name="products-and-capabilities-covered"></a><span data-ttu-id="21fb4-108">Enthaltene Produkte und Funktionen</span><span class="sxs-lookup"><span data-stu-id="21fb4-108">Products and capabilities covered</span></span>
+## <a name="products-and-capabilities-covered"></a><span data-ttu-id="14017-108">Enthaltene Produkte und Funktionen</span><span class="sxs-lookup"><span data-stu-id="14017-108">Products and capabilities covered</span></span>
 
-<span data-ttu-id="21fb4-109">FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folgenden Dienste bieten, die möglicherweise in Ihrem erworbenen Plan enthalten sind:</span><span class="sxs-lookup"><span data-stu-id="21fb4-109">FastTrack Specialists can provide you with remote, guided assistance for the following services that may be included with your purchased plan:</span></span>
+<span data-ttu-id="14017-109">FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folgenden Dienste bieten, die möglicherweise in Ihrem erworbenen Plan enthalten sind:</span><span class="sxs-lookup"><span data-stu-id="14017-109">FastTrack Specialists can provide you with remote, guided assistance for the following services that may be included with your purchased plan:</span></span>
 
-  - <span data-ttu-id="21fb4-110">Azure Active Directory (Azure AD) Premium</span><span class="sxs-lookup"><span data-stu-id="21fb4-110">Azure Active Directory (Azure AD) Premium</span></span>
-  - <span data-ttu-id="21fb4-111">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="21fb4-111">Azure Information Protection</span></span>
-  - <span data-ttu-id="21fb4-112">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="21fb4-112">Exchange Online</span></span>
-  - <span data-ttu-id="21fb4-113">Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="21fb4-113">Microsoft 365 Apps</span></span>
+  - <span data-ttu-id="14017-110">Azure Active Directory (Azure AD) Premium</span><span class="sxs-lookup"><span data-stu-id="14017-110">Azure Active Directory (Azure AD) Premium</span></span>
+  - <span data-ttu-id="14017-111">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="14017-111">Azure Information Protection</span></span>
+  - <span data-ttu-id="14017-112">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="14017-112">Exchange Online</span></span>
+  - <span data-ttu-id="14017-113">Microsoft 365 Apps</span><span class="sxs-lookup"><span data-stu-id="14017-113">Microsoft 365 Apps</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="21fb4-114">Office 365 ProPlus wurde in Microsoft 365 Apps umbenannt.</span><span class="sxs-lookup"><span data-stu-id="21fb4-114">Office 365 ProPlus has been renamed to Microsoft 365 Apps.</span></span> <span data-ttu-id="21fb4-115">In einigen Fällen wird möglicherweise noch der alte Name verwendet.</span><span class="sxs-lookup"><span data-stu-id="21fb4-115">In some cases, you may find uses of the legacy name.</span></span> <span data-ttu-id="21fb4-116">Details zum Zeitpunkt des Inkrafttretens dieser Änderung finden Sie unter [Namensänderung für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).</span><span class="sxs-lookup"><span data-stu-id="21fb4-116">For details of when this change takes effect, please see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).</span></span>
+> <span data-ttu-id="14017-114">Office 365 ProPlus wurde in Microsoft 365 Apps umbenannt.</span><span class="sxs-lookup"><span data-stu-id="14017-114">Office 365 ProPlus has been renamed to Microsoft 365 Apps.</span></span> <span data-ttu-id="14017-115">In einigen Fällen wird möglicherweise noch der alte Name verwendet.</span><span class="sxs-lookup"><span data-stu-id="14017-115">In some cases, you may find uses of the legacy name.</span></span> <span data-ttu-id="14017-116">Details zum Zeitpunkt des Inkrafttretens dieser Änderung finden Sie unter [Namensänderung für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).</span><span class="sxs-lookup"><span data-stu-id="14017-116">For details of when this change takes effect, please see [Name change for Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).</span></span>
 
-  - <span data-ttu-id="21fb4-117">Microsoft 365 Defender</span><span class="sxs-lookup"><span data-stu-id="21fb4-117">Microsoft 365 Defender</span></span>
-  - <span data-ttu-id="21fb4-118">Microsoft Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="21fb4-118">Microsoft Cloud App Security</span></span>
-  - <span data-ttu-id="21fb4-119">Microsoft Defender Advanced Threat Protection (ATP)</span><span class="sxs-lookup"><span data-stu-id="21fb4-119">Microsoft Defender Advanced Threat Protection (ATP)</span></span>
-  - <span data-ttu-id="21fb4-120">Microsoft Defender for Identity</span><span class="sxs-lookup"><span data-stu-id="21fb4-120">Microsoft Defender for Identity</span></span> 
-  - <span data-ttu-id="21fb4-121">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="21fb4-121">Microsoft Edge</span></span>
-  - <span data-ttu-id="21fb4-122">Microsoft Information Governance</span><span class="sxs-lookup"><span data-stu-id="21fb4-122">Microsoft Information Governance</span></span>
-  - <span data-ttu-id="21fb4-123">Microsoft Information Protection</span><span class="sxs-lookup"><span data-stu-id="21fb4-123">Microsoft Information Protection</span></span>
-  - <span data-ttu-id="21fb4-124">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="21fb4-124">Microsoft Intune</span></span>
-  - <span data-ttu-id="21fb4-125">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="21fb4-125">Microsoft Teams</span></span>
-  - <span data-ttu-id="21fb4-126">Office 365 Advanced Threat Protection (ATP)</span><span class="sxs-lookup"><span data-stu-id="21fb4-126">Office 365 Advanced Threat Protection (ATP)</span></span>
-  - <span data-ttu-id="21fb4-127">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="21fb4-127">OneDrive for Business</span></span>
-  - <span data-ttu-id="21fb4-128">Power BI</span><span class="sxs-lookup"><span data-stu-id="21fb4-128">Power BI</span></span>
-  - <span data-ttu-id="21fb4-129">Project Online</span><span class="sxs-lookup"><span data-stu-id="21fb4-129">Project Online</span></span>
-  - <span data-ttu-id="21fb4-130">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="21fb4-130">SharePoint Online</span></span>
-  - <span data-ttu-id="21fb4-131">Windows 10</span><span class="sxs-lookup"><span data-stu-id="21fb4-131">Windows 10</span></span>
-  - <span data-ttu-id="21fb4-132">Windows Virtual Desktop</span><span class="sxs-lookup"><span data-stu-id="21fb4-132">Windows Virtual Desktop</span></span>
-  - <span data-ttu-id="21fb4-133">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="21fb4-133">Yammer Enterprise</span></span>
+  - <span data-ttu-id="14017-117">Microsoft 365 Defender</span><span class="sxs-lookup"><span data-stu-id="14017-117">Microsoft 365 Defender</span></span>
+  - <span data-ttu-id="14017-118">Microsoft Cloud App Security</span><span class="sxs-lookup"><span data-stu-id="14017-118">Microsoft Cloud App Security</span></span>
+  - <span data-ttu-id="14017-119">Microsoft Defender für Endpunkt</span><span class="sxs-lookup"><span data-stu-id="14017-119">Microsoft Defender for Endpoint</span></span>
+  - <span data-ttu-id="14017-120">Microsoft Defender for Identity</span><span class="sxs-lookup"><span data-stu-id="14017-120">Microsoft Defender for Identity</span></span> 
+  - <span data-ttu-id="14017-121">Microsoft Defender für Office 365</span><span class="sxs-lookup"><span data-stu-id="14017-121">Microsoft Defender for Office 365</span></span>
+  - <span data-ttu-id="14017-122">Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="14017-122">Microsoft Edge</span></span>
+  - <span data-ttu-id="14017-123">Microsoft Information Governance</span><span class="sxs-lookup"><span data-stu-id="14017-123">Microsoft Information Governance</span></span>
+  - <span data-ttu-id="14017-124">Microsoft Information Protection</span><span class="sxs-lookup"><span data-stu-id="14017-124">Microsoft Information Protection</span></span>
+  - <span data-ttu-id="14017-125">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="14017-125">Microsoft Intune</span></span>
+  - <span data-ttu-id="14017-126">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="14017-126">Microsoft Teams</span></span>
+  - <span data-ttu-id="14017-127">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="14017-127">OneDrive for Business</span></span>
+  - <span data-ttu-id="14017-128">Power BI</span><span class="sxs-lookup"><span data-stu-id="14017-128">Power BI</span></span>
+  - <span data-ttu-id="14017-129">Project Online</span><span class="sxs-lookup"><span data-stu-id="14017-129">Project Online</span></span>
+  - <span data-ttu-id="14017-130">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="14017-130">SharePoint Online</span></span>
+  - <span data-ttu-id="14017-131">Windows 10</span><span class="sxs-lookup"><span data-stu-id="14017-131">Windows 10</span></span>
+  - <span data-ttu-id="14017-132">Windows Virtual Desktop</span><span class="sxs-lookup"><span data-stu-id="14017-132">Windows Virtual Desktop</span></span>
+  - <span data-ttu-id="14017-133">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="14017-133">Yammer Enterprise</span></span>
 
-## <a name="eligible-plans"></a><span data-ttu-id="21fb4-134">Berechtigte Pläne</span><span class="sxs-lookup"><span data-stu-id="21fb4-134">Eligible plans</span></span>
+## <a name="eligible-plans"></a><span data-ttu-id="14017-134">Berechtigte Pläne</span><span class="sxs-lookup"><span data-stu-id="14017-134">Eligible plans</span></span>
 
-<span data-ttu-id="21fb4-135">Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne erwerben, um sich für FastTrack zu qualifizieren.</span><span class="sxs-lookup"><span data-stu-id="21fb4-135">You must purchase at least 150 licenses per tenant from one of the plans below to be eligible for FastTrack.</span></span> <span data-ttu-id="21fb4-136">Die Liste ist nach Produktfamilie gruppiert, damit Sie die spezifischen Pläne, die Ihr Unternehmen erworben hat, leichter finden können: Microsoft 365, Office 365, Enterprise Mobility & Security und Windows 10.</span><span class="sxs-lookup"><span data-stu-id="21fb4-136">The list is grouped by product family to help facilitate you finding the specific plans your company has purchased: Microsoft 365, Office 365, Enterprise Mobility & Security, and Windows 10.</span></span>
+<span data-ttu-id="14017-135">Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne erwerben, um sich für FastTrack zu qualifizieren.</span><span class="sxs-lookup"><span data-stu-id="14017-135">You must purchase at least 150 licenses per tenant from one of the plans below to be eligible for FastTrack.</span></span> <span data-ttu-id="14017-136">Die Liste ist nach Produktfamilie gruppiert, damit Sie die spezifischen Pläne, die Ihr Unternehmen erworben hat, leichter finden können: Microsoft 365, Office 365, Enterprise Mobility & Security und Windows 10.</span><span class="sxs-lookup"><span data-stu-id="14017-136">The list is grouped by product family to help facilitate you finding the specific plans your company has purchased: Microsoft 365, Office 365, Enterprise Mobility & Security, and Windows 10.</span></span>
 
-### <a name="microsoft-365-plans"></a><span data-ttu-id="21fb4-137">Microsoft 365-Pläne</span><span class="sxs-lookup"><span data-stu-id="21fb4-137">Microsoft 365 plans</span></span>
+### <a name="microsoft-365-plans"></a><span data-ttu-id="14017-137">Microsoft 365-Pläne</span><span class="sxs-lookup"><span data-stu-id="14017-137">Microsoft 365 plans</span></span>
 
-#### <a name="microsoft-365-enterprise"></a><span data-ttu-id="21fb4-138">Microsoft 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="21fb4-138">Microsoft 365 Enterprise</span></span>
+#### <a name="microsoft-365-enterprise"></a><span data-ttu-id="14017-138">Microsoft 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="14017-138">Microsoft 365 Enterprise</span></span>
 
-  - <span data-ttu-id="21fb4-139">Microsoft 365 E3\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-139">Microsoft 365 E3\*</span></span>
-  - <span data-ttu-id="21fb4-140">Microsoft 365 E5\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-140">Microsoft 365 E5\*</span></span>
-  - <span data-ttu-id="21fb4-141">Microsoft 365 E5 Security\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-141">Microsoft 365 E5 Security\*</span></span>
-  - <span data-ttu-id="21fb4-142">Microsoft 365 E5 Compliance\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-142">Microsoft 365 E5 Compliance\*</span></span>
-  - <span data-ttu-id="21fb4-143">Microsoft 365 E5 eDiscovery und Überwachung\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-143">Microsoft 365 E5 eDiscovery & Audit\*</span></span>
-  - <span data-ttu-id="21fb4-144">Microsoft 365 E5 Information Protection und Governance\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-144">Microsoft 365 E5 Information Protection & Governance\*</span></span>
-  - <span data-ttu-id="21fb4-145">Microsoft 365 E5 Insider-Risikomanagement\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-145">Microsoft 365 E5 Insider Risk Management\*</span></span>
-  - <span data-ttu-id="21fb4-146">Microsoft 365 F1\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-146">Microsoft 365 F1\*</span></span>
-  - <span data-ttu-id="21fb4-147">Microsoft 365 F3\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-147">Microsoft 365 F3\*</span></span>
-  - <span data-ttu-id="21fb4-148">Microsoft 365 Business\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-148">Microsoft 365 Business\*</span></span>
-  - <span data-ttu-id="21fb4-149">Microsoft 365 Apps for Enterprise\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-149">Microsoft 365 Apps for Enterprise\*</span></span>
-  - <span data-ttu-id="21fb4-150">Microsoft 365 Apps for Enterprise (Gerät)\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-150">Microsoft 365 Apps for Enterprise (device)\*</span></span>
+  - <span data-ttu-id="14017-139">Microsoft 365 E3\*</span><span class="sxs-lookup"><span data-stu-id="14017-139">Microsoft 365 E3\*</span></span>
+  - <span data-ttu-id="14017-140">Microsoft 365 E5\*</span><span class="sxs-lookup"><span data-stu-id="14017-140">Microsoft 365 E5\*</span></span>
+  - <span data-ttu-id="14017-141">Microsoft 365 E5 Security\*</span><span class="sxs-lookup"><span data-stu-id="14017-141">Microsoft 365 E5 Security\*</span></span>
+  - <span data-ttu-id="14017-142">Microsoft 365 E5 Compliance\*</span><span class="sxs-lookup"><span data-stu-id="14017-142">Microsoft 365 E5 Compliance\*</span></span>
+  - <span data-ttu-id="14017-143">Microsoft 365 E5 eDiscovery und Überwachung\*</span><span class="sxs-lookup"><span data-stu-id="14017-143">Microsoft 365 E5 eDiscovery & Audit\*</span></span>
+  - <span data-ttu-id="14017-144">Microsoft 365 E5 Information Protection und Governance\*</span><span class="sxs-lookup"><span data-stu-id="14017-144">Microsoft 365 E5 Information Protection & Governance\*</span></span>
+  - <span data-ttu-id="14017-145">Microsoft 365 E5 Insider-Risikomanagement\*</span><span class="sxs-lookup"><span data-stu-id="14017-145">Microsoft 365 E5 Insider Risk Management\*</span></span>
+  - <span data-ttu-id="14017-146">Microsoft 365 F1\*</span><span class="sxs-lookup"><span data-stu-id="14017-146">Microsoft 365 F1\*</span></span>
+  - <span data-ttu-id="14017-147">Microsoft 365 F3\*</span><span class="sxs-lookup"><span data-stu-id="14017-147">Microsoft 365 F3\*</span></span>
+  - <span data-ttu-id="14017-148">Microsoft 365 Business\*</span><span class="sxs-lookup"><span data-stu-id="14017-148">Microsoft 365 Business\*</span></span>
+  - <span data-ttu-id="14017-149">Microsoft 365 Apps for Enterprise\*</span><span class="sxs-lookup"><span data-stu-id="14017-149">Microsoft 365 Apps for Enterprise\*</span></span>
+  - <span data-ttu-id="14017-150">Microsoft 365 Apps for Enterprise (Gerät)\*</span><span class="sxs-lookup"><span data-stu-id="14017-150">Microsoft 365 Apps for Enterprise (device)\*</span></span>
 
-#### <a name="microsoft-365-business"></a><span data-ttu-id="21fb4-151">Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="21fb4-151">Microsoft 365 Business</span></span>
+#### <a name="microsoft-365-business"></a><span data-ttu-id="14017-151">Microsoft 365 Business</span><span class="sxs-lookup"><span data-stu-id="14017-151">Microsoft 365 Business</span></span>
 
-  - <span data-ttu-id="21fb4-152">Microsoft 365 Business Basic\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-152">Microsoft 365 Business Basic\*</span></span>
-  - <span data-ttu-id="21fb4-153">Microsoft 365 Business Standard\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-153">Microsoft 365 Business Standard\*</span></span>
-  - <span data-ttu-id="21fb4-154">Microsoft 365 Apps for Business\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-154">Microsoft 365 Apps for Business\*</span></span>
+  - <span data-ttu-id="14017-152">Microsoft 365 Business Basic\*</span><span class="sxs-lookup"><span data-stu-id="14017-152">Microsoft 365 Business Basic\*</span></span>
+  - <span data-ttu-id="14017-153">Microsoft 365 Business Standard\*</span><span class="sxs-lookup"><span data-stu-id="14017-153">Microsoft 365 Business Standard\*</span></span>
+  - <span data-ttu-id="14017-154">Microsoft 365 Apps for Business\*</span><span class="sxs-lookup"><span data-stu-id="14017-154">Microsoft 365 Apps for Business\*</span></span>
 
-#### <a name="microsoft-365-education"></a><span data-ttu-id="21fb4-155">Microsoft 365 Education</span><span class="sxs-lookup"><span data-stu-id="21fb4-155">Microsoft 365 Education</span></span>
+#### <a name="microsoft-365-education"></a><span data-ttu-id="14017-155">Microsoft 365 Education</span><span class="sxs-lookup"><span data-stu-id="14017-155">Microsoft 365 Education</span></span>
 
-  - <span data-ttu-id="21fb4-156">Microsoft 365 A3\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-156">Microsoft 365 A3\*</span></span>
-  - <span data-ttu-id="21fb4-157">Microsoft 365 A5\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-157">Microsoft 365 A5\*</span></span>
-  - <span data-ttu-id="21fb4-158">Microsoft 365 A5 Security\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-158">Microsoft 365 A5 Security\*</span></span>
-  - <span data-ttu-id="21fb4-159">Microsoft 365 A5 Compliance\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-159">Microsoft 365 A5 Compliance\*</span></span>
-  - <span data-ttu-id="21fb4-160">Microsoft 365 A5 eDiscovery und Überwachung\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-160">Microsoft 365 A5 eDiscovery & Audit\*</span></span>
-  - <span data-ttu-id="21fb4-161">Microsoft 365 A5 Information Protection und Governance\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-161">Microsoft 365 A5 Information Protection & Governance\*</span></span>
-  - <span data-ttu-id="21fb4-162">Microsoft 365 A5 Insider-Risikomanagement\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-162">Microsoft 365 A5 Insider Risk Management\*</span></span>
-  - <span data-ttu-id="21fb4-163">Microsoft 365 Apps für Bildungseinrichtungen (Gerät)\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-163">Microsoft 365 Apps for Education (device)\*</span></span>
+  - <span data-ttu-id="14017-156">Microsoft 365 A3\*</span><span class="sxs-lookup"><span data-stu-id="14017-156">Microsoft 365 A3\*</span></span>
+  - <span data-ttu-id="14017-157">Microsoft 365 A5\*</span><span class="sxs-lookup"><span data-stu-id="14017-157">Microsoft 365 A5\*</span></span>
+  - <span data-ttu-id="14017-158">Microsoft 365 A5 Security\*</span><span class="sxs-lookup"><span data-stu-id="14017-158">Microsoft 365 A5 Security\*</span></span>
+  - <span data-ttu-id="14017-159">Microsoft 365 A5 Compliance\*</span><span class="sxs-lookup"><span data-stu-id="14017-159">Microsoft 365 A5 Compliance\*</span></span>
+  - <span data-ttu-id="14017-160">Microsoft 365 A5 eDiscovery und Überwachung\*</span><span class="sxs-lookup"><span data-stu-id="14017-160">Microsoft 365 A5 eDiscovery & Audit\*</span></span>
+  - <span data-ttu-id="14017-161">Microsoft 365 A5 Information Protection und Governance\*</span><span class="sxs-lookup"><span data-stu-id="14017-161">Microsoft 365 A5 Information Protection & Governance\*</span></span>
+  - <span data-ttu-id="14017-162">Microsoft 365 A5 Insider-Risikomanagement\*</span><span class="sxs-lookup"><span data-stu-id="14017-162">Microsoft 365 A5 Insider Risk Management\*</span></span>
+  - <span data-ttu-id="14017-163">Microsoft 365 Apps für Bildungseinrichtungen (Gerät)\*</span><span class="sxs-lookup"><span data-stu-id="14017-163">Microsoft 365 Apps for Education (device)\*</span></span>
 
-### <a name="office-365-plans"></a><span data-ttu-id="21fb4-164">Office 365-Pläne</span><span class="sxs-lookup"><span data-stu-id="21fb4-164">Office 365 plans</span></span> 
+### <a name="office-365-plans"></a><span data-ttu-id="14017-164">Office 365-Pläne</span><span class="sxs-lookup"><span data-stu-id="14017-164">Office 365 plans</span></span> 
  
-#### <a name="office-365-enterprise"></a><span data-ttu-id="21fb4-165">Office 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="21fb4-165">Office 365 Enterprise</span></span>
+#### <a name="office-365-enterprise"></a><span data-ttu-id="14017-165">Office 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="14017-165">Office 365 Enterprise</span></span>
 
-  - <span data-ttu-id="21fb4-166">Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="21fb4-166">Office 365 Enterprise E1</span></span>
-  - <span data-ttu-id="21fb4-167">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="21fb4-167">Office 365 Enterprise E3</span></span>
-  - <span data-ttu-id="21fb4-168">Office 365 Enterprise E4</span><span class="sxs-lookup"><span data-stu-id="21fb4-168">Office 365 Enterprise E4</span></span>
-  - <span data-ttu-id="21fb4-169">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="21fb4-169">Office 365 Enterprise E5</span></span>
-  - <span data-ttu-id="21fb4-170">Office 365 Enterprise F3</span><span class="sxs-lookup"><span data-stu-id="21fb4-170">Office 365 Enterprise F3</span></span>
-  - <span data-ttu-id="21fb4-171">Office 365 US Government G1\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-171">Office 365 US Government G1\*\*</span></span>
-  - <span data-ttu-id="21fb4-172">Office 365 US Government G3\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-172">Office 365 US Government G3\*\*</span></span>
-  - <span data-ttu-id="21fb4-173">Office 365 US Government G4\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-173">Office 365 US Government G4\*\*</span></span>
-  - <span data-ttu-id="21fb4-174">Office 365 US Government G5\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-174">Office 365 US Government G5\*\*</span></span>
-  - <span data-ttu-id="21fb4-175">Office 365 US Government F3\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-175">Office 365 US Government F3\*\*</span></span>
+  - <span data-ttu-id="14017-166">Office 365 Enterprise E1</span><span class="sxs-lookup"><span data-stu-id="14017-166">Office 365 Enterprise E1</span></span>
+  - <span data-ttu-id="14017-167">Office 365 Enterprise E3</span><span class="sxs-lookup"><span data-stu-id="14017-167">Office 365 Enterprise E3</span></span>
+  - <span data-ttu-id="14017-168">Office 365 Enterprise E4</span><span class="sxs-lookup"><span data-stu-id="14017-168">Office 365 Enterprise E4</span></span>
+  - <span data-ttu-id="14017-169">Office 365 Enterprise E5</span><span class="sxs-lookup"><span data-stu-id="14017-169">Office 365 Enterprise E5</span></span>
+  - <span data-ttu-id="14017-170">Office 365 Enterprise F3</span><span class="sxs-lookup"><span data-stu-id="14017-170">Office 365 Enterprise F3</span></span>
+  - <span data-ttu-id="14017-171">Office 365 US Government G1\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-171">Office 365 US Government G1\*\*</span></span>
+  - <span data-ttu-id="14017-172">Office 365 US Government G3\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-172">Office 365 US Government G3\*\*</span></span>
+  - <span data-ttu-id="14017-173">Office 365 US Government G4\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-173">Office 365 US Government G4\*\*</span></span>
+  - <span data-ttu-id="14017-174">Office 365 US Government G5\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-174">Office 365 US Government G5\*\*</span></span>
+  - <span data-ttu-id="14017-175">Office 365 US Government F3\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-175">Office 365 US Government F3\*\*</span></span>
 
-#### <a name="office-365-education"></a><span data-ttu-id="21fb4-176">Office 365 Education\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-176">Office 365 Education\*\*</span></span>
+#### <a name="office-365-education"></a><span data-ttu-id="14017-176">Office 365 Education\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-176">Office 365 Education\*\*</span></span>
 
-  - <span data-ttu-id="21fb4-177">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="21fb4-177">Office 365 A3</span></span>
-  - <span data-ttu-id="21fb4-178">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="21fb4-178">Office 365 A5</span></span>
+  - <span data-ttu-id="14017-177">Office 365 A3</span><span class="sxs-lookup"><span data-stu-id="14017-177">Office 365 A3</span></span>
+  - <span data-ttu-id="14017-178">Office 365 A5</span><span class="sxs-lookup"><span data-stu-id="14017-178">Office 365 A5</span></span>
 
-#### <a name="exchange-online"></a><span data-ttu-id="21fb4-179">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="21fb4-179">Exchange Online</span></span>
+#### <a name="exchange-online"></a><span data-ttu-id="14017-179">Exchange Online</span><span class="sxs-lookup"><span data-stu-id="14017-179">Exchange Online</span></span>
 
-  - <span data-ttu-id="21fb4-180">Exchange Online Plan 1</span><span class="sxs-lookup"><span data-stu-id="21fb4-180">Exchange Online Plan 1</span></span>
-  - <span data-ttu-id="21fb4-181">Exchange Online Plan 2</span><span class="sxs-lookup"><span data-stu-id="21fb4-181">Exchange Online Plan 2</span></span>
-  - <span data-ttu-id="21fb4-182">Exchange Online-Kiosk</span><span class="sxs-lookup"><span data-stu-id="21fb4-182">Exchange Online Kiosk</span></span>
-  - <span data-ttu-id="21fb4-183">Exchange Online Protection</span><span class="sxs-lookup"><span data-stu-id="21fb4-183">Exchange Online Protection</span></span>
-  - <span data-ttu-id="21fb4-184">Office 365 Advanced Threat Protection</span><span class="sxs-lookup"><span data-stu-id="21fb4-184">Office 365 Advanced Threat Protection</span></span>
+  - <span data-ttu-id="14017-180">Exchange Online Plan 1</span><span class="sxs-lookup"><span data-stu-id="14017-180">Exchange Online Plan 1</span></span>
+  - <span data-ttu-id="14017-181">Exchange Online Plan 2</span><span class="sxs-lookup"><span data-stu-id="14017-181">Exchange Online Plan 2</span></span>
+  - <span data-ttu-id="14017-182">Exchange Online-Kiosk</span><span class="sxs-lookup"><span data-stu-id="14017-182">Exchange Online Kiosk</span></span>
+  - <span data-ttu-id="14017-183">Exchange Online Protection</span><span class="sxs-lookup"><span data-stu-id="14017-183">Exchange Online Protection</span></span>
+  - <span data-ttu-id="14017-184">Microsoft Defender für Office 365</span><span class="sxs-lookup"><span data-stu-id="14017-184">Microsoft Defender for Office 365</span></span>
 
-#### <a name="microsoft-teams"></a><span data-ttu-id="21fb4-185">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="21fb4-185">Microsoft Teams</span></span>
+#### <a name="microsoft-teams"></a><span data-ttu-id="14017-185">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="14017-185">Microsoft Teams</span></span>
 
-  - <span data-ttu-id="21fb4-186">Telefonsystem</span><span class="sxs-lookup"><span data-stu-id="21fb4-186">Phone System</span></span>
-  - <span data-ttu-id="21fb4-187">Anrufplan</span><span class="sxs-lookup"><span data-stu-id="21fb4-187">Calling Plan</span></span>
-  - <span data-ttu-id="21fb4-188">Audiokonferenzen</span><span class="sxs-lookup"><span data-stu-id="21fb4-188">Audio Conferencing</span></span>
-  - <span data-ttu-id="21fb4-189">Microsoft Teams Room</span><span class="sxs-lookup"><span data-stu-id="21fb4-189">Microsoft Teams Room</span></span>
+  - <span data-ttu-id="14017-186">Telefonsystem</span><span class="sxs-lookup"><span data-stu-id="14017-186">Phone System</span></span>
+  - <span data-ttu-id="14017-187">Anrufplan</span><span class="sxs-lookup"><span data-stu-id="14017-187">Calling Plan</span></span>
+  - <span data-ttu-id="14017-188">Audiokonferenzen</span><span class="sxs-lookup"><span data-stu-id="14017-188">Audio Conferencing</span></span>
+  - <span data-ttu-id="14017-189">Microsoft Teams Room</span><span class="sxs-lookup"><span data-stu-id="14017-189">Microsoft Teams Room</span></span>
 
-#### <a name="onedrive-for-business"></a><span data-ttu-id="21fb4-190">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="21fb4-190">OneDrive for Business</span></span>
+#### <a name="onedrive-for-business"></a><span data-ttu-id="14017-190">OneDrive for Business</span><span class="sxs-lookup"><span data-stu-id="14017-190">OneDrive for Business</span></span>
 
-  - <span data-ttu-id="21fb4-191">OneDrive for Business mit Office</span><span class="sxs-lookup"><span data-stu-id="21fb4-191">OneDrive for Business with Office</span></span>
-  - <span data-ttu-id="21fb4-192">OneDrive for Business Plan 1</span><span class="sxs-lookup"><span data-stu-id="21fb4-192">OneDrive for Business Plan 1</span></span>
-  - <span data-ttu-id="21fb4-193">OneDrive for Business-Plan 2</span><span class="sxs-lookup"><span data-stu-id="21fb4-193">OneDrive for Business Plan 2</span></span>
+  - <span data-ttu-id="14017-191">OneDrive for Business mit Office</span><span class="sxs-lookup"><span data-stu-id="14017-191">OneDrive for Business with Office</span></span>
+  - <span data-ttu-id="14017-192">OneDrive for Business Plan 1</span><span class="sxs-lookup"><span data-stu-id="14017-192">OneDrive for Business Plan 1</span></span>
+  - <span data-ttu-id="14017-193">OneDrive for Business-Plan 2</span><span class="sxs-lookup"><span data-stu-id="14017-193">OneDrive for Business Plan 2</span></span>
 
-#### <a name="project-online"></a><span data-ttu-id="21fb4-194">Project Online</span><span class="sxs-lookup"><span data-stu-id="21fb4-194">Project Online</span></span>
+#### <a name="project-online"></a><span data-ttu-id="14017-194">Project Online</span><span class="sxs-lookup"><span data-stu-id="14017-194">Project Online</span></span>
 
-  - <span data-ttu-id="21fb4-195">Project Online Essentials</span><span class="sxs-lookup"><span data-stu-id="21fb4-195">Project Online Essentials</span></span>
-  - <span data-ttu-id="21fb4-196">Project Online Professional</span><span class="sxs-lookup"><span data-stu-id="21fb4-196">Project Online Professional</span></span>
-  - <span data-ttu-id="21fb4-197">Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="21fb4-197">Project Online Premium</span></span>
+  - <span data-ttu-id="14017-195">Project Online Essentials</span><span class="sxs-lookup"><span data-stu-id="14017-195">Project Online Essentials</span></span>
+  - <span data-ttu-id="14017-196">Project Online Professional</span><span class="sxs-lookup"><span data-stu-id="14017-196">Project Online Professional</span></span>
+  - <span data-ttu-id="14017-197">Project Online Premium</span><span class="sxs-lookup"><span data-stu-id="14017-197">Project Online Premium</span></span>
 
-#### <a name="sharepoint-online"></a><span data-ttu-id="21fb4-198">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="21fb4-198">SharePoint Online</span></span>
+#### <a name="sharepoint-online"></a><span data-ttu-id="14017-198">SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="14017-198">SharePoint Online</span></span>
 
-  - <span data-ttu-id="21fb4-199">SharePoint Online Plan 1</span><span class="sxs-lookup"><span data-stu-id="21fb4-199">SharePoint Online Plan 1</span></span>
-  - <span data-ttu-id="21fb4-200">SharePoint Online Plan 2</span><span class="sxs-lookup"><span data-stu-id="21fb4-200">SharePoint Online Plan 2</span></span>
+  - <span data-ttu-id="14017-199">SharePoint Online Plan 1</span><span class="sxs-lookup"><span data-stu-id="14017-199">SharePoint Online Plan 1</span></span>
+  - <span data-ttu-id="14017-200">SharePoint Online Plan 2</span><span class="sxs-lookup"><span data-stu-id="14017-200">SharePoint Online Plan 2</span></span>
 
-#### <a name="yammer"></a><span data-ttu-id="21fb4-201">Yammer</span><span class="sxs-lookup"><span data-stu-id="21fb4-201">Yammer</span></span>
+#### <a name="yammer"></a><span data-ttu-id="14017-201">Yammer</span><span class="sxs-lookup"><span data-stu-id="14017-201">Yammer</span></span>
 
-  - <span data-ttu-id="21fb4-202">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="21fb4-202">Yammer Enterprise</span></span>
+  - <span data-ttu-id="14017-202">Yammer Enterprise</span><span class="sxs-lookup"><span data-stu-id="14017-202">Yammer Enterprise</span></span>
 
 <br>
 
-<span data-ttu-id="21fb4-203">\*Nur für FastTrack-berechtigte Clouddienste und Features verfügbar, die in diesem Leistungsangebot beschrieben werden.</span><span class="sxs-lookup"><span data-stu-id="21fb4-203">\*Available only for FastTrack-eligible cloud services and features described in this benefit description.</span></span>  
+<span data-ttu-id="14017-203">\*Nur für FastTrack-berechtigte Clouddienste und Features verfügbar, die in diesem Leistungsangebot beschrieben werden.</span><span class="sxs-lookup"><span data-stu-id="14017-203">\*Available only for FastTrack-eligible cloud services and features described in this benefit description.</span></span>  
       
-<span data-ttu-id="21fb4-204">\*\*Weitere Informationen zu den FastTrack-Vorteilen für US-Regierungsbehörden finden Sie unter [Office 365 US Government](https://aka.ms/aboutgovcloud).</span><span class="sxs-lookup"><span data-stu-id="21fb4-204">\*\*For more information on the FastTrack Benefit for the US Government, please see [Office 365 US Government](https://aka.ms/aboutgovcloud).</span></span>  
+<span data-ttu-id="14017-204">\*\*Weitere Informationen zu den FastTrack-Vorteilen für US-Regierungsbehörden finden Sie unter [Office 365 US Government](https://aka.ms/aboutgovcloud).</span><span class="sxs-lookup"><span data-stu-id="14017-204">\*\*For more information on the FastTrack Benefit for the US Government, please see [Office 365 US Government](https://aka.ms/aboutgovcloud).</span></span>  
        
       
-### <a name="enterprise-mobility--security-plans"></a><span data-ttu-id="21fb4-205">Enterprise Mobility- + Security-Pläne</span><span class="sxs-lookup"><span data-stu-id="21fb4-205">Enterprise Mobility + Security plans</span></span>  
+### <a name="enterprise-mobility--security-plans"></a><span data-ttu-id="14017-205">Enterprise Mobility- + Security-Pläne</span><span class="sxs-lookup"><span data-stu-id="14017-205">Enterprise Mobility + Security plans</span></span>  
       
-#### <a name="enterprise-mobility--security"></a><span data-ttu-id="21fb4-206">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="21fb4-206">Enterprise Mobility + Security</span></span>
+#### <a name="enterprise-mobility--security"></a><span data-ttu-id="14017-206">Enterprise Mobility + Security</span><span class="sxs-lookup"><span data-stu-id="14017-206">Enterprise Mobility + Security</span></span>
 
-  - <span data-ttu-id="21fb4-207">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-207">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span></span>
-  - <span data-ttu-id="21fb4-208">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="21fb4-208">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span></span>
+  - <span data-ttu-id="14017-207">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-207">Enterprise Mobility + Security (EMS) E3\*\*\*\*</span></span>
+  - <span data-ttu-id="14017-208">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span><span class="sxs-lookup"><span data-stu-id="14017-208">Enterprise Mobility + Security (EMS) E5\*\*\*\*</span></span>
 
-#### <a name="azure-active-directory-premium"></a><span data-ttu-id="21fb4-209">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="21fb4-209">Azure Active Directory Premium</span></span>
+#### <a name="azure-active-directory-premium"></a><span data-ttu-id="14017-209">Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="14017-209">Azure Active Directory Premium</span></span>
 
-  - <span data-ttu-id="21fb4-210">Azure Active Directory Premium Plan 1</span><span class="sxs-lookup"><span data-stu-id="21fb4-210">Azure Active Directory Premium Plan 1</span></span>
-  - <span data-ttu-id="21fb4-211">Azure Active Directory Premium Plan 2</span><span class="sxs-lookup"><span data-stu-id="21fb4-211">Azure Active Directory Premium Plan 2</span></span>
+  - <span data-ttu-id="14017-210">Azure Active Directory Premium Plan 1</span><span class="sxs-lookup"><span data-stu-id="14017-210">Azure Active Directory Premium Plan 1</span></span>
+  - <span data-ttu-id="14017-211">Azure Active Directory Premium Plan 2</span><span class="sxs-lookup"><span data-stu-id="14017-211">Azure Active Directory Premium Plan 2</span></span>
 
-#### <a name="azure-information-protection"></a><span data-ttu-id="21fb4-212">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="21fb4-212">Azure Information Protection</span></span>
+#### <a name="azure-information-protection"></a><span data-ttu-id="14017-212">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="14017-212">Azure Information Protection</span></span>
 
-  - <span data-ttu-id="21fb4-213">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="21fb4-213">Azure Information Protection</span></span>
+  - <span data-ttu-id="14017-213">Azure Information Protection</span><span class="sxs-lookup"><span data-stu-id="14017-213">Azure Information Protection</span></span>
 
-#### <a name="microsoft-intune"></a><span data-ttu-id="21fb4-214">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="21fb4-214">Microsoft Intune</span></span>
+#### <a name="microsoft-intune"></a><span data-ttu-id="14017-214">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="14017-214">Microsoft Intune</span></span>
 
-  - <span data-ttu-id="21fb4-215">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="21fb4-215">Microsoft Intune</span></span>
+  - <span data-ttu-id="14017-215">Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="14017-215">Microsoft Intune</span></span>
 
-#### <a name="microsoft-intune-and-configuration-manager"></a><span data-ttu-id="21fb4-216">Microsoft Intune and Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="21fb4-216">Microsoft Intune and Configuration Manager</span></span>
+#### <a name="microsoft-intune-and-configuration-manager"></a><span data-ttu-id="14017-216">Microsoft Intune and Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="14017-216">Microsoft Intune and Configuration Manager</span></span>
 
-  - <span data-ttu-id="21fb4-217">Microsoft Intune and Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="21fb4-217">Microsoft Intune and Configuration Manager</span></span>
+  - <span data-ttu-id="14017-217">Microsoft Intune and Configuration Manager</span><span class="sxs-lookup"><span data-stu-id="14017-217">Microsoft Intune and Configuration Manager</span></span>
 
-#### <a name="microsoft-intune-for-education"></a><span data-ttu-id="21fb4-218">Microsoft Intune for Education</span><span class="sxs-lookup"><span data-stu-id="21fb4-218">Microsoft Intune for Education</span></span>
+#### <a name="microsoft-intune-for-education"></a><span data-ttu-id="14017-218">Microsoft Intune for Education</span><span class="sxs-lookup"><span data-stu-id="14017-218">Microsoft Intune for Education</span></span>
 
-  - <span data-ttu-id="21fb4-219">Microsoft Intune for Education</span><span class="sxs-lookup"><span data-stu-id="21fb4-219">Microsoft Intune for Education</span></span>  
+  - <span data-ttu-id="14017-219">Microsoft Intune for Education</span><span class="sxs-lookup"><span data-stu-id="14017-219">Microsoft Intune for Education</span></span>  
       
 <br>
 
-<span data-ttu-id="21fb4-220">\*\*\*\*Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten.</span><span class="sxs-lookup"><span data-stu-id="21fb4-220">\*\*\*\*Available for cloud services that are eligible for FastTrack benefits.</span></span> <span data-ttu-id="21fb4-221">Andernfalls wird dies an einen FastTrack-Spezialisten oder zur Überweisung an einen Partner weitergeleitet.</span><span class="sxs-lookup"><span data-stu-id="21fb4-221">Otherwise this is routed to a FastTrack Specialist or for partner referral.</span></span>    
+<span data-ttu-id="14017-220">\*\*\*\*Verfügbar für Cloud-Dienste, für die FastTrack-Vorteile gelten.</span><span class="sxs-lookup"><span data-stu-id="14017-220">\*\*\*\*Available for cloud services that are eligible for FastTrack benefits.</span></span> <span data-ttu-id="14017-221">Andernfalls wird dies an einen FastTrack-Spezialisten oder zur Überweisung an einen Partner weitergeleitet.</span><span class="sxs-lookup"><span data-stu-id="14017-221">Otherwise this is routed to a FastTrack Specialist or for partner referral.</span></span>    
 
-### <a name="windows-10-plans"></a><span data-ttu-id="21fb4-222">Windows 10-Pläne</span><span class="sxs-lookup"><span data-stu-id="21fb4-222">Windows 10 plans</span></span>
+### <a name="windows-10-plans"></a><span data-ttu-id="14017-222">Windows 10-Pläne</span><span class="sxs-lookup"><span data-stu-id="14017-222">Windows 10 plans</span></span>
 
-#### <a name="windows-enterprise"></a><span data-ttu-id="21fb4-223">Windows Enterprise</span><span class="sxs-lookup"><span data-stu-id="21fb4-223">Windows Enterprise</span></span>
+#### <a name="windows-enterprise"></a><span data-ttu-id="14017-223">Windows Enterprise</span><span class="sxs-lookup"><span data-stu-id="14017-223">Windows Enterprise</span></span>
 
-  - <span data-ttu-id="21fb4-224">Windows 10 E3</span><span class="sxs-lookup"><span data-stu-id="21fb4-224">Windows 10 E3</span></span>
-  - <span data-ttu-id="21fb4-225">Windows 10 E5</span><span class="sxs-lookup"><span data-stu-id="21fb4-225">Windows 10 E5</span></span>
-  - <span data-ttu-id="21fb4-226">Windows 10 Enterprise mit Software Assurance</span><span class="sxs-lookup"><span data-stu-id="21fb4-226">Windows 10 Enterprise with Software Assurance</span></span>
+  - <span data-ttu-id="14017-224">Windows 10 E3</span><span class="sxs-lookup"><span data-stu-id="14017-224">Windows 10 E3</span></span>
+  - <span data-ttu-id="14017-225">Windows 10 E5</span><span class="sxs-lookup"><span data-stu-id="14017-225">Windows 10 E5</span></span>
+  - <span data-ttu-id="14017-226">Windows 10 Enterprise mit Software Assurance</span><span class="sxs-lookup"><span data-stu-id="14017-226">Windows 10 Enterprise with Software Assurance</span></span>
 
-#### <a name="windows-education"></a><span data-ttu-id="21fb4-227">Windows Education</span><span class="sxs-lookup"><span data-stu-id="21fb4-227">Windows Education</span></span>
+#### <a name="windows-education"></a><span data-ttu-id="14017-227">Windows Education</span><span class="sxs-lookup"><span data-stu-id="14017-227">Windows Education</span></span>
 
-  - <span data-ttu-id="21fb4-228">Windows 10 A3</span><span class="sxs-lookup"><span data-stu-id="21fb4-228">Windows 10 A3</span></span>
-  - <span data-ttu-id="21fb4-229">Windows 10 A5</span><span class="sxs-lookup"><span data-stu-id="21fb4-229">Windows 10 A5</span></span>  
+  - <span data-ttu-id="14017-228">Windows 10 A3</span><span class="sxs-lookup"><span data-stu-id="14017-228">Windows 10 A3</span></span>
+  - <span data-ttu-id="14017-229">Windows 10 A5</span><span class="sxs-lookup"><span data-stu-id="14017-229">Windows 10 A5</span></span>  
       
       
 > [!NOTE]
-> <span data-ttu-id="21fb4-230">Es gibt keine Mindestvoraussetzung für die Lizenzierung von kommerziellen unabhängigen Softwareanbietern (ISVs), die Windows 10-Apps entwickeln.</span><span class="sxs-lookup"><span data-stu-id="21fb4-230">There's no minimum licensing requirement for commercial independent software vendors (ISVs) building Windows 10 apps.</span></span> <span data-ttu-id="21fb4-231">Alle App-Anforderungen müssen auf eine Windows 10- oder Microsoft 365 Apps-Version gerichtet sein, die sich aktuell im Mainstream-Wartungsfenster befindet.</span><span class="sxs-lookup"><span data-stu-id="21fb4-231">All app requests must be targeting a Windows 10 or Microsoft 365 Apps version that is currently within the mainstream servicing window.</span></span>
+> <span data-ttu-id="14017-230">Es gibt keine Mindestvoraussetzung für die Lizenzierung von kommerziellen unabhängigen Softwareanbietern (ISVs), die Windows 10-Apps entwickeln.</span><span class="sxs-lookup"><span data-stu-id="14017-230">There's no minimum licensing requirement for commercial independent software vendors (ISVs) building Windows 10 apps.</span></span> <span data-ttu-id="14017-231">Alle App-Anforderungen müssen auf eine Windows 10- oder Microsoft 365 Apps-Version gerichtet sein, die sich aktuell im Mainstream-Wartungsfenster befindet.</span><span class="sxs-lookup"><span data-stu-id="14017-231">All app requests must be targeting a Windows 10 or Microsoft 365 Apps version that is currently within the mainstream servicing window.</span></span>
 
-### <a name="ineligible-plans"></a><span data-ttu-id="21fb4-232">Nicht berechtigte Pläne</span><span class="sxs-lookup"><span data-stu-id="21fb4-232">Ineligible plans</span></span> 
- <span data-ttu-id="21fb4-233">Pläne, die nicht für FastTrack-Dienste in Frage kommen, umfassen (sind jedoch nicht beschränkt auf):</span><span class="sxs-lookup"><span data-stu-id="21fb4-233">Plans not eligible for FastTrack services include (but are not limited to):</span></span>
+### <a name="ineligible-plans"></a><span data-ttu-id="14017-232">Nicht berechtigte Pläne</span><span class="sxs-lookup"><span data-stu-id="14017-232">Ineligible plans</span></span> 
+ <span data-ttu-id="14017-233">Pläne, die nicht für FastTrack-Dienste in Frage kommen, umfassen (sind jedoch nicht beschränkt auf):</span><span class="sxs-lookup"><span data-stu-id="14017-233">Plans not eligible for FastTrack services include (but are not limited to):</span></span>
 
 
-|<span data-ttu-id="21fb4-234">**Plan**</span><span class="sxs-lookup"><span data-stu-id="21fb4-234">**Plan**</span></span>   |<span data-ttu-id="21fb4-235">**Details**</span><span class="sxs-lookup"><span data-stu-id="21fb4-235">**Details**</span></span> |
+|<span data-ttu-id="14017-234">**Plan**</span><span class="sxs-lookup"><span data-stu-id="14017-234">**Plan**</span></span>   |<span data-ttu-id="14017-235">**Details**</span><span class="sxs-lookup"><span data-stu-id="14017-235">**Details**</span></span> |
 |---------|---------|
-|<span data-ttu-id="21fb4-236">**Exchange Online-Archivierung**</span><span class="sxs-lookup"><span data-stu-id="21fb4-236">**Exchange Online Archiving**</span></span>    |   <span data-ttu-id="21fb4-237">Ein FastTrack-Leitfaden für diesen Plan ist verfügbar, wenn er über einen berechtigten Plan wie Enterprise E3 und E5 abgerufen wird.</span><span class="sxs-lookup"><span data-stu-id="21fb4-237">FastTrack guidance for this plan is available when obtained through an eligible plan, like Enterprise E3 and E5.</span></span>      |
-|<span data-ttu-id="21fb4-238">**Office 365, betrieben von 21Vianet**</span><span class="sxs-lookup"><span data-stu-id="21fb4-238">**Office 365 operated by 21Vianet**</span></span>    |   <span data-ttu-id="21fb4-239">Weitere Informationen zum FastTrack-Leistungsangebot für Office 365, betrieben von 21Vianet, finden Sie unter [21Vianet-Support](https://go.microsoft.com/fwlink/?linkid=852156).</span><span class="sxs-lookup"><span data-stu-id="21fb4-239">For more information on the FastTrack Benefit for Office 365 operated by 21Vianet, contact [21Vianet support](https://go.microsoft.com/fwlink/?linkid=852156).</span></span>      |
-| <span data-ttu-id="21fb4-240">**Microsoft Office 365 Dedicated und ITAR/Federal Plans**</span><span class="sxs-lookup"><span data-stu-id="21fb4-240">**Microsoft Office 365 Dedicated and ITAR/Federal Plans**</span></span>     |         |
-|<span data-ttu-id="21fb4-241">**Kostenlose Pläne (z. B. Office 365 A1 oder der Vorteilsplan für Studenten)**</span><span class="sxs-lookup"><span data-stu-id="21fb4-241">**No-cost plans (like Office 365 A1 or the student use benefit plan)**</span></span>   |         |
+|<span data-ttu-id="14017-236">**Exchange Online-Archivierung**</span><span class="sxs-lookup"><span data-stu-id="14017-236">**Exchange Online Archiving**</span></span>    |   <span data-ttu-id="14017-237">Ein FastTrack-Leitfaden für diesen Plan ist verfügbar, wenn er über einen berechtigten Plan wie Enterprise E3 und E5 abgerufen wird.</span><span class="sxs-lookup"><span data-stu-id="14017-237">FastTrack guidance for this plan is available when obtained through an eligible plan, like Enterprise E3 and E5.</span></span>      |
+|<span data-ttu-id="14017-238">**Office 365, betrieben von 21Vianet**</span><span class="sxs-lookup"><span data-stu-id="14017-238">**Office 365 operated by 21Vianet**</span></span>    |   <span data-ttu-id="14017-239">Weitere Informationen zum FastTrack-Leistungsangebot für Office 365, betrieben von 21Vianet, finden Sie unter [21Vianet-Support](https://go.microsoft.com/fwlink/?linkid=852156).</span><span class="sxs-lookup"><span data-stu-id="14017-239">For more information on the FastTrack Benefit for Office 365 operated by 21Vianet, contact [21Vianet support](https://go.microsoft.com/fwlink/?linkid=852156).</span></span>      |
+| <span data-ttu-id="14017-240">**Microsoft Office 365 Dedicated und ITAR/Federal Plans**</span><span class="sxs-lookup"><span data-stu-id="14017-240">**Microsoft Office 365 Dedicated and ITAR/Federal Plans**</span></span>     |         |
+|<span data-ttu-id="14017-241">**Kostenlose Pläne (z. B. Office 365 A1 oder der Vorteilsplan für Studenten)**</span><span class="sxs-lookup"><span data-stu-id="14017-241">**No-cost plans (like Office 365 A1 or the student use benefit plan)**</span></span>   |         |
 
 
 
