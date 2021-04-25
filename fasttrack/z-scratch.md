@@ -1,4 +1,23 @@
-## <a name="security-and-compliance"></a>Sicherheit und Compliance
+---
+title: Sicherheit und Compliance
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: O365-seccomp
+localization_priority: None
+ms.collection: FastTrack
+description: FastTrack-Anleitungsdetails für Microsoft-Dienste.
+ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: de-DE
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996238"
+---
+# <a name="security-and-compliance"></a>Sicherheit und Compliance
 
 <table>
 <thead>
@@ -12,7 +31,7 @@
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender ist eine einheitliche Vor- und Nachverletzungs-Enterprise-Schutzsuite, die Erkennung, Verhinderung, Untersuchung und Reaktion auf Endpunkte, Identitäten, E-Mails und Apps nativ koordiniert, um integrierten Schutz vor komplexen Angriffen zu bieten. Wir bieten Remoteanleitungen für: </p> 
+<td> <p> Microsoft 365 Defender ist eine einheitliche Vor- und Nachverletzungssuite für die Unternehmensverteidigung, die Erkennung, Verhinderung, Untersuchung und Reaktion auf Endpunkte, Identitäten, E-Mails und Apps nativ koordiniert, um integrierten Schutz vor komplexen Angriffen zu bieten. Wir bieten Remoteanleitungen für: </p> 
 <ul>
 <li>  Bereitstellen einer Übersicht über das Microsoft 365 Security Center.  </li>
 <li>  Überprüfen produktübergreifender Vorfälle, einschließlich der Fokussierung auf das Entscheidende, indem sichergestellt wird, dass der gesamte Angriffsbereich, die ressourcenbelastenden Ressourcen und die automatisierten Abhilfemaßnahmen, die zusammengeteilt sind, sichergestellt werden.  </li>
@@ -320,7 +339,7 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li> Entwicklung der Informationsarchitektur in SharePoint.</li>
 <li> Benutzerdefinierte Skripts und Codierung.</li>
 </td>
-<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="products-and-capabilities.md#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft Information Protection</strong></td>
@@ -345,11 +364,11 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li>Erstellen oder Ändern von Schlüsselwortwörterbüchern.</li>
 <li>Benutzerdefinierte Skripts und Codierung.</li>
 </ul>
-<strong>Hinweis:</strong> Weitere Informationen finden Sie unter <strong> Azure Information Protection </strong> in Enterprise Mobility + <a href="#enterprise-mobility--security">Security</a>.
+<strong>Hinweis:</strong> Weitere Informationen finden Sie unter <strong>Azure Information Protection</strong> in Enterprise Mobility + <a href="products-and-capabilities.md#enterprise-mobility--security">Security</a>.
 <ul>
 
 </td>
-<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="products-and-capabilities.md#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 
 <tr class="odd">
@@ -361,7 +380,7 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li>  Verwenden des Angriffssimulators.  </li>
 <li>  Berichterstellung und Bedrohungsanalyse.  </li>
 </ul></td>
-<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="products-and-capabilities.md#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 
 
@@ -410,7 +429,7 @@ Wir bieten Remoteanleitungen für:
 <li> Praktische Implementierung empfohlener Verbesserungsmaßnahmen für Bewertungen im Compliance Manager.</li>
 </ul>
 </td>
-<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="products-and-capabilities.md#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 <tr class="odd">
 <td><strong>Insider Threat Management</strong></td>
@@ -455,7 +474,7 @@ Wir bieten Remoteanleitungen für:
 <li> Einhaltung der branchen- und regionalen Vorschriften und Anforderungen.</li>
 <li> Praktische Implementierung empfohlener Verbesserungsmaßnahmen für Bewertungen im Compliance Manager.</li>
 </ul></td>
-<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
+<td>Abgesehen vom <strong>Abschnitt Core-Onboarding</strong> im <a href="products-and-capabilities.md#general">Allgemeinen</a>gibt es keine Mindestsystemanforderungen.</td>
 </tr>
 
 

@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926997"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996254"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -160,7 +160,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>FastTrack-Verantwortlichkeiten für Exchange Online-Migrationen
 
 Während des Migrationsprojekts führen unsere FastTrack-Spezialisten Standardaktivitäten aus. Einzelheiten hierzu finden Sie in den Informationen zu Datenmigrationszuständigkeiten unter [Prozess und Erwartungen](process-and-expectations.md).
 
@@ -363,7 +363,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>FastTrack-Verantwortlichkeiten für SharePoint Online-Migrationen
 
 Während des Migrationsprojekts führen unsere FastTrack-Spezialisten Standardaktivitäten aus. Einzelheiten hierzu finden Sie in den Informationen zu Datenmigrationszuständigkeiten unter [Prozess und Erwartungen](process-and-expectations.md).
 
@@ -555,7 +555,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>#A0 für OneDrive for #A1
 
 Während des Migrationsprojekts führen unsere FastTrack-Spezialisten Standardaktivitäten aus. Einzelheiten hierzu finden Sie in den Informationen zu Datenmigrationszuständigkeiten unter [Prozess und Erwartungen](process-and-expectations.md).
 
@@ -756,7 +756,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>FastTrack-Zuständigkeiten
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>FastTrack-Verantwortlichkeiten für Migrationen von Microsoft Teams und Microsoft 365-Gruppen
 
 Während des Migrationsprojekts führen unsere FastTrack-Spezialisten Standardaktivitäten aus. Einzelheiten hierzu finden Sie in den Informationen zu Datenmigrationszuständigkeiten unter [Prozess und Erwartungen](process-and-expectations.md).
 
