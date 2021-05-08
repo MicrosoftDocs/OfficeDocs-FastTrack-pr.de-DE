@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927009"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283447"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -124,7 +124,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Telefonsystem
   - Anrufplan
   - Audiokonferenzen
-  - Microsoft Teams Room
+  - Microsoft Teams Raum
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -202,6 +202,9 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
       
 > [!NOTE]
 > Es gibt keine Mindestvoraussetzung für die Lizenzierung von kommerziellen unabhängigen Softwareanbietern (ISVs), die Windows 10-Apps entwickeln. Alle App-Anforderungen müssen auf eine Windows 10- oder Microsoft 365 Apps-Version gerichtet sein, die sich aktuell im Mainstream-Wartungsfenster befindet.
+
+> [!NOTE]
+> Die Berechtigung für das FastTrack Center-Angebot basiert auf erworbenen kostenpflichtigen Lizenzen für die zuvor genannten berechtigten Pläne. Als Ausnahme unterstützt FastTrack das Onboarding Office 365 E1-Testlizenzen von Mai 2021 bis 30. Juni 2021 für berechtigte Kunden in Indien und Brasilien, um auf den aktuellen COVID-19-Anstieg zu reagieren. 
 
 ### <a name="ineligible-plans"></a>Nicht berechtigte Pläne 
  Pläne, die nicht für FastTrack-Dienste in Frage kommen, umfassen (sind jedoch nicht beschränkt auf):
