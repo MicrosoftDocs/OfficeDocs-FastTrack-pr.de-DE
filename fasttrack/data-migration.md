@@ -3,19 +3,19 @@ title: Datenmigration
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: 0e33e8a79ebc577188644dbc69cd78707a575838
-ms.sourcegitcommit: 69a30fee5e7e199bd6830fb0837af1ae4904ef3b
+ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52312443"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570481"
 ---
 # <a name="data-migration"></a>Datenmigration
 

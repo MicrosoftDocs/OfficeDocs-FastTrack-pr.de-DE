@@ -1,23 +1,23 @@
 ---
-title: Ihre Zuständigkeiten für Office 365 US Government
+title: Ihre Verantwortlichkeiten für Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: f1d7a751443ab924758f094997d152e9633e55dd
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926901"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570577"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Zuständigkeiten für Office 365 US Government
+# <a name="your-responsibilities-for-office-365-us-government"></a>Ihre Verantwortlichkeiten für Office 365 US Government
 
 Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
   
@@ -41,7 +41,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
 - Verwalten, Konfigurieren und Anwenden von Sicherheitsrichtlinien.    
 - Aktivieren mobiler Geräte.    
 - Konfiguration, Analyse, Überprüfung der Bandbreite, Tests und Überwachung des Netzwerks. 
-- Ändern von Firewallregeln zur Unterstützung der spezifischen URLs und IP-Adressbereiche, die von Office 365-Diensten verwendet werden (falls erforderlich).
+- Ändern von Firewallregeln zur Unterstützung der spezifischen URLs und IP-Adressbereiche, die von den Office 365 verwendet werden (falls erforderlich).
 - Bereitstellen von lokalen Reverseproxyendpunkten für Microsoft (falls erforderlich).     
 - Ändern des Netzwerks, um die erforderliche Bandbreite für Skype for Business Online-Dienste bereitzustellen.   
 - Verwalten eines Genehmigungsprozesses für das Management technischer Änderungen und Erstellen dazugehöriger Dokumentation.    
@@ -58,7 +58,7 @@ Zu Ihren Zuständigkeiten während des Onboardings zählen die folgenden:
     
 ## <a name="initiate-phase"></a>Einleitungsphase
 
-- Richten Sie gemeinsamen Microsoft Teams-Raum für die Onboardingpartnerschaft ein, und laden Sie FastTrack Center-Teammitglieder ein (nicht verfügbar in GCC High- oder DoD-Plänen).   
+- Richten Sie einen Microsoft Teams für die Onboardingpartnerschaft ein, und laden Sie FastTrack Center-Teammitglieder ein (nicht verfügbar in GCC High- oder DoD-Plänen).   
 - Beginnen des Onboardings berechtigter Dienste in Zusammenarbeit mit FastTrack-Spezialisten.    
 - Teilnehmen an der Projekteinführungsbesprechung, Verwalten und Leiten der Teilnehmer in Ihrer Organisation und Bestätigen des Zeitrahmens für Korrekturen.    
 - Zusammenstellen von Zielen für Office 365-Dienste (z. B. SharePoint Online, Exchange Online, Microsoft Teams und Microsoft 365 Apps) und Unternehmenszielen.

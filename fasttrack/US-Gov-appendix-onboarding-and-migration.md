@@ -3,19 +3,19 @@ title: Onboarding- und Migrationsphasen für Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'Das Office 365-Onboarding für Office 365 US Government hat vier Hauptphasen: Initiieren, Bewerten, Besenden und Aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 6b371c2f66f811ba8997c6380f23b2b6e0b24945
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+description: 'Office 365 Onboarding für Office 365 US Government hat vier primäre Phasen: Initiieren, Bewerten, Bearbeiten und Aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
+ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926973"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570565"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding- und Migrationsphasen für Office 365 US Government
 
@@ -23,7 +23,7 @@ Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korr
   
 ![Phasen im Onboarding-Angebot](media/O365-Onboarding-Phases.png)
   
-Ausführliche Aufgaben für jede Phase finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Ausführliche Aufgaben für jede Phase finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Einleitungsphase
 
@@ -132,8 +132,8 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 - Einrichten von DNS    
 - Erstellen von Konten für jedes Raumsystemgerät    
 - Bereitstellen eines unterstützten Skype for Business Online-Clients   
-- Einrichten einer Konfiguration geteilter Domänenserver zwischen Ihrer lokalen Lync 2010-, Lync 2013- oder Skype for Business 2015-Serverumgebung und dem Skype for Business Online-Mandanten (sofern zutreffend).
-- Aktivieren von Anrufplänen, Skype-Besprechungsübertragungen und Telefonsystem- und Anrufplänen (in verfügbaren Märkten – in GCC High- oder DoD-Plänen nicht verfügbar). 
+- Einrichten einer Konfiguration für geteilte Domänenserver zwischen Ihrer lokalen Lync 2010-, Lync 2013- oder Skype for Business 2015-Serverumgebung und Skype for Business Online-Mandant (sofern zutreffend).
+- Aktivieren von Anrufplänen, Skype-Besprechung Broadcast- und Telefonsystem- und Anrufplänen (in verfügbaren Märkten – nicht in GCC Oder DoD-Plänen verfügbar). 
     
 ![Schritte beim Onboarding von Lync während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,7 +142,7 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Folgendes ist in GCC High- oder DoD-Plänen nicht verfügbar.
+> Folgendes ist in den Plänen GCC High oder DoD nicht verfügbar.
 
 Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit: 
 - Sicherstellen der Mindestanforderungen   
@@ -173,7 +173,7 @@ Für Project Online stellen wir Anweisungen zu folgenden Themen bereit:
 Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts bereit.
 
 > [!NOTE]
-> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann aber als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar. 
+> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann jedoch als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist nicht in GCC oder DoD-Plänen verfügbar. 
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365-Apps
 
