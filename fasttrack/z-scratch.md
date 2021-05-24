@@ -10,12 +10,12 @@ ms.service: O365-seccomp
 localization_priority: None
 ms.collection: FastTrack
 description: FastTrack-Anleitungsdetails für Microsoft-Dienste.
-ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
-ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.openlocfilehash: 67dd428de8a8f48e0d52e4f6c6daf85cbd27ec76
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51996238"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592395"
 ---
 # <a name="security-and-compliance"></a>Sicherheit und Compliance
 
@@ -31,11 +31,11 @@ ms.locfileid: "51996238"
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> Microsoft 365 Defender ist eine einheitliche Vor- und Nachverletzungssuite für die Unternehmensverteidigung, die Erkennung, Verhinderung, Untersuchung und Reaktion auf Endpunkte, Identitäten, E-Mails und Apps nativ koordiniert, um integrierten Schutz vor komplexen Angriffen zu bieten. Wir bieten Remoteanleitungen für: </p> 
+<td> <p> Microsoft 365 Defender ist eine einheitliche Enterprise-Defense-Suite vor und nach der Verletzung, die Erkennung, Verhinderung, Untersuchung und Reaktion auf Endpunkte, Identitäten, E-Mails und Apps nativ koordiniert, um integrierten Schutz vor komplexen Angriffen zu bieten. Wir bieten Remoteanleitungen für: </p> 
 <ul>
-<li>  Bereitstellen einer Übersicht über das Microsoft 365 Security Center.  </li>
+<li>  Bereitstellen einer Übersicht über Microsoft 365 Security Center.  </li>
 <li>  Überprüfen produktübergreifender Vorfälle, einschließlich der Fokussierung auf das Entscheidende, indem sichergestellt wird, dass der gesamte Angriffsbereich, die ressourcenbelastenden Ressourcen und die automatisierten Abhilfemaßnahmen, die zusammengeteilt sind, sichergestellt werden.  </li>
-<li>  Demonstrieren, wie Microsoft 365 Defender die Untersuchung von Ressourcen, Benutzern, Geräten und Postfächern orchestrieren kann, die möglicherweise durch automatisierte Selbstheilung gefährdet wurden. </li>
+<li>  Demonstrieren, Microsoft 365 Defender die Untersuchung von Ressourcen, Benutzern, Geräten und Postfächern orchestrieren kann, die möglicherweise durch automatisierte Selbstheilung gefährdet wurden. </li>
 <li>  Erläutern und Bereitstellen von Beispielen dafür, wie Kunden proaktiv nach Angriffsversuchen und Verletzungsaktivitäten abwehren können, die Sich auf Ihre E-Mails, Daten, Geräte und Konten in mehreren Datensätzen ausdingen.   </li>
 <li> Zeigen Sie Kunden, wie sie ihre Sicherheitslage ganzheitlich mithilfe von Microsoft Secure Score überprüfen und verbessern können.</li>
 </ul>
@@ -71,15 +71,15 @@ ms.locfileid: "51996238"
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Verbinden <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-gove">von empfohlenen Apps</a> mithilfe von App-Connectors.</li>
-<li> Einrichten der App-Steuerung für bedingten Zugriff in den Portalen bedingter Zugriff und Cloud App-Sicherheit, um Sitzungssteuerelemente in Echtzeit anzuwenden.</li>
-<li> Bereitstellen der Cloud App Security- und Cloud Discovery-Dashboards.</li>
+<li> Verbinden [von empfohlenen Apps](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) mithilfe von App-Connectors.</li>
+<li> Einrichten der App-Steuerung für bedingten Zugriff in den Portalen für bedingten Zugriff und Cloud App Security, um Sitzungssteuerelemente in Echtzeit anzuwenden.</li>
+<li> Bereitstellen der Cloud App Security und Cloud Discovery-Dashboards.</li>
 <li> Anpassen der App-Risikoergebnisse basierend auf den Prioritäten Ihrer Organisation.</li>
 <li> Erstellen von App-Tags und -Kategorien.</li>
 <li> Sanktions- und Nichtfunktionierungs-Apps.</li>
 <li> Verwenden der Aktivitäts- und Dateiprotokolle.</li>
 <li> Verwalten von OAuth-Apps.</li>
-<li> Grundlegendes zur Korrelation zwischen Vorfällen im Microsoft 365 Defender-Portal.</li>
+<li> Grundlegendes zur Vorfallkorrelation im Microsoft 365 Defender-Portal.</li>
 <li> Bereitstellung von Konfigurationsunterstützung bei den <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> am meisten verwendeten Fällen für CASBs (einschließlich der Erstellung oder Aktualisierung von bis zu sechs (6) Richtlinien) mit Ausnahme von: </li>
 <ul>
 <li> Überwachen der Konfiguration Ihres Internet as a Service (IaaS)-Umgebungen (#18).</li>
@@ -96,9 +96,9 @@ ms.locfileid: "51996238"
 <li> Verbinden benutzerdefinierter Apps.</li>
 <li> Integration in Drittanbieter von Identitätsanbietern (IsPs) und Verhinderung von Datenverlust (Data Loss Prevention, DLP).</li>
 <li> Schulungen oder Anleitungen für die erweiterte Suche.</li>
-<li> Automatisierte Untersuchung und Korrektur, einschließlich Microsoft Power Automate-Playbooks.</li>
+<li> Automatisierte Untersuchung und Korrektur einschließlich Microsoft Power Automate Playbooks.</li>
 <li> Sicherheitsinformationen und Ereignisverwaltung (SIEM) oder API-Integration (einschließlich Azure Sentinel).</li>
-<li> Bereitstellen von Cloud App Security als Konzeptbeweis.</li>
+<li> Bereitstellen Cloud App Security als Konzeptbeweis.</li>
 </ul></td>
 </tr>
 
@@ -112,9 +112,9 @@ ms.locfileid: "51996238"
 <li>  Bereitstellen der Technologien zum Sichern Ihrer Endpunkte.  </li>
 <li>  Konfigurieren von Endpunktschutz- und Geräteeinschränkungsprofilen.  </li>
 <li>  Bewerten der Betriebssystemversion und Geräteverwaltung (einschließlich Intune, Microsoft Endpoint Configuration Manager, Gruppenrichtlinienobjekte (GPOs) und Konfigurationen von Drittanbietern sowie des Status Ihrer Windows Defender-AV-Dienste oder anderer Endpunktsicherheitssoftware.  </li>
-<li>  Bewerten des Status Ihrer Windows AV-Dienste oder anderer Endpunktsicherheitssoftware.  </li>
+<li>  Bewerten des Status Ihrer Windows-AV-Dienste oder anderer Endpunktsicherheitssoftware.  </li>
 <li>  Bewerten von Proxys und Firewalls, die den Netzwerkdatenverkehr einschränken.  </li>
-<li>  Aktivieren des Microsoft Defender ATP-Diensts durch Erläuterung der Bereitstellung eines ATP-Agentprofils mithilfe eines onboard-Endpunkts.  </li>
+<li>  Aktivieren des Microsoft Defender ATP, indem Erläutert wird, wie ein ATP-Agentprofil mithilfe eines onboard-Endpunkts bereitgestellt wird.  </li>
 <li>  Bereitstellungsanleitungen, Konfigurationsunterstützung und Bildungseinrichtungen zu:
 <ul>
 <li>  
@@ -163,7 +163,7 @@ ms.locfileid: "51996238"
 </ul>
 </li>
 </ul>
-<strong>Hinweis:</strong> Alle Windows Server-Versionen müssen über die neueste Version von System Center Configuration Manager 2012 (Versionen 1012 R2, 1511 oder 1602) oder Microsoft Endpoint Configuration Manager (Version 2002 oder höher) verwaltet werden. 
+<strong>Hinweis:</strong> Alle Windows Serverversionen müssen von der neuesten Version von System Center Configuration Manager 2012 (Versionen 1012 R2, 1511 oder 1602) oder Microsoft Endpoint Configuration Manager (Version 2002 oder höher) verwaltet werden. 
 
 </li>
 </ul>
@@ -255,14 +255,14 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li>  Ausführen des Größenanpassungstools für die Ressourcenkapazitätsplanung. </li>
 <li>  Ausführen des Überwachungstools, um die Kompatibilität Ihrer Domänencontroller mit dem Sensor zu bewerten. </li>
 </ul>
-<li>  Bereitstellen des Sensors zum Erfassen und Analysieren von Netzwerkdatenverkehr und Windows-Ereignissen direkt von Ihren Domänencontrollern, einschließlich: </li>
+<li>  Bereitstellen des Sensors zum Erfassen und Analysieren von Netzwerkdatenverkehr und Windows Ereignisse direkt von Ihren Domänencontrollern, einschließlich: </li>
 <ul> 
 <li>  Herunterladen des Sensorpakets. </li>
 <li>  Konfigurieren des Sensors. </li>
 <li>  Automatisches Installieren des Sensors auf dem Domänencontroller. </li>
 <li>  Bereitstellen des Sensors in Ihrer Umgebung mit mehreren Gesamtstrukturen. </li>
 </ul>
-<li>  Integrieren von Defender for Identity in Microsoft Cloud App Security (Cloud App Security-Lizenzierung ist nicht erforderlich). </li>
+<li>  Integrieren von Defender for Identity in Microsoft Cloud App Security (Cloud App Security ist keine Lizenzierung erforderlich). </li>
 <li>  Bereitstellen von Bereitstellungsanleitungen, Konfigurationsunterstützung und Bildungseinrichtungen zu: </li>
 <ul>
 <li> Optimieren der Umgebung, um "Rauschen" zu reduzieren.  </li>
@@ -354,7 +354,7 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li>  Erkennen Ihrer Daten über den Inhalts- und Aktivitäten-Explorer.  </li>
 <li>  Veröffentlichen von Bezeichnungen mithilfe von Richtlinien (manuell und automatisch).  </li>
 <li>  Erstellen von Richtlinien zum Schutz vor Datenverlust (DLP) für Microsoft Teams-Chats und -Kanäle.  </li>
-<li>  Erstellen von Endpunkt-DLP-Richtlinien für Windows 10-Geräte.  </li>
+<li>  Erstellen von Endpunkt-DLP-Richtlinien für Windows 10 Geräte.  </li>
 </ul>
 
 <strong>Die folgenden Bereiche sind nicht mehr </strong>  
@@ -364,7 +364,7 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li>Erstellen oder Ändern von Schlüsselwortwörterbüchern.</li>
 <li>Benutzerdefinierte Skripts und Codierung.</li>
 </ul>
-<strong>Hinweis:</strong> Weitere Informationen finden Sie unter <strong>Azure Information Protection</strong> in Enterprise Mobility + <a href="products-and-capabilities.md#enterprise-mobility--security">Security</a>.
+<strong>Hinweis:</strong> Weitere Informationen finden Sie unter <strong>Azure Information Protection</strong> in <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security</a>.
 <ul>
 
 </td>
@@ -465,7 +465,7 @@ Wir bieten Remoteanleitungen für:
 
 <strong>Die folgenden Bereiche sind nicht mehr </strong> 
 <ul>
-<li> Erstellen und Verwalten von Power Automate-Flüssen.</li>
+<li> Erstellen und Verwalten von Power Automate Flüssen.</li>
 <li> Datenconnectors (über den HR-Connector hinaus). </li>
 <li> Konfigurationen für benutzerdefinierte reguläre Ausdrücke (RegEx).</li>
 <li> Entwurfs-, Architekten- und Drittanbieterdokumentüberprüfung.</li>

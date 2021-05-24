@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Sie können die Migration von E-Mail- und Dateidaten in ihrer Quellumgebung auf Office 365 (Exchange Online, SharePoint Online und OneDrive for Business) mithilfe von FastTrack migrieren. Die Art der von uns bereitgestellten Unterstützung hängt von der Anzahl der Office 365-Lizenzen ab.
-ms.openlocfilehash: 916343d73c46410990785515ac5f32de24703acf
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 437da2c12375bfc2d9614c452b0685f18ad3d188
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570481"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592426"
 ---
 # <a name="data-migration"></a>Datenmigration
 
@@ -108,7 +108,7 @@ Die folgende Tabelle enthält die Migrationsdetails, die für die einzelnen Quel
 <tr class="even">
 <td><strong>G Suite-Umgebung (nur Gmail, Kontakte und Kalender)</strong><br />
 <br />
-<strong>Hinweis:</strong> Ihre G Suite-Umgebung muss die voraussetzungen erfüllen, die unter <a href="https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration">Ausführen einer G Suite-Migration beschrieben sind.</a></td>
+<strong>Hinweis:</strong> Ihre G Suite-Umgebung muss die voraussetzungen erfüllen, die unter [Ausführen einer G Suite-Migration beschrieben sind.](/Exchange/mailbox-migration/perform-g-suite-migration)</td>
 <td>Übernahmemigration oder mehrstufige Migration</td>
 <td><ul>
 <li> E-Mails </li>

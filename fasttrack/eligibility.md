@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: eb3a73f7c1c58fe84cdc92d4ccd625330b4dcc82
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
+ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570493"
+ms.lasthandoff: 05/21/2021
+ms.locfileid: "52592398"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -33,7 +33,7 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
   - Microsoft 365 Apps
 
 > [!NOTE]
-> Office 365 ProPlus wurde in Microsoft 365 Apps umbenannt. In einigen Fällen wird möglicherweise noch der alte Name verwendet. Details zum Zeitpunkt des Inkrafttretens dieser Änderung finden Sie unter [Namensänderung für Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
+> Office 365 ProPlus wurde in Microsoft 365 Apps umbenannt. In einigen Fällen wird möglicherweise noch der alte Name verwendet. Details zum Zeitpunkt des Inkrafttretens dieser Änderung finden Sie unter [Namensänderung für Office 365 ProPlus](/deployoffice/name-change).
 
   - Microsoft 365 Defender
   - Microsoft Cloud App Security
