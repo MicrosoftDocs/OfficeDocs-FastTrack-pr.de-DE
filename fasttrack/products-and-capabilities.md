@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Dieses Thema enthält Details zu den von FastTrack unterstützten Arbeitsauslastungsszenarien und den Erwartungen an die Quellumgebung, die erforderlich sind, bevor wir beginnen können. Basierend auf Ihrem aktuellen Setup erstellen wir zusammen mit Ihnen einen Korrekturplan, der Ihre Quellumgebung auf die Mindestanforderungen für ein erfolgreiches Onboarding bringt.
-ms.openlocfilehash: 56fe941acf3f5739802ac9065c843dbbc2f2525b
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 9a4546b248a739ee980f1300b9575e780e383c1a
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592448"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626684"
 ---
 # <a name="products-and-capabilities"></a>Produkte und Funktionen
 
@@ -50,8 +50,9 @@ FastTrack bietet Anleitungen, mit deren Hilfe Sie zunächst mit zentralen Funkti
 <tbody>
 <tr class="odd">
 <td><strong>Haupt-Onboarding</strong></td>
-<td>  Wir bieten Remoteleitfaden zum Zentralen Onboarding, das die Bereitstellung von Dienst, mandanten- und identitätsintegration umfasst. Es enthält auch Schritte zum Bereitstellen einer Grundlage für Onboardingdienste wie Exchange Online, SharePoint Online und Microsoft Teams, einschließlich einer Diskussion über Sicherheit, Netzwerkkonnektivität [und Compliance.](/office365/enterprise/office-365-network-connectivity-principles)  
-  Das Onboarding für einen oder mehrere berechtigte Dienste kann beginnen, sobald das Haupt-Onboarding abgeschlossen ist.
+<td>  Wir bieten Remoteleitfaden zum Zentralen Onboarding, das die Bereitstellung von Dienst, mandanten- und identitätsintegration umfasst. Es enthält auch Schritte zum Bereitstellen einer Grundlage für Onboardingdienste wie Exchange Online, SharePoint Online und Microsoft Teams, einschließlich einer Diskussion über Sicherheit, Netzwerkkonnektivität <a href="/office365/enterprise/office-365-network-connectivity-principles">und Compliance.</a>   
+
+Das Onboarding für einen oder mehrere berechtigte Dienste kann beginnen, sobald das Haupt-Onboarding abgeschlossen ist.
 </li>
 </ul>  
 
@@ -67,7 +68,8 @@ Wir bieten Remoteanleitungen für:
 <li>Migrieren der Authentifizierung von AD FS zu Azure AD mithilfe der Kennworthashsynchronisierung oder pass-through-Authentifizierung.</li>
 <li>Migrieren vordefinierter Apps (z. B. Azure AD Gallery Software-as-a-Service-Apps) von AD FS zu Azure AD für einmaliges Anmelden (Single Sign-On, SSO).</li>
 <li>Aktivieren von SaaS-App-Integrationen mit SSO aus dem Azure AD-Katalog.</li>
-<li>Aktivieren der automatischen Benutzerbereitstellung für vorintegrierte SaaS-Apps, wie in der App-Integrations-Lernprogrammliste aufgeführt (nur auf Azure AD-Katalog-SaaS-Apps und ausgehende Bereitstellung beschränkt). [](/azure/active-directory/saas-apps/tutorial-list)  </li>
+<li>Aktivieren der automatischen Benutzerbereitstellung für vorintegrierte SaaS-Apps, wie in der App-Integrations-Lernprogrammliste aufgeführt (nur auf Azure AD-Katalog-SaaS-Apps und ausgehende Bereitstellung beschränkt). <a href="/azure/active-directory/saas-apps/tutorial-list"></a>  </li>
+
 </td>
 
 <td>  <strong>Netzwerk-Aktivierung </strong>  
@@ -108,12 +110,12 @@ Wir bieten Remoteanleitungen für:
 </tr>
 <tr class="odd">
 <td><strong>Netzwerkinte health</strong></td>
-<td>  Wir bieten Remoteanleitungen zum Abrufen und Interpretieren wichtiger Netzwerkverbindungsdaten aus Ihrer Umgebung, die zeigen, wie die Standorte Ihrer Organisation den Prinzipien der Netzwerkkonnektivität von Microsoft [entsprechen.](/office365/enterprise/office-365-network-connectivity-principles) Dadurch wird Ihre Netzwerkpunktzahl hervorgehoben, die sich direkt auf die Migrationsgeschwindigkeit, die Benutzerfreundlichkeit, die Dienstleistung und zuverlässigkeit auswirken.  
+<td>  Wir bieten Remoteanleitungen zum Abrufen und Interpretieren wichtiger Netzwerkverbindungsdaten aus Ihrer Umgebung, die zeigen, wie die Standorte Ihrer Organisation den Prinzipien der Netzwerkkonnektivität von Microsoft <a href="/office365/enterprise/office-365-network-connectivity-principles">entsprechen.</a> Dadurch wird Ihre Netzwerkpunktzahl hervorgehoben, die sich direkt auf die Migrationsgeschwindigkeit, die Benutzerfreundlichkeit, die Dienstleistung und zuverlässigkeit auswirken.  
   Außerdem führen wir Sie durch alle Korrekturschritte, die durch diese Daten hervorgehoben werden, um Ihnen zu helfen, Ihre Netzwerkpunktzahl zu verbessern.  </td>
 <td><ul>
 <li>  Microsoft 365 Admin Center-Zugriff.  </li>
 <li>  Aktuelle Versionen von apps Microsoft 365 erforderlich.  </li>
-<li>  Standortdienste, die nach [Netzwerkleistungsempfehlungen im Microsoft 365 Admin Center (Vorschau) aktiviert sind.](/Office365/Enterprise/office-365-network-mac-perf-overview)  </li>
+<li>  Standortdienste, die nach <a href="/Office365/Enterprise/office-365-network-mac-perf-overview">Netzwerkleistungsempfehlungen im Microsoft 365 Admin Center (Vorschau) aktiviert sind.</a>  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -339,7 +341,7 @@ Wir bieten Remoteanleitungen für:
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Verbinden [von empfohlenen Apps](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) mithilfe von App-Connectors.</li>
+<li> Verbinden <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> von empfohlenen Apps</a> mithilfe von App-Connectors.</li>
 <li> Einrichten der App-Steuerung für bedingten Zugriff in den Portalen für bedingten Zugriff und Cloud App Security, um Sitzungssteuerelemente in Echtzeit anzuwenden.</li>
 <li> Bereitstellen der Cloud App Security und Cloud Discovery-Dashboards.</li>
 <li> Anpassen der App-Risikoergebnisse basierend auf den Prioritäten Ihrer Organisation.</li>
@@ -716,11 +718,11 @@ Zu den Verantwortlichkeiten der Kundenvoraussetzungen gehören:
 <li> Grundlegendes zu gesetzlichen Einschränkungen oder Anforderungen in Bezug auf die Schlüsselverwaltung.  </li>
 <li>  Ein Dienstkonto, das für Ihr lokales Active Directory erstellt wurde, das mit Azure AD synchronisiert wurde. </li>
 <li>  Bezeichnungen, die für Klassifizierung und Schutz konfiguriert sind. </li>
-<li> Alle Voraussetzungen für den Azure Information Protection-Scanner sind erfüllt. Weitere Informationen finden Sie unter Voraussetzungen für die Installation und [Bereitstellung des einheitlichen Bezeichnungsscanners für Azure Information Protection](/azure/information-protection/deploy-aip-scanner-prereqs). </li>
+<li> Alle Voraussetzungen für den Azure Information Protection-Scanner sind erfüllt. Weitere Informationen finden Sie unter Voraussetzungen für die Installation und <a href="/azure/information-protection/deploy-aip-scanner-prereqs">Bereitstellung des einheitlichen Bezeichnungsscanners für Azure Information Protection</a>. </li>
 <li>  Stellen Sie sicher, dass auf Benutzergeräten ein unterstütztes Betriebssystem ausgeführt wird und die erforderlichen Voraussetzungen installiert sind. Weitere Informationen finden Sie im Folgenden.</li>
 <ul>
-<li> [Administratorhandbuch: Installieren des einheitlichen Azure Information Protection-Bezeichnungsclients für Benutzer](/azure/information-protection/rms-client/clientv2-admin-guide-install)   </li>
-<li>  [Was ist die Azure Information Protection-App für iOS oder Android?](/azure/information-protection/rms-client/mobile-app-faq)  </li>
+<li> <a href="/azure/information-protection/rms-client/clientv2-admin-guide-install">Administratorhandbuch: Installieren des einheitlichen Azure Information Protection-Bezeichnungsclients für Benutzer</a>   </li>
+<li>  <a href="/azure/information-protection/rms-client/mobile-app-faq">Was ist die Azure Information Protection-App für iOS oder Android?</a>  </li>
 </ul>
 <li> Installation und Konfiguration des Azure RMS-Connectors und der Server, einschließlich des Active Directory RMS (AD RMS)-Connectors für hybride Unterstützung.  </li>
 <li> Setup und Konfiguration von Bring Your Own Key (BYOK), Double Key Encryption (DKE) (nur unified labeling client) oder Hold Your Own Key (HYOK) (nur klassischer Client), wenn Sie eine dieser Optionen für Ihre Bereitstellung benötigen.  </li>
@@ -852,7 +854,7 @@ Zu den Verantwortlichkeiten der Kundenvoraussetzungen gehören:
 <li>  Konfigurieren von Postfach-Clients (Outlook für Windows, Outlook im Web und Outlook für iOS und Android).  </li>
 </ul>
   <strong>Datenmigration</strong>  <br>
-Informationen zur Verwendung des FastTrack-Vorteils für die Datenmigration zu Office 365 finden Sie unter [Data Migration](data-migration.md).   
+Informationen zur Verwendung des FastTrack-Vorteils für die Datenmigration zu Office 365 finden Sie unter <a href="/fasttrack/data-migration">Data Migration</a>.   
 <td>  Ihre Quellumgebung muss über eine der folgenden Mindeststufen verfügen:
 <ul>
 <li>  Einzelne oder mehrere Exchange-Organisationen mit Exchange Server 2003 oder höher.  </li>
@@ -864,7 +866,7 @@ Onlineclientsoftware wie Project für Office 365, Outlook für Windows, Outlook 
 </tr>
 
 <td><strong>Microsoft Defender für Office 365</strong></td>
-<td>  Weitere Informationen finden Sie unter <strong>Microsoft Defender for Office 365</strong> in Security and [Compliance](products-and-capabilities.md#security-and-compliance).  
+<td>  Weitere Informationen finden Sie unter <strong>Microsoft Defender for Office 365</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.  
 </td>
 <td></td>
 </tr>
@@ -872,7 +874,7 @@ Onlineclientsoftware wie Project für Office 365, Outlook für Windows, Outlook 
 
 <tr class="even">
 <td><strong>Microsoft Information Governance</strong></td>
-<td>  Weitere Informationen finden Sie unter <strong> Microsoft Information Governance</strong> in Security and [Compliance](products-and-capabilities.md#security-and-compliance). 
+<td>  Weitere Informationen finden Sie unter <strong> Microsoft Information Governance</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>. 
 
 </td>
 <td></td>
@@ -880,7 +882,7 @@ Onlineclientsoftware wie Project für Office 365, Outlook für Windows, Outlook 
 <tr class="odd">
 <td><strong>Microsoft Information Protection</strong></td>
 <td>  
-Weitere Informationen finden Sie unter <strong>Microsoft Information Protection </strong> in Security and [Compliance](products-and-capabilities.md#security-and-compliance).
+Weitere Informationen finden Sie unter <strong>Microsoft Information Protection </strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.
 
 </td>
 <td>
@@ -958,7 +960,7 @@ Falls zutreffend, bieten wir auch Anleitungen für:
 <ul>
 <li>  Herunterladen von Outlook für iOS und Android über den Apple App Store und Google Play  </li>
 <li>  Konfigurieren von Konten und Zugreifen auf das Exchange Online-Postfach  </li>
-<li>  Schützen Outlook Mobiles (weitere Outlook finden Sie unter [Securing Outlook for iOS and Android in Exchange Online).](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android)  </li>
+<li>  Schützen Outlook Mobiles (weitere Outlook finden Sie unter <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Securing Outlook for iOS and Android in Exchange Online).</a>  </li>
 </ul></td>
 <td><ul>
 <li>  Identitäten, die in Azure AD für Office 365.  </li>
@@ -1022,7 +1024,7 @@ Zusätzliche Anleitungen werden für OneDrive for Business abhängig von Ihrer S
 <li>  Bereitstellen der OneDrive for Business Clientsynchronisierung.  </li>
 </ul>
   <strong>Datenmigration</strong>  <br>
-Informationen zur Verwendung des FastTrack-Vorteils für die Datenmigration zu Office 365 finden Sie unter [Data Migration](data-migration.md).
+Informationen zur Verwendung des FastTrack-Vorteils für die Datenmigration zu Office 365 finden Sie unter <a href="/fasttrack/data-migration">Data Migration</a>.
 </ul></td>
 <td><br><strong>Für SharePoint Hybrid:</strong>  
 <ul>
@@ -1058,19 +1060,19 @@ Wir bieten Remoteanleitungen zum Aktivieren Yammer Enterprise Diensts.
 <tbody>
 <tr class="even">
 <td><strong>Azure Active Directory (Azure AD) und Azure AD Premium</strong></td>
-<td>  Weitere Informationen finden Sie <strong>unter Azure Active Directory (Azure AD) und Azure AD Premium</strong> in Security and [Compliance](products-and-capabilities.md#security-and-compliance).</td>
+<td>  Weitere Informationen finden Sie <strong>unter Azure Active Directory (Azure AD) und Azure AD Premium</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.</td>
 <td></td>
 </tr>
 <tr class="odd">#Sicherheit und Compliance
 <td><strong>Azure Information Protection </strong></td>
-<td>  Weitere Informationen zu Azure Information Protection finden Sie unter <strong>Microsoft Information Protection</strong> in Security and [Compliance](products-and-capabilities.md#security-and-compliance).  </td>
+<td>  Weitere Informationen zu Azure Information Protection finden Sie unter <strong>Microsoft Information Protection</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Weitere Informationen finden Sie <strong>unter Microsoft Intune</strong> unter Security [and Compliance](products-and-capabilities.md#security-and-compliance).
+<td>  Weitere Informationen finden Sie <strong>unter Microsoft Intune</strong> unter Security <a href="/fasttrack/products-and-capabilities#security-and-compliance">and Compliance</a>.
   </td>
 <td>  
   
@@ -1129,12 +1131,12 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 Für ein Infrastrukturupgrade müssen Sie diese Voraussetzungen erfüllen:
 <ul>
 <li>  Microsoft Endpoint Configuration Manager.  </li>
-<li>  Die Configuration Manager-Version muss von der Windows 10 unterstützt werden. Weitere Informationen finden Sie in der Configuration Manager-Tabelle der unterstützten Versionen unter [Unterstützung für Windows 10 in Configuration Manager](/sccm/core/plan-design/configs/support-for-windows-10).  </li>
+<li>  Die Configuration Manager-Version muss von der Windows 10 unterstützt werden. Weitere Informationen finden Sie in der Configuration Manager-Tabelle der unterstützten Versionen unter <a href="/sccm/core/plan-design/configs/support-for-windows-10">Unterstützung für Windows 10 in Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
 <td><strong>Microsoft Defender für Endpunkt</strong></td>
-<td>  Weitere Informationen finden Sie unter <strong> Microsoft Defender for Endpoint</strong> in Security and [Compliance](products-and-capabilities.md#security-and-compliance).</td>
+<td>  Weitere Informationen finden Sie unter <strong> Microsoft Defender for Endpoint</strong> in Security and <a href="/fasttrack/products-and-capabilities#security-and-compliance">Compliance</a>.</td>
 <td></td>
 
 </tbody>
@@ -1185,7 +1187,7 @@ Für ein Infrastrukturupgrade müssen Sie diese Voraussetzungen erfüllen:
 Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an einen Microsoft-Partner,</a> um Unterstützung für diese Dienste zu erhalten.</td>
 <td>Sie sollten bereits über Folgendes verfügen:
 <ul>
-<li>[Windows Virtual Desktop-Lizenzierungsanforderungen .](/azure/virtual-desktop/overview#requirements)</li>
+<li><a href="/azure/virtual-desktop/overview#requirements">Windows Virtual Desktop-Lizenzierungsanforderungen .</a></li>
 <li>Azure-Netzwerke:
 <ul>
 <li>Erstellung und Subnetzierung des virtuellen Netzwerks (VNET).</li>
@@ -1194,7 +1196,7 @@ Wenden Sie sich <a href="https://go.microsoft.com/fwlink/?linkid=2080150">an ein
 <li>Routing von lokal zu Azure.</li>
 <li>Firewallregeln zum Zulassen der Konnektivität Windows Virtual Desktop.
 </ul>
-Weitere Informationen finden Sie unter [Supported Remote Desktop clients](/azure/virtual-desktop/overview#supported-remote-desktop-clients).
+Weitere Informationen finden Sie unter <a href="//azure/virtual-desktop/overview#supported-remote-desktop-clients">Supported Remote Desktop clients</a>.
 </ul>
 <ul><li>Allgemeines Azure AD-Setup:
 <ul>
@@ -1228,14 +1230,14 @@ Weitere Informationen finden Sie unter [Supported Remote Desktop clients](/azure
 <ul>
 <li>  <strong>Windows 10</strong> (einschließlich ARM64-Geräten)</li>
 <li> <strong>Microsoft 365 Apps</strong>  </li>
-<li>  <strong>Microsoft Edge -</strong> Anleitungen zur Bereitstellung finden Sie [unter Overview of the Microsoft Edge channels](/DeployEdge/microsoft-edge-channels).  </li>
-<li>  <strong>Windows Virtual Desktop</strong> - Weitere Informationen finden Sie unter [What is Windows Virtual Desktop?](/azure/virtual-desktop/overview) and Windows 10 Enterprise [multi-session FAQ](/azure/virtual-desktop/windows-10-multisession-faq).  </li>
+<li>  <strong>Microsoft Edge -</strong> Anleitungen zur Bereitstellung finden Sie <a href="/DeployEdge/microsoft-edge-channels">unter Overview of the Microsoft Edge channels</a>.  </li>
+<li>  <strong>Windows Virtual Desktop</strong> - Weitere Informationen finden Sie unter <a href="/azure/virtual-desktop/overview">What is Windows Virtual Desktop?</a> and Windows 10 Enterprise <a href="/azure/virtual-desktop/windows-10-multisession-faq">multi-session FAQ</a>.  </li>
 </ul>
 
 <strong>Die folgenden Bereiche sind nicht mehr </strong>  
 <ul>
 <li>  App-Bestandserfassung und Tests dazu, was unter Windows 10 und Microsoft 365 Apps funktioniert und was nicht. Weitere Hilfestellung zu diesem Vorgang, finden Sie im <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Bereitstellungscenter für Desktop</a>. Wenn Sie an einer detaillierten Upgradebereitschaftsbewertung interessiert sind, füllen Sie das Formular <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Kundenanforderung auf Bewertung der Bereitschaft für den modernen Desktop</a> aus.</li>
-<li>  Untersuchen von ISV-Apps von Drittanbietern auf Windows 10-Kompatibilität und Supportanweisungen. Weitere Informationen finden Sie unter [Desktopanalysen](/sccm/desktop-analytics/overview).</li>
+<li>  Untersuchen von ISV-Apps von Drittanbietern auf Windows 10-Kompatibilität und Supportanweisungen. Weitere Informationen finden Sie unter <a href="/sccm/desktop-analytics/overview">Desktopanalysen</a>.</li>
 <li>Dienste nur für das App-Packaging. Das Desktop App Assure-Team paketiert jedoch Apps, für die alle Probleme für Windows 10 behoben wurden, um sicherzustellen, dass sie in der Umgebung des Kunden bereitgestellt werden können.</li>
 </ul>
 
@@ -1278,7 +1280,7 @@ Apps, die auf Windows 7, Office 2010 oder höher funktionierten, funktionieren a
   Wenn Ihre Web-Apps oder Websites in Internet Explorer 11, unterstützten Versionen von Google Chrome oder einer beliebigen Version von Microsoft Edge funktionieren, funktionieren sie auch mit Microsoft Edge.  
   </li>
 <li>  
-  Da sich das Web ständig weiterentwickelt, sollten Sie diese veröffentlichte Liste bekannter Änderungen, die sich auf die Kompatibilität von Websites auswirken, für [Microsoft Edge.](/microsoft-edge/web-platform/site-impacting-changes)  
+  Da sich das Web ständig weiterentwickelt, sollten Sie diese veröffentlichte Liste bekannter Änderungen, die sich auf die Kompatibilität von Websites auswirken, für <a href="/microsoft-edge/web-platform/site-impacting-changes">Microsoft Edge.</a>  
   </li>
 </ul>
   <strong>Windows Virtual Desktop</strong>  
@@ -1327,7 +1329,7 @@ Apps, die auf Windows 7, Office 2010 oder höher funktionierten, funktionieren a
 Wir bieten Anleitungen zur Remotebereitstellung und -einführung sowie Kompatibilitätsunterstützung für: <ul> <li>Bereitstellen von Microsoft Edge auf Windows 10 mit Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager oder Intune).  </li>
 <li>  Konfigurieren Microsoft Edge (mithilfe von Gruppenrichtlinien oder Intune-App-Konfiguration und -App-Richtlinien).  </li>
 <li>  Inventarisierung der Liste der Websites, die möglicherweise im Internet Explorer-Modus verwendet werden müssen.  </li>
-<li>  Aktivieren des Internet Explorer-Modus mit der vorhandenen Enterprise Websiteliste. (Weitere Informationen finden Sie unter [Engaging FastTrack](process-and-expectations.md#engaging-fasttrack)). Wenn Sie außerdem über eine Web-App oder -Website verfügen, die mit Internet Explorer oder Google Chrome funktioniert und Kompatibilitätsprobleme auftreten, bieten wir Anleitungen, um das Problem ohne zusätzliche Kosten zu beheben. Melden Sie sich zum Anfordern der Kompatibilitätsunterstützung für App Assure beim <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack-Portal</a> an, um ein Engagement zu starten.  </li>
+<li>  Aktivieren des Internet Explorer-Modus mit der vorhandenen Enterprise Websiteliste. (Weitere Informationen finden Sie unter <a href="/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>. Wenn Sie außerdem über eine Web-App oder -Website verfügen, die mit Internet Explorer oder Google Chrome funktioniert und Kompatibilitätsprobleme auftreten, bieten wir Anleitungen, um das Problem ohne zusätzliche Kosten zu beheben. Melden Sie sich zum Anfordern der Kompatibilitätsunterstützung für App Assure beim <a href="https://fasttrack.microsoft.com/portal#/signin">FastTrack-Portal</a> an, um ein Engagement zu starten.  </li>
 <li> Planungsleitfaden für die Einführung und Konfiguration von Edge für Microsoft Search-Lesezeichen.</li>
 </ul>
 

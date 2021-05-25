@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 7cadd0543f0daccadc2d522ff00e03becaf06acf
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592398"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626696"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -44,7 +44,7 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
   - Microsoft Information Governance
   - Microsoft Information Protection
   - Microsoft Intune
-  - Microsoft Teams
+  - Microsoft Teams
   - OneDrive for Business
   - Power BI
   - Project Online
@@ -119,7 +119,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Exchange Online Protection
   - Microsoft Defender für Office 365
 
-#### <a name="microsoft-teams"></a>Microsoft Teams
+#### <a name="microsoft-teams"></a>Microsoft Teams
 
   - Telefonsystem
   - Anrufplan
