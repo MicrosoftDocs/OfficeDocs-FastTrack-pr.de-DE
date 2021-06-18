@@ -1,23 +1,23 @@
 ---
-title: FastTrack Responsibilities for Office 365 US Government
+title: FastTrack Verantwortlichkeiten für Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:'
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570517"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994912"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Responsibilities for Office 365 US Government
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Verantwortlichkeiten für Office 365 US Government
 
 Zu den Zuständigkeiten von FastTrack-Experten während des Onboardings zählen die folgenden:  
   
@@ -79,8 +79,8 @@ Bereitstellen von Anleitungen zu:
   - Installieren eines Verzeichnissynchronisierungsservers zwischen Ihren Office 365-Domänendiensten (AD DS) und Active Directory, falls erforderlich.   
   - Konfigurieren der Kennwortsynchronisierung (Kennworthash) für Office 365 (Azure Active Directory) mit dem Tool „Azure Active Directory Connect“, falls erforderlich.  
   - Für Umgebungen mit einer einzigen und mehreren Gesamtstrukturen:
-      - Konfigurieren Azure Active Directory Pass-Through-Authentifizierung, falls erforderlich (nicht verfügbar in GCC oder DoD-Plänen).
-      - Konfigurieren Azure Active Directory nahtlosen Sign-On (SSO), falls erforderlich (nicht verfügbar in GCC High- oder DoD-Plänen).
+      - Konfigurieren Azure Active Directory Pass-Through-Authentifizierung, falls erforderlich (nicht verfügbar in GCC Hoch- oder DoD-Plänen).
+      - Konfigurieren Azure Active Directory nahtlosen single Sign-On (SSO), falls erforderlich (nicht verfügbar in GCC Hoch- oder DoD-Plänen).
     > [!NOTE]
     > Die Azure Active Directory Pass-Through-Authentifizierung für Umgebungen mit mehreren Gesamtstrukturen wird unterstützt, wenn es Gesamtstruktur-Vertrauensstellungen zwischen Ihren Active Directory-Gesamtstrukturen gibt und wenn das Namensuffixrouting korrekt konfiguriert ist. Weitere Agents können auf mehreren lokalen Servern installiert werden, um hohe Verfügbarkeit für Anmeldeanforderungen zu bieten. Weitere Informationen finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860094) und [Azure AD Connect: Nahtloses einmaliges Anmelden: Schnellstart](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Weitere Informationen zu Einschränkungen der Pass-Through-Authentifizierung finden Sie unter [Azure Active Directory-Passthrough-Authentifizierung: aktuelle Einschränkungen](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -96,9 +96,9 @@ Bereitstellen von Anleitungen zu:
 ## <a name="compliance"></a>Compliance
 
 Bereitstellen von Anleitungen zu:
-- Remoteunterstützung mit **Microsoft Information Governance** (siehe Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
-- Remoteunterstützung mit **Microsoft Information Protection** (siehe Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
-- Remoteunterstützung mit **Azure Information Protection** (siehe Security and [Compliance](products-and-capabilities.md#security-and-compliance)).
+- Remoteunterstützung bei **Microsoft Information Governance** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
+- Remoteunterstützung bei **Microsoft Information Protection** (siehe [Sicherheit und Compliance).](products-and-capabilities.md#security-and-compliance)
+- Remoteunterstützung bei **Azure Information Protection** (siehe Sicherheit und [Compliance).](products-and-capabilities.md#security-and-compliance)
 
 ## <a name="exchange-online"></a>Exchange Online
 
@@ -154,16 +154,16 @@ Bereitstellen von Anleitungen zu:
 - Aktivieren von Audiokonferenzen:   
   - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke   
   - Zuweisen einer Konferenzbrücke zu lizenzierten Benutzern 
-- Aktivieren Telefonsystem (nicht verfügbar in GCC High- oder DoD-Plänen):  
+- Aktivieren des Telefonsystems (in GCC High- oder DoD-Plänen nicht verfügbar):  
   - Aktivieren des Telefonsystems und Plänen für Anrufonboarding (auf verfügbaren Märkten) 
   - Zuweisung von Nummern zu lizenzierten Benutzern  
   - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999  
   - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus  
-- Aktivieren Skype for Business Besprechungsübertragung (nicht verfügbar in GCC oder DoD-Plänen):  
+- Aktivieren von Skype for Business Meeting Broadcast (nicht verfügbar in GCC High- oder DoD-Plänen):  
   - Anleitung zum Aktivieren des Onboardings bei Skype for Business-Livekonferenzen  
   - Organisationseinrichtung für den Verbund mit dem Livekonferenzdienst
     
-## <a name="microsoft-teams"></a>Microsoft Teams
+## <a name="microsoft-teams"></a>Microsoft Teams
 
 Bereitstellen von Anleitungen zu:
 - Sicherstellen der Mindestanforderungen   
@@ -197,7 +197,7 @@ Bereitstellen von Anleitungen zu:
 Hilfestellung zum Umwandeln Ihres einzelnen Yammer Basic-Netzwerks in ein einzelnes Yammer Enterprise-Netzwerk.
 
 > [!NOTE]
-> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann jedoch als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist nicht in GCC oder DoD-Plänen verfügbar.
+> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann jedoch kostenlos als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar.
   
 ## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
@@ -207,5 +207,5 @@ Bereitstellen von Anleitungen zu:
 - Installieren von Microsoft 365 Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.   
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS-, Android- oder Windows Mobile-Geräten.   
 - Konfigurieren von Update-Einstellungen mit dem Office 2016-Bereitstellungstool oder den Gruppenrichtlinienvorlagen   
-- Einrichten eines einzelnen Standortverteilungsservers für Microsoft 365 Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.   
+- Einrichten eines einzelnen Verteilungsservers vor Ort für Microsoft 365-Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.   
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.

@@ -3,19 +3,19 @@ title: Teilnahmeberechtigung
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: In diesem Thema werden die Anforderungen für den Erhalt von angeleiteter Remoteunterstützung von FastTrack-Experten, die im Erwerb von Microsoft 365-Lizenzen enthalten ist, sowie Details zu spezifischen Produkten und Funktionen erläutert.
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626696"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994876"
 ---
 # <a name="eligibility"></a>Teilnahmeberechtigung
 
@@ -55,7 +55,7 @@ FastTrack-Experten können Ihnen angeleitete Remoteunterstützung für die folge
 
 ## <a name="eligible-plans"></a>Berechtigte Pläne
 
-Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne erwerben, um sich für FastTrack zu qualifizieren. Die Liste ist nach Produktfamilie gruppiert, damit Sie die spezifischen Pläne, die Ihr Unternehmen erworben hat, leichter finden können: Microsoft 365, Office 365, Enterprise Mobility & Security und Windows 10.
+Sie müssen mindestens 150 Lizenzen aus einem der folgenden Pläne erwerben, um für FastTrack berechtigt zu sein. Die Liste ist nach Produktfamilie gruppiert, damit Sie die spezifischen Pläne, die Ihr Unternehmen erworben hat, leichter finden können: Microsoft 365, Office 365, Enterprise Mobility & Security und Windows 10.
 
 ### <a name="microsoft-365-plans"></a>Microsoft 365-Pläne
 
@@ -124,7 +124,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
   - Telefonsystem
   - Anrufplan
   - Audiokonferenzen
-  - Microsoft Teams Raum
+  - Microsoft Teams Zimmer
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -204,7 +204,7 @@ Sie müssen mindestens 150 Lizenzen pro Mandant von einem der folgenden Pläne e
 > Es gibt keine Mindestvoraussetzung für die Lizenzierung von kommerziellen unabhängigen Softwareanbietern (ISVs), die Windows 10-Apps entwickeln. Alle App-Anforderungen müssen auf eine Windows 10- oder Microsoft 365 Apps-Version gerichtet sein, die sich aktuell im Mainstream-Wartungsfenster befindet.
 
 > [!NOTE]
-> Die Berechtigung für das FastTrack Center-Angebot basiert auf erworbenen kostenpflichtigen Lizenzen für die zuvor genannten berechtigten Pläne. Als Ausnahme unterstützt FastTrack das Onboarding Office 365 E1-Testlizenzen von Mai 2021 bis 30. Juni 2021 für berechtigte Kunden in Indien und Brasilien, um auf den aktuellen COVID-19-Anstieg zu reagieren. 
+> Die Berechtigung für das FastTrack Center-Angebot basiert auf erworbenen kostenpflichtigen Lizenzen für die zuvor genannten berechtigten Pläne. Als Ausnahme hilft FastTrack beim Onboarding von Office 365 E1 Testlizenzen vom 30. Mai 2021 bis 30. Juni 2021 für berechtigte Kunden in Indien und Brasilien, um auf die aktuelle COVID-19-Operation zu reagieren. 
 
 ### <a name="ineligible-plans"></a>Nicht berechtigte Pläne 
  Pläne, die nicht für FastTrack-Dienste in Frage kommen, umfassen (sind jedoch nicht beschränkt auf):
