@@ -9,13 +9,13 @@ ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'Das Office 365-Onboarding für Office 365 US Government besteht aus vier Hauptphasen: Initiieren, Bewerten, Korrigieren und Aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+description: 'Office 365 Onboarding für Office 365 US Government besteht aus vier Hauptphasen: Initiieren, Bewerten, Korrigieren und Aktivieren. Sie können diesen Phasen noch eine optionale Phase zur Datenmigration folgen lassen, wie in der folgenden Abbildung gezeigt.'
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: de-DE
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994960"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255528"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Onboarding- und Migrationsphasen für Office 365 US Government
 
@@ -23,7 +23,7 @@ Das Onboarding von Office 365 besteht aus vier Phasen: Einleitung, Analyse, Korr
   
 ![Phasen im Onboarding-Angebot](media/O365-Onboarding-Phases.png)
   
-Ausführliche Informationen zu den einzelnen Phasen finden Sie unter ["FastTrack Responsibilities for Office 365 US Government"](US-Gov-appendix-fasttrack-responsibilities.md) und ["Your Responsibilities for Office 365 US Government".](US-Gov-appendix-your-responsibilities.md)
+Ausführliche Informationen zu den einzelnen Phasen finden Sie unter [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Einleitungsphase
 
@@ -92,7 +92,7 @@ Das Onboarding für einen oder mehrere berechtigte Dienste kann beginnen, sobald
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail für Ihre Organisation einzurichten. Welche Schritte genau dazu notwendig sind, hängt von Ihrer Quellumgebung und Ihren E-Mail-Migrationsplänen ab. Dies können unter anderem die folgenden Schritte sein:
+Für Exchange Online führen wir Sie remote durch den Prozess, um Ihre Organisation auf die Verwendung von E-Mails vorzubereiten. Die genauen Schritte, abhängig von Ihrer Quellumgebung und Ihren E-Mail-Migrationsplänen, können Anleitungen für Folgendes enthalten:
   
 - Einrichten von Exchange Online Protection (EOP)-Funktionen für alle E-Mail-aktivierten Domänen, die in Office 365 überprüft wurden.   
     > [!NOTE]
@@ -109,7 +109,7 @@ Bei Exchange Online leiten wir Sie durch den Vorgang, die Verwendung von E-Mail 
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online und OneDrive for Business
 
-Für SharePoint Online und OneDrive for Business stellen wir Anweisungen zu folgenden Themen bereit: 
+Für SharePoint Online und OneDrive for Business bieten wir Remoteanleitungen für: 
 - Einrichten von DNS   
 - Konfigurieren von Firewallports.   
 - Bereitstellen von Benutzern und Lizenzen.   
@@ -127,13 +127,13 @@ Für OneDrive for Business hängen die Schritte davon ab, ob Sie aktuell SharePo
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen bereit: 
+Für Skype for Business Online bieten wir Remoteanleitungen für: 
 - Konfigurieren von Firewallports.    
 - Einrichten von DNS    
 - Erstellen von Konten für jedes Raumsystemgerät    
 - Bereitstellen eines unterstützten Skype for Business Online-Clients   
-- Einrichten der Konfiguration eines geteilten Domänenservers zwischen Ihrer lokalen Lync 2010-, Lync 2013- oder Skype for Business 2015-Serverumgebung und dem Skype for Business Online-Mandanten (falls zutreffend).
-- Aktivieren von Anrufplänen, Skype-Livekonferenzen und Telefonsystem und Anrufplänen (in verfügbaren Märkten – nicht verfügbar in GCC High- oder DoD-Plänen). 
+- Einrichten der Konfiguration eines geteilten Domänenservers zwischen Ihrer lokalen Lync 2010-, Lync 2013- oder Skype for Business 2015-Serverumgebung und Skype for Business Onlinemandanten (falls zutreffend).
+- Aktivieren von Anrufplänen, Skype-Besprechung Broadcast sowie Telefonsystem und Anrufplänen (in verfügbaren Märkten – nicht in GCC Hoch- oder DoD-Plänen verfügbar). 
     
 ![Schritte beim Onboarding von Lync während der Aktivierungsphase_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,20 +142,48 @@ Für Skype for Business Online stellen wir Anweisungen zu folgenden Themen berei
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> Folgendes ist in GCC High- oder DoD-Plänen nicht verfügbar.
+> FastTrack unterstützt den Bereich basierend auf der Verfügbarkeit der Features in jeder jeweiligen Umgebung. Eine Liste der derzeit verfügbaren Features in jeder Umgebung finden Sie unter <a href="/office365/servicedescriptions/teams-service-description#feature-availability">Featureverfügbarkeit.</a>
 
-Für Microsoft Teams stellen wir Anweisungen zu folgenden Themen bereit: 
-- Sicherstellen der Mindestanforderungen   
+Für Microsoft Teams bieten wir Remoteanleitungen für: 
+- Bestätigen der Mindestanforderungen in Exchange Online, SharePoint Online, Office 365-Gruppen und Azure Active Directory (Azure AD), um Teams zu unterstützen.
 - Konfigurieren von Firewallports.   
 - Einrichten von DNS  
 - Sicherstellen, dass Microsoft Teams auf Ihrem Office 365-Mandanten aktiviert ist    
 - Aktivieren oder Deaktivieren von Benutzerlizenzen
+- Netzwerkbewertung für Teams:
+    - Überprüfungen hinsichtlich der Ports und Endpunkte
+    - Überprüfungen hinsichtlich der Verbindungsqualität
+    - Schätzungen hinsichtlich der Bandbreite
+    - Konfigurieren Teams App-Richtlinie (Teams Web-App, Teams Desktop-App und Teams für iOS- und Android-Apps).
+ 
+<br> Gegebenenfalls stellen wir Anleitungen für Folgendes bereit: </br>
+- Microsoft Teams Raumgeräte:
+    - Erstellung von Online-Konten, die für unterstützte Telefonie- und Konferenzraumgeräte benötigt werden, die im <a href="https://go.microsoft.com/fwlink/?linkid=2066478">Katalog der Teams-Geräte</a> aufgeführt sind.
+    - Remoteunterstützung bei der dienstseitigen Konfiguration zertifizierter Microsoft Teams-Räume Geräte.
+- Aktivieren von Audiokonferenzen:
+    - Organisationseinrichtung der Standardeinstellungen für Konferenzbrücke
+    - Zuweisen der Konferenzbrücke zu lizenzierten Benutzern
+- Telefonsystem:
+    - Organisationseinrichtung der Standardeinstellungen für Cloud Voice
+    - Leitfaden zu Anrufplänen (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">verfügbare Märkte):</a>  
+        - Zuweisung von Nummern zu lizenzierten Benutzern
+        - Anweisung zum Portieren lokaler Rufnummern über die Benutzeroberfläche bis 999
+        - SR-Unterstützung für das Portieren von lokalen Nummern über 999 hinaus
+        - Leitfaden für direct Routing:
+            - Anleitung zum Einrichten der Organisation für das Direct Routing-Design von vom Partner gehosteten Szenarien oder von Kunden bereitgestellte Szenarien für bis zu 10 Standorte.
+            - Überprüfung der Konfiguration des Session Border Controller (SBC).
+            - Remoteunterstützung bei der Konfiguration des Wählplans.
+            - VoIP-Routenkonfiguration.
+            - Medienumgehung und lokale Medienoptimierung.
+- Aktivieren von Teams-Liveereignissen
+- Einrichten der Organisation und Integration in Microsoft Stream.
+- Anleitung für Skype for Business zum Teams Übergang. 
     
 ![FastTrack Microsoft Teams-Diagramm (Aktivierungsphase)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-Für Power BI stellen wir Anweisungen zu folgenden Themen bereit:  
+Für Power BI bieten wir Remoteanleitungen für:  
 - Zuweisen von Power BI-Lizenzen.    
 - Bereitstellen der Power BI Desktop-App.   
 ## <a name="project-online"></a>Project Online
@@ -170,20 +198,20 @@ Für Project Online stellen wir Anweisungen zu folgenden Themen bereit:
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-Für Yammer stellen wir Anweisungen zum Aktivieren des Yammer Enterprise-Diensts bereit.
+Für Yammer bieten wir Remoteanleitungen zum Aktivieren des Yammer Enterprise-Diensts.
 
 > [!NOTE]
-> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann jedoch kostenlos als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC High- oder DoD-Plänen nicht verfügbar. 
+> Yammer Enterprise ist keine Komponente von Office 365 US Government, kann jedoch kostenlos als eigenständiges Angebot für jeden Benutzer erworben werden, der für Office 365 in GCC lizenziert ist. Dieses Angebot ist derzeit auf Kunden beschränkt, die über Enterprise Agreement und Enterprise Agreement Subscription kaufen. Yammer ist in GCC Hoch- oder DoD-Plänen nicht verfügbar. 
   
-## <a name="microsoft-365-apps"></a>Microsoft 365-Apps
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Für Microsoft 365-Apps stellen wir Anweisungen zu folgenden Themen bereit: 
+Für Microsoft 365 Apps bieten wir Remoteanleitungen für: 
 - Beheben von Problemen bei der Bereitstellung    
 - Zuweisen von Endbenutzerlizenzen mit [Microsoft 365 Admin Center](https://go.microsoft.com/fwlink/?linkid=2032704) und Windows PowerShell    
 - Installieren von Microsoft 365-Apps aus dem Office 365-Portal mithilfe von Klick-und-Los.    
 - Installieren von Office Mobile-Apps (wie Outlook Mobile, Word Mobile, Excel Mobile und PowerPoint Mobile) auf Ihren iOS- oder Android-Geräten.   
 - Konfigurieren von Updateeinstellungen mit dem Office 365-Bereitstellungstool    
-- Einrichten eines einzelnen Verteilungsservers vor Ort für Microsoft 365-Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.    
+- Einrichten eines einzelnen Verteilungsservers vor Ort für Microsoft 365 Apps, einschließlich Unterstützung beim Erstellen einer configuration.xml-Datei für die Verwendung mit dem Office 365-Bereitstellungstool.    
 - Bereitstellen mit Microsoft Endpoint Configuration Manager, einschließlich Unterstützung beim Erstellen des Microsoft Endpoint Configuration Manager-Pakets.
     
 ![Schritte beim Onboarding von Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
